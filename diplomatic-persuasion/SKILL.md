@@ -1,9 +1,17 @@
 ---
 name: diplomatic-persuasion
-description: Navigate politically sensitive situations through measured language, strategic questioning, and persuasion without confrontation—using Benjamin Franklin's techniques that charmed kings and won treaties.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, diplomatic-persuasion, transformation, writing]
+description: Navigate politically sensitive situations through measured language,
+  strategic questioning, and persuasion without confrontation—using Benjamin Franklin's
+  techniques that charmed kings and won trea...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- diplomatic-persuasion
+- transformation
+- writing
 ---
 
 # Diplomatic Persuasion

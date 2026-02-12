@@ -1,9 +1,18 @@
 ---
 name: dream-autopsy
-description: Systematically analyze any institution, system, or organization by examining the gap between its original promise and actual delivery—revealing who benefits from the gap, what was sacrificed, and where it's heading.
-version: 1.0.0
-author: sethmblack
-tags: [dream-autopsy, escalation, storytelling, transformation, writing]
+description: Systematically analyze any institution, system, or organization by examining
+  the gap between its original promise and actual delivery—revealing who benefits
+  from the gap, what was sacrificed, and w...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- dream-autopsy
+- escalation
+- storytelling
+- transformation
+- writing
 ---
 
 # Dream Autopsy

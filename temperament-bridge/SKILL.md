@@ -1,9 +1,16 @@
 ---
 name: temperament-bridge
-description: Identify and bridge philosophical or temperamental divides in teams or discussions by mapping positions to James's tender-minded/tough-minded spectrum and applying pragmatic mediation.
-version: 1.0.0
-author: sethmblack
-tags: [structure, temperament-bridge, writing]
+description: Identify and bridge philosophical or temperamental divides in teams or
+  discussions by mapping positions to James's tender-minded/tough-minded spectrum
+  and applying pragmatic mediation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- structure
+- temperament-bridge
+- writing
 ---
 
 # Temperament Bridge

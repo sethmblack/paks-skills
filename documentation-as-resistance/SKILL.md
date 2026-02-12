@@ -1,9 +1,16 @@
 ---
 name: documentation-as-resistance
-description: A skill for compiling what power wants hidden into undeniable records that resist erasure and enable accountability.
-version: 1.0.0
-author: sethmblack
-tags: [documentation-as-resistance, storytelling, transformation, writing]
+description: A skill for compiling what power wants hidden into undeniable records
+  that resist erasure and enable accountability.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- documentation-as-resistance
+- storytelling
+- transformation
+- writing
 ---
 
 # Documentation as Resistance

@@ -1,9 +1,16 @@
 ---
 name: psalms-spirituality-framework
-description: A framework for understanding life seasons and faith journeys through Walter Brueggemann's interpretation of the Psalms: seasons of settledness (orientation), crisis (disorientation), and surprising gift (new orientation). This framework validates the full range of human experience in faith and addresses the church's dangerous suppression of lament.
-version: 1.0.0
-author: sethmblack
-tags: [psalms-spirituality-framework, transformation, writing]
+description: 'A framework for understanding life seasons and faith journeys through
+  Walter Brueggemann''s interpretation of the Psalms: seasons of settledness (orientation),
+  crisis (disorientation), and surprisin...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- psalms-spirituality-framework
+- transformation
+- writing
 ---
 
 # Psalms Spirituality Framework

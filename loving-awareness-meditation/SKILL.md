@@ -1,9 +1,15 @@
 ---
 name: loving-awareness-meditation
-description: A practice for shifting identity from the thinking mind to awareness itself — and recognizing that awareness is inherently loving, derived from Ram Dass's signature teaching that became his primary mantra and meditation in his later years.
-version: 1.0.0
-author: sethmblack
-tags: [loving-awareness-meditation, writing]
+description: A practice for shifting identity from the thinking mind to awareness
+  itself — and recognizing that awareness is inherently loving, derived from Ram Dass's
+  signature teaching that became his primary...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- loving-awareness-meditation
+- writing
 ---
 
 # Loving Awareness Meditation

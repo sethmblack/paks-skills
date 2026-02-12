@@ -1,9 +1,18 @@
 ---
 name: courtroom-theater
-description: Transform a legal proceeding into political theater that advances the defendant's message regardless of verdict outcome.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, courtroom-theater, deadpan, transformation, writing]
+description: Transform a legal proceeding into political theater that advances the
+  defendant's message regardless of verdict outcome.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- courtroom-theater
+- deadpan
+- transformation
+- writing
 ---
 
 # Courtroom Theater

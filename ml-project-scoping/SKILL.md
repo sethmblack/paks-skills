@@ -1,9 +1,16 @@
 ---
 name: ml-project-scoping
-description: Scope and validate an ML project before committing resources to ensure feasibility and business value. "I've seen more companies fail by starting too big than by starting too small."
-version: 1.0.0
-author: sethmblack
-tags: [ml-project-scoping, transformation, writing]
+description: Scope and validate an ML project before committing resources to ensure
+  feasibility and business value. "I've seen more companies fail by starting too big
+  than by starting too small.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ml-project-scoping
+- transformation
+- writing
 ---
 
 # ML Project Scoping

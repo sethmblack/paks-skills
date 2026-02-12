@@ -1,9 +1,15 @@
 ---
 name: bad-faith-analysis
-description: Diagnose how a person or group is fleeing from freedom through self-deception, using Beauvoir's typology of bad faith to identify the specific pattern and path to authentic engagement.
-version: 1.0.0
-author: sethmblack
-tags: [bad-faith-analysis, writing]
+description: Diagnose how a person or group is fleeing from freedom through self-deception,
+  using Beauvoir's typology of bad faith to identify the specific pattern and path
+  to authentic engagement.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- bad-faith-analysis
+- writing
 ---
 
 # Bad Faith Analysis

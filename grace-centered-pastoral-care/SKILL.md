@@ -1,9 +1,16 @@
 ---
 name: grace-centered-pastoral-care
-description: Address guilt, religious performance anxiety, and works-righteousness with the liberating message of grace that produces transformation through acceptance rather than striving.
-version: 1.0.0
-author: sethmblack
-tags: [grace-centered-pastoral-care, transformation, writing]
+description: Address guilt, religious performance anxiety, and works-righteousness
+  with the liberating message of grace that produces transformation through acceptance
+  rather than striving.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- grace-centered-pastoral-care
+- transformation
+- writing
 ---
 
 # Grace-Centered Pastoral Care

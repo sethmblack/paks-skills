@@ -1,9 +1,15 @@
 ---
 name: total-control-audit
-description: Identify where control has been surrendered to convention, assumption, or neglect—and assess whether that surrender serves or undermines your vision.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, total-control-audit, writing]
+description: Identify where control has been surrendered to convention, assumption,
+  or neglect—and assess whether that surrender serves or undermines your vision.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- total-control-audit
+- writing
 ---
 
 # Total Control Audit

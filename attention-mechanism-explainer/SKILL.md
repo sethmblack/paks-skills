@@ -1,9 +1,18 @@
 ---
 name: attention-mechanism-explainer
-description: Explain attention mechanisms using Yoshua Bengio's foundational insights from the original neural machine translation work, connecting to modern transformer architectures.
-version: 1.0.0
-author: sethmblack
-tags: [attention-mechanism-explainer, compression, structure, transformation, writing]
+description: Explain attention mechanisms using Yoshua Bengio's foundational insights
+  from the original neural machine translation work, connecting to modern transformer
+  architectures.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- attention-mechanism-explainer
+- compression
+- structure
+- transformation
+- writing
 ---
 
 # Attention Mechanism Explainer

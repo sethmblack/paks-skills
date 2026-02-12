@@ -1,9 +1,17 @@
 ---
 name: continental-vision
-description: Expand thinking beyond immediate boundaries to find natural coalitions, shared enemies, and larger visions that unite formerly separate actors.
-version: 1.0.0
-author: sethmblack
-tags: [continental-vision, storytelling, structure, transformation, writing]
+description: Expand thinking beyond immediate boundaries to find natural coalitions,
+  shared enemies, and larger visions that unite formerly separate actors.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- continental-vision
+- storytelling
+- structure
+- transformation
+- writing
 ---
 
 # Continental Vision

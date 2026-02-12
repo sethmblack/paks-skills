@@ -1,9 +1,16 @@
 ---
 name: phoenix-narrative
-description: Transform painful experiences into sources of wisdom and power by naming them fully, finding meaning, and emerging stronger.
-version: 1.0.0
-author: sethmblack
-tags: [phoenix-narrative, storytelling, transformation, writing]
+description: Transform painful experiences into sources of wisdom and power by naming
+  them fully, finding meaning, and emerging stronger.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- phoenix-narrative
+- storytelling
+- transformation
+- writing
 ---
 
 # Phoenix Narrative

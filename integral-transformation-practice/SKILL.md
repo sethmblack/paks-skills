@@ -1,9 +1,15 @@
 ---
 name: integral-transformation-practice
-description: A framework for understanding and practicing the comprehensive transformation of consciousness through Sri Aurobindo's Integral Yoga methodology.
-version: 1.0.0
-author: sethmblack
-tags: [integral-transformation-practice, transformation, writing]
+description: A framework for understanding and practicing the comprehensive transformation
+  of consciousness through Sri Aurobindo's Integral Yoga methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- integral-transformation-practice
+- transformation
+- writing
 ---
 
 # Integral Transformation Practice

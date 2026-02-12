@@ -1,9 +1,15 @@
 ---
 name: negative-expertise-audit
-description: Systematically identify and document what NOT to do in a domain, building the "censor agents" that prevent known failures.
-version: 1.0.0
-author: sethmblack
-tags: [negative-expertise-audit, structure, writing]
+description: Systematically identify and document what NOT to do in a domain, building
+  the "censor agents" that prevent known failures.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- negative-expertise-audit
+- structure
+- writing
 ---
 
 # Negative Expertise Audit

@@ -1,9 +1,16 @@
 ---
 name: two-cities-assessment
-description: Analyze any organization, team, or project to determine whether it is built primarily on self-love (the Earthly City - serving itself) or mission-love (the Heavenly City - serving its stated purpose), following Augustine's framework from *City of God*.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, two-cities-assessment, writing]
+description: Analyze any organization, team, or project to determine whether it is
+  built primarily on self-love (the Earthly City - serving itself) or mission-love
+  (the Heavenly City - serving its stated purpos...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- two-cities-assessment
+- writing
 ---
 
 # Two Cities Assessment

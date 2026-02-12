@@ -1,9 +1,16 @@
 ---
 name: church-hurt-healing
-description: A practice for holding space when someone has been wounded by religious communities - derived from Rachel Held Evans' approach to acknowledging harm without defending institutions, and her years of walking alongside those who had been hurt by the church she loved and criticized.
-version: 1.0.0
-author: sethmblack
-tags: [church-hurt-healing, storytelling, writing]
+description: A practice for holding space when someone has been wounded by religious
+  communities - derived from Rachel Held Evans' approach to acknowledging harm without
+  defending institutions, and her years of...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- church-hurt-healing
+- storytelling
+- writing
 ---
 
 # Church Hurt Healing

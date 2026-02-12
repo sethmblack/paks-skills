@@ -1,9 +1,14 @@
 ---
 name: work-life-integration-audit
-description: Honestly assess work-life trade-offs and build sustainable support systems—without false promises of "balance."
-version: 1.0.0
-author: sethmblack
-tags: [work-life-integration-audit, writing]
+description: Honestly assess work-life trade-offs and build sustainable support systems—without
+  false promises of "balance.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- work-life-integration-audit
+- writing
 ---
 
 # Work-Life Integration Audit

@@ -1,9 +1,19 @@
 ---
 name: taboo-to-comedy-transformation
-description: Identify taboo subjects people won't discuss (aging, death, body issues, failure) and transform them into comedy material through specificity and self-targeting. Based on Joan Rivers' taboo-breaking methodology.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, escalation, taboo-to-comedy-transformation, transformation, writing]
+description: Identify taboo subjects people won't discuss (aging, death, body issues,
+  failure) and transform them into comedy material through specificity and self-targeting.
+  Based on Joan Rivers' taboo-breakin...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- escalation
+- taboo-to-comedy-transformation
+- transformation
+- writing
 ---
 
 # Taboo-to-Comedy Transformation

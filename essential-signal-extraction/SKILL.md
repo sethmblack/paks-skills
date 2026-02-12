@@ -1,9 +1,14 @@
 ---
 name: essential-signal-extraction
-description: Ruthlessly edit to find the essential signal in noise—what to cut, what to keep, where the real meaning lives in the spaces and silences.
-version: 1.0.0
-author: sethmblack
-tags: [essential-signal-extraction, writing]
+description: Ruthlessly edit to find the essential signal in noise—what to cut, what
+  to keep, where the real meaning lives in the spaces and silences.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- essential-signal-extraction
+- writing
 ---
 
 # Essential Signal Extraction

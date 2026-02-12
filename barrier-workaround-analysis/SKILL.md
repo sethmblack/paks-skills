@@ -1,9 +1,15 @@
 ---
 name: barrier-workaround-analysis
-description: Systematically identify alternatives when traditional paths are blocked—transforming constraints into creative opportunities.
-version: 1.0.0
-author: sethmblack
-tags: [barrier-workaround-analysis, transformation, writing]
+description: Systematically identify alternatives when traditional paths are blocked—transforming
+  constraints into creative opportunities.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- barrier-workaround-analysis
+- transformation
+- writing
 ---
 
 # Barrier Workaround Analysis

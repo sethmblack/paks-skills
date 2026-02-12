@@ -1,9 +1,16 @@
 ---
 name: paradox-craft
-description: Transform conventional statements into paradoxical insights that reveal hidden truths, using Oscar Wilde's signature technique of inversion.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, paradox-craft, transformation, writing]
+description: Transform conventional statements into paradoxical insights that reveal
+  hidden truths, using Oscar Wilde's signature technique of inversion.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- paradox-craft
+- transformation
+- writing
 ---
 
 # Paradox Craft

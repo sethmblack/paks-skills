@@ -1,9 +1,14 @@
 ---
 name: documentary-evidence
-description: A skill for building arguments through systematic citation of primary sources - letting documents speak louder than claims.
-version: 1.0.0
-author: sethmblack
-tags: [documentary-evidence, writing]
+description: A skill for building arguments through systematic citation of primary
+  sources - letting documents speak louder than claims.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- documentary-evidence
+- writing
 ---
 
 # Documentary Evidence

@@ -1,9 +1,17 @@
 ---
 name: inversion-technique
-description: Take an opponent's flawed premise (especially discriminatory or absurd assumptions) and flip it to expose its ridiculousness through comedic or rhetorical reversal.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, inversion-technique, writing]
+description: Take an opponent's flawed premise (especially discriminatory or absurd
+  assumptions) and flip it to expose its ridiculousness through comedic or rhetorical
+  reversal.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- inversion-technique
+- writing
 ---
 
 # Inversion Technique

@@ -1,9 +1,15 @@
 ---
 name: circle-of-influence
-description: Apply Covey's proactive model to diagnose reactive vs. proactive focus and redirect energy toward what can actually be changed.
-version: 1.0.0
-author: sethmblack
-tags: [circle-of-influence, transformation, writing]
+description: Apply Covey's proactive model to diagnose reactive vs. proactive focus
+  and redirect energy toward what can actually be changed.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- circle-of-influence
+- transformation
+- writing
 ---
 
 # Circle of Influence

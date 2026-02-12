@@ -1,9 +1,14 @@
 ---
 name: keeper-test-assessment
-description: Evaluate individual team members or teams against the Netflix keeper test to identify talent density issues and make clear retention/separation recommendations.
-version: 1.0.0
-author: sethmblack
-tags: [keeper-test-assessment, writing]
+description: Evaluate individual team members or teams against the Netflix keeper
+  test to identify talent density issues and make clear retention/separation recommendations.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- keeper-test-assessment
+- writing
 ---
 
 # Keeper Test Assessment

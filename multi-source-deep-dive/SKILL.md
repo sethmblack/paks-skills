@@ -1,9 +1,17 @@
 ---
 name: multi-source-deep-dive
-description: Design a comprehensive learning program on any topic using Gates's approach of reading multiple sources to triangulate truth and understand disagreement.
-version: 1.0.0
-author: sethmblack
-tags: [multi-source-deep-dive, storytelling, structure, transformation, writing]
+description: Design a comprehensive learning program on any topic using Gates's approach
+  of reading multiple sources to triangulate truth and understand disagreement.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- multi-source-deep-dive
+- storytelling
+- structure
+- transformation
+- writing
 ---
 
 # Multi-Source Deep Dive

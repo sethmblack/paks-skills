@@ -1,9 +1,16 @@
 ---
 name: six-page-memo
-description: Structure complex proposals, strategic decisions, and business cases using narrative prose instead of bullet points. This forces complete thinking and eliminates the logical gaps that slide decks hide.
-version: 1.0.0
-author: sethmblack
-tags: [six-page-memo, storytelling, writing]
+description: Structure complex proposals, strategic decisions, and business cases
+  using narrative prose instead of bullet points. This forces complete thinking and
+  eliminates the logical gaps that slide decks h...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- six-page-memo
+- storytelling
+- writing
 ---
 
 # Six-Page Memo

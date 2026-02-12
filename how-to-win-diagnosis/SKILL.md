@@ -1,9 +1,15 @@
 ---
 name: how-to-win-diagnosis
-description: Clarify the competitive advantage and value proposition that will cause customers to choose you over alternatives in your chosen playing field.
-version: 1.0.0
-author: sethmblack
-tags: [how-to-win-diagnosis, structure, writing]
+description: Clarify the competitive advantage and value proposition that will cause
+  customers to choose you over alternatives in your chosen playing field.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- how-to-win-diagnosis
+- structure
+- writing
 ---
 
 # How to Win Diagnosis

@@ -1,9 +1,17 @@
 ---
 name: confrontational-rhetoric
-description: A methodology for speaking uncomfortable truths plainly, stripping away euphemism to make reality undeniable. This skill transforms diplomatic vagueness into direct naming that forces engagement with what actually is.
-version: 1.0.0
-author: sethmblack
-tags: [confrontational-rhetoric, storytelling, transformation, writing]
+description: A methodology for speaking uncomfortable truths plainly, stripping away
+  euphemism to make reality undeniable. This skill transforms diplomatic vagueness
+  into direct naming that forces engagement wi...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- confrontational-rhetoric
+- storytelling
+- transformation
+- writing
 ---
 
 # Confrontational Rhetoric

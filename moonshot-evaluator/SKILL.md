@@ -1,9 +1,16 @@
 ---
 name: moonshot-evaluator
-description: Determine whether a proposed project qualifies as a true moonshot by testing against three required components: huge problem, radical solution, and enabling technology.
-version: 1.0.0
-author: sethmblack
-tags: [moonshot-evaluator, transformation, writing]
+description: 'Determine whether a proposed project qualifies as a true moonshot by
+  testing against three required components: huge problem, radical solution, and enabling
+  technology.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- moonshot-evaluator
+- transformation
+- writing
 ---
 
 # Moonshot Evaluator

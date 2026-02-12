@@ -1,9 +1,17 @@
 ---
 name: inject-therapy-language
-description: Casually integrate mental health and therapy concepts (boundaries, catastrophic thinking, anxious attachment, bipolar disorder) into content as normal vocabulary rather than clinical jargon or heavy topics.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, inject-therapy-language, transformation, writing]
+description: Casually integrate mental health and therapy concepts (boundaries, catastrophic
+  thinking, anxious attachment, bipolar disorder) into content as normal vocabulary
+  rather than clinical jargon or heav...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- inject-therapy-language
+- transformation
+- writing
 ---
 
 # Inject Therapy Language

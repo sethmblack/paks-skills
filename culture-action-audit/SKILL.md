@@ -1,9 +1,15 @@
 ---
 name: culture-action-audit
-description: Assess whether an organization's stated culture matches its actual behavior, and identify gaps between declared values and demonstrated actions.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, culture-action-audit, writing]
+description: Assess whether an organization's stated culture matches its actual behavior,
+  and identify gaps between declared values and demonstrated actions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- culture-action-audit
+- writing
 ---
 
 # Culture Action Audit

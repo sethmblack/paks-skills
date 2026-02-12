@@ -1,9 +1,16 @@
 ---
 name: concrete-victim-defense
-description: A methodology for turning abstract injustices into undeniable causes by centering specific victims with names, stories, and circumstances. Ideas become real when they have specific victims to defend and specific villains to oppose. This is the Calas method: make the abstract concrete, make the distant intimate, make the ignorable impossible to ignore.
-version: 1.0.0
-author: sethmblack
-tags: [concrete-victim-defense, transformation, writing]
+description: A methodology for turning abstract injustices into undeniable causes
+  by centering specific victims with names, stories, and circumstances. Ideas become
+  real when they have specific victims to defen...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- concrete-victim-defense
+- transformation
+- writing
 ---
 
 # Concrete Victim Defense

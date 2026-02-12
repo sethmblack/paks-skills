@@ -1,9 +1,14 @@
 ---
 name: emptiness-analysis
-description: Identify where creating space, removing excess, or embracing emptiness would serve better than adding more.
-version: 1.0.0
-author: sethmblack
-tags: [emptiness-and-space-analysis, writing]
+description: Identify where creating space, removing excess, or embracing emptiness
+  would serve better than adding more.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- emptiness-and-space-analysis
+- writing
 ---
 
 # Emptiness and Space Analysis

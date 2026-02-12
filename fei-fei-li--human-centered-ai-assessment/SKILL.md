@@ -1,9 +1,14 @@
 ---
 name: fei-fei-li--human-centered-ai-assessment
-description: Evaluate AI systems against Stanford HAI's human-centered design principles to ensure ethical, beneficial deployment.
-version: 1.0.0
-author: sethmblack
-tags: [human-centered-ai-assessment, writing]
+description: Evaluate AI systems against Stanford HAI's human-centered design principles
+  to ensure ethical, beneficial deployment.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- human-centered-ai-assessment
+- writing
 ---
 
 # Human-Centered AI Assessment

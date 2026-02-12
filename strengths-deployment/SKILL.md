@@ -1,9 +1,15 @@
 ---
 name: strengths-deployment
-description: Identify signature character strengths and design daily practices to deploy them in work and life, increasing engagement, satisfaction, and performance.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, strengths-deployment, writing]
+description: Identify signature character strengths and design daily practices to
+  deploy them in work and life, increasing engagement, satisfaction, and performance.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- strengths-deployment
+- writing
 ---
 
 # Strengths Deployment

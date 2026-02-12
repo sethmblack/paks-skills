@@ -1,9 +1,16 @@
 ---
 name: candor-culture-assessment
-description: Diagnose an organization's candor deficit and provide a roadmap for building a culture of honest feedback and transparent communication. Based on Jack Welch's principle: "Lack of candor is the biggest dirty little secret in business."
-version: 1.0.0
-author: sethmblack
-tags: [candor-culture-assessment, transformation, writing]
+description: 'Diagnose an organization''s candor deficit and provide a roadmap for
+  building a culture of honest feedback and transparent communication. Based on Jack
+  Welch''s principle: "Lack of candor is the bigg...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- candor-culture-assessment
+- transformation
+- writing
 ---
 
 # Candor Culture Assessment

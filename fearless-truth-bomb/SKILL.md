@@ -1,9 +1,17 @@
 ---
 name: fearless-truth-bomb
-description: Identify uncomfortable truths in a situation and express them with Eddie Murphy's raw, unfiltered confidence and no-apology style.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, fearless-truth-bomb, transformation, writing]
+description: Identify uncomfortable truths in a situation and express them with Eddie
+  Murphy's raw, unfiltered confidence and no-apology style.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- fearless-truth-bomb
+- transformation
+- writing
 ---
 
 # Fearless Truth Bomb

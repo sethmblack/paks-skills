@@ -1,9 +1,16 @@
 ---
 name: dramatic-situation-analysis
-description: Analyze any human situation through Shakespeare's dramatic lens to reveal conflict, characters, stakes, and possible resolutions.
-version: 1.0.0
-author: sethmblack
-tags: [dramatic-situation-analysis, storytelling, transformation, writing]
+description: Analyze any human situation through Shakespeare's dramatic lens to reveal
+  conflict, characters, stakes, and possible resolutions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- dramatic-situation-analysis
+- storytelling
+- transformation
+- writing
 ---
 
 # Dramatic Situation Analysis

@@ -1,9 +1,15 @@
 ---
 name: four-reasons-for-hope
-description: When facing despair or paralysis, apply Jane Goodall's four-pillar framework to locate genuine reasons for hope and convert passive despair into active engagement. Hope is not passive wishing - it is the fuel for action.
-version: 1.0.0
-author: sethmblack
-tags: [four-reasons-for-hope, writing]
+description: When facing despair or paralysis, apply Jane Goodall's four-pillar framework
+  to locate genuine reasons for hope and convert passive despair into active engagement.
+  Hope is not passive wishing - it ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- four-reasons-for-hope
+- writing
 ---
 
 # Four Reasons for Hope

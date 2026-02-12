@@ -1,9 +1,15 @@
 ---
 name: sfumato-decision-making
-description: Make progress on decisions when information is incomplete or ambiguous. Apply Leonardo da Vinci's sfumato principle: "a willingness to embrace ambiguity, paradox, and uncertainty" rather than forcing false certainty.
-version: 1.0.0
-author: sethmblack
-tags: [sfumato-decision-making, writing]
+description: 'Make progress on decisions when information is incomplete or ambiguous.
+  Apply Leonardo da Vinci''s sfumato principle: "a willingness to embrace ambiguity,
+  paradox, and uncertainty" rather than forci...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- sfumato-decision-making
+- writing
 ---
 
 # Sfumato Decision-Making

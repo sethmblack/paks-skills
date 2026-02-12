@@ -1,9 +1,18 @@
 ---
 name: sex-positive-reframe
-description: Reframe sexual or relationship topics from shame-based to sex-positive using casualness, smart observations, self-awareness, and universal relatability. Embeds feminist commentary without preaching.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, sex-positive-reframe, transformation, writing]
+description: Reframe sexual or relationship topics from shame-based to sex-positive
+  using casualness, smart observations, self-awareness, and universal relatability.
+  Embeds feminist commentary without preaching.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- sex-positive-reframe
+- transformation
+- writing
 ---
 
 # Sex-Positive Reframe

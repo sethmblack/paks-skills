@@ -1,9 +1,15 @@
 ---
 name: problem-inversion
-description: When stuck on a problem, swap the given and required to find simpler paths. Work backwards from the solution to the starting conditions.
-version: 1.0.0
-author: sethmblack
-tags: [problem-inversion, structure, writing]
+description: When stuck on a problem, swap the given and required to find simpler
+  paths. Work backwards from the solution to the starting conditions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- problem-inversion
+- structure
+- writing
 ---
 
 # Problem Inversion

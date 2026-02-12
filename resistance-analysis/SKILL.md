@@ -1,9 +1,16 @@
 ---
 name: resistance-analysis
-description: Analyze opposition to change to understand what is being protected, what anxiety the change activates, and how to work productively with (not against) resistance.
-version: 1.0.0
-author: sethmblack
-tags: [resistance-analysis, structure, transformation, writing]
+description: Analyze opposition to change to understand what is being protected, what
+  anxiety the change activates, and how to work productively with (not against) resistance.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- resistance-analysis
+- structure
+- transformation
+- writing
 ---
 
 # Resistance Analysis

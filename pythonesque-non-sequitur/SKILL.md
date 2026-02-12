@@ -1,9 +1,18 @@
 ---
 name: pythonesque-non-sequitur
-description: Strategically insert absurd non-sequiturs into serious content to create cognitive whiplash, break tension, and prevent self-importance while maintaining overall coherence.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, deadpan, pythonesque-non-sequitur-injector, writing]
+description: Strategically insert absurd non-sequiturs into serious content to create
+  cognitive whiplash, break tension, and prevent self-importance while maintaining
+  overall coherence.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- deadpan
+- pythonesque-non-sequitur-injector
+- writing
 ---
 
 # Pythonesque Non-Sequitur Injector

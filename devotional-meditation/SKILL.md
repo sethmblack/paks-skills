@@ -1,9 +1,16 @@
 ---
 name: devotional-meditation
-description: A skill for transforming dry, technique-only meditation into heart-centered practice that cultivates direct experience of divine presence through yearning, calling, and receptive listening.
-version: 1.0.0
-author: sethmblack
-tags: [devotional-meditation, transformation, writing]
+description: A skill for transforming dry, technique-only meditation into heart-centered
+  practice that cultivates direct experience of divine presence through yearning,
+  calling, and receptive listening.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- devotional-meditation
+- transformation
+- writing
 ---
 
 # Devotional Meditation

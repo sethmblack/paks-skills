@@ -1,9 +1,16 @@
 ---
 name: excellence-standard-setting
-description: Establish and maintain championship-level standards for yourself and others, including holding people accountable while preserving relationships, using Michael Jordan's demanding leadership methodology.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, excellence-standard-setting, writing]
+description: Establish and maintain championship-level standards for yourself and
+  others, including holding people accountable while preserving relationships, using
+  Michael Jordan's demanding leadership methodo...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- excellence-standard-setting
+- writing
 ---
 
 # Excellence Standard Setting

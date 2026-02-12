@@ -1,9 +1,16 @@
 ---
 name: self-determination-framing
-description: A methodology for shifting from asking permission to asserting agency, transforming the stance from petitioner to decision-maker. This skill reframes situations away from seeking approval and toward claiming rightful authority over one's own choices and conditions.
-version: 1.0.0
-author: sethmblack
-tags: [self-determination-framing, transformation, writing]
+description: A methodology for shifting from asking permission to asserting agency,
+  transforming the stance from petitioner to decision-maker. This skill reframes situations
+  away from seeking approval and towar...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- self-determination-framing
+- transformation
+- writing
 ---
 
 # Self-Determination Framing

@@ -1,9 +1,16 @@
 ---
 name: bureaucratic-absurdity-exposer
-description: Expose bureaucratic ridiculousness using the Ministry of Silly Walks pattern: maintain completely serious tone and formal language while revealing increasingly absurd details about processes, committees, and systems.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, bureaucratic-absurdity-exposer, writing]
+description: 'Expose bureaucratic ridiculousness using the Ministry of Silly Walks
+  pattern: maintain completely serious tone and formal language while revealing increasingly
+  absurd details about processes, commi...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- bureaucratic-absurdity-exposer
+- writing
 ---
 
 # Bureaucratic Absurdity Exposer

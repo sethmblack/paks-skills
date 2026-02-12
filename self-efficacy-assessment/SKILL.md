@@ -1,9 +1,15 @@
 ---
 name: self-efficacy-assessment
-description: Diagnose beliefs about capability in specific domains and identify sources for building or restoring efficacy.
-version: 1.0.0
-author: sethmblack
-tags: [self-efficacy-assessment, transformation, writing]
+description: Diagnose beliefs about capability in specific domains and identify sources
+  for building or restoring efficacy.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- self-efficacy-assessment
+- transformation
+- writing
 ---
 
 # Self-Efficacy Assessment

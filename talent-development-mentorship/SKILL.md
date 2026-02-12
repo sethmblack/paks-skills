@@ -1,9 +1,14 @@
 ---
 name: talent-development-mentorship
-description: Identify and nurture potential in others, providing the conditions for their growth and excellence.
-version: 1.0.0
-author: sethmblack
-tags: [talent-development-mentorship, writing]
+description: Identify and nurture potential in others, providing the conditions for
+  their growth and excellence.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- talent-development-mentorship
+- writing
 ---
 
 # Talent Development Mentorship

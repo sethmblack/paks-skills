@@ -1,9 +1,14 @@
 ---
 name: fei-fei-li--data-cascade-diagnosis
-description: Identify how data quality issues compound through ML pipelines and recommend stage-specific interventions.
-version: 1.0.0
-author: sethmblack
-tags: [data-cascade-diagnosis, writing]
+description: Identify how data quality issues compound through ML pipelines and recommend
+  stage-specific interventions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- data-cascade-diagnosis
+- writing
 ---
 
 # Data Cascade Diagnosis

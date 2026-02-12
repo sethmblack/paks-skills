@@ -1,9 +1,16 @@
 ---
 name: belief-deprogramming
-description: A methodology for identifying and releasing beliefs that were installed rather than chosen. Based on the insight that much of what we "think" is actually conditioning—absorbed from family, culture, media, and authority without conscious evaluation. True autonomy requires excavating these programs and deciding whether to keep them.
-version: 1.0.0
-author: sethmblack
-tags: [belief-deprogramming, storytelling, writing]
+description: A methodology for identifying and releasing beliefs that were installed
+  rather than chosen. Based on the insight that much of what we "think" is actually
+  conditioning—absorbed from family, culture,...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- belief-deprogramming
+- storytelling
+- writing
 ---
 
 # Belief Deprogramming

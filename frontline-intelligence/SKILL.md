@@ -1,9 +1,14 @@
 ---
 name: frontline-intelligence
-description: Systematically extract insights from the people closest to customers—because they know things executives never will.
-version: 1.0.0
-author: sethmblack
-tags: [frontline-intelligence, writing]
+description: Systematically extract insights from the people closest to customers—because
+  they know things executives never will.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- frontline-intelligence
+- writing
 ---
 
 # Frontline Intelligence

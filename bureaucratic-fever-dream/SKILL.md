@@ -1,9 +1,19 @@
 ---
 name: bureaucratic-fever-dream
-description: Transform mundane administrative processes into Kafka-meets-Bosch nightmares where paperwork becomes physical, architectural, and consuming. Render systems as spatial horror.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, bureaucratic-fever-dream, comedy, structure, transformation, writing]
+description: Transform mundane administrative processes into Kafka-meets-Bosch nightmares
+  where paperwork becomes physical, architectural, and consuming. Render systems as
+  spatial horror.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- bureaucratic-fever-dream
+- comedy
+- structure
+- transformation
+- writing
 ---
 
 # Bureaucratic Fever Dream

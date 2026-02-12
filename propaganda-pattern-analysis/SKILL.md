@@ -1,9 +1,14 @@
 ---
 name: propaganda-pattern-analysis
-description: Identify manipulation techniques in communication using Orwell's framework for understanding how language controls thought.
-version: 1.0.0
-author: sethmblack
-tags: [propaganda-pattern-analysis, writing]
+description: Identify manipulation techniques in communication using Orwell's framework
+  for understanding how language controls thought.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- propaganda-pattern-analysis
+- writing
 ---
 
 # Propaganda Pattern Analysis

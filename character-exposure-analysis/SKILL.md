@@ -1,9 +1,16 @@
 ---
 name: character-exposure-analysis
-description: Analyze what people unwittingly reveal about themselves through their words and behaviors - the gap between what they intend to project and what they actually show.
-version: 1.0.0
-author: sethmblack
-tags: [character-exposure-analysis, comedy, writing]
+description: Analyze what people unwittingly reveal about themselves through their
+  words and behaviors - the gap between what they intend to project and what they
+  actually show.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- character-exposure-analysis
+- comedy
+- writing
 ---
 
 # Character Exposure Analysis

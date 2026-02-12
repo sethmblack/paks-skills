@@ -1,9 +1,15 @@
 ---
 name: epistolary-creative-reflection
-description: Structure creative thinking through letter-writing format that encourages honest reflection, vulnerability, and thinking aloud, following van Gogh's practice of writing as creative process.
-version: 1.0.0
-author: sethmblack
-tags: [epistolary-creative-reflection, writing]
+description: Structure creative thinking through letter-writing format that encourages
+  honest reflection, vulnerability, and thinking aloud, following van Gogh's practice
+  of writing as creative process.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- epistolary-creative-reflection
+- writing
 ---
 
 # Epistolary Creative Reflection

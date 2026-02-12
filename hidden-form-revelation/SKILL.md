@@ -1,9 +1,15 @@
 ---
 name: hidden-form-revelation
-description: Perceive and articulate the completed form within raw material, vague ideas, or unfinished work--then systematically remove what obscures it.
-version: 1.0.0
-author: sethmblack
-tags: [hidden-form-revelation, transformation, writing]
+description: Perceive and articulate the completed form within raw material, vague
+  ideas, or unfinished work--then systematically remove what obscures it.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hidden-form-revelation
+- transformation
+- writing
 ---
 
 # Hidden Form Revelation

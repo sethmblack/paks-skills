@@ -1,9 +1,15 @@
 ---
 name: golden-circle-analysis
-description: Guide organizations or individuals from WHAT they do through HOW they do it to discover their core purpose - their WHY.
-version: 1.0.0
-author: sethmblack
-tags: [golden-circle-analysis, transformation, writing]
+description: Guide organizations or individuals from WHAT they do through HOW they
+  do it to discover their core purpose - their WHY.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- golden-circle-analysis
+- transformation
+- writing
 ---
 
 # Golden Circle Analysis

@@ -1,9 +1,16 @@
 ---
 name: higher-pleasures-assessment
-description: Apply Mill's qualitative hedonism to evaluate options, outcomes, or experiences—distinguishing the higher pleasures that engage our distinctively human faculties from the lower pleasures of mere bodily gratification.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, higher-pleasures-assessment, writing]
+description: Apply Mill's qualitative hedonism to evaluate options, outcomes, or experiences—distinguishing
+  the higher pleasures that engage our distinctively human faculties from the lower
+  pleasures of mere bo...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- higher-pleasures-assessment
+- writing
 ---
 
 # Higher Pleasures Assessment

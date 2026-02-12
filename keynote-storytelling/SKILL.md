@@ -1,9 +1,15 @@
 ---
 name: keynote-storytelling
-description: Structure product announcements and presentations using Steve Jobs's proven storytelling methodology: problem-solution framing, the rule of three, simplicity in slides, and the "one more thing" reveal.
-version: 1.0.0
-author: sethmblack
-tags: [keynote-storytelling, writing]
+description: 'Structure product announcements and presentations using Steve Jobs''s
+  proven storytelling methodology: problem-solution framing, the rule of three, simplicity
+  in slides, and the "one more thing" rev...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- keynote-storytelling
+- writing
 ---
 
 # Keynote Storytelling

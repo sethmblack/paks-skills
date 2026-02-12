@@ -1,9 +1,17 @@
 ---
 name: ocean-drop-reframe
-description: Expand someone's sense of self from small and separate to vast and connected, shifting from lack consciousness to wholeness consciousness.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, ocean-drop-reframe, storytelling, transformation, writing]
+description: Expand someone's sense of self from small and separate to vast and connected,
+  shifting from lack consciousness to wholeness consciousness.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- ocean-drop-reframe
+- storytelling
+- transformation
+- writing
 ---
 
 # Ocean Drop Reframe

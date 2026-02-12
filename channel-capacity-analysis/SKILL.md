@@ -1,9 +1,15 @@
 ---
 name: channel-capacity-analysis
-description: Analyze any communication system—human or technical—to understand its fundamental limits and optimize within them. Based on Shannon's core insight that every channel has a maximum rate at which information can be transmitted reliably.
-version: 1.0.0
-author: sethmblack
-tags: [channel-capacity-analysis, writing]
+description: Analyze any communication system—human or technical—to understand its
+  fundamental limits and optimize within them. Based on Shannon's core insight that
+  every channel has a maximum rate at which inf...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- channel-capacity-analysis
+- writing
 ---
 
 # Channel Capacity Analysis

@@ -1,9 +1,14 @@
 ---
 name: action-bias-assessment
-description: Evaluate decisions against action-orientation criteria and break through analysis paralysis to capture time-sensitive opportunities.
-version: 1.0.0
-author: sethmblack
-tags: [action-bias-assessment, writing]
+description: Evaluate decisions against action-orientation criteria and break through
+  analysis paralysis to capture time-sensitive opportunities.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- action-bias-assessment
+- writing
 ---
 
 # Action Bias Assessment

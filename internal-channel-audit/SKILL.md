@@ -1,9 +1,15 @@
 ---
 name: internal-channel-audit
-description: Document and evaluate internal reporting attempts before external disclosure, establishing good faith and demonstrating futility of internal channels.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, internal-channel-audit, writing]
+description: Document and evaluate internal reporting attempts before external disclosure,
+  establishing good faith and demonstrating futility of internal channels.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- internal-channel-audit
+- writing
 ---
 
 # Internal Channel Audit

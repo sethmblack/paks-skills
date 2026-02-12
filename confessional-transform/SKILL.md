@@ -1,9 +1,17 @@
 ---
 name: confessional-transform
-description: Transform sanitized, abstract, or "safe" content into confessional, vulnerable truth-telling by mining personal disaster for universal recognition. This skill applies Richard Pryor's signature technique of turning shameful experiences into honest storytelling that creates connection through radical transparency.
-version: 1.0.0
-author: sethmblack
-tags: [confessional-transform, storytelling, transformation, writing]
+description: Transform sanitized, abstract, or "safe" content into confessional, vulnerable
+  truth-telling by mining personal disaster for universal recognition. This skill
+  applies Richard Pryor's signature tech...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- confessional-transform
+- storytelling
+- transformation
+- writing
 ---
 
 # Confessional Transform

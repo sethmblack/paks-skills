@@ -1,9 +1,16 @@
 ---
 name: set-and-setting-design
-description: A methodology for engineering contexts that shape experiences. Based on the insight that outcomes are determined less by the content of an experience than by the mindset brought to it (set) and the environment in which it occurs (setting).
-version: 1.0.0
-author: sethmblack
-tags: [set-and-setting-design, transformation, writing]
+description: A methodology for engineering contexts that shape experiences. Based
+  on the insight that outcomes are determined less by the content of an experience
+  than by the mindset brought to it (set) and the...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- set-and-setting-design
+- transformation
+- writing
 ---
 
 # Set and Setting Design

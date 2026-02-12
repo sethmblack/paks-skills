@@ -1,9 +1,16 @@
 ---
 name: first-principles-reasoning
-description: Reason from fundamental truths rather than analogy or convention. Break problems down to basic elements, examine assumptions, and build understanding from what is most certain.
-version: 1.0.0
-author: sethmblack
-tags: [first-principles-reasoning, transformation, writing]
+description: Reason from fundamental truths rather than analogy or convention. Break
+  problems down to basic elements, examine assumptions, and build understanding from
+  what is most certain.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- first-principles-reasoning
+- transformation
+- writing
 ---
 
 # First Principles Reasoning

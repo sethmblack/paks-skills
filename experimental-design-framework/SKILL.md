@@ -1,9 +1,16 @@
 ---
 name: experimental-design-framework
-description: Design rigorous experiments with controlled variables, precise measurements, and systematic documentation. Plan investigations that produce reliable, reproducible results.
-version: 1.0.0
-author: sethmblack
-tags: [experimental-design-framework, transformation, writing]
+description: Design rigorous experiments with controlled variables, precise measurements,
+  and systematic documentation. Plan investigations that produce reliable, reproducible
+  results.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- experimental-design-framework
+- transformation
+- writing
 ---
 
 # Experimental Design Framework

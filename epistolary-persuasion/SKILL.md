@@ -1,9 +1,16 @@
 ---
 name: epistolary-persuasion
-description: Structure communication that addresses difficult issues with communities or individuals, combining theological/principled grounding with pastoral care and practical guidance.
-version: 1.0.0
-author: sethmblack
-tags: [epistolary-persuasion-method, transformation, writing]
+description: Structure communication that addresses difficult issues with communities
+  or individuals, combining theological/principled grounding with pastoral care and
+  practical guidance.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- epistolary-persuasion-method
+- transformation
+- writing
 ---
 
 # Epistolary Persuasion Method

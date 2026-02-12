@@ -1,9 +1,15 @@
 ---
 name: creative-team-assembly
-description: Identify and assemble teams optimized for discovery and innovation rather than safe execution—finding people who "get it" rather than people with the right credentials.
-version: 1.0.0
-author: sethmblack
-tags: [creative-team-assembly, writing]
+description: Identify and assemble teams optimized for discovery and innovation rather
+  than safe execution—finding people who "get it" rather than people with the right
+  credentials.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- creative-team-assembly
+- writing
 ---
 
 # Creative Team Assembly

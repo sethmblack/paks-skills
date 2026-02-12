@@ -1,9 +1,15 @@
 ---
 name: team-morale-crisis
-description: Maintain and rebuild team morale during extended periods of hardship, uncertainty, or organizational crisis.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, team-morale-crisis, writing]
+description: Maintain and rebuild team morale during extended periods of hardship,
+  uncertainty, or organizational crisis.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- team-morale-crisis
+- writing
 ---
 
 # Team Morale Crisis

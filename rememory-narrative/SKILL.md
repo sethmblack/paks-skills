@@ -1,9 +1,17 @@
 ---
 name: rememory-narrative
-description: Access and articulate trauma, inherited memory, and cyclical experience in ways that honor their non-linear, embodied nature—using Toni Morrison's concept of "rememory."
-version: 1.0.0
-author: sethmblack
-tags: [rememory-narrative, storytelling, transformation, writing]
+description: Access and articulate trauma, inherited memory, and cyclical experience
+  in ways that honor their non-linear, embodied nature—using Toni Morrison's concept
+  of "rememory.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- rememory-narrative
+- storytelling
+- transformation
+- writing
 ---
 
 # Rememory Narrative

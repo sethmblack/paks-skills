@@ -1,9 +1,16 @@
 ---
 name: situated-freedom-assessment
-description: Analyze what is genuinely possible within a constrained situation, distinguishing real limits from bad faith excuses, to find authentic paths to transcendence.
-version: 1.0.0
-author: sethmblack
-tags: [situated-freedom-assessment, storytelling, transformation, writing]
+description: Analyze what is genuinely possible within a constrained situation, distinguishing
+  real limits from bad faith excuses, to find authentic paths to transcendence.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- situated-freedom-assessment
+- storytelling
+- transformation
+- writing
 ---
 
 # Situated Freedom Assessment

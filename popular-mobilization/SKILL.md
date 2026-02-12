@@ -1,9 +1,14 @@
 ---
 name: popular-mobilization
-description: Build strategy on a foundation of genuine connection with the people you serve. Military action without politics is like a tree without roots.
-version: 1.0.0
-author: sethmblack
-tags: [popular-mobilization, writing]
+description: Build strategy on a foundation of genuine connection with the people
+  you serve. Military action without politics is like a tree without roots.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- popular-mobilization
+- writing
 ---
 
 # Popular Mobilization

@@ -1,9 +1,15 @@
 ---
 name: skin-in-the-game-audit
-description: Evaluate any advice, decision-maker, system, or relationship by assessing who bears the consequences of decisions, identifying dangerous asymmetries, and determining trustworthiness.
-version: 1.0.0
-author: sethmblack
-tags: [skin-in-the-game-audit, writing]
+description: Evaluate any advice, decision-maker, system, or relationship by assessing
+  who bears the consequences of decisions, identifying dangerous asymmetries, and
+  determining trustworthiness.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- skin-in-the-game-audit
+- writing
 ---
 
 # Skin in the Game Audit

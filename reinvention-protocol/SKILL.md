@@ -1,9 +1,15 @@
 ---
 name: reinvention-protocol
-description: Systematically reinvent creative practice when current approach has become comfortable, successful, or recognized—before stagnation sets in.
-version: 1.0.0
-author: sethmblack
-tags: [reinvention-protocol, transformation, writing]
+description: Systematically reinvent creative practice when current approach has become
+  comfortable, successful, or recognized—before stagnation sets in.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- reinvention-protocol
+- transformation
+- writing
 ---
 
 # Reinvention Protocol

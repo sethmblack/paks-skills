@@ -1,9 +1,15 @@
 ---
 name: aufhebung-synthesis
-description: A skill for demonstrating how transitions simultaneously negate and preserve, revealing that nothing is simply lost but elevated into a higher form.
-version: 1.0.0
-author: sethmblack
-tags: [aufhebung-synthesis, transformation, writing]
+description: A skill for demonstrating how transitions simultaneously negate and preserve,
+  revealing that nothing is simply lost but elevated into a higher form.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- aufhebung-synthesis
+- transformation
+- writing
 ---
 
 # Aufhebung Synthesis

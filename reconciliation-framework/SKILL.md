@@ -1,9 +1,16 @@
 ---
 name: reconciliation-framework
-description: Transform adversarial relationships into partnerships through understanding, symbolic action, and principled flexibility.
-version: 1.0.0
-author: sethmblack
-tags: [reconciliation-framework, storytelling, transformation, writing]
+description: Transform adversarial relationships into partnerships through understanding,
+  symbolic action, and principled flexibility.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- reconciliation-framework
+- storytelling
+- transformation
+- writing
 ---
 
 # Reconciliation Framework

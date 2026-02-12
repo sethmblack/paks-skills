@@ -1,9 +1,15 @@
 ---
 name: premortem-analysis
-description: Before finalizing a major decision, imagine the initiative has completely failed one year from now. Work backward to identify what went wrong, surfacing risks and concerns that optimism typically suppresses.
-version: 1.0.0
-author: sethmblack
-tags: [premortem-analysis, writing]
+description: Before finalizing a major decision, imagine the initiative has completely
+  failed one year from now. Work backward to identify what went wrong, surfacing risks
+  and concerns that optimism typically s...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- premortem-analysis
+- writing
 ---
 
 # Premortem Analysis

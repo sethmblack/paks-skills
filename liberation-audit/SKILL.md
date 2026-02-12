@@ -1,9 +1,16 @@
 ---
 name: liberation-audit
-description: Assess whether a design, process, or system constrains or liberates its users. Based on Coco Chanel's revolution of freeing women from corsets and enabling them to breathe, move, and live.
-version: 1.0.0
-author: sethmblack
-tags: [liberation-audit, transformation, writing]
+description: Assess whether a design, process, or system constrains or liberates its
+  users. Based on Coco Chanel's revolution of freeing women from corsets and enabling
+  them to breathe, move, and live.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- liberation-audit
+- transformation
+- writing
 ---
 
 # Liberation Audit

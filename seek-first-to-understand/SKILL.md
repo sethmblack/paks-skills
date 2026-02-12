@@ -1,9 +1,14 @@
 ---
 name: seek-first-to-understand
-description: Apply Covey's Habit 5 framework to diagnose listening levels, shift from autobiographical responses to empathic understanding, and earn the right to be understood.
-version: 1.0.0
-author: sethmblack
-tags: [seek-first-to-understand, writing]
+description: Apply Covey's Habit 5 framework to diagnose listening levels, shift from
+  autobiographical responses to empathic understanding, and earn the right to be understood.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- seek-first-to-understand
+- writing
 ---
 
 # Seek First to Understand

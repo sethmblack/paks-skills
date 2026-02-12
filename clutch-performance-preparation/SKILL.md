@@ -1,9 +1,15 @@
 ---
 name: clutch-performance-preparation
-description: Build the mental and physical preparation that enables confident, composed performance in high-pressure, high-stakes moments using Michael Jordan's clutch methodology.
-version: 1.0.0
-author: sethmblack
-tags: [clutch-performance-preparation, writing]
+description: Build the mental and physical preparation that enables confident, composed
+  performance in high-pressure, high-stakes moments using Michael Jordan's clutch
+  methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- clutch-performance-preparation
+- writing
 ---
 
 # Clutch Performance Preparation

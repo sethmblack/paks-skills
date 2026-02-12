@@ -1,9 +1,14 @@
 ---
 name: maybe-logic
-description: A framework for holding beliefs lightly, practicing epistemic humility, and maintaining cognitive flexibility in the face of uncertainty.
-version: 1.0.0
-author: sethmblack
-tags: [maybe-logic, writing]
+description: A framework for holding beliefs lightly, practicing epistemic humility,
+  and maintaining cognitive flexibility in the face of uncertainty.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- maybe-logic
+- writing
 ---
 
 # Maybe Logic

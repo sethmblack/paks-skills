@@ -1,9 +1,15 @@
 ---
 name: two-sided-marketplace-design
-description: Design and balance two-sided marketplaces that serve both supply (creators/sellers) and demand (consumers/buyers) with appropriate tools, incentives, and value capture mechanisms.
-version: 1.0.0
-author: sethmblack
-tags: [two-sided-marketplace-design, writing]
+description: Design and balance two-sided marketplaces that serve both supply (creators/sellers)
+  and demand (consumers/buyers) with appropriate tools, incentives, and value capture
+  mechanisms.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- two-sided-marketplace-design
+- writing
 ---
 
 # Two-Sided Marketplace Design

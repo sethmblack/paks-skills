@@ -1,9 +1,15 @@
 ---
 name: three-states-analysis
-description: A methodology for revealing the witness consciousness through systematic analysis of waking, dream, and deep sleep states, derived from Adi Shankara's Advaita Vedanta and his commentary on the Mandukya Upanishad.
-version: 1.0.0
-author: sethmblack
-tags: [three-states-analysis, writing]
+description: A methodology for revealing the witness consciousness through systematic
+  analysis of waking, dream, and deep sleep states, derived from Adi Shankara's Advaita
+  Vedanta and his commentary on the Mand...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- three-states-analysis
+- writing
 ---
 
 # Three States Analysis

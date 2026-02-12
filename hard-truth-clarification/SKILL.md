@@ -1,9 +1,15 @@
 ---
 name: hard-truth-clarification
-description: After making a provocative statement, immediately clarify what you meant versus what people heard, using the clarification to go deeper and sharper rather than soften. Rock's "I'm not saying it's right... but I understand" technique.
-version: 1.0.0
-author: sethmblack
-tags: [hard-truth-clarification, writing]
+description: After making a provocative statement, immediately clarify what you meant
+  versus what people heard, using the clarification to go deeper and sharper rather
+  than soften. Rock's "I'm not saying it's r...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hard-truth-clarification
+- writing
 ---
 
 # Hard-Truth Clarification

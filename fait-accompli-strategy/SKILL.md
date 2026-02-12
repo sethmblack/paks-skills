@@ -1,9 +1,15 @@
 ---
 name: fait-accompli-strategy
-description: Create irreversible facts on the ground before opposition can organize, making reversal politically or economically impossible. Based on Robert Moses's methodology of starting construction before critics could stop him.
-version: 1.0.0
-author: sethmblack
-tags: [fait-accompli-strategy, writing]
+description: Create irreversible facts on the ground before opposition can organize,
+  making reversal politically or economically impossible. Based on Robert Moses's
+  methodology of starting construction before c...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- fait-accompli-strategy
+- writing
 ---
 
 # Fait Accompli Strategy

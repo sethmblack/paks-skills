@@ -1,9 +1,16 @@
 ---
 name: fundamentals-first-diagnostic
-description: Identify which fundamental skill or practice has been neglected when performance problems emerge, and create a structured remediation plan using John Wooden's teaching methodology.
-version: 1.0.0
-author: sethmblack
-tags: [fundamentals-first-diagnostic, transformation, writing]
+description: Identify which fundamental skill or practice has been neglected when
+  performance problems emerge, and create a structured remediation plan using John
+  Wooden's teaching methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- fundamentals-first-diagnostic
+- transformation
+- writing
 ---
 
 # Fundamentals First Diagnostic

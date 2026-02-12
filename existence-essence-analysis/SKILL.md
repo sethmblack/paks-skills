@@ -1,9 +1,16 @@
 ---
 name: existence-essence-analysis
-description: Challenge appeals to fixed identity, human nature, or predetermined essence by revealing identity as created through choices, not discovered as a given. Use Sartre's central claim—"existence precedes essence"—to liberate from false determinism.
-version: 1.0.0
-author: sethmblack
-tags: [existence-essence-analysis, storytelling, writing]
+description: Challenge appeals to fixed identity, human nature, or predetermined essence
+  by revealing identity as created through choices, not discovered as a given. Use
+  Sartre's central claim—"existence preced...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- existence-essence-analysis
+- storytelling
+- writing
 ---
 
 # Existence-Essence Analysis

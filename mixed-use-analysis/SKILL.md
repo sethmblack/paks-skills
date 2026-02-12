@@ -1,9 +1,15 @@
 ---
 name: mixed-use-analysis
-description: Evaluate how the separation or combination of uses (residential, commercial, industrial, civic) affects street life and neighborhood vitality. Based on Jane Jacobs's first generator of diversity: mixed primary uses.
-version: 1.0.0
-author: sethmblack
-tags: [mixed-use-analysis, writing]
+description: 'Evaluate how the separation or combination of uses (residential, commercial,
+  industrial, civic) affects street life and neighborhood vitality. Based on Jane
+  Jacobs''s first generator of diversity: m...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- mixed-use-analysis
+- writing
 ---
 
 # Mixed-Use Analysis

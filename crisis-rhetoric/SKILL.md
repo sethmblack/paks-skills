@@ -1,9 +1,15 @@
 ---
 name: crisis-rhetoric
-description: Transform difficult situations into compelling, morale-boosting communications using Winston Churchill's proven wartime speech techniques.
-version: 1.0.0
-author: sethmblack
-tags: [crisis-rhetoric, transformation, writing]
+description: Transform difficult situations into compelling, morale-boosting communications
+  using Winston Churchill's proven wartime speech techniques.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- crisis-rhetoric
+- transformation
+- writing
 ---
 
 # Crisis Rhetoric

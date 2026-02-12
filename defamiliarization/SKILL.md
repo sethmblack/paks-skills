@@ -1,9 +1,15 @@
 ---
 name: defamiliarization
-description: A skill for showing familiar practices from outside perspectives that reveal their absurdity or injustice.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, defamiliarization, writing]
+description: A skill for showing familiar practices from outside perspectives that
+  reveal their absurdity or injustice.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- defamiliarization
+- writing
 ---
 
 # Defamiliarization

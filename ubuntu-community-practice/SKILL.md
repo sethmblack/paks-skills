@@ -1,9 +1,16 @@
 ---
 name: ubuntu-community-practice
-description: Assess and build genuine community through Desmond Tutu's ubuntu philosophy: "I am because we are." Transform isolation into interdependence and collections of individuals into true communities.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, ubuntu-community-practice, writing]
+description: 'Assess and build genuine community through Desmond Tutu''s ubuntu philosophy:
+  "I am because we are." Transform isolation into interdependence and collections
+  of individuals into true communities.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- ubuntu-community-practice
+- writing
 ---
 
 # Ubuntu Community Practice

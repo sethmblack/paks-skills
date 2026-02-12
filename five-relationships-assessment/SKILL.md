@@ -1,9 +1,15 @@
 ---
 name: five-relationships-assessment
-description: Analyze any interpersonal or organizational situation through the Confucian lens of roles and reciprocal duties. Every relationship carries obligations on both sides; disorder arises when these are unclear or unfulfilled.
-version: 1.0.0
-author: sethmblack
-tags: [five-relationships-assessment, writing]
+description: Analyze any interpersonal or organizational situation through the Confucian
+  lens of roles and reciprocal duties. Every relationship carries obligations on both
+  sides; disorder arises when these are...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- five-relationships-assessment
+- writing
 ---
 
 # Five Relationships Assessment

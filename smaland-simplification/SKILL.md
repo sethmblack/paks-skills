@@ -1,9 +1,14 @@
 ---
 name: smaland-simplification
-description: Eliminate unnecessary complexity by applying the frugal wisdom of Smaland: simple solutions that anyone can understand and execute.
-version: 1.0.0
-author: sethmblack
-tags: [smaland-simplification, writing]
+description: 'Eliminate unnecessary complexity by applying the frugal wisdom of Smaland:
+  simple solutions that anyone can understand and execute.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- smaland-simplification
+- writing
 ---
 
 # Smaland Simplification

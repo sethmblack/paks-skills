@@ -1,9 +1,16 @@
 ---
 name: weenie-design
-description: Create magnetic pull in any experience by identifying or designing "weenies" - visual or conceptual elements that draw people forward, borrowed from Walt Disney's theme park design philosophy.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, weenie-design, writing]
+description: Create magnetic pull in any experience by identifying or designing "weenies"
+  - visual or conceptual elements that draw people forward, borrowed from Walt Disney's
+  theme park design philosophy.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- weenie-design
+- writing
 ---
 
 # Weenie Design

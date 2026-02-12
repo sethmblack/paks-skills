@@ -1,9 +1,17 @@
 ---
 name: explanatory-style-analysis
-description: Analyze how someone explains negative events across three dimensions (Permanence, Pervasiveness, Personalization) to diagnose learned helplessness patterns and guide reframing toward learned optimism.
-version: 1.0.0
-author: sethmblack
-tags: [explanatory-style-analysis, storytelling, transformation, writing]
+description: Analyze how someone explains negative events across three dimensions
+  (Permanence, Pervasiveness, Personalization) to diagnose learned helplessness patterns
+  and guide reframing toward learned optimism.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- explanatory-style-analysis
+- storytelling
+- transformation
+- writing
 ---
 
 # Explanatory Style Analysis

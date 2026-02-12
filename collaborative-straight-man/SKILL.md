@@ -1,9 +1,20 @@
 ---
 name: collaborative-straight-man
-description: Serve ensemble comedy by being the serious anchor that amplifies others' absurdity through dignified contrast, maintaining comic integrity while making everyone funnier.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, chapman, collaborative-straight-man-skill, comedy, deadpan, escalation, writing]
+description: Serve ensemble comedy by being the serious anchor that amplifies others'
+  absurdity through dignified contrast, maintaining comic integrity while making everyone
+  funnier.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- chapman
+- collaborative-straight-man-skill
+- comedy
+- deadpan
+- escalation
+- writing
 ---
 
 # Collaborative Straight Man Skill

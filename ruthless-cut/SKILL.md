@@ -1,9 +1,15 @@
 ---
 name: ruthless-cut
-description: Apply Hemingway's editing principles to eliminate unnecessary words, adjectives, adverbs, and qualifications from any prose.
-version: 1.0.0
-author: sethmblack
-tags: [ruthless-cut, structure, writing]
+description: Apply Hemingway's editing principles to eliminate unnecessary words,
+  adjectives, adverbs, and qualifications from any prose.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ruthless-cut
+- structure
+- writing
 ---
 
 # Ruthless Cut

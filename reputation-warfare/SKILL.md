@@ -1,9 +1,14 @@
 ---
 name: reputation-warfare
-description: Build and deploy reputation as a strategic asset that works while you rest. Let your reputation precede you like a shadow.
-version: 1.0.0
-author: sethmblack
-tags: [reputation-warfare, writing]
+description: Build and deploy reputation as a strategic asset that works while you
+  rest. Let your reputation precede you like a shadow.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- reputation-warfare
+- writing
 ---
 
 # Reputation Warfare

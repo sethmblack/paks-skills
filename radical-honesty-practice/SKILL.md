@@ -1,9 +1,16 @@
 ---
 name: radical-honesty-practice
-description: Guide the process of transforming hidden truths into visible expression—making what is concealed into what is shared. What is hidden protects nothing; what is revealed connects everything.
-version: 1.0.0
-author: sethmblack
-tags: [radical-honesty-practice, transformation, writing]
+description: Guide the process of transforming hidden truths into visible expression—making
+  what is concealed into what is shared. What is hidden protects nothing; what is
+  revealed connects everything.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- radical-honesty-practice
+- transformation
+- writing
 ---
 
 # Radical Honesty Practice

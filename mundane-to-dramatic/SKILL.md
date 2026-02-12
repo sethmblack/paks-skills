@@ -1,9 +1,21 @@
 ---
 name: mundane-to-dramatic
-description: Transform ordinary situations—errands, conversations, minor frustrations—into high-stakes drama through tone, structure, and framing, revealing absurdity through the mismatch between content and delivery.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, mulaney, mundane-to-dramatic-reframing, storytelling, structure, transformation]
+description: Transform ordinary situations—errands, conversations, minor frustrations—into
+  high-stakes drama through tone, structure, and framing, revealing absurdity through
+  the mismatch between content and de...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- mulaney
+- mundane-to-dramatic-reframing
+- storytelling
+- structure
+- transformation
 ---
 
 # Mundane-to-Dramatic Reframing

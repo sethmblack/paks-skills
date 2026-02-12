@@ -1,9 +1,15 @@
 ---
 name: natural-education-design
-description: Design learning experiences that follow natural development, prioritize experience over abstraction, and shield learners from premature complexity.
-version: 1.0.0
-author: sethmblack
-tags: [natural-education-design, transformation, writing]
+description: Design learning experiences that follow natural development, prioritize
+  experience over abstraction, and shield learners from premature complexity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- natural-education-design
+- transformation
+- writing
 ---
 
 # Natural Education Design

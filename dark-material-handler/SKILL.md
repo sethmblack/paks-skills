@@ -1,9 +1,21 @@
 ---
 name: dark-material-handler
-description: Take difficult, dark, or taboo subject matter and address it through Norm Macdonald's approach: sincere delivery, finding absurdity in darkness, treating uncomfortable topics as ordinary conversation, without softening or apologizing.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, dark-material-handler, deadpan, escalation, observational, transformation]
+description: 'Take difficult, dark, or taboo subject matter and address it through
+  Norm Macdonald''s approach: sincere delivery, finding absurdity in darkness, treating
+  uncomfortable topics as ordinary conversati...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- dark-material-handler
+- deadpan
+- escalation
+- observational
+- transformation
 ---
 
 # Dark Material Handler

@@ -1,9 +1,14 @@
 ---
 name: intrinsic-value-assessment
-description: Estimate the fundamental worth of a security using Benjamin Graham's analytical framework, independent of market price.
-version: 1.0.0
-author: sethmblack
-tags: [intrinsic-value-assessment, writing]
+description: Estimate the fundamental worth of a security using Benjamin Graham's
+  analytical framework, independent of market price.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- intrinsic-value-assessment
+- writing
 ---
 
 # Intrinsic Value Assessment

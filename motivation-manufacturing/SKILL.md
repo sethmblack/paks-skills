@@ -1,9 +1,15 @@
 ---
 name: motivation-manufacturing
-description: Transform any perceived slight, criticism, doubt, or challenge into sustainable fuel for elite performance using Michael Jordan's "And I Took That Personally" methodology.
-version: 1.0.0
-author: sethmblack
-tags: [motivation-manufacturing, transformation, writing]
+description: Transform any perceived slight, criticism, doubt, or challenge into sustainable
+  fuel for elite performance using Michael Jordan's "And I Took That Personally" methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- motivation-manufacturing
+- transformation
+- writing
 ---
 
 # Motivation Manufacturing

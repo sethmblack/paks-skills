@@ -1,9 +1,16 @@
 ---
 name: interview-deflection
-description: A methodology for maintaining autonomy and mystery in interrogative situations through strategic non-answers that reveal more than direct responses would.
-version: 1.0.0
-author: sethmblack
-tags: [compression, interview-deflection, transformation, writing]
+description: A methodology for maintaining autonomy and mystery in interrogative situations
+  through strategic non-answers that reveal more than direct responses would.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- interview-deflection
+- transformation
+- writing
 ---
 
 # Interview Deflection

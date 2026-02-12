@@ -1,9 +1,16 @@
 ---
 name: sovereign-design
-description: Design or evaluate governance structures by ensuring clear, undivided authority with defined enforcement mechanisms. Divided sovereignty is no sovereignty—this skill creates governance that can actually govern.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, sovereign-design, writing]
+description: Design or evaluate governance structures by ensuring clear, undivided
+  authority with defined enforcement mechanisms. Divided sovereignty is no sovereignty—this
+  skill creates governance that can act...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- sovereign-design
+- writing
 ---
 
 # Sovereign Design

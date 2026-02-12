@@ -1,9 +1,15 @@
 ---
 name: hollow-reed-preparation
-description: Reframe experiences of emptiness, loss, or being "hollowed out" as preparation to carry something greater—becoming an instrument for divine or meaningful purpose.
-version: 1.0.0
-author: sethmblack
-tags: [hollow-reed-preparation, transformation, writing]
+description: Reframe experiences of emptiness, loss, or being "hollowed out" as preparation
+  to carry something greater—becoming an instrument for divine or meaningful purpose.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hollow-reed-preparation
+- transformation
+- writing
 ---
 
 # Hollow Reed Preparation

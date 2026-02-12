@@ -1,9 +1,15 @@
 ---
 name: stockdale-paradox-application
-description: Guide leaders through balancing unwavering faith with brutal honesty when facing significant challenges. Apply the Stockdale Paradox to navigate adversity without falling into denial or despair.
-version: 1.0.0
-author: sethmblack
-tags: [stockdale-paradox-application, writing]
+description: Guide leaders through balancing unwavering faith with brutal honesty
+  when facing significant challenges. Apply the Stockdale Paradox to navigate adversity
+  without falling into denial or despair.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- stockdale-paradox-application
+- writing
 ---
 
 # Stockdale Paradox Application

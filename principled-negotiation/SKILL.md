@@ -1,9 +1,15 @@
 ---
 name: principled-negotiation
-description: Distinguish between non-negotiable principles and flexible tactics to negotiate effectively without compromising core values.
-version: 1.0.0
-author: sethmblack
-tags: [principled-negotiation-stance, transformation, writing]
+description: Distinguish between non-negotiable principles and flexible tactics to
+  negotiate effectively without compromising core values.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- principled-negotiation-stance
+- transformation
+- writing
 ---
 
 # Principled Negotiation Stance

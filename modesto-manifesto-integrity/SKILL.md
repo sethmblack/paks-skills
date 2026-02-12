@@ -1,9 +1,14 @@
 ---
 name: modesto-manifesto-integrity
-description: Apply the four-pillar framework for maintaining personal and organizational integrity in ministry, leadership, or any public-facing role.
-version: 1.0.0
-author: sethmblack
-tags: [modesto-manifesto-integrity-standards, writing]
+description: Apply the four-pillar framework for maintaining personal and organizational
+  integrity in ministry, leadership, or any public-facing role.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- modesto-manifesto-integrity-standards
+- writing
 ---
 
 # Modesto Manifesto Integrity Standards

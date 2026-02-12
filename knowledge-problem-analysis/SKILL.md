@@ -1,9 +1,15 @@
 ---
 name: knowledge-problem-analysis
-description: Analyze any system, policy, or proposal by identifying where relevant knowledge is dispersed and why centralization cannot capture it.
-version: 1.0.0
-author: sethmblack
-tags: [compression, knowledge-problem-analysis, writing]
+description: Analyze any system, policy, or proposal by identifying where relevant
+  knowledge is dispersed and why centralization cannot capture it.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- knowledge-problem-analysis
+- writing
 ---
 
 # Knowledge Problem Analysis

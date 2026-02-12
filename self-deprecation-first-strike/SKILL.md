@@ -1,9 +1,20 @@
 ---
 name: self-deprecation-first-strike
-description: Apply Bob Hope's "hit yourself first" strategy to earn audience goodwill before targeting others. This skill transforms personal vulnerabilities into comedic armor that makes subsequent jokes safer and more effective.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, escalation, self-deprecation-first-strike, storytelling, transformation, writing]
+description: Apply Bob Hope's "hit yourself first" strategy to earn audience goodwill
+  before targeting others. This skill transforms personal vulnerabilities into comedic
+  armor that makes subsequent jokes safer...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- escalation
+- self-deprecation-first-strike
+- storytelling
+- transformation
+- writing
 ---
 
 # Self-Deprecation First Strike

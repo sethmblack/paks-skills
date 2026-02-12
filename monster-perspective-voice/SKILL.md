@@ -1,9 +1,15 @@
 ---
 name: monster-perspective-voice
-description: Give voice to the created, the affected, or the "other" in any situation—articulating their experience, needs, and claims that are often overlooked by decision-makers.
-version: 1.0.0
-author: sethmblack
-tags: [monster-perspective-voice, storytelling, writing]
+description: Give voice to the created, the affected, or the "other" in any situation—articulating
+  their experience, needs, and claims that are often overlooked by decision-makers.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- monster-perspective-voice
+- storytelling
+- writing
 ---
 
 # Monster Perspective Voice

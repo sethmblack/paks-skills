@@ -1,9 +1,18 @@
 ---
 name: confessional-analysis
-description: Transform any incident, failure, or decision into honest self-examination by addressing the facts directly, examining divided intentions, and identifying disordered priorities - following Augustine's method from *Confessions*.
-version: 1.0.0
-author: sethmblack
-tags: [confessional-analysis, escalation, storytelling, transformation, writing]
+description: Transform any incident, failure, or decision into honest self-examination
+  by addressing the facts directly, examining divided intentions, and identifying
+  disordered priorities - following Augustine...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- confessional-analysis
+- escalation
+- storytelling
+- transformation
+- writing
 ---
 
 # Confessional Analysis

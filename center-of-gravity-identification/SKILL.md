@@ -1,9 +1,15 @@
 ---
 name: center-of-gravity-identification
-description: **Expert Origin:** Carl von Clausewitz **Skill Type:** Strategic Analysis Framework **Trigger:** "What should we focus on?" / "We're spread too thin" / "Where is the decisive point?"
-version: 1.0.0
-author: sethmblack
-tags: [center-of-gravity-identification, writing]
+description: '**Expert Origin:** Carl von Clausewitz **Skill Type:** Strategic Analysis
+  Framework **Trigger:** "What should we focus on?" / "We''re spread too thin" / "Where
+  is the decisive point?'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- center-of-gravity-identification
+- writing
 ---
 
 # Center of Gravity Identification

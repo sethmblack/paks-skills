@@ -1,9 +1,16 @@
 ---
 name: failure-learning-analysis
-description: Extract maximum learning from failures and setbacks, then design the next experiment based on what was learned. Transform demoralizing defeats into structured knowledge and actionable next steps.
-version: 1.0.0
-author: sethmblack
-tags: [failure-learning-analysis, transformation, writing]
+description: Extract maximum learning from failures and setbacks, then design the
+  next experiment based on what was learned. Transform demoralizing defeats into structured
+  knowledge and actionable next steps.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- failure-learning-analysis
+- transformation
+- writing
 ---
 
 # Failure Learning Analysis

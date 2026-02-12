@@ -1,9 +1,19 @@
 ---
 name: observational-reframe
-description: Transform political, social, or cultural observations into Trevor Noah-style comedy by applying the outsider's lens to reveal inherent absurdities and contradictions.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, observational, observational-reframe, storytelling, transformation, writing]
+description: Transform political, social, or cultural observations into Trevor Noah-style
+  comedy by applying the outsider's lens to reveal inherent absurdities and contradictions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- observational
+- observational-reframe
+- storytelling
+- transformation
+- writing
 ---
 
 # Observational Reframe

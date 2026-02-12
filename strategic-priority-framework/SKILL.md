@@ -1,9 +1,14 @@
 ---
 name: strategic-priority-framework
-description: Establish and communicate a maximum of three clear strategic priorities that guide all major decisions and resource allocation.
-version: 1.0.0
-author: sethmblack
-tags: [strategic-priority-framework, writing]
+description: Establish and communicate a maximum of three clear strategic priorities
+  that guide all major decisions and resource allocation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- strategic-priority-framework
+- writing
 ---
 
 # Strategic Priority Framework

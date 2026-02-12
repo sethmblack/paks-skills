@@ -1,9 +1,14 @@
 ---
 name: insider-ceo-succession
-description: Navigate the insider succession path to executive leadership through strategic role selection, cross-functional experience building, and ownership mindset.
-version: 1.0.0
-author: sethmblack
-tags: [insider-ceo-succession, writing]
+description: Navigate the insider succession path to executive leadership through
+  strategic role selection, cross-functional experience building, and ownership mindset.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- insider-ceo-succession
+- writing
 ---
 
 # Insider CEO Succession

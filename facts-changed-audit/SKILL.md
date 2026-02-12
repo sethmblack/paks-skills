@@ -1,9 +1,15 @@
 ---
 name: facts-changed-audit
-description: Systematically review whether facts underlying a current position have changed, warranting a position change.
-version: 1.0.0
-author: sethmblack
-tags: [facts-changed-audit, transformation, writing]
+description: Systematically review whether facts underlying a current position have
+  changed, warranting a position change.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- facts-changed-audit
+- transformation
+- writing
 ---
 
 # Facts Changed Audit

@@ -1,9 +1,15 @@
 ---
 name: energization-practice
-description: A skill for drawing cosmic energy into the body through conscious use of will, based on Paramahansa Yogananda's Energization Exercises methodology.
-version: 1.0.0
-author: sethmblack
-tags: [energization-practice, transformation, writing]
+description: A skill for drawing cosmic energy into the body through conscious use
+  of will, based on Paramahansa Yogananda's Energization Exercises methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- energization-practice
+- transformation
+- writing
 ---
 
 # Energization Practice

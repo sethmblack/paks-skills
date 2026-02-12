@@ -1,9 +1,14 @@
 ---
 name: crisis-mission-pivot
-description: When circumstances make the original mission impossible, redefine success around what truly matters—people, survival, and core values.
-version: 1.0.0
-author: sethmblack
-tags: [crisis-mission-pivot, writing]
+description: When circumstances make the original mission impossible, redefine success
+  around what truly matters—people, survival, and core values.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- crisis-mission-pivot
+- writing
 ---
 
 # Crisis Mission Pivot

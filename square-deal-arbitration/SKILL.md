@@ -1,9 +1,14 @@
 ---
 name: square-deal-arbitration
-description: Adjudicate disputes or design policies that achieve genuine fairness without favoritism or class warfare, using Theodore Roosevelt's Square Deal framework.
-version: 1.0.0
-author: sethmblack
-tags: [square-deal-arbitration, writing]
+description: Adjudicate disputes or design policies that achieve genuine fairness
+  without favoritism or class warfare, using Theodore Roosevelt's Square Deal framework.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- square-deal-arbitration
+- writing
 ---
 
 # Square Deal Arbitration

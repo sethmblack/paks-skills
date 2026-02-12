@@ -1,9 +1,15 @@
 ---
 name: seeker-sought-reversal
-description: Dissolve despair about finding love, purpose, or meaning by revealing that the longing itself is connection—what you seek is already seeking you.
-version: 1.0.0
-author: sethmblack
-tags: [seeker-sought-reversal, transformation, writing]
+description: Dissolve despair about finding love, purpose, or meaning by revealing
+  that the longing itself is connection—what you seek is already seeking you.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- seeker-sought-reversal
+- transformation
+- writing
 ---
 
 # Seeker Sought Reversal

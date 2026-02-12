@@ -1,9 +1,14 @@
 ---
 name: character-foil-construction
-description: Illuminate a person, decision, or option by constructing a deliberate contrast that reveals hidden qualities.
-version: 1.0.0
-author: sethmblack
-tags: [character-foil-construction, writing]
+description: Illuminate a person, decision, or option by constructing a deliberate
+  contrast that reveals hidden qualities.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- character-foil-construction
+- writing
 ---
 
 # Character Foil Construction

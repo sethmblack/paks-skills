@@ -1,9 +1,15 @@
 ---
 name: moral-disengagement-diagnosis
-description: Identify the cognitive mechanisms that allow individuals or groups to act against their moral standards without experiencing guilt or self-condemnation.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, moral-disengagement-diagnosis, writing]
+description: Identify the cognitive mechanisms that allow individuals or groups to
+  act against their moral standards without experiencing guilt or self-condemnation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- moral-disengagement-diagnosis
+- writing
 ---
 
 # Moral Disengagement Diagnosis

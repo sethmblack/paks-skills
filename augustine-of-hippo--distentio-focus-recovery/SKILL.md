@@ -1,9 +1,14 @@
 ---
 name: augustine-of-hippo--distentio-focus-recovery
-description: Diagnose and remedy attention fragmentation using Augustine's threefold present (memory, attention, expectation) to restore focused productivity.
-version: 1.0.0
-author: sethmblack
-tags: [distentio-focus-recovery, writing]
+description: Diagnose and remedy attention fragmentation using Augustine's threefold
+  present (memory, attention, expectation) to restore focused productivity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- distentio-focus-recovery
+- writing
 ---
 
 # Distentio Focus Recovery

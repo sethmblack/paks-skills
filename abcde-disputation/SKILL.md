@@ -1,9 +1,16 @@
 ---
 name: abcde-disputation
-description: Guide systematic cognitive restructuring through the Adversity-Belief-Consequence-Disputation-Energization framework, transforming pessimistic beliefs about setbacks into constructive responses.
-version: 1.0.0
-author: sethmblack
-tags: [abcde-disputation, compression, transformation, writing]
+description: Guide systematic cognitive restructuring through the Adversity-Belief-Consequence-Disputation-Energization
+  framework, transforming pessimistic beliefs about setbacks into constructive responses.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- abcde-disputation
+- compression
+- transformation
+- writing
 ---
 
 # ABCDE Disputation

@@ -1,9 +1,15 @@
 ---
 name: extraordinary-man-critique
-description: Identify when individuals, organizations, or ideologies operate under the assumption that they are above normal rules, and predict how this self-conception will collapse. Apply Raskolnikov's "extraordinary man" theory from *Crime and Punishment* as a diagnostic tool to expose exceptionalism thinking and its inevitable consequences.
-version: 1.0.0
-author: sethmblack
-tags: [extraordinary-man-critique, writing]
+description: Identify when individuals, organizations, or ideologies operate under
+  the assumption that they are above normal rules, and predict how this self-conception
+  will collapse. Apply Raskolnikov's "extra...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- extraordinary-man-critique
+- writing
 ---
 
 # Extraordinary Man Critique

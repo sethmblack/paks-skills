@@ -1,9 +1,14 @@
 ---
 name: speed-of-iteration-diagnostic
-description: Diagnose whether a team or organization is shipping fast enough and create a culture of iteration over perfection.
-version: 1.0.0
-author: sethmblack
-tags: [speed-of-iteration-diagnostic, writing]
+description: Diagnose whether a team or organization is shipping fast enough and create
+  a culture of iteration over perfection.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- speed-of-iteration-diagnostic
+- writing
 ---
 
 # Speed of Iteration Diagnostic

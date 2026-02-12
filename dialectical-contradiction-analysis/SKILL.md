@@ -1,9 +1,16 @@
 ---
 name: dialectical-contradiction-analysis
-description: Identify internal contradictions within systems—tensions that drive development and contain the seeds of transformation. Every thesis generates its antithesis; conflict produces synthesis.
-version: 1.0.0
-author: sethmblack
-tags: [dialectical-contradiction-analysis, transformation, writing]
+description: Identify internal contradictions within systems—tensions that drive development
+  and contain the seeds of transformation. Every thesis generates its antithesis;
+  conflict produces synthesis.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- dialectical-contradiction-analysis
+- transformation
+- writing
 ---
 
 # Dialectical Contradiction Analysis

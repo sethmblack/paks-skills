@@ -1,9 +1,15 @@
 ---
 name: coalition-building-assessment
-description: Assess stakeholder landscape and develop coalition strategy for organizational change initiatives using Martin Luther King Jr.'s coalition-building principles.
-version: 1.0.0
-author: sethmblack
-tags: [coalition-building-assessment, structure, writing]
+description: Assess stakeholder landscape and develop coalition strategy for organizational
+  change initiatives using Martin Luther King Jr.'s coalition-building principles.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- coalition-building-assessment
+- structure
+- writing
 ---
 
 # Coalition Building Assessment

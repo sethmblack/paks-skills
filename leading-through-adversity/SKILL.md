@@ -1,9 +1,16 @@
 ---
 name: leading-through-adversity
-description: Continue effective leadership despite personal setbacks, disability, or wounds. Transform adversity from excuse into credential.
-version: 1.0.0
-author: sethmblack
-tags: [compression, leading-through-adversity, transformation, writing]
+description: Continue effective leadership despite personal setbacks, disability,
+  or wounds. Transform adversity from excuse into credential.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- leading-through-adversity
+- transformation
+- writing
 ---
 
 # Leading Through Adversity

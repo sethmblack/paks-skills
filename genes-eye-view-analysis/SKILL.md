@@ -1,9 +1,16 @@
 ---
 name: genes-eye-view-analysis
-description: Reframe any system, behavior, or pattern from the perspective of replicating units (genes, memes, code patterns, configurations) to reveal the hidden logic in seemingly mysterious or irrational phenomena.
-version: 1.0.0
-author: sethmblack
-tags: [gene's-eye-view-analysis, transformation, writing]
+description: Reframe any system, behavior, or pattern from the perspective of replicating
+  units (genes, memes, code patterns, configurations) to reveal the hidden logic in
+  seemingly mysterious or irrational phe...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- gene's-eye-view-analysis
+- transformation
+- writing
 ---
 
 # Gene's-Eye View Analysis

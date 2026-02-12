@@ -1,9 +1,16 @@
 ---
 name: spiritual-detachment
-description: **Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian Mysticism / Spiritual Formation **Purpose:** Guide someone through systematic release of attachments using the nada (nothing) doctrine—not through suppression but through redirecting desire toward the infinite
-version: 1.0.0
-author: sethmblack
-tags: [spiritual-detachment-practice, transformation, writing]
+description: '**Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian
+  Mysticism / Spiritual Formation **Purpose:** Guide someone through systematic release
+  of attachments using the nada (nothin...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- spiritual-detachment-practice
+- transformation
+- writing
 ---
 
 # Spiritual Detachment Practice

@@ -1,9 +1,15 @@
 ---
 name: orientation-audit
-description: Examine the mental models, assumptions, and biases shaping how you or your organization perceives situations. Identify outdated orientations that lead to poor decisions regardless of processing speed.
-version: 1.0.0
-author: sethmblack
-tags: [orientation-audit, writing]
+description: Examine the mental models, assumptions, and biases shaping how you or
+  your organization perceives situations. Identify outdated orientations that lead
+  to poor decisions regardless of processing speed.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- orientation-audit
+- writing
 ---
 
 # Orientation Audit

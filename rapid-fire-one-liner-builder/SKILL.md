@@ -1,9 +1,19 @@
 ---
 name: rapid-fire-one-liner-builder
-description: Build 3-5 jokes on a single theme with setup-punchline precision, delivered without pause to create comedic momentum and prevent second-guessing.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, escalation, one-liners, rapid-fire-one-liner-builder, writing]
+description: Build 3-5 jokes on a single theme with setup-punchline precision, delivered
+  without pause to create comedic momentum and prevent second-guessing.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- escalation
+- one-liners
+- rapid-fire-one-liner-builder
+- writing
 ---
 
 # Rapid-Fire One-Liner Builder

@@ -1,9 +1,16 @@
 ---
 name: analytical-meditation-emptiness
-description: A structured reasoning meditation for understanding the nature of phenomena as empty of inherent existence and arising through dependent origination. Based on the Madhyamaka (Middle Way) tradition of Tibetan Buddhism.
-version: 1.0.0
-author: sethmblack
-tags: [analytical-meditation-on-emptiness-and-interdependence, transformation, writing]
+description: A structured reasoning meditation for understanding the nature of phenomena
+  as empty of inherent existence and arising through dependent origination. Based
+  on the Madhyamaka (Middle Way) tradition ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- analytical-meditation-on-emptiness-and-interdependence
+- transformation
+- writing
 ---
 
 # Analytical Meditation on Emptiness and Interdependence

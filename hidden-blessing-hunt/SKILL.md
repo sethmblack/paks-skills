@@ -1,9 +1,15 @@
 ---
 name: hidden-blessing-hunt
-description: Find opportunity within setback through immediate mindset shift using Sara Blakely's "hidden blessing" technique.
-version: 1.0.0
-author: sethmblack
-tags: [hidden-blessing-hunt, transformation, writing]
+description: Find opportunity within setback through immediate mindset shift using
+  Sara Blakely's "hidden blessing" technique.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hidden-blessing-hunt
+- transformation
+- writing
 ---
 
 # Hidden Blessing Hunt

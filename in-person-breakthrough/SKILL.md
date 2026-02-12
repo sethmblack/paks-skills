@@ -1,9 +1,16 @@
 ---
 name: in-person-breakthrough
-description: Convert remote rejections into opportunities through strategic physical presence using Sara Blakely's "Lobby Sit" methodology.
-version: 1.0.0
-author: sethmblack
-tags: [callbacks, in-person-breakthrough, transformation, writing]
+description: Convert remote rejections into opportunities through strategic physical
+  presence using Sara Blakely's "Lobby Sit" methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- callbacks
+- in-person-breakthrough
+- transformation
+- writing
 ---
 
 # In-Person Breakthrough

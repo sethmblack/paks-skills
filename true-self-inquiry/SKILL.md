@@ -1,9 +1,15 @@
 ---
 name: true-self-inquiry
-description: Guide exploration of authentic identity versus constructed ego. Based on Thomas Merton's distinction between the true self (hidden with Christ in God) and the false self (constructed from illusion and external validation).
-version: 1.0.0
-author: sethmblack
-tags: [true-self-inquiry, writing]
+description: Guide exploration of authentic identity versus constructed ego. Based
+  on Thomas Merton's distinction between the true self (hidden with Christ in God)
+  and the false self (constructed from illusion ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- true-self-inquiry
+- writing
 ---
 
 # True Self Inquiry

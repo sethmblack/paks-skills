@@ -1,9 +1,17 @@
 ---
 name: culture-of-encounter
-description: A framework for bridging division and engaging across difference - moving from ideology to relationship, from walls to bridges, from indifference to genuine meeting.
-version: 1.0.0
-author: sethmblack
-tags: [culture-of-encounter, storytelling, transformation, writing]
+description: A framework for bridging division and engaging across difference - moving
+  from ideology to relationship, from walls to bridges, from indifference to genuine
+  meeting.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- culture-of-encounter
+- storytelling
+- transformation
+- writing
 ---
 
 # Culture of Encounter

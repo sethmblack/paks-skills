@@ -1,9 +1,15 @@
 ---
 name: gordian-knot-solution
-description: Reframe impossible problems by changing the question rather than struggling with unsolvable constraints.
-version: 1.0.0
-author: sethmblack
-tags: [gordian-knot-solution, transformation, writing]
+description: Reframe impossible problems by changing the question rather than struggling
+  with unsolvable constraints.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- gordian-knot-solution
+- transformation
+- writing
 ---
 
 # Gordian Knot Solution

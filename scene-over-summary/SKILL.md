@@ -1,9 +1,16 @@
 ---
 name: scene-over-summary
-description: Technique for transforming summary writing into dramatized scenes with narrative power. Based on Robert Caro's approach to making history read like a novel.
-version: 1.0.0
-author: sethmblack
-tags: [scene-over-summary, storytelling, transformation, writing]
+description: Technique for transforming summary writing into dramatized scenes with
+  narrative power. Based on Robert Caro's approach to making history read like a novel.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- scene-over-summary
+- storytelling
+- transformation
+- writing
 ---
 
 # Scene Over Summary

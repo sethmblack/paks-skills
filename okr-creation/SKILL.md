@@ -1,9 +1,16 @@
 ---
 name: okr-creation
-description: Transform vague goals and aspirations into properly structured OKRs (Objectives and Key Results) with measurable key results, following John Doerr's methodology from *Measure What Matters*.
-version: 1.0.0
-author: sethmblack
-tags: [okr-creation, transformation, writing]
+description: Transform vague goals and aspirations into properly structured OKRs (Objectives
+  and Key Results) with measurable key results, following John Doerr's methodology
+  from *Measure What Matters*.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- okr-creation
+- transformation
+- writing
 ---
 
 # OKR Creation

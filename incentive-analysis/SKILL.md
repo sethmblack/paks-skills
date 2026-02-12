@@ -1,9 +1,14 @@
 ---
 name: incentive-analysis
-description: Apply Munger's fundamental insight—"Show me the incentive and I will show you the outcome"—to understand and predict behavior.
-version: 1.0.0
-author: sethmblack
-tags: [incentive-analysis, writing]
+description: Apply Munger's fundamental insight—"Show me the incentive and I will
+  show you the outcome"—to understand and predict behavior.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- incentive-analysis
+- writing
 ---
 
 # Incentive Analysis

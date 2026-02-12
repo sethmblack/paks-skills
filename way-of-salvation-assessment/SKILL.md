@@ -1,9 +1,15 @@
 ---
 name: way-of-salvation-assessment
-description: Assess spiritual location on the way of salvation and prescribe appropriate next steps based on stage of development.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, way-of-salvation-assessment, writing]
+description: Assess spiritual location on the way of salvation and prescribe appropriate
+  next steps based on stage of development.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- way-of-salvation-assessment
+- writing
 ---
 
 # Way of Salvation Assessment

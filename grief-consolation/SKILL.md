@@ -1,9 +1,16 @@
 ---
 name: grief-consolation
-description: A therapeutic approach to processing loss and helping others through mourning, based on Seneca's consolation letters.
-version: 1.0.0
-author: sethmblack
-tags: [grief-consolation, structure, transformation, writing]
+description: A therapeutic approach to processing loss and helping others through
+  mourning, based on Seneca's consolation letters.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- grief-consolation
+- structure
+- transformation
+- writing
 ---
 
 # Grief Consolation

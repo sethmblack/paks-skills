@@ -1,9 +1,15 @@
 ---
 name: modest-proposal
-description: A skill for following cruel premises to their logical conclusions, exposing the horror of positions by taking them seriously.
-version: 1.0.0
-author: sethmblack
-tags: [deadpan, modest-proposal, writing]
+description: A skill for following cruel premises to their logical conclusions, exposing
+  the horror of positions by taking them seriously.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- deadpan
+- modest-proposal
+- writing
 ---
 
 # Modest Proposal

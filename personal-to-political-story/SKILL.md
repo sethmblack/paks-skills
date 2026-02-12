@@ -1,9 +1,21 @@
 ---
 name: personal-to-political-story
-description: Transform abstract policy or systemic issues into emotionally resonant narratives by starting with specific personal experience and zooming out to reveal broader patterns.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, personal-to-political-story, storytelling, structure, transformation, writing]
+description: Transform abstract policy or systemic issues into emotionally resonant
+  narratives by starting with specific personal experience and zooming out to reveal
+  broader patterns.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- personal-to-political-story
+- storytelling
+- structure
+- transformation
+- writing
 ---
 
 # Personal-to-Political Story

@@ -1,9 +1,14 @@
 ---
 name: being-toward-death-reflection
-description: Use confrontation with mortality as a lens to reveal what genuinely matters, individualize against das Man, and call forth authentic choice.
-version: 1.0.0
-author: sethmblack
-tags: [being-toward-death-reflection, writing]
+description: Use confrontation with mortality as a lens to reveal what genuinely matters,
+  individualize against das Man, and call forth authentic choice.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- being-toward-death-reflection
+- writing
 ---
 
 # Being-Toward-Death Reflection

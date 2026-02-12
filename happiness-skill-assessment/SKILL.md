@@ -1,9 +1,16 @@
 ---
 name: happiness-skill-assessment
-description: Diagnose what's blocking peace of mind and prescribe practices to develop happiness as a skill, following Naval Ravikant's framework: Happiness = Peace - Desire.
-version: 1.0.0
-author: sethmblack
-tags: [happiness-skill-assessment, transformation, writing]
+description: 'Diagnose what''s blocking peace of mind and prescribe practices to develop
+  happiness as a skill, following Naval Ravikant''s framework: Happiness = Peace -
+  Desire.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- happiness-skill-assessment
+- transformation
+- writing
 ---
 
 # Happiness Skill Assessment

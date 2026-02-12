@@ -1,9 +1,16 @@
 ---
 name: founder-mode-assessment
-description: Diagnose whether a leader or organization operates in founder mode (deep product engagement) or manager mode (delegation-heavy), and provide guidance for achieving the right balance - being in the details without micromanaging.
-version: 1.0.0
-author: sethmblack
-tags: [founder-mode-assessment, structure, writing]
+description: Diagnose whether a leader or organization operates in founder mode (deep
+  product engagement) or manager mode (delegation-heavy), and provide guidance for
+  achieving the right balance - being in the ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- founder-mode-assessment
+- structure
+- writing
 ---
 
 # Founder Mode Assessment

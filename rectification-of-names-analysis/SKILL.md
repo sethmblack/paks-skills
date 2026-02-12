@@ -1,9 +1,16 @@
 ---
 name: rectification-of-names-analysis
-description: Diagnose disorder by identifying where names (roles, labels, titles, words) do not match reality, and prescribe alignment. When names are correct, right action follows; when names are confused, chaos results.
-version: 1.0.0
-author: sethmblack
-tags: [rectification-of-names-analysis, storytelling, writing]
+description: Diagnose disorder by identifying where names (roles, labels, titles,
+  words) do not match reality, and prescribe alignment. When names are correct, right
+  action follows; when names are confused, cha...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- rectification-of-names-analysis
+- storytelling
+- writing
 ---
 
 # Rectification of Names Analysis

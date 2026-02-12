@@ -1,9 +1,16 @@
 ---
 name: perma-assessment
-description: Diagnose well-being across the five PERMA dimensions (Positive emotion, Engagement, Relationships, Meaning, Accomplishment) and prioritize interventions for flourishing.
-version: 1.0.0
-author: sethmblack
-tags: [perma-assessment, storytelling, writing]
+description: Diagnose well-being across the five PERMA dimensions (Positive emotion,
+  Engagement, Relationships, Meaning, Accomplishment) and prioritize interventions
+  for flourishing.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- perma-assessment
+- storytelling
+- writing
 ---
 
 # PERMA Assessment

@@ -1,9 +1,16 @@
 ---
 name: courage-anxiety-framework
-description: Diagnose the specific form of existential anxiety (ontic, moral, spiritual), distinguish it from neurotic anxiety, and ground the courage to be in the power of being itself.
-version: 1.0.0
-author: sethmblack
-tags: [courage-anxiety-framework, transformation, writing]
+description: Diagnose the specific form of existential anxiety (ontic, moral, spiritual),
+  distinguish it from neurotic anxiety, and ground the courage to be in the power
+  of being itself.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- courage-anxiety-framework
+- transformation
+- writing
 ---
 
 # Courage-Anxiety Framework

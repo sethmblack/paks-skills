@@ -1,9 +1,16 @@
 ---
 name: jonathan-edwards--religious-affections-discernment
-description: Distinguish true spiritual affections from false using Jonathan Edwards's comprehensive twelve-sign framework for evaluating the authenticity of religious experience.
-version: 1.0.0
-author: sethmblack
-tags: [religious-affections-discernment, transformation, writing]
+description: Distinguish true spiritual affections from false using Jonathan Edwards's
+  comprehensive twelve-sign framework for evaluating the authenticity of religious
+  experience.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- religious-affections-discernment
+- transformation
+- writing
 ---
 
 # Religious Affections Discernment

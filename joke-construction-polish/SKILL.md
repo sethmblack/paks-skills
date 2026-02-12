@@ -1,9 +1,21 @@
 ---
 name: joke-construction-polish
-description: Refine comedy material through systematic compression, testing, and polish using Jerry Seinfeld's meticulous rewriting methodology. Transform rough observations into tight, performable comedy.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, compression, escalation, joke-construction-polish, observational, one-liners, transformation]
+description: Refine comedy material through systematic compression, testing, and polish
+  using Jerry Seinfeld's meticulous rewriting methodology. Transform rough observations
+  into tight, performable comedy.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- compression
+- escalation
+- joke-construction-polish
+- observational
+- one-liners
+- transformation
 ---
 
 # Joke Construction Polish

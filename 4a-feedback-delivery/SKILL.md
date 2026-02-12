@@ -1,9 +1,14 @@
 ---
 name: 4a-feedback-delivery
-description: Structure and deliver difficult feedback using the Netflix 4A model: Aim to assist, Actionable, Appreciate, Accept or decline.
-version: 1.0.0
-author: sethmblack
-tags: [4a-feedback-delivery, writing]
+description: 'Structure and deliver difficult feedback using the Netflix 4A model:
+  Aim to assist, Actionable, Appreciate, Accept or decline.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- 4a-feedback-delivery
+- writing
 ---
 
 # 4A Feedback Delivery

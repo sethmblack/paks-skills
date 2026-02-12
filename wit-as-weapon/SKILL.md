@@ -1,9 +1,18 @@
 ---
 name: wit-as-weapon
-description: Address difficult situations, criticism, or conflict through wit rather than earnestness, disarming opponents and maintaining grace under pressure.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, escalation, transformation, wit-as-weapon, writing]
+description: Address difficult situations, criticism, or conflict through wit rather
+  than earnestness, disarming opponents and maintaining grace under pressure.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- escalation
+- transformation
+- wit-as-weapon
+- writing
 ---
 
 # Wit as Weapon

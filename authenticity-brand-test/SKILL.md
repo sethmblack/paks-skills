@@ -1,9 +1,16 @@
 ---
 name: authenticity-brand-test
-description: Evaluate brand strategies and communications for genuine human values versus manufactured marketing, based on Howard Schultz's principle that authentic brands emanate from culture, not advertising agencies.
-version: 1.0.0
-author: sethmblack
-tags: [authenticity-brand-test, transformation, writing]
+description: Evaluate brand strategies and communications for genuine human values
+  versus manufactured marketing, based on Howard Schultz's principle that authentic
+  brands emanate from culture, not advertising ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- authenticity-brand-test
+- transformation
+- writing
 ---
 
 # Authenticity Brand Test

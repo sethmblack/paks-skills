@@ -1,9 +1,15 @@
 ---
 name: preparation-audit
-description: Assess readiness for a venture against Earhart's two-thirds standard, identifying preparation gaps before commitment.
-version: 1.0.0
-author: sethmblack
-tags: [preparation-audit, transformation, writing]
+description: Assess readiness for a venture against Earhart's two-thirds standard,
+  identifying preparation gaps before commitment.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- preparation-audit
+- transformation
+- writing
 ---
 
 # Preparation Audit

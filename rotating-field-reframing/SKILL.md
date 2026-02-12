@@ -1,9 +1,16 @@
 ---
 name: rotating-field-reframing
-description: Find breakthrough solutions by questioning fundamental assumptions and approaching problems from unconventional angles—Tesla's method of looking for the "back door" when everyone knocks on the front.
-version: 1.0.0
-author: sethmblack
-tags: [rotating-field-problem-reframing, transformation, writing]
+description: Find breakthrough solutions by questioning fundamental assumptions and
+  approaching problems from unconventional angles—Tesla's method of looking for the
+  "back door" when everyone knocks on the front.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- rotating-field-problem-reframing
+- transformation
+- writing
 ---
 
 # Rotating Field Problem Reframing

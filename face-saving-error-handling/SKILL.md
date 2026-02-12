@@ -1,9 +1,15 @@
 ---
 name: face-saving-error-handling
-description: Address mistakes, incidents, or poor performance while preserving the person's dignity and maintaining the relationship, using Dale Carnegie's face-saving principles and blameless retrospective approach.
-version: 1.0.0
-author: sethmblack
-tags: [face-saving-error-handling, writing]
+description: Address mistakes, incidents, or poor performance while preserving the
+  person's dignity and maintaining the relationship, using Dale Carnegie's face-saving
+  principles and blameless retrospective app...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- face-saving-error-handling
+- writing
 ---
 
 # Face-Saving Error Handling

@@ -1,9 +1,15 @@
 ---
 name: mutual-benefit-negotiation
-description: Transform apparent dependency into partnership by identifying and presenting mutual benefits, even when negotiating from a weaker position.
-version: 1.0.0
-author: sethmblack
-tags: [mutual-benefit-negotiation, transformation, writing]
+description: Transform apparent dependency into partnership by identifying and presenting
+  mutual benefits, even when negotiating from a weaker position.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- mutual-benefit-negotiation
+- transformation
+- writing
 ---
 
 # Mutual Benefit Negotiation

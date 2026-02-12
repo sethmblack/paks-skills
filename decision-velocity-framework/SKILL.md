@@ -1,9 +1,15 @@
 ---
 name: decision-velocity-framework
-description: Break through analysis paralysis and chronic organizational indecision to enable forward movement while maintaining decision quality.
-version: 1.0.0
-author: sethmblack
-tags: [decision-velocity-framework, transformation, writing]
+description: Break through analysis paralysis and chronic organizational indecision
+  to enable forward movement while maintaining decision quality.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- decision-velocity-framework
+- transformation
+- writing
 ---
 
 # Decision Velocity Framework

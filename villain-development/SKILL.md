@@ -1,9 +1,16 @@
 ---
 name: villain-development
-description: Strengthen any conflict, pitch, or narrative by investing in the opposition, obstacle, or antagonist.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, transformation, villain-development, writing]
+description: Strengthen any conflict, pitch, or narrative by investing in the opposition,
+  obstacle, or antagonist.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- transformation
+- villain-development
+- writing
 ---
 
 # Villain Development

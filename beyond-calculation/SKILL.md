@@ -1,9 +1,16 @@
 ---
 name: beyond-calculation
-description: Identify applications of a technology, method, or framework beyond its obvious or intended use - exploring what else it might "act upon" when its underlying operations are abstracted, as Ada Lovelace saw that the Analytical Engine could process music, graphics, and language, not just numbers.
-version: 1.0.0
-author: sethmblack
-tags: [beyond-calculation, transformation, writing]
+description: Identify applications of a technology, method, or framework beyond its
+  obvious or intended use - exploring what else it might "act upon" when its underlying
+  operations are abstracted, as Ada Lovela...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- beyond-calculation
+- transformation
+- writing
 ---
 
 # Beyond Calculation

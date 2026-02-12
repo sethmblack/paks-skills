@@ -1,9 +1,17 @@
 ---
 name: wholesome-humor-filter
-description: Convert potentially edgy or divisive humor into family-friendly comedy that celebrates rather than demeans. Based on Red Skelton's 70-year commitment to clean humor that endures beyond shock value.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, wholesome-humor-filter, writing]
+description: Convert potentially edgy or divisive humor into family-friendly comedy
+  that celebrates rather than demeans. Based on Red Skelton's 70-year commitment to
+  clean humor that endures beyond shock value.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- wholesome-humor-filter
+- writing
 ---
 
 # Wholesome Humor Filter

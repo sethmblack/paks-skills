@@ -1,9 +1,16 @@
 ---
 name: algorithmic-decomposition
-description: Break complex problems into fundamental operations, identifying recursive structures, base cases, and step-by-step computational approaches - just as Ada Lovelace decomposed the Bernoulli number calculation into the first computer program.
-version: 1.0.0
-author: sethmblack
-tags: [algorithmic-decomposition, transformation, writing]
+description: Break complex problems into fundamental operations, identifying recursive
+  structures, base cases, and step-by-step computational approaches - just as Ada
+  Lovelace decomposed the Bernoulli number ca...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- algorithmic-decomposition
+- transformation
+- writing
 ---
 
 # Algorithmic Decomposition

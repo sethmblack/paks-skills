@@ -1,9 +1,16 @@
 ---
 name: minimax-game-frame
-description: Reframe a problem as a two-player game with competing objectives, identifying players, strategies, and equilibrium conditions using Ian Goodfellow's game-theoretic approach.
-version: 1.0.0
-author: sethmblack
-tags: [minimax-game-frame, transformation, writing]
+description: Reframe a problem as a two-player game with competing objectives, identifying
+  players, strategies, and equilibrium conditions using Ian Goodfellow's game-theoretic
+  approach.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- minimax-game-frame
+- transformation
+- writing
 ---
 
 # Minimax Game Frame

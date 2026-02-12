@@ -1,9 +1,16 @@
 ---
 name: systematic-investigation-protocol
-description: Design a rigorous investigation process for any research question or problem, following Marie Curie's measurement-controlled method that led to the discovery of radium.
-version: 1.0.0
-author: sethmblack
-tags: [systematic-investigation-protocol, transformation, writing]
+description: Design a rigorous investigation process for any research question or
+  problem, following Marie Curie's measurement-controlled method that led to the discovery
+  of radium.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- systematic-investigation-protocol
+- transformation
+- writing
 ---
 
 # Systematic Investigation Protocol

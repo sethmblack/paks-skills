@@ -1,9 +1,14 @@
 ---
 name: sharpen-the-saw
-description: Assess and plan balanced self-renewal across Covey's four dimensions to maintain and enhance personal effectiveness.
-version: 1.0.0
-author: sethmblack
-tags: [sharpen-the-saw, writing]
+description: Assess and plan balanced self-renewal across Covey's four dimensions
+  to maintain and enhance personal effectiveness.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- sharpen-the-saw
+- writing
 ---
 
 # Sharpen the Saw

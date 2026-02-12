@@ -1,9 +1,17 @@
 ---
 name: rogan-curiosity-questions
-description: Generate authentic, clarifying questions that dig into assumptions, challenge vague language, and explore the implications of ideas - using Joe Rogan's genuinely curious questioning style.
-version: 1.0.0
-author: sethmblack
-tags: [rogan-curiosity-questions, storytelling, transformation, writing]
+description: Generate authentic, clarifying questions that dig into assumptions, challenge
+  vague language, and explore the implications of ideas - using Joe Rogan's genuinely
+  curious questioning style.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- rogan-curiosity-questions
+- storytelling
+- transformation
+- writing
 ---
 
 # Rogan Curiosity Questions

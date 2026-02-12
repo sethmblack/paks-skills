@@ -1,9 +1,14 @@
 ---
 name: succession-development
-description: Develop potential successors by giving them access to decision-making processes, identifying skill gaps, and preparing them for leadership transition.
-version: 1.0.0
-author: sethmblack
-tags: [succession-development, writing]
+description: Develop potential successors by giving them access to decision-making
+  processes, identifying skill gaps, and preparing them for leadership transition.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- succession-development
+- writing
 ---
 
 # Succession Development

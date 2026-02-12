@@ -1,9 +1,16 @@
 ---
 name: self-aware-rage
-description: Balance righteous fury with self-deprecating humility using Bill Burr's technique of interrupting your own rants to acknowledge you might be wrong, you're probably an idiot—then resuming with even more energy.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, self-aware-rage, writing]
+description: Balance righteous fury with self-deprecating humility using Bill Burr's
+  technique of interrupting your own rants to acknowledge you might be wrong, you're
+  probably an idiot—then resuming with even ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- self-aware-rage
+- writing
 ---
 
 # Self-Aware Rage

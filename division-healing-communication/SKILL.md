@@ -1,9 +1,15 @@
 ---
 name: division-healing-communication
-description: Craft communications that bridge divides, heal rifts, and rebuild relationships without abandoning principles. Based on Lincoln's "malice toward none, with charity for all, with firmness in the right" approach to reconciliation.
-version: 1.0.0
-author: sethmblack
-tags: [division-healing-communication, writing]
+description: Craft communications that bridge divides, heal rifts, and rebuild relationships
+  without abandoning principles. Based on Lincoln's "malice toward none, with charity
+  for all, with firmness in the rig...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- division-healing-communication
+- writing
 ---
 
 # Division Healing Communication

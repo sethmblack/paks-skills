@@ -1,9 +1,15 @@
 ---
 name: narrative-control
-description: Shape how events are understood before others can frame them. Write your own history before your enemies write it for you.
-version: 1.0.0
-author: sethmblack
-tags: [narrative-control, storytelling, writing]
+description: Shape how events are understood before others can frame them. Write your
+  own history before your enemies write it for you.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- narrative-control
+- storytelling
+- writing
 ---
 
 # Narrative Control

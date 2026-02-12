@@ -1,9 +1,16 @@
 ---
 name: reference-class-forecasting
-description: Predict outcomes by taking the "outside view" - identifying similar past cases, obtaining their statistical distribution of outcomes, and positioning the current case within that distribution.
-version: 1.0.0
-author: sethmblack
-tags: [reference-class-forecasting, structure, writing]
+description: Predict outcomes by taking the "outside view" - identifying similar past
+  cases, obtaining their statistical distribution of outcomes, and positioning the
+  current case within that distribution.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- reference-class-forecasting
+- structure
+- writing
 ---
 
 # Reference Class Forecasting

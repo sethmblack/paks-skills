@@ -1,9 +1,14 @@
 ---
 name: better-vs-different-assessment
-description: Evaluate proposed changes to creative work to distinguish genuine improvements from lateral moves.
-version: 1.0.0
-author: sethmblack
-tags: [better-vs.-different-assessment, writing]
+description: Evaluate proposed changes to creative work to distinguish genuine improvements
+  from lateral moves.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- better-vs.-different-assessment
+- writing
 ---
 
 # Better vs. Different Assessment

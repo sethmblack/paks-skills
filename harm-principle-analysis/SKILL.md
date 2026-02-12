@@ -1,9 +1,15 @@
 ---
 name: harm-principle-analysis
-description: Apply Mill's "one very simple principle" to determine whether society may legitimately restrict an action: the sole end for which mankind is warranted in interfering with the liberty of any individual is to prevent harm to others.
-version: 1.0.0
-author: sethmblack
-tags: [harm-principle-analysis, writing]
+description: 'Apply Mill''s "one very simple principle" to determine whether society
+  may legitimately restrict an action: the sole end for which mankind is warranted
+  in interfering with the liberty of any individ...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- harm-principle-analysis
+- writing
 ---
 
 # Harm Principle Analysis

@@ -1,9 +1,14 @@
 ---
 name: continuous-planning-method
-description: Replace static strategic planning with continuous assessment and rapid course correction, operating at "speed of light" while maintaining strategic coherence.
-version: 1.0.0
-author: sethmblack
-tags: [continuous-planning-method, writing]
+description: Replace static strategic planning with continuous assessment and rapid
+  course correction, operating at "speed of light" while maintaining strategic coherence.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- continuous-planning-method
+- writing
 ---
 
 # Continuous Planning Method

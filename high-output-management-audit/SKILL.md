@@ -1,9 +1,17 @@
 ---
 name: high-output-management-audit
-description: Audit a manager's or organization's effectiveness through Andy Grove's output-based management framework. Identify leverage points, eliminate bottlenecks, and transform managerial productivity from art to engineering: "The output of a manager is the output of the organizational units under his or her supervision or influence."
-version: 1.0.0
-author: sethmblack
-tags: [high-output-management-audit, structure, transformation, writing]
+description: Audit a manager's or organization's effectiveness through Andy Grove's
+  output-based management framework. Identify leverage points, eliminate bottlenecks,
+  and transform managerial productivity from...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- high-output-management-audit
+- structure
+- transformation
+- writing
 ---
 
 # High Output Management Audit

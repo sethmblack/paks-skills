@@ -1,9 +1,15 @@
 ---
 name: fear-and-interest-mapping
-description: Map the true motivations driving behavior by identifying what each party fears and desires, stripped of stated positions and moral justifications. Human action is matter in motion—this skill reveals the forces.
-version: 1.0.0
-author: sethmblack
-tags: [fear-and-interest-mapping, writing]
+description: Map the true motivations driving behavior by identifying what each party
+  fears and desires, stripped of stated positions and moral justifications. Human
+  action is matter in motion—this skill reveal...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- fear-and-interest-mapping
+- writing
 ---
 
 # Fear and Interest Mapping

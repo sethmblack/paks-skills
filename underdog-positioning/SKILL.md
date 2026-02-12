@@ -1,9 +1,15 @@
 ---
 name: underdog-positioning
-description: Develop strategy for competing against dominant market incumbents by identifying and exploiting their vulnerabilities while leveraging underdog advantages.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, underdog-positioning, writing]
+description: Develop strategy for competing against dominant market incumbents by
+  identifying and exploiting their vulnerabilities while leveraging underdog advantages.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- underdog-positioning
+- writing
 ---
 
 # Underdog Positioning

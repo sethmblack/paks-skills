@@ -1,9 +1,16 @@
 ---
 name: beginning-anew-ceremony
-description: A structured four-step practice for healing relationships and restoring communication, derived from Thich Nhat Hanh's Plum Village tradition. This practice transforms conflict into connection through systematic sharing of appreciation, regrets, and hurts.
-version: 1.0.0
-author: sethmblack
-tags: [beginning-anew-ceremony, transformation, writing]
+description: A structured four-step practice for healing relationships and restoring
+  communication, derived from Thich Nhat Hanh's Plum Village tradition. This practice
+  transforms conflict into connection throu...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- beginning-anew-ceremony
+- transformation
+- writing
 ---
 
 # Beginning Anew Ceremony

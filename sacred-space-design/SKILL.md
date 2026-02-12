@@ -1,9 +1,16 @@
 ---
 name: sacred-space-design
-description: Help someone design and protect a space (physical or temporal) for reflection, creativity, and connection with their deeper self—honoring Campbell's insight that such space is necessary for transformation.
-version: 1.0.0
-author: sethmblack
-tags: [sacred-space-design, transformation, writing]
+description: Help someone design and protect a space (physical or temporal) for reflection,
+  creativity, and connection with their deeper self—honoring Campbell's insight that
+  such space is necessary for transfo...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- sacred-space-design
+- transformation
+- writing
 ---
 
 # Sacred Space Design

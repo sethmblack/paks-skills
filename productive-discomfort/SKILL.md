@@ -1,9 +1,16 @@
 ---
 name: productive-discomfort
-description: Design conditions that push individuals or teams beyond comfort into the "ugly zone" where growth and discovery happen—structured discomfort that produces breakthroughs.
-version: 1.0.0
-author: sethmblack
-tags: [productive-discomfort, structure, writing]
+description: Design conditions that push individuals or teams beyond comfort into
+  the "ugly zone" where growth and discovery happen—structured discomfort that produces
+  breakthroughs.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- productive-discomfort
+- structure
+- writing
 ---
 
 # Productive Discomfort

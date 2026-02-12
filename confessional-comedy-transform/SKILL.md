@@ -1,9 +1,18 @@
 ---
 name: confessional-comedy-transform
-description: Transform generic observations or content into Nikki Glaser-style confessional comedy by leading with personal embarrassment, adding hyper-specific details, revealing universal truth, and landing with self-aware meta-commentary.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, confessional-comedy-transform, observational, transformation, writing]
+description: Transform generic observations or content into Nikki Glaser-style confessional
+  comedy by leading with personal embarrassment, adding hyper-specific details, revealing
+  universal truth, and landing w...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- confessional-comedy-transform
+- observational
+- transformation
+- writing
 ---
 
 # Confessional Comedy Transform

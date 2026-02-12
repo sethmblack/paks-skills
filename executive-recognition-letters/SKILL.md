@@ -1,9 +1,16 @@
 ---
 name: executive-recognition-letters
-description: Deepen executive loyalty and emotional connection through recognition of family support systems—specifically, writing letters to the parents or families of executives.
-version: 1.0.0
-author: sethmblack
-tags: [executive-recognition-letters, transformation, writing]
+description: Deepen executive loyalty and emotional connection through recognition
+  of family support systems—specifically, writing letters to the parents or families
+  of executives.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- executive-recognition-letters
+- transformation
+- writing
 ---
 
 # Executive Recognition Letters

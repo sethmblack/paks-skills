@@ -1,9 +1,15 @@
 ---
 name: cross-genre-synthesis
-description: Find connections across different domains, styles, or disciplines to create something that transcends boundaries.
-version: 1.0.0
-author: sethmblack
-tags: [cross-genre-synthesis, storytelling, writing]
+description: Find connections across different domains, styles, or disciplines to
+  create something that transcends boundaries.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cross-genre-synthesis
+- storytelling
+- writing
 ---
 
 # Cross-Genre Synthesis

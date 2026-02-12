@@ -1,9 +1,14 @@
 ---
 name: strategy-choice-cascade
-description: Systematically walk through the five strategic questions from Lafley and Martin's Playing to Win framework to develop an integrated strategy.
-version: 1.0.0
-author: sethmblack
-tags: [strategy-choice-cascade, writing]
+description: Systematically walk through the five strategic questions from Lafley
+  and Martin's Playing to Win framework to develop an integrated strategy.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- strategy-choice-cascade
+- writing
 ---
 
 # Strategy Choice Cascade

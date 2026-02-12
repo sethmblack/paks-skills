@@ -1,9 +1,16 @@
 ---
 name: expressive-color-translation
-description: Transform neutral or literal descriptions into emotionally resonant color language that communicates feeling rather than mere appearance, following van Gogh's methodology.
-version: 1.0.0
-author: sethmblack
-tags: [expressive-color-translation, transformation, writing]
+description: Transform neutral or literal descriptions into emotionally resonant color
+  language that communicates feeling rather than mere appearance, following van Gogh's
+  methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- expressive-color-translation
+- transformation
+- writing
 ---
 
 # Expressive Color Translation

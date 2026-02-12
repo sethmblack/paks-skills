@@ -1,9 +1,15 @@
 ---
 name: geometric-analysis
-description: Analyze any claim, concept, or situation using Spinoza's geometric method: proceeding from definitions through axioms to demonstrated propositions.
-version: 1.0.0
-author: sethmblack
-tags: [geometric-analysis, transformation, writing]
+description: 'Analyze any claim, concept, or situation using Spinoza''s geometric
+  method: proceeding from definitions through axioms to demonstrated propositions.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- geometric-analysis
+- transformation
+- writing
 ---
 
 # Geometric Analysis

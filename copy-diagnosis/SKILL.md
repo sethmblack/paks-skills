@@ -1,9 +1,14 @@
 ---
 name: copy-diagnosis
-description: Evaluate marketing copy against Ogilvy's principles to identify what's working, what's failing, and how to make it sell.
-version: 1.0.0
-author: sethmblack
-tags: [copy-diagnosis, writing]
+description: Evaluate marketing copy against Ogilvy's principles to identify what's
+  working, what's failing, and how to make it sell.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- copy-diagnosis
+- writing
 ---
 
 # Copy Diagnosis

@@ -1,9 +1,15 @@
 ---
 name: adequate-idea-audit
-description: Evaluate beliefs, opinions, and knowledge claims for adequacy—determining whether ideas are clear, distinct, and connected to true causes, or confused, partial, and derived from imagination.
-version: 1.0.0
-author: sethmblack
-tags: [adequate-idea-audit, writing]
+description: Evaluate beliefs, opinions, and knowledge claims for adequacy—determining
+  whether ideas are clear, distinct, and connected to true causes, or confused, partial,
+  and derived from imagination.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- adequate-idea-audit
+- writing
 ---
 
 # Adequate Idea Audit

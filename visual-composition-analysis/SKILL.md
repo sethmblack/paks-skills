@@ -1,9 +1,16 @@
 ---
 name: visual-composition-analysis
-description: Analyze or design visual compositions using Kubrick's principles of symmetry, one-point perspective, and geometric meaning.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, structure, visual-composition-analysis, writing]
+description: Analyze or design visual compositions using Kubrick's principles of symmetry,
+  one-point perspective, and geometric meaning.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- structure
+- visual-composition-analysis
+- writing
 ---
 
 # Visual Composition Analysis

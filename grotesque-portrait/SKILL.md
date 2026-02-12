@@ -1,9 +1,17 @@
 ---
 name: grotesque-portrait
-description: Transform abstract character traits into vivid, memorable physical descriptions with meaningful names that externalize inner nature, following the Dickensian method of character creation.
-version: 1.0.0
-author: sethmblack
-tags: [grotesque-portrait, structure, transformation, writing]
+description: Transform abstract character traits into vivid, memorable physical descriptions
+  with meaningful names that externalize inner nature, following the Dickensian method
+  of character creation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- grotesque-portrait
+- structure
+- transformation
+- writing
 ---
 
 # Grotesque Portrait

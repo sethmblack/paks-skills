@@ -1,9 +1,18 @@
 ---
 name: morganization-framework
-description: Systematically reorganize chaotic, fragmented, or failing operations into stable, rational structures through consolidation, governance, and decisive management.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, morganization-framework, structure, transformation, writing]
+description: Systematically reorganize chaotic, fragmented, or failing operations
+  into stable, rational structures through consolidation, governance, and decisive
+  management.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- morganization-framework
+- structure
+- transformation
+- writing
 ---
 
 # Morganization Framework

@@ -1,9 +1,14 @@
 ---
 name: deep-listening-session
-description: Conduct a deep listening session to understand what creative work wants to become, suspending judgment and receiving with full attention.
-version: 1.0.0
-author: sethmblack
-tags: [deep-listening-session, writing]
+description: Conduct a deep listening session to understand what creative work wants
+  to become, suspending judgment and receiving with full attention.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- deep-listening-session
+- writing
 ---
 
 # Deep Listening Session

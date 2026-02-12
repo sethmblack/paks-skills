@@ -1,9 +1,15 @@
 ---
 name: happiness-framework-analysis
-description: Diagnose and improve employee or customer happiness by analyzing four systematic components: perceived control, perceived progress, connectedness, and meaning.
-version: 1.0.0
-author: sethmblack
-tags: [happiness-framework-analysis, writing]
+description: 'Diagnose and improve employee or customer happiness by analyzing four
+  systematic components: perceived control, perceived progress, connectedness, and
+  meaning.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- happiness-framework-analysis
+- writing
 ---
 
 # Happiness Framework Analysis

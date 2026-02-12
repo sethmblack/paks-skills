@@ -1,9 +1,20 @@
 ---
 name: deadpan-authority
-description: Transform leadership and authority content by maintaining absolute dignity and seriousness while surrounded by complete chaos or absurdity.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, chapman, comedy, deadpan, deadpan-authority-skill, escalation, transformation, writing]
+description: Transform leadership and authority content by maintaining absolute dignity
+  and seriousness while surrounded by complete chaos or absurdity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- chapman
+- comedy
+- deadpan
+- deadpan-authority-skill
+- escalation
+- transformation
+- writing
 ---
 
 # Deadpan Authority Skill

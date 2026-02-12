@@ -1,9 +1,17 @@
 ---
 name: inner-voice-commentary
-description: Apply Jim Gaffigan's signature inner voice technique to add self-aware, whispered commentary that catches claims, rationalizations, and contradictions.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, inner-voice-commentary, observational, writing]
+description: Apply Jim Gaffigan's signature inner voice technique to add self-aware,
+  whispered commentary that catches claims, rationalizations, and contradictions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- inner-voice-commentary
+- observational
+- writing
 ---
 
 # Inner Voice Commentary

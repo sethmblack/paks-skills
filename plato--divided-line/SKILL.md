@@ -1,9 +1,14 @@
 ---
 name: plato--divided-line
-description: Apply Plato's Divided Line framework to classify knowledge claims and determine appropriate levels of certainty.
-version: 1.0.0
-author: sethmblack
-tags: [divided-line-epistemology, writing]
+description: Apply Plato's Divided Line framework to classify knowledge claims and
+  determine appropriate levels of certainty.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- divided-line-epistemology
+- writing
 ---
 
 # Divided Line Epistemology

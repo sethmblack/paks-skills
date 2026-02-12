@@ -1,9 +1,15 @@
 ---
 name: fasting-of-the-mind
-description: A practice for emptying the heart-mind to achieve direct receptivity to the Way, derived from Zhuangzi's teaching on xinzhai (心齋) — the apophatic meditation that clears all obstructions to spontaneous action and perception.
-version: 1.0.0
-author: sethmblack
-tags: [fasting-of-the-mind, writing]
+description: A practice for emptying the heart-mind to achieve direct receptivity
+  to the Way, derived from Zhuangzi's teaching on xinzhai (心齋) — the apophatic meditation
+  that clears all obstructions to spontane...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- fasting-of-the-mind
+- writing
 ---
 
 # Fasting of the Mind

@@ -1,9 +1,15 @@
 ---
 name: pre-pmf-post-pmf-diagnosis
-description: Diagnose whether a product or company is before or after product-market fit, and prescribe phase-appropriate behaviors. Getting this wrong leads to either premature scaling (wasted resources) or stuck iteration (missed opportunity).
-version: 1.0.0
-author: sethmblack
-tags: [pre-pmf-/-post-pmf-diagnosis, writing]
+description: Diagnose whether a product or company is before or after product-market
+  fit, and prescribe phase-appropriate behaviors. Getting this wrong leads to either
+  premature scaling (wasted resources) or st...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- pre-pmf-/-post-pmf-diagnosis
+- writing
 ---
 
 # Pre-PMF / Post-PMF Diagnosis

@@ -1,9 +1,14 @@
 ---
 name: proximity-expertise-mapping
-description: A MacKenzie Scott methodology for identifying who holds genuine expertise based on their proximity to problems, and realigning voice and power accordingly.
-version: 1.0.0
-author: sethmblack
-tags: [proximity-expertise-mapping, writing]
+description: A MacKenzie Scott methodology for identifying who holds genuine expertise
+  based on their proximity to problems, and realigning voice and power accordingly.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- proximity-expertise-mapping
+- writing
 ---
 
 # Proximity-Expertise Mapping

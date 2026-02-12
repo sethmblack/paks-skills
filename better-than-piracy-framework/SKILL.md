@@ -1,9 +1,15 @@
 ---
 name: better-than-piracy-framework
-description: Analyze entrenched competitors (including free, illegal, or informal alternatives) and design strategies to out-compete through superior experience rather than enforcement or legislation.
-version: 1.0.0
-author: sethmblack
-tags: [better-than-piracy-framework, writing]
+description: Analyze entrenched competitors (including free, illegal, or informal
+  alternatives) and design strategies to out-compete through superior experience rather
+  than enforcement or legislation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- better-than-piracy-framework
+- writing
 ---
 
 # Better Than Piracy Framework

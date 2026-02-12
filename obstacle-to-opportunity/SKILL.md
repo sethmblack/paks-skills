@@ -1,9 +1,16 @@
 ---
 name: obstacle-to-opportunity
-description: Reframe setbacks, failures, and difficulties as opportunities to practice virtue and grow stronger.
-version: 1.0.0
-author: sethmblack
-tags: [compression, obstacle-to-opportunity, transformation, writing]
+description: Reframe setbacks, failures, and difficulties as opportunities to practice
+  virtue and grow stronger.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- obstacle-to-opportunity
+- transformation
+- writing
 ---
 
 # Obstacle to Opportunity

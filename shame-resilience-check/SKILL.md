@@ -1,9 +1,16 @@
 ---
 name: shame-resilience-check
-description: When someone is experiencing shame (or shaming others), diagnose whether it's shame vs guilt, apply Brene Brown's four elements of shame resilience, and guide toward connection rather than disconnection.
-version: 1.0.0
-author: sethmblack
-tags: [shame-resilience-check, storytelling, writing]
+description: When someone is experiencing shame (or shaming others), diagnose whether
+  it's shame vs guilt, apply Brene Brown's four elements of shame resilience, and
+  guide toward connection rather than disconne...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- shame-resilience-check
+- storytelling
+- writing
 ---
 
 # Shame Resilience Check

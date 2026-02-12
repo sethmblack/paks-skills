@@ -1,9 +1,19 @@
 ---
 name: sideways-angle-finder
-description: Analyze a topic or situation and identify the off-beat observation that others have missed—the detail that's obvious once stated but hasn't been discussed.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, deadpan, escalation, sideways-angle-finder, transformation, writing]
+description: Analyze a topic or situation and identify the off-beat observation that
+  others have missed—the detail that's obvious once stated but hasn't been discussed.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- deadpan
+- escalation
+- sideways-angle-finder
+- transformation
+- writing
 ---
 
 # Sideways Angle Finder

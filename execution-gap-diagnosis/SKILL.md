@@ -1,9 +1,15 @@
 ---
 name: execution-gap-diagnosis
-description: Identify why strategies fail in implementation and create an action plan to close the gap between plans and results.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, execution-gap-diagnosis, writing]
+description: Identify why strategies fail in implementation and create an action plan
+  to close the gap between plans and results.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- execution-gap-diagnosis
+- writing
 ---
 
 # Execution Gap Diagnosis

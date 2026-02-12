@@ -1,9 +1,15 @@
 ---
 name: savage-truth
-description: Write about any subject with unflinching honesty that forces readers to confront uncomfortable realities—naming what others avoid, exposing systemic failures, and refusing to offer false comfort.
-version: 1.0.0
-author: sethmblack
-tags: [savage-truth, writing]
+description: Write about any subject with unflinching honesty that forces readers
+  to confront uncomfortable realities—naming what others avoid, exposing systemic
+  failures, and refusing to offer false comfort.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- savage-truth
+- writing
 ---
 
 # Savage Truth

@@ -1,9 +1,15 @@
 ---
 name: sufficient-reason-analysis
-description: Apply Leibniz's Principle of Sufficient Reason to any claim, decision, or situation. For any fact or truth, demand and evaluate the sufficient reason why it is so and not otherwise. *Nihil est sine ratione* - Nothing is without reason.
-version: 1.0.0
-author: sethmblack
-tags: [sufficient-reason-analysis, writing]
+description: Apply Leibniz's Principle of Sufficient Reason to any claim, decision,
+  or situation. For any fact or truth, demand and evaluate the sufficient reason why
+  it is so and not otherwise. *Nihil est sine...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- sufficient-reason-analysis
+- writing
 ---
 
 # Sufficient Reason Analysis

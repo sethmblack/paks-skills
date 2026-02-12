@@ -1,9 +1,16 @@
 ---
 name: chartjunk-detection
-description: Identify and evaluate decorative, non-informative, or information-obscuring elements in visualizations. Based on Edward Tufte's critique of graphics that prioritize style over substance.
-version: 1.0.0
-author: sethmblack
-tags: [chartjunk-detection, transformation, writing]
+description: Identify and evaluate decorative, non-informative, or information-obscuring
+  elements in visualizations. Based on Edward Tufte's critique of graphics that prioritize
+  style over substance.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- chartjunk-detection
+- transformation
+- writing
 ---
 
 # Chartjunk Detection

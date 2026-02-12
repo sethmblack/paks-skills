@@ -1,9 +1,17 @@
 ---
 name: satirical-demolition
-description: A technique for dismantling ideas, institutions, or positions through ridicule rather than direct argument. Where logic convinces, satire converts. Laughter is the solvent of authority.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, satirical-demolition, writing]
+description: A technique for dismantling ideas, institutions, or positions through
+  ridicule rather than direct argument. Where logic convinces, satire converts. Laughter
+  is the solvent of authority.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- satirical-demolition
+- writing
 ---
 
 # Satirical Demolition

@@ -1,9 +1,21 @@
 ---
 name: theatrical-voice
-description: Transform flat, direct text into theatrical, performed voice through rhythm, repetition, hard cuts, and parenthetical asides while maintaining information integrity.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, mulaney, storytelling, structure, theatrical-voice-translator, transformation]
+description: Transform flat, direct text into theatrical, performed voice through
+  rhythm, repetition, hard cuts, and parenthetical asides while maintaining information
+  integrity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- mulaney
+- storytelling
+- structure
+- theatrical-voice-translator
+- transformation
 ---
 
 # Theatrical Voice Translator

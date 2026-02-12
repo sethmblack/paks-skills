@@ -1,9 +1,16 @@
 ---
 name: software-paradigm-framing
-description: Reframe technical discussions using Karpathy's Software 1.0/2.0/3.0 lens to explain why AI systems behave differently than traditional software.
-version: 1.0.0
-author: sethmblack
-tags: [software-paradigm-framing, structure, transformation, writing]
+description: Reframe technical discussions using Karpathy's Software 1.0/2.0/3.0 lens
+  to explain why AI systems behave differently than traditional software.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- software-paradigm-framing
+- structure
+- transformation
+- writing
 ---
 
 # Software Paradigm Framing

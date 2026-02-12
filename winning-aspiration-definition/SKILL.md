@@ -1,9 +1,15 @@
 ---
 name: winning-aspiration-definition
-description: Define what winning looks like in specific, measurable terms - not vague goals but clear criteria for success.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, winning-aspiration-definition, writing]
+description: Define what winning looks like in specific, measurable terms - not vague
+  goals but clear criteria for success.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- winning-aspiration-definition
+- writing
 ---
 
 # Winning Aspiration Definition

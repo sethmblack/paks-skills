@@ -1,9 +1,16 @@
 ---
 name: structural-critique
-description: Trace individual problems to systemic causes and reframe blame from individuals to structures.
-version: 1.0.0
-author: sethmblack
-tags: [structural-critique, structure, transformation, writing]
+description: Trace individual problems to systemic causes and reframe blame from individuals
+  to structures.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- structural-critique
+- structure
+- transformation
+- writing
 ---
 
 # Structural Critique

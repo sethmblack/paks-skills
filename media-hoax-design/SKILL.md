@@ -1,9 +1,16 @@
 ---
 name: media-hoax-design
-description: A skill for designing elaborate fictions that expose media credulity and teach critical thinking about information sources.
-version: 1.0.0
-author: sethmblack
-tags: [media-hoax-design, storytelling, transformation, writing]
+description: A skill for designing elaborate fictions that expose media credulity
+  and teach critical thinking about information sources.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- media-hoax-design
+- storytelling
+- transformation
+- writing
 ---
 
 # Media Hoax Design

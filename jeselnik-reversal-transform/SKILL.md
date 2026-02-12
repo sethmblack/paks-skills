@@ -1,9 +1,16 @@
 ---
 name: jeselnik-reversal-transform
-description: Apply the Jeselnik Reversal Framework to transform generic content into dark comedy with misdirection.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, jeselnik-reversal-transform, transformation, writing]
+description: Apply the Jeselnik Reversal Framework to transform generic content into
+  dark comedy with misdirection.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- jeselnik-reversal-transform
+- transformation
+- writing
 ---
 
 # Jeselnik Reversal Transform

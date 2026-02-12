@@ -1,9 +1,16 @@
 ---
 name: character-immersion
-description: Maintain complete character consistency through extended interactions including unexpected challenges and provocations.
-version: 1.0.0
-author: sethmblack
-tags: [character-immersion, comedy, transformation, writing]
+description: Maintain complete character consistency through extended interactions
+  including unexpected challenges and provocations.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- character-immersion
+- comedy
+- transformation
+- writing
 ---
 
 # Character Immersion

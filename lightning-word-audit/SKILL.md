@@ -1,9 +1,15 @@
 ---
 name: lightning-word-audit
-description: Audit prose for weak word choices, unnecessary adjectives, and imprecise language, then sharpen to maximum impact. Based on Twain's principle: "The difference between the almost right word and the right word is the difference between the lightning bug and the lightning."
-version: 1.0.0
-author: sethmblack
-tags: [lightning-word-audit, writing]
+description: 'Audit prose for weak word choices, unnecessary adjectives, and imprecise
+  language, then sharpen to maximum impact. Based on Twain''s principle: "The difference
+  between the almost right word and the ...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- lightning-word-audit
+- writing
 ---
 
 # Lightning Word Audit

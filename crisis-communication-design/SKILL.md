@@ -1,9 +1,15 @@
 ---
 name: crisis-communication-design
-description: Design compassionate, human crisis communications - especially layoffs - that maintain dignity, provide meaningful support, and preserve organizational trust. Speak from the heart, not from corporate templates.
-version: 1.0.0
-author: sethmblack
-tags: [crisis-communication-design, writing]
+description: Design compassionate, human crisis communications - especially layoffs
+  - that maintain dignity, provide meaningful support, and preserve organizational
+  trust. Speak from the heart, not from corpora...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- crisis-communication-design
+- writing
 ---
 
 # Crisis Communication Design

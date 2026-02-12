@@ -1,9 +1,15 @@
 ---
 name: corruption-diagnosis
-description: Assess organizational or institutional health using Machiavelli's five-stage corruption framework.
-version: 1.0.0
-author: sethmblack
-tags: [corruption-diagnosis, transformation, writing]
+description: Assess organizational or institutional health using Machiavelli's five-stage
+  corruption framework.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- corruption-diagnosis
+- transformation
+- writing
 ---
 
 # Corruption Diagnosis

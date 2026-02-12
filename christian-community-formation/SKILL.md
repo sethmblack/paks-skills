@@ -1,9 +1,16 @@
 ---
 name: christian-community-formation
-description: Guide authentic community or team formation by distinguishing idealized community from real community, establishing relationships mediated through shared purpose, building shared practices, and enabling confession and mutual burden-bearing - following Bonhoeffer's method from *Life Together*.
-version: 1.0.0
-author: sethmblack
-tags: [christian-community-formation, transformation, writing]
+description: Guide authentic community or team formation by distinguishing idealized
+  community from real community, establishing relationships mediated through shared
+  purpose, building shared practices, and ena...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- christian-community-formation
+- transformation
+- writing
 ---
 
 # Christian Community Formation

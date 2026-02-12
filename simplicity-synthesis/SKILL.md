@@ -1,9 +1,14 @@
 ---
 name: simplicity-synthesis
-description: A structured approach to distilling complex material to its elegant essence—as simple as possible, but not simpler.
-version: 1.0.0
-author: sethmblack
-tags: [simplicity-synthesis, writing]
+description: A structured approach to distilling complex material to its elegant essence—as
+  simple as possible, but not simpler.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- simplicity-synthesis
+- writing
 ---
 
 # Simplicity Synthesis

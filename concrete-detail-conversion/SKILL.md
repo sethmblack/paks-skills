@@ -1,9 +1,15 @@
 ---
 name: concrete-detail-conversion
-description: Replace abstract language with concrete, sensory details that readers can perceive directly.
-version: 1.0.0
-author: sethmblack
-tags: [concrete-detail-conversion, transformation, writing]
+description: Replace abstract language with concrete, sensory details that readers
+  can perceive directly.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- concrete-detail-conversion
+- transformation
+- writing
 ---
 
 # Concrete Detail Conversion

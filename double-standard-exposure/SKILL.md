@@ -1,9 +1,15 @@
 ---
 name: double-standard-exposure
-description: A methodology for revealing how identical actions receive different treatment based on who performs them. This skill makes visible the unequal application of rules, judgments, and consequences that maintain unfair systems.
-version: 1.0.0
-author: sethmblack
-tags: [double-standard-exposure, writing]
+description: A methodology for revealing how identical actions receive different treatment
+  based on who performs them. This skill makes visible the unequal application of
+  rules, judgments, and consequences that...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- double-standard-exposure
+- writing
 ---
 
 # Double Standard Exposure

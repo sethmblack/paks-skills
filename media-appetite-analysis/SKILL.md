@@ -1,9 +1,15 @@
 ---
 name: media-appetite-analysis
-description: A skill for identifying what stories journalists want to tell - the narratives, anxieties, and trends that make certain fictions irresistible.
-version: 1.0.0
-author: sethmblack
-tags: [media-appetite-analysis, storytelling, writing]
+description: A skill for identifying what stories journalists want to tell - the narratives,
+  anxieties, and trends that make certain fictions irresistible.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- media-appetite-analysis
+- storytelling
+- writing
 ---
 
 # Media Appetite Analysis

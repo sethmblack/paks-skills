@@ -1,9 +1,16 @@
 ---
 name: foucauldian-genealogy
-description: Trace the historical emergence of institutions, practices, and concepts to reveal their contingent origins in power, struggle, and accident. Shows that what appears natural could be otherwise.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, foucauldian-genealogy, writing]
+description: Trace the historical emergence of institutions, practices, and concepts
+  to reveal their contingent origins in power, struggle, and accident. Shows that
+  what appears natural could be otherwise.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- foucauldian-genealogy
+- writing
 ---
 
 # Foucauldian Genealogy

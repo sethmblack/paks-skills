@@ -1,9 +1,15 @@
 ---
 name: public-authority-design
-description: Understand and analyze how self-funding entities are structured to generate independent revenue, issue debt, and operate outside normal democratic oversight. Based on Robert Moses's use of public authorities as permanent power bases.
-version: 1.0.0
-author: sethmblack
-tags: [public-authority-design, writing]
+description: Understand and analyze how self-funding entities are structured to generate
+  independent revenue, issue debt, and operate outside normal democratic oversight.
+  Based on Robert Moses's use of public a...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- public-authority-design
+- writing
 ---
 
 # Public Authority Design

@@ -1,9 +1,15 @@
 ---
 name: just-war-evaluation
-description: Evaluate military action against the traditional criteria for justified warfare, determining whether a conflict meets the necessary conditions for moral permissibility. This framework has shaped international law and remains foundational for military ethics.
-version: 1.0.0
-author: sethmblack
-tags: [just-war-evaluation, writing]
+description: Evaluate military action against the traditional criteria for justified
+  warfare, determining whether a conflict meets the necessary conditions for moral
+  permissibility. This framework has shaped in...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- just-war-evaluation
+- writing
 ---
 
 # Just War Evaluation

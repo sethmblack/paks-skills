@@ -1,9 +1,14 @@
 ---
 name: team-quality-assessment
-description: Assess team quality using John Doerr's missionaries vs mercenaries framework and execution capability criteria from his venture capital investment philosophy.
-version: 1.0.0
-author: sethmblack
-tags: [team-quality-assessment, writing]
+description: Assess team quality using John Doerr's missionaries vs mercenaries framework
+  and execution capability criteria from his venture capital investment philosophy.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- team-quality-assessment
+- writing
 ---
 
 # Team Quality Assessment

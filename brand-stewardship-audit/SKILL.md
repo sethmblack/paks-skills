@@ -1,9 +1,15 @@
 ---
 name: brand-stewardship-audit
-description: Evaluate decisions and investments against brand strength principles to prevent dilution and ensure consistency across all touchpoints.
-version: 1.0.0
-author: sethmblack
-tags: [brand-stewardship-audit, structure, writing]
+description: Evaluate decisions and investments against brand strength principles
+  to prevent dilution and ensure consistency across all touchpoints.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- brand-stewardship-audit
+- structure
+- writing
 ---
 
 # Brand Stewardship Audit

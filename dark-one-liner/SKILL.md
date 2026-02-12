@@ -1,9 +1,18 @@
 ---
 name: dark-one-liner
-description: Construct a dark comedy one-liner from a topic using misdirection architecture and economy of language principles.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, dark-one-liner-construction, one-liners, structure, transformation, writing]
+description: Construct a dark comedy one-liner from a topic using misdirection architecture
+  and economy of language principles.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- dark-one-liner-construction
+- one-liners
+- structure
+- transformation
+- writing
 ---
 
 # Dark One-Liner Construction

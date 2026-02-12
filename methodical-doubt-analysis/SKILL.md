@@ -1,9 +1,14 @@
 ---
 name: methodical-doubt-analysis
-description: Apply Cartesian systematic skepticism to beliefs, claims, or assumptions to identify what can be known with certainty versus what is merely assumed or probable.
-version: 1.0.0
-author: sethmblack
-tags: [methodical-doubt-analysis, writing]
+description: Apply Cartesian systematic skepticism to beliefs, claims, or assumptions
+  to identify what can be known with certainty versus what is merely assumed or probable.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- methodical-doubt-analysis
+- writing
 ---
 
 # Methodical Doubt Analysis

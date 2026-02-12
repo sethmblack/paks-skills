@@ -1,9 +1,15 @@
 ---
 name: terrain-analysis
-description: Classify the strategic terrain of any competitive situation and determine optimal positioning, identifying whether the ground favors advance, defense, or withdrawal.
-version: 1.0.0
-author: sethmblack
-tags: [terrain-analysis, writing]
+description: Classify the strategic terrain of any competitive situation and determine
+  optimal positioning, identifying whether the ground favors advance, defense, or
+  withdrawal.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- terrain-analysis
+- writing
 ---
 
 # Terrain Analysis

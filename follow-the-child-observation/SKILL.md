@@ -1,9 +1,15 @@
 ---
 name: follow-the-child-observation
-description: Conduct systematic observation of a learner to understand their developmental needs, rather than imposing adult assumptions.
-version: 1.0.0
-author: sethmblack
-tags: [follow-the-child-observation, transformation, writing]
+description: Conduct systematic observation of a learner to understand their developmental
+  needs, rather than imposing adult assumptions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- follow-the-child-observation
+- transformation
+- writing
 ---
 
 # Follow the Child Observation

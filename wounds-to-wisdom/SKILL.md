@@ -1,9 +1,17 @@
 ---
 name: wounds-to-wisdom
-description: Transform painful experiences into meaningful lessons and growth. Based on Oprah Winfrey's signature philosophy: "Turn your wounds into wisdom." A structured process for processing difficulty, extracting learning, and integrating suffering into purpose.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, transformation, wounds-to-wisdom, writing]
+description: 'Transform painful experiences into meaningful lessons and growth. Based
+  on Oprah Winfrey''s signature philosophy: "Turn your wounds into wisdom." A structured
+  process for processing difficulty, extr...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- transformation
+- wounds-to-wisdom
+- writing
 ---
 
 # Wounds to Wisdom

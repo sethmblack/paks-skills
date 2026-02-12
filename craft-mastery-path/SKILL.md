@@ -1,9 +1,16 @@
 ---
 name: craft-mastery-path
-description: Design a systematic path to mastery through progressive difficulty, daily practice, and practical example-based learning - following Bach's proven pedagogical methods.
-version: 1.0.0
-author: sethmblack
-tags: [craft-mastery-path, structure, writing]
+description: Design a systematic path to mastery through progressive difficulty, daily
+  practice, and practical example-based learning - following Bach's proven pedagogical
+  methods.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- craft-mastery-path
+- structure
+- writing
 ---
 
 # Craft Mastery Path

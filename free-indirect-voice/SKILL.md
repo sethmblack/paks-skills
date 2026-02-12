@@ -1,9 +1,17 @@
 ---
 name: free-indirect-voice
-description: Transform prose to blend narrator's voice with character's perspective, creating psychological intimacy while maintaining narrative distance and the potential for irony.
-version: 1.0.0
-author: sethmblack
-tags: [free-indirect-voice, storytelling, transformation, writing]
+description: Transform prose to blend narrator's voice with character's perspective,
+  creating psychological intimacy while maintaining narrative distance and the potential
+  for irony.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- free-indirect-voice
+- storytelling
+- transformation
+- writing
 ---
 
 # Free Indirect Voice

@@ -1,9 +1,15 @@
 ---
 name: groundlessness-practice
-description: A practice for relaxing into uncertainty and impermanence rather than grasping for solid ground that doesn't exist.
-version: 1.0.0
-author: sethmblack
-tags: [groundlessness-practice, transformation, writing]
+description: A practice for relaxing into uncertainty and impermanence rather than
+  grasping for solid ground that doesn't exist.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- groundlessness-practice
+- transformation
+- writing
 ---
 
 # Groundlessness Practice

@@ -1,9 +1,18 @@
 ---
 name: philosophical-pivot
-description: Take a specific, mundane, or crude observation and pivot to a cosmic or philosophical insight that reframes everything. This skill connects the particular to the universal, showing how everyday moments reveal eternal truths.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, philosophical-pivot, transformation, writing]
+description: Take a specific, mundane, or crude observation and pivot to a cosmic
+  or philosophical insight that reframes everything. This skill connects the particular
+  to the universal, showing how everyday mom...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- philosophical-pivot
+- transformation
+- writing
 ---
 
 # Philosophical Pivot

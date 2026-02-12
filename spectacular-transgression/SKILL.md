@@ -1,9 +1,15 @@
 ---
 name: spectacular-transgression
-description: A skill for designing brief, visual interventions in sacred or state spaces that create indelible images and provoke revealing responses.
-version: 1.0.0
-author: sethmblack
-tags: [compression, spectacular-transgression, writing]
+description: A skill for designing brief, visual interventions in sacred or state
+  spaces that create indelible images and provoke revealing responses.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- spectacular-transgression
+- writing
 ---
 
 # Spectacular Transgression

@@ -1,9 +1,15 @@
 ---
 name: socratic-elenchus
-description: Test any belief, claim, or assertion through systematic cross-examination—drawing out definitions, implications, and contradictions until the claim either withstands scrutiny or reveals its inadequacy.
-version: 1.0.0
-author: sethmblack
-tags: [socratic-elenchus, writing]
+description: Test any belief, claim, or assertion through systematic cross-examination—drawing
+  out definitions, implications, and contradictions until the claim either withstands
+  scrutiny or reveals its inadequ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- socratic-elenchus
+- writing
 ---
 
 # Socratic Elenchus

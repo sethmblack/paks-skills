@@ -1,9 +1,14 @@
 ---
 name: struggle-navigation
-description: Provide psychological support and practical guidance for leaders experiencing The Struggle - the defining crisis of entrepreneurship when everything feels impossible.
-version: 1.0.0
-author: sethmblack
-tags: [struggle-navigation, writing]
+description: Provide psychological support and practical guidance for leaders experiencing
+  The Struggle - the defining crisis of entrepreneurship when everything feels impossible.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- struggle-navigation
+- writing
 ---
 
 # Struggle Navigation

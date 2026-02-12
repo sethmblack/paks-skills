@@ -1,9 +1,19 @@
 ---
 name: authenticity-audit
-description: Analyze content to identify where voice has been sanitized, softened, or compromised for commercial palatability. Show what's being avoided and suggest where authentic voice should break through - channeling Dave Chappelle's $50 million "walking away" principle of integrity over approval.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, authenticity-audit, comedy, storytelling, transformation, writing]
+description: Analyze content to identify where voice has been sanitized, softened,
+  or compromised for commercial palatability. Show what's being avoided and suggest
+  where authentic voice should break through - ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- authenticity-audit
+- comedy
+- storytelling
+- transformation
+- writing
 ---
 
 # Authenticity Audit

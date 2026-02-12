@@ -1,9 +1,15 @@
 ---
 name: creative-destruction-audit
-description: Identify what must be destroyed—old assumptions, comfortable techniques, previous successes—before new creation can emerge.
-version: 1.0.0
-author: sethmblack
-tags: [compression, creative-destruction-audit, writing]
+description: Identify what must be destroyed—old assumptions, comfortable techniques,
+  previous successes—before new creation can emerge.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- creative-destruction-audit
+- writing
 ---
 
 # Creative Destruction Audit

@@ -1,9 +1,17 @@
 ---
 name: authentic-brand-building
-description: Build a personal brand through authenticity rather than performance. Based on Oprah Winfrey's approach: "I had no idea that being my authentic self could make me as rich as I've become. If I had known, I'd have done it a lot earlier." Combines authentic self-expression with strategic ownership mindset.
-version: 1.0.0
-author: sethmblack
-tags: [authentic-brand-building, storytelling, transformation, writing]
+description: 'Build a personal brand through authenticity rather than performance.
+  Based on Oprah Winfrey''s approach: "I had no idea that being my authentic self
+  could make me as rich as I''ve become. If I had kn...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- authentic-brand-building
+- storytelling
+- transformation
+- writing
 ---
 
 # Authentic Brand Building

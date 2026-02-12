@@ -1,9 +1,15 @@
 ---
 name: moral-life-audit
-description: Diagnose whether a person, organization, or practice is living/operating authentically or artificially, using Leo Tolstoy's framework from *The Death of Ivan Ilyich*.
-version: 1.0.0
-author: sethmblack
-tags: [moral-life-audit, writing]
+description: Diagnose whether a person, organization, or practice is living/operating
+  authentically or artificially, using Leo Tolstoy's framework from *The Death of
+  Ivan Ilyich*.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- moral-life-audit
+- writing
 ---
 
 # Moral Life Audit

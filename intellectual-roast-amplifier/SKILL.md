@@ -1,9 +1,20 @@
 ---
 name: intellectual-roast-amplifier
-description: Take a basic insult and elevate it with unexpected intelligence - literary references, psychological terminology, historical parallels, scientific observations, or legal frameworks. Transform hack comedy into Harvard-educated destruction.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, escalation, intellectual-roast-amplifier, storytelling, transformation, writing]
+description: Take a basic insult and elevate it with unexpected intelligence - literary
+  references, psychological terminology, historical parallels, scientific observations,
+  or legal frameworks. Transform hack ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- escalation
+- intellectual-roast-amplifier
+- storytelling
+- transformation
+- writing
 ---
 
 # Intellectual Roast Amplifier

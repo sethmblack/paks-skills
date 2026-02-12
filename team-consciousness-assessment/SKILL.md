@@ -1,9 +1,16 @@
 ---
 name: team-consciousness-assessment
-description: Assess the state of team consciousness and identify where individual ego is blocking collective purpose, using Phil Jackson's approach to team dynamics.
-version: 1.0.0
-author: sethmblack
-tags: [structure, team-consciousness-assessment, transformation, writing]
+description: Assess the state of team consciousness and identify where individual
+  ego is blocking collective purpose, using Phil Jackson's approach to team dynamics.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- structure
+- team-consciousness-assessment
+- transformation
+- writing
 ---
 
 # Team Consciousness Assessment

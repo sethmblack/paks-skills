@@ -1,9 +1,15 @@
 ---
 name: toothbrush-test
-description: Evaluate any product, feature, or acquisition by testing whether it will be used daily and genuinely improves lives, prioritizing usefulness over financial metrics.
-version: 1.0.0
-author: sethmblack
-tags: [toothbrush-test, writing]
+description: Evaluate any product, feature, or acquisition by testing whether it will
+  be used daily and genuinely improves lives, prioritizing usefulness over financial
+  metrics.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- toothbrush-test
+- writing
 ---
 
 # Toothbrush Test

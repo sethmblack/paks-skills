@@ -1,9 +1,18 @@
 ---
 name: macguffin-identification
-description: Distinguish what characters/stakeholders care about from what the audience actually needs to care about, focusing effort accordingly.
-version: 1.0.0
-author: sethmblack
-tags: [compression, macguffin-identification, storytelling, structure, transformation, writing]
+description: Distinguish what characters/stakeholders care about from what the audience
+  actually needs to care about, focusing effort accordingly.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- macguffin-identification
+- storytelling
+- structure
+- transformation
+- writing
 ---
 
 # MacGuffin Identification

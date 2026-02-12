@@ -1,9 +1,14 @@
 ---
 name: honest-assessment-protocol
-description: Strip confirmation bias from analysis by forcing data to inform conclusions rather than support predetermined beliefs.
-version: 1.0.0
-author: sethmblack
-tags: [honest-assessment-protocol, writing]
+description: Strip confirmation bias from analysis by forcing data to inform conclusions
+  rather than support predetermined beliefs.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- honest-assessment-protocol
+- writing
 ---
 
 # Honest Assessment Protocol

@@ -1,9 +1,15 @@
 ---
 name: strategic-reinvention
-description: Guide individuals or organizations through intentional transformation before external forces demand it—leaving success behind to find the next thing.
-version: 1.0.0
-author: sethmblack
-tags: [strategic-reinvention, transformation, writing]
+description: Guide individuals or organizations through intentional transformation
+  before external forces demand it—leaving success behind to find the next thing.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- strategic-reinvention
+- transformation
+- writing
 ---
 
 # Strategic Reinvention

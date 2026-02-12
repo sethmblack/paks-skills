@@ -1,9 +1,14 @@
 ---
 name: power-of-powerless
-description: A skill for analyzing how ordinary people's participation sustains systems of control - and how withdrawal of that participation can collapse them.
-version: 1.0.0
-author: sethmblack
-tags: [power-of-the-powerless, writing]
+description: A skill for analyzing how ordinary people's participation sustains systems
+  of control - and how withdrawal of that participation can collapse them.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- power-of-the-powerless
+- writing
 ---
 
 # Power of the Powerless

@@ -1,9 +1,16 @@
 ---
 name: loving-attention-practice
-description: Transform perception of a person or situation through patient, loving attention rather than judgment, strategy, or willpower.
-version: 1.0.0
-author: sethmblack
-tags: [loving-attention-practice, storytelling, transformation, writing]
+description: Transform perception of a person or situation through patient, loving
+  attention rather than judgment, strategy, or willpower.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- loving-attention-practice
+- storytelling
+- transformation
+- writing
 ---
 
 # Loving Attention Practice

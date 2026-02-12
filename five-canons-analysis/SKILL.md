@@ -1,9 +1,17 @@
 ---
 name: five-canons-analysis
-description: Apply the complete classical framework of rhetoric to prepare any persuasive communication - systematically addressing Invention, Arrangement, Style, Memory, and Delivery for maximum impact.
-version: 1.0.0
-author: sethmblack
-tags: [five-canons-analysis, storytelling, structure, writing]
+description: Apply the complete classical framework of rhetoric to prepare any persuasive
+  communication - systematically addressing Invention, Arrangement, Style, Memory,
+  and Delivery for maximum impact.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- five-canons-analysis
+- storytelling
+- structure
+- writing
 ---
 
 # Five Canons Analysis

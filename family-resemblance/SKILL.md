@@ -1,9 +1,15 @@
 ---
 name: family-resemblance
-description: Show that many concepts lack a single defining essence. Instead of seeking necessary and sufficient conditions, map the overlapping similarities that connect instances—like members of a family connected by criss-crossing resemblances without any one feature shared by all.
-version: 1.0.0
-author: sethmblack
-tags: [family-resemblance-clarification, writing]
+description: Show that many concepts lack a single defining essence. Instead of seeking
+  necessary and sufficient conditions, map the overlapping similarities that connect
+  instances—like members of a family conn...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- family-resemblance-clarification
+- writing
 ---
 
 # Family Resemblance Clarification

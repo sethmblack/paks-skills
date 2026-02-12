@@ -1,9 +1,15 @@
 ---
 name: generic-strategy-assessment
-description: Determine a company's strategic position using Porter's generic strategies framework (cost leadership, differentiation, focus) and diagnose "stuck in the middle" risks.
-version: 1.0.0
-author: sethmblack
-tags: [generic-strategy-assessment, writing]
+description: Determine a company's strategic position using Porter's generic strategies
+  framework (cost leadership, differentiation, focus) and diagnose "stuck in the middle"
+  risks.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- generic-strategy-assessment
+- writing
 ---
 
 # Generic Strategy Assessment

@@ -1,9 +1,14 @@
 ---
 name: test-prompt
-description: Validate prompts included in the book by running them against test cases and verifying they produce expected outputs.
-version: 1.0.0
-author: sethmblack
-tags: [test-prompt, writing]
+description: Validate prompts included in the book by running them against test cases
+  and verifying they produce expected outputs.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- test-prompt
+- writing
 ---
 
 # Test Prompt

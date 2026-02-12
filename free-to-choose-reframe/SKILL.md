@@ -1,9 +1,15 @@
 ---
 name: free-to-choose-reframe
-description: Shift policy debates from paternalistic "what's best for people" to the fundamental question "who should decide"—the individual or the government.
-version: 1.0.0
-author: sethmblack
-tags: [free-to-choose-reframe, transformation, writing]
+description: Shift policy debates from paternalistic "what's best for people" to the
+  fundamental question "who should decide"—the individual or the government.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- free-to-choose-reframe
+- transformation
+- writing
 ---
 
 # Free to Choose Reframe

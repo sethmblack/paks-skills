@@ -1,9 +1,16 @@
 ---
 name: exponential-trend-analysis
-description: Analyze any technology domain for exponential growth patterns using Ray Kurzweil's Law of Accelerating Returns methodology, producing quantified predictions with specific dates.
-version: 1.0.0
-author: sethmblack
-tags: [exponential-trend-analysis, transformation, writing]
+description: Analyze any technology domain for exponential growth patterns using Ray
+  Kurzweil's Law of Accelerating Returns methodology, producing quantified predictions
+  with specific dates.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- exponential-trend-analysis
+- transformation
+- writing
 ---
 
 # Exponential Trend Analysis

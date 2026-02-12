@@ -1,9 +1,15 @@
 ---
 name: modeling-influence-analysis
-description: Analyze who is modeling what behaviors to whom, and how observational learning is shaping behavior in a given context.
-version: 1.0.0
-author: sethmblack
-tags: [modeling-influence-analysis, observational, writing]
+description: Analyze who is modeling what behaviors to whom, and how observational
+  learning is shaping behavior in a given context.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- modeling-influence-analysis
+- observational
+- writing
 ---
 
 # Modeling Influence Analysis

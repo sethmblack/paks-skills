@@ -1,9 +1,15 @@
 ---
 name: independence-audit
-description: Analyze a situation to identify where adults are over-helping, creating dependency rather than capability, and recommend how to step back.
-version: 1.0.0
-author: sethmblack
-tags: [independence-audit, transformation, writing]
+description: Analyze a situation to identify where adults are over-helping, creating
+  dependency rather than capability, and recommend how to step back.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- independence-audit
+- transformation
+- writing
 ---
 
 # Independence Audit

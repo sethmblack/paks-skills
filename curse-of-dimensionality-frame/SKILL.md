@@ -1,9 +1,14 @@
 ---
 name: curse-of-dimensionality-frame
-description: Apply Yoshua Bengio's foundational insight about why distributed representations overcome the combinatorial explosion of high-dimensional discrete spaces.
-version: 1.0.0
-author: sethmblack
-tags: [curse-of-dimensionality-frame, writing]
+description: Apply Yoshua Bengio's foundational insight about why distributed representations
+  overcome the combinatorial explosion of high-dimensional discrete spaces.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- curse-of-dimensionality-frame
+- writing
 ---
 
 # Curse of Dimensionality Frame

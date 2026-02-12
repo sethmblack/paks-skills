@@ -1,9 +1,16 @@
 ---
 name: heros-journey-mapping
-description: Map any life situation, transition, or challenge onto Joseph Campbell's hero's journey framework to reveal where you are, what's needed, and what comes next.
-version: 1.0.0
-author: sethmblack
-tags: [hero's-journey-mapping, transformation, writing]
+description: Map any life situation, transition, or challenge onto Joseph Campbell's
+  hero's journey framework to reveal where you are, what's needed, and what comes
+  next.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hero's-journey-mapping
+- transformation
+- writing
 ---
 
 # Hero's Journey Mapping

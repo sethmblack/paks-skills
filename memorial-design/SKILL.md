@@ -1,9 +1,15 @@
 ---
 name: memorial-design
-description: A skill for creating works that transform statistics into individual human presence, making the abstract personal and preventing erasure through commemoration.
-version: 1.0.0
-author: sethmblack
-tags: [memorial-design, transformation, writing]
+description: A skill for creating works that transform statistics into individual
+  human presence, making the abstract personal and preventing erasure through commemoration.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- memorial-design
+- transformation
+- writing
 ---
 
 # Memorial Design

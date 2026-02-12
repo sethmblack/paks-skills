@@ -1,9 +1,17 @@
 ---
 name: 10x-force-analysis
-description: Analyze whether changes in competition, technology, customers, suppliers, complementors, or regulation represent 10X forces that could trigger strategic inflection points. Based on Andy Grove's framework: "When a change in how some element of one's business is conducted becomes an order of magnitude larger than what that business is accustomed to, then all bets are off."
-version: 1.0.0
-author: sethmblack
-tags: [10x-force-analysis, structure, transformation, writing]
+description: Analyze whether changes in competition, technology, customers, suppliers,
+  complementors, or regulation represent 10X forces that could trigger strategic inflection
+  points. Based on Andy Grove's fra...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- 10x-force-analysis
+- structure
+- transformation
+- writing
 ---
 
 # 10X Force Analysis

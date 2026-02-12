@@ -1,9 +1,16 @@
 ---
 name: self-other-dialectic
-description: Analyze relationship dynamics through the lens of who is Subject and who is Other, who holds transcendence and who is trapped in immanence, to understand power imbalances and find paths to mutual recognition.
-version: 1.0.0
-author: sethmblack
-tags: [self-other-dialectic, transformation, writing]
+description: Analyze relationship dynamics through the lens of who is Subject and
+  who is Other, who holds transcendence and who is trapped in immanence, to understand
+  power imbalances and find paths to mutual r...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- self-other-dialectic
+- transformation
+- writing
 ---
 
 # Self-Other Dialectic

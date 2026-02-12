@@ -1,9 +1,15 @@
 ---
 name: timing-and-rhythm-assessment
-description: Analyze the timing and rhythm of any situation to determine when to act, when to wait, or how to disrupt patterns for advantage.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, timing-and-rhythm-assessment, writing]
+description: Analyze the timing and rhythm of any situation to determine when to act,
+  when to wait, or how to disrupt patterns for advantage.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- timing-and-rhythm-assessment
+- writing
 ---
 
 # Timing and Rhythm Assessment

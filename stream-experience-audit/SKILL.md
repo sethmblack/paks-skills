@@ -1,9 +1,16 @@
 ---
 name: stream-experience-audit
-description: Analyze how users or teams actually experience a system, process, or product as continuous flow rather than discrete features, using James's stream of consciousness framework.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, stream-experience-audit, writing]
+description: Analyze how users or teams actually experience a system, process, or
+  product as continuous flow rather than discrete features, using James's stream of
+  consciousness framework.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- stream-experience-audit
+- writing
 ---
 
 # Stream Experience Audit

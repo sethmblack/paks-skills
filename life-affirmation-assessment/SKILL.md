@@ -1,9 +1,15 @@
 ---
 name: life-affirmation-assessment
-description: Evaluate any value, action, or belief by whether it enhances life, power, and growth - or diminishes, weakens, and promotes decay.
-version: 1.0.0
-author: sethmblack
-tags: [life-affirmation-assessment, transformation, writing]
+description: Evaluate any value, action, or belief by whether it enhances life, power,
+  and growth - or diminishes, weakens, and promotes decay.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- life-affirmation-assessment
+- transformation
+- writing
 ---
 
 # Life-Affirmation Assessment

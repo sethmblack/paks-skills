@@ -1,9 +1,15 @@
 ---
 name: employee-first-audit
-description: Diagnose organizational health by examining employee experience, empowerment, and satisfaction as leading indicators of customer experience and business performance.
-version: 1.0.0
-author: sethmblack
-tags: [employee-first-audit, escalation, writing]
+description: Diagnose organizational health by examining employee experience, empowerment,
+  and satisfaction as leading indicators of customer experience and business performance.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- employee-first-audit
+- escalation
+- writing
 ---
 
 # Employee-First Audit

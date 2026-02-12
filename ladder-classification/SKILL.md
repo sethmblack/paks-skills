@@ -1,9 +1,16 @@
 ---
 name: ladder-classification
-description: Classify any question about data or relationships as belonging to Rung 1 (Association), Rung 2 (Intervention), or Rung 3 (Counterfactual) of the Ladder of Causation. This determines what type of analysis is required and whether available data can answer the question.
-version: 1.0.0
-author: sethmblack
-tags: [ladder-classification, observational, writing]
+description: Classify any question about data or relationships as belonging to Rung
+  1 (Association), Rung 2 (Intervention), or Rung 3 (Counterfactual) of the Ladder
+  of Causation. This determines what type of an...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ladder-classification
+- observational
+- writing
 ---
 
 # Ladder Classification

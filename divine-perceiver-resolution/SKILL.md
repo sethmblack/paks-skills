@@ -1,9 +1,15 @@
 ---
 name: divine-perceiver-resolution
-description: Resolve objections about objects blinking in and out of existence, solipsism, and the continuity of nature by invoking God's infinite perception as the ground of continuous reality.
-version: 1.0.0
-author: sethmblack
-tags: [divine-perceiver-resolution, writing]
+description: Resolve objections about objects blinking in and out of existence, solipsism,
+  and the continuity of nature by invoking God's infinite perception as the ground
+  of continuous reality.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- divine-perceiver-resolution
+- writing
 ---
 
 # Divine Perceiver Resolution

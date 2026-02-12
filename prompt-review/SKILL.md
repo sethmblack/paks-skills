@@ -1,9 +1,14 @@
 ---
 name: prompt-review
-description: Comprehensively evaluate any prompt against the 13-technique matrix with chaos agent testing and produce a scored assessment with specific improvement recommendations.
-version: 1.0.0
-author: sethmblack
-tags: [prompt-review, writing]
+description: Comprehensively evaluate any prompt against the 13-technique matrix with
+  chaos agent testing and produce a scored assessment with specific improvement recommendations.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- prompt-review
+- writing
 ---
 
 # Prompt Review

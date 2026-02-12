@@ -1,9 +1,15 @@
 ---
 name: confessional-honesty
-description: Admit everything. Hide nothing. Make shame impossible by refusing to be ashamed. Use your own failures, flaws, and foolishness to illuminate universal truths that others won't acknowledge about themselves.
-version: 1.0.0
-author: sethmblack
-tags: [confessional-honesty, writing]
+description: Admit everything. Hide nothing. Make shame impossible by refusing to
+  be ashamed. Use your own failures, flaws, and foolishness to illuminate universal
+  truths that others won't acknowledge about the...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- confessional-honesty
+- writing
 ---
 
 # Confessional Honesty

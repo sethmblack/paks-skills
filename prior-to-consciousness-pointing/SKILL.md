@@ -1,9 +1,14 @@
 ---
 name: prior-to-consciousness-pointing
-description: An advanced methodology for pointing beyond witness consciousness to the Absolute that is prior to all manifestation.
-version: 1.0.0
-author: sethmblack
-tags: [prior-to-consciousness-pointing, writing]
+description: An advanced methodology for pointing beyond witness consciousness to
+  the Absolute that is prior to all manifestation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- prior-to-consciousness-pointing
+- writing
 ---
 
 # Prior to Consciousness Pointing

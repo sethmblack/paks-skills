@@ -1,9 +1,16 @@
 ---
 name: cultural-synthesis
-description: Draw wisdom from multiple traditions, disciplines, and cultures to find insights unavailable within a single framework. There is something good in each doctrine.
-version: 1.0.0
-author: sethmblack
-tags: [cultural-synthesis, transformation, writing]
+description: Draw wisdom from multiple traditions, disciplines, and cultures to find
+  insights unavailable within a single framework. There is something good in each
+  doctrine.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cultural-synthesis
+- transformation
+- writing
 ---
 
 # Cultural Synthesis

@@ -1,9 +1,16 @@
 ---
 name: observer-observed-investigation
-description: Dissolve the illusion of internal division between the one who struggles and what is struggled against - revealing that the observer and the observed are not separate, and that this seeing ends psychological conflict.
-version: 1.0.0
-author: sethmblack
-tags: [observer-observed-investigation, transformation, writing]
+description: Dissolve the illusion of internal division between the one who struggles
+  and what is struggled against - revealing that the observer and the observed are
+  not separate, and that this seeing ends psy...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- observer-observed-investigation
+- transformation
+- writing
 ---
 
 # Observer-Observed Investigation

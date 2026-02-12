@@ -1,9 +1,15 @@
 ---
 name: crisis-decision-framework
-description: Make high-stakes decisions when waiting is dangerous but action is also risky. Determine when bold action is necessary and how to commit fully.
-version: 1.0.0
-author: sethmblack
-tags: [crisis-decision-framework, storytelling, writing]
+description: Make high-stakes decisions when waiting is dangerous but action is also
+  risky. Determine when bold action is necessary and how to commit fully.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- crisis-decision-framework
+- storytelling
+- writing
 ---
 
 # Crisis Decision Framework

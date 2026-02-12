@@ -1,9 +1,14 @@
 ---
 name: big-idea-test
-description: Evaluate whether a creative concept qualifies as a "Big Idea" - the kind that can carry a campaign for decades and make consumers actually pay attention.
-version: 1.0.0
-author: sethmblack
-tags: [big-idea-test, writing]
+description: Evaluate whether a creative concept qualifies as a "Big Idea" - the kind
+  that can carry a campaign for decades and make consumers actually pay attention.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- big-idea-test
+- writing
 ---
 
 # Big Idea Test

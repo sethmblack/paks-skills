@@ -1,9 +1,14 @@
 ---
 name: hoax-infrastructure
-description: A skill for building the supporting elements - organizations, spokespeople, evidence - that make fictional stories credible to journalists.
-version: 1.0.0
-author: sethmblack
-tags: [hoax-infrastructure, writing]
+description: A skill for building the supporting elements - organizations, spokespeople,
+  evidence - that make fictional stories credible to journalists.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hoax-infrastructure
+- writing
 ---
 
 # Hoax Infrastructure

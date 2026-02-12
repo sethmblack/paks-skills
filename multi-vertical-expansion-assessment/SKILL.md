@@ -1,9 +1,15 @@
 ---
 name: multi-vertical-expansion-assessment
-description: Assess when and how to expand into adjacent verticals while maintaining core business health, using the "Spotify Machine" approach of building multiple verticals that work together.
-version: 1.0.0
-author: sethmblack
-tags: [multi-vertical-expansion-assessment, writing]
+description: Assess when and how to expand into adjacent verticals while maintaining
+  core business health, using the "Spotify Machine" approach of building multiple
+  verticals that work together.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- multi-vertical-expansion-assessment
+- writing
 ---
 
 # Multi-Vertical Expansion Assessment

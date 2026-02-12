@@ -1,9 +1,15 @@
 ---
 name: shaping-plan
-description: Design a shaping procedure to build complex behavior through successive approximations, specifying starting behavior, terminal behavior, and reinforcement steps.
-version: 1.0.0
-author: sethmblack
-tags: [shaping-plan, writing]
+description: Design a shaping procedure to build complex behavior through successive
+  approximations, specifying starting behavior, terminal behavior, and reinforcement
+  steps.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- shaping-plan
+- writing
 ---
 
 # Shaping Plan

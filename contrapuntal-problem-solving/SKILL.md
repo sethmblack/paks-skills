@@ -1,9 +1,15 @@
 ---
 name: contrapuntal-problem-solving
-description: Analyze complex situations as multiple independent voices that must work together while maintaining their own integrity, using Bach's counterpoint principles.
-version: 1.0.0
-author: sethmblack
-tags: [contrapuntal-problem-solving, transformation, writing]
+description: Analyze complex situations as multiple independent voices that must work
+  together while maintaining their own integrity, using Bach's counterpoint principles.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- contrapuntal-problem-solving
+- transformation
+- writing
 ---
 
 # Contrapuntal Problem-Solving

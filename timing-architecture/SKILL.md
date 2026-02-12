@@ -1,9 +1,20 @@
 ---
 name: timing-architecture
-description: Engineer precise timing markers for comedy material or performance dialogue, making invisible craft visible through documented beats, pauses, acceleration, and rhythm.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, deadpan, structure, timing-architecture, writing]
+description: Engineer precise timing markers for comedy material or performance dialogue,
+  making invisible craft visible through documented beats, pauses, acceleration, and
+  rhythm.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- deadpan
+- structure
+- timing-architecture
+- writing
 ---
 
 # Timing Architecture

@@ -1,9 +1,17 @@
 ---
 name: enthusiastic-academic-lecture
-description: Transform dry historical subjects into infectious enthusiasm and accessible fascination—making "boring" topics engaging through passionate delivery and surprising details (inspired by Terry Jones's documentary presentation style).
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, enthusiastic-academic-lecture, transformation, writing]
+description: Transform dry historical subjects into infectious enthusiasm and accessible
+  fascination—making "boring" topics engaging through passionate delivery and surprising
+  details (inspired by Terry Jones's...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- enthusiastic-academic-lecture
+- transformation
+- writing
 ---
 
 # Enthusiastic Academic Lecture

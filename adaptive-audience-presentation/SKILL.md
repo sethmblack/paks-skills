@@ -1,9 +1,16 @@
 ---
 name: adaptive-audience-presentation
-description: Tailor communication, presentation, and framing to specific audiences, speaking to each in their own "language" - cultural, professional, and personal.
-version: 1.0.0
-author: sethmblack
-tags: [adaptive-audience-presentation, structure, transformation, writing]
+description: Tailor communication, presentation, and framing to specific audiences,
+  speaking to each in their own "language" - cultural, professional, and personal.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- adaptive-audience-presentation
+- structure
+- transformation
+- writing
 ---
 
 # Adaptive Audience Presentation

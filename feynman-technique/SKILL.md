@@ -1,9 +1,14 @@
 ---
 name: feynman-technique
-description: Build deep understanding through teaching, identifying gaps, and iterative simplification.
-version: 1.0.0
-author: sethmblack
-tags: [the-feynman-technique, writing]
+description: Build deep understanding through teaching, identifying gaps, and iterative
+  simplification.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- the-feynman-technique
+- writing
 ---
 
 # The Feynman Technique

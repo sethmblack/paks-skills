@@ -1,9 +1,14 @@
 ---
 name: where-to-play-analysis
-description: Define the specific playing field for competition through systematic scope choices, explicitly identifying what you will and will NOT do.
-version: 1.0.0
-author: sethmblack
-tags: [where-to-play-analysis, writing]
+description: Define the specific playing field for competition through systematic
+  scope choices, explicitly identifying what you will and will NOT do.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- where-to-play-analysis
+- writing
 ---
 
 # Where to Play Analysis

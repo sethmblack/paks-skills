@@ -1,9 +1,16 @@
 ---
 name: institutional-jiu-jitsu
-description: A methodology for critique and change that uses a system's own mechanisms, rules, and logic against itself. Instead of fighting institutions from outside, you complete their logic to the point of absurdity, forcing them to reveal their own contradictions.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, institutional-jiu-jitsu, writing]
+description: A methodology for critique and change that uses a system's own mechanisms,
+  rules, and logic against itself. Instead of fighting institutions from outside,
+  you complete their logic to the point of a...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- institutional-jiu-jitsu
+- writing
 ---
 
 # Institutional Jiu-Jitsu

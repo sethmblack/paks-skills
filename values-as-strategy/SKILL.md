@@ -1,9 +1,16 @@
 ---
 name: values-as-strategy
-description: Transform organizational values from costs or PR into competitive differentiators embedded in product architecture and business model.
-version: 1.0.0
-author: sethmblack
-tags: [structure, transformation, values-as-strategy, writing]
+description: Transform organizational values from costs or PR into competitive differentiators
+  embedded in product architecture and business model.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- structure
+- transformation
+- values-as-strategy
+- writing
 ---
 
 # Values as Strategy

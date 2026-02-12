@@ -1,9 +1,15 @@
 ---
 name: troop-inspiration
-description: Craft communications that inspire extraordinary effort from teams facing difficult challenges.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, troop-inspiration, writing]
+description: Craft communications that inspire extraordinary effort from teams facing
+  difficult challenges.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- troop-inspiration
+- writing
 ---
 
 # Troop Inspiration

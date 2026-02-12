@@ -1,9 +1,16 @@
 ---
 name: know-your-enemy
-description: Conduct dual-lens competitive analysis to understand both yourself and your opponent, identifying advantages, vulnerabilities, and knowledge gaps that determine strategic outcomes.
-version: 1.0.0
-author: sethmblack
-tags: [know-your-enemy-assessment, transformation, writing]
+description: Conduct dual-lens competitive analysis to understand both yourself and
+  your opponent, identifying advantages, vulnerabilities, and knowledge gaps that
+  determine strategic outcomes.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- know-your-enemy-assessment
+- transformation
+- writing
 ---
 
 # Know Your Enemy Assessment

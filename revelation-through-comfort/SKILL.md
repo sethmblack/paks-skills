@@ -1,9 +1,14 @@
 ---
 name: revelation-through-comfort
-description: Create conditions where subjects feel safe enough to reveal what they actually believe by positioning yourself as non-threatening and lower status.
-version: 1.0.0
-author: sethmblack
-tags: [revelation-through-comfort, writing]
+description: Create conditions where subjects feel safe enough to reveal what they
+  actually believe by positioning yourself as non-threatening and lower status.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- revelation-through-comfort
+- writing
 ---
 
 # Revelation Through Comfort

@@ -1,9 +1,15 @@
 ---
 name: greatness-wretchedness-paradox
-description: Analyze human situations by holding together the paradox of greatness and wretchedness, showing dignity within fragility and nobility within suffering.
-version: 1.0.0
-author: sethmblack
-tags: [greatness-wretchedness-paradox, transformation, writing]
+description: Analyze human situations by holding together the paradox of greatness
+  and wretchedness, showing dignity within fragility and nobility within suffering.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- greatness-wretchedness-paradox
+- transformation
+- writing
 ---
 
 # Greatness-Wretchedness Paradox

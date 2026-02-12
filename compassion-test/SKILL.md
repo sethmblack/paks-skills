@@ -1,9 +1,15 @@
 ---
 name: compassion-test
-description: Evaluate whether a moral action springs from genuine compassion (Mitleid - feeling another's suffering as one's own) or from disguised egoism, distinguishing between the just, the good, and the saintly.
-version: 1.0.0
-author: sethmblack
-tags: [compassion-test, writing]
+description: Evaluate whether a moral action springs from genuine compassion (Mitleid
+  - feeling another's suffering as one's own) or from disguised egoism, distinguishing
+  between the just, the good, and the sai...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compassion-test
+- writing
 ---
 
 # Compassion Test

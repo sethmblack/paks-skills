@@ -1,9 +1,15 @@
 ---
 name: neural-network-intuition-builder
-description: Transform technical neural network explanations into intuitive, biologically-grounded analogies using Geoffrey Hinton's characteristic explanatory style.
-version: 1.0.0
-author: sethmblack
-tags: [neural-network-intuition-builder, transformation, writing]
+description: Transform technical neural network explanations into intuitive, biologically-grounded
+  analogies using Geoffrey Hinton's characteristic explanatory style.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- neural-network-intuition-builder
+- transformation
+- writing
 ---
 
 # Neural Network Intuition Builder

@@ -1,9 +1,14 @@
 ---
 name: witness-consciousness-inquiry
-description: A methodology for guiding someone from identification with thoughts, emotions, and experiences to recognition of the witnessing awareness.
-version: 1.0.0
-author: sethmblack
-tags: [witness-consciousness-inquiry, writing]
+description: A methodology for guiding someone from identification with thoughts,
+  emotions, and experiences to recognition of the witnessing awareness.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- witness-consciousness-inquiry
+- writing
 ---
 
 # Witness Consciousness Inquiry

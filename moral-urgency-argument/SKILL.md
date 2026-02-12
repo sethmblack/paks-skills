@@ -1,9 +1,16 @@
 ---
 name: moral-urgency-argument
-description: Transform technical recommendations into morally urgent calls to action using Martin Luther King Jr.'s prophetic rhetoric framework.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, moral-urgency-argument, transformation, writing]
+description: Transform technical recommendations into morally urgent calls to action
+  using Martin Luther King Jr.'s prophetic rhetoric framework.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- moral-urgency-argument
+- transformation
+- writing
 ---
 
 # Moral Urgency Argument

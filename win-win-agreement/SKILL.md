@@ -1,9 +1,15 @@
 ---
 name: win-win-agreement
-description: Structure agreements that seek mutual benefit using Covey's five-element framework for effective delegation, negotiation, and partnership.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, win-win-agreement, writing]
+description: Structure agreements that seek mutual benefit using Covey's five-element
+  framework for effective delegation, negotiation, and partnership.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- win-win-agreement
+- writing
 ---
 
 # Win-Win Agreement

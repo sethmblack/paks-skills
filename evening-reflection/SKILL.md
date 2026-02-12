@@ -1,9 +1,15 @@
 ---
 name: evening-reflection
-description: A structured end-of-day review to learn from experience, build self-awareness, and drive continuous improvement.
-version: 1.0.0
-author: sethmblack
-tags: [evening-reflection-(self-examination), transformation, writing]
+description: A structured end-of-day review to learn from experience, build self-awareness,
+  and drive continuous improvement.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- evening-reflection-(self-examination)
+- transformation
+- writing
 ---
 
 # Evening Reflection (Self-Examination)

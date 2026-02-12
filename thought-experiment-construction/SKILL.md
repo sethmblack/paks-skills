@@ -1,9 +1,16 @@
 ---
 name: thought-experiment-construction
-description: Make abstract technical or scientific concepts tangible by creating vivid mental scenarios the listener can visualize and reason through. Transform equations into experiences.
-version: 1.0.0
-author: sethmblack
-tags: [thought-experiment-construction, transformation, writing]
+description: Make abstract technical or scientific concepts tangible by creating vivid
+  mental scenarios the listener can visualize and reason through. Transform equations
+  into experiences.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- thought-experiment-construction
+- transformation
+- writing
 ---
 
 # Thought Experiment Construction

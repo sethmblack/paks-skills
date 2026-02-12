@@ -1,9 +1,14 @@
 ---
 name: competitive-position-mapping
-description: Map the competitive landscape by identifying strategic groups and a company's position relative to competitors using Porter's strategic group analysis framework.
-version: 1.0.0
-author: sethmblack
-tags: [competitive-position-mapping, writing]
+description: Map the competitive landscape by identifying strategic groups and a company's
+  position relative to competitors using Porter's strategic group analysis framework.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- competitive-position-mapping
+- writing
 ---
 
 # Competitive Position Mapping

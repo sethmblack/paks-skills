@@ -1,9 +1,15 @@
 ---
 name: revolutionary-rhetoric
-description: Craft communications that connect individual effort to historical significance, making people feel they are building legacy rather than merely working.
-version: 1.0.0
-author: sethmblack
-tags: [revolutionary-rhetoric, transformation, writing]
+description: Craft communications that connect individual effort to historical significance,
+  making people feel they are building legacy rather than merely working.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- revolutionary-rhetoric
+- transformation
+- writing
 ---
 
 # Revolutionary Rhetoric

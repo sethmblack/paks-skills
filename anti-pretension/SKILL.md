@@ -1,9 +1,17 @@
 ---
 name: anti-pretension
-description: A methodology for identifying and dismantling pretension in writing, thinking, and discourse. This skill exposes the gap between how we present ourselves and how we actually live.
-version: 1.0.0
-author: sethmblack
-tags: [anti-pretension, comedy, storytelling, writing]
+description: A methodology for identifying and dismantling pretension in writing,
+  thinking, and discourse. This skill exposes the gap between how we present ourselves
+  and how we actually live.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- anti-pretension
+- comedy
+- storytelling
+- writing
 ---
 
 # Anti-Pretension

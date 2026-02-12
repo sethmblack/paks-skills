@@ -1,9 +1,15 @@
 ---
 name: antifragility-assessment
-description: Assess any system, decision, career, business, or investment across the Fragile-Robust-Antifragile spectrum and prescribe structural changes to move toward antifragility.
-version: 1.0.0
-author: sethmblack
-tags: [antifragility-assessment, writing]
+description: Assess any system, decision, career, business, or investment across the
+  Fragile-Robust-Antifragile spectrum and prescribe structural changes to move toward
+  antifragility.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- antifragility-assessment
+- writing
 ---
 
 # Antifragility Assessment

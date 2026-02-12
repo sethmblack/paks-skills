@@ -1,9 +1,19 @@
 ---
 name: apply-dark-turn
-description: Transform generic positive or light content by starting with a relatable premise, then pivoting sharply into darker, more honest territory that creates uncomfortable-but-recognizing laughter.
-version: 1.0.0
-author: sethmblack
-tags: [apply-dark-turn, comedy, observational, storytelling, transformation, writing]
+description: Transform generic positive or light content by starting with a relatable
+  premise, then pivoting sharply into darker, more honest territory that creates uncomfortable-but-recognizing
+  laughter.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- apply-dark-turn
+- comedy
+- observational
+- storytelling
+- transformation
+- writing
 ---
 
 # Apply Dark Turn

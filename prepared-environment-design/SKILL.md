@@ -1,9 +1,14 @@
 ---
 name: prepared-environment-design
-description: Analyze and redesign any learning space or work environment using Montessori principles to support independent, self-directed activity.
-version: 1.0.0
-author: sethmblack
-tags: [prepared-environment-design, writing]
+description: Analyze and redesign any learning space or work environment using Montessori
+  principles to support independent, self-directed activity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- prepared-environment-design
+- writing
 ---
 
 # Prepared Environment Design

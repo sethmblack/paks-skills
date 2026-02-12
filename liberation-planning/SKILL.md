@@ -1,9 +1,14 @@
 ---
 name: liberation-planning
-description: Plan escape from constraining circumstances using Harriet Tubman's comprehensive "Never Lost a Passenger" methodology.
-version: 1.0.0
-author: sethmblack
-tags: [liberation-planning, writing]
+description: Plan escape from constraining circumstances using Harriet Tubman's comprehensive
+  "Never Lost a Passenger" methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- liberation-planning
+- writing
 ---
 
 # Liberation Planning

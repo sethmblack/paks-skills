@@ -1,9 +1,14 @@
 ---
 name: stakeholder-value-mapping
-description: Map all stakeholders, define value propositions for each, identify synergies, and create accountability through measurement.
-version: 1.0.0
-author: sethmblack
-tags: [stakeholder-value-mapping, writing]
+description: Map all stakeholders, define value propositions for each, identify synergies,
+  and create accountability through measurement.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- stakeholder-value-mapping
+- writing
 ---
 
 # Stakeholder Value Mapping

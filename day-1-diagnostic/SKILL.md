@@ -1,9 +1,15 @@
 ---
 name: day-1-diagnostic
-description: Assess whether an organization, team, or initiative has slipped from Day 1 (startup vitality) to Day 2 (bureaucratic decline). Identify specific symptoms and remedies.
-version: 1.0.0
-author: sethmblack
-tags: [day-1-diagnostic, writing]
+description: Assess whether an organization, team, or initiative has slipped from
+  Day 1 (startup vitality) to Day 2 (bureaucratic decline). Identify specific symptoms
+  and remedies.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- day-1-diagnostic
+- writing
 ---
 
 # Day 1 Diagnostic

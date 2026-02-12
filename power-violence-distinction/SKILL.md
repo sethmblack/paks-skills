@@ -1,9 +1,15 @@
 ---
 name: power-violence-distinction
-description: Distinguish between power (acting in concert) and violence (instrumental destruction) to clarify what is actually happening in conflict situations. Based on Hannah Arendt's analysis in *On Violence*.
-version: 1.0.0
-author: sethmblack
-tags: [power-violence-distinction, writing]
+description: Distinguish between power (acting in concert) and violence (instrumental
+  destruction) to clarify what is actually happening in conflict situations. Based
+  on Hannah Arendt's analysis in *On Violence*.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- power-violence-distinction
+- writing
 ---
 
 # Power-Violence Distinction

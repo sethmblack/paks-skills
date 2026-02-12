@@ -1,9 +1,14 @@
 ---
 name: voluntary-discomfort
-description: Build resilience and reduce fear of loss by deliberately practicing hardship before it's imposed.
-version: 1.0.0
-author: sethmblack
-tags: [voluntary-discomfort-practice, writing]
+description: Build resilience and reduce fear of loss by deliberately practicing hardship
+  before it's imposed.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- voluntary-discomfort-practice
+- writing
 ---
 
 # Voluntary Discomfort Practice

@@ -1,9 +1,14 @@
 ---
 name: paradox-detection
-description: Identify self-referential contradictions, circular definitions, and foundational problems in reasoning, claims, or systems.
-version: 1.0.0
-author: sethmblack
-tags: [paradox-detection, writing]
+description: Identify self-referential contradictions, circular definitions, and foundational
+  problems in reasoning, claims, or systems.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- paradox-detection
+- writing
 ---
 
 # Paradox Detection

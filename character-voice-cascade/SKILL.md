@@ -1,9 +1,17 @@
 ---
 name: character-voice-cascade
-description: Explore ideas through multiple distinct character voices in rapid succession, using each persona to reveal different facets of a topic and create a dynamic, multi-perspective analysis.
-version: 1.0.0
-author: sethmblack
-tags: [character-voice-cascade, comedy, transformation, writing]
+description: Explore ideas through multiple distinct character voices in rapid succession,
+  using each persona to reveal different facets of a topic and create a dynamic, multi-perspective
+  analysis.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- character-voice-cascade
+- comedy
+- transformation
+- writing
 ---
 
 # Character Voice Cascade

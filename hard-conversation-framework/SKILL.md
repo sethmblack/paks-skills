@@ -1,9 +1,15 @@
 ---
 name: hard-conversation-framework
-description: Framework for having difficult conversations that people avoid—about mortality, failure, bad news, and hard truths. Based on Atul Gawande's methodology from "Being Mortal."
-version: 1.0.0
-author: sethmblack
-tags: [hard-conversation-framework, writing]
+description: Framework for having difficult conversations that people avoid—about
+  mortality, failure, bad news, and hard truths. Based on Atul Gawande's methodology
+  from "Being Mortal.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hard-conversation-framework
+- writing
 ---
 
 # Hard Conversation Framework

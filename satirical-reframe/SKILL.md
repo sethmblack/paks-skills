@@ -1,9 +1,19 @@
 ---
 name: satirical-reframe
-description: Transform dry, serious, or preachy content into humorous observation that makes the same point more effectively and memorably, using Mark Twain's satirical techniques.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, deadpan, satirical-reframe, transformation, writing]
+description: Transform dry, serious, or preachy content into humorous observation
+  that makes the same point more effectively and memorably, using Mark Twain's satirical
+  techniques.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- deadpan
+- satirical-reframe
+- transformation
+- writing
 ---
 
 # Satirical Reframe

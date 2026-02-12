@@ -1,9 +1,15 @@
 ---
 name: rooted-authenticity-audit
-description: Assess how connected someone is to their authentic roots and provide guidance for reclaiming heritage, identity, and specific truth. The universal lives in the particular—the more specifically yourself, the more you connect.
-version: 1.0.0
-author: sethmblack
-tags: [rooted-authenticity-audit, writing]
+description: Assess how connected someone is to their authentic roots and provide
+  guidance for reclaiming heritage, identity, and specific truth. The universal lives
+  in the particular—the more specifically your...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- rooted-authenticity-audit
+- writing
 ---
 
 # Rooted Authenticity Audit

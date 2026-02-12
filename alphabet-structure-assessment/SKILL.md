@@ -1,9 +1,14 @@
 ---
 name: alphabet-structure-assessment
-description: Evaluate whether a business unit or project has grown different enough from the core to warrant structural independence with its own CEO and culture.
-version: 1.0.0
-author: sethmblack
-tags: [alphabet-structure-assessment, writing]
+description: Evaluate whether a business unit or project has grown different enough
+  from the core to warrant structural independence with its own CEO and culture.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- alphabet-structure-assessment
+- writing
 ---
 
 # Alphabet Structure Assessment

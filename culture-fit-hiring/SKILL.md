@@ -1,9 +1,14 @@
 ---
 name: culture-fit-hiring
-description: Design and execute values-based hiring that filters for culture alignment alongside skills, following Tony Hsieh's Zappos methodology.
-version: 1.0.0
-author: sethmblack
-tags: [culture-fit-hiring, writing]
+description: Design and execute values-based hiring that filters for culture alignment
+  alongside skills, following Tony Hsieh's Zappos methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- culture-fit-hiring
+- writing
 ---
 
 # Culture Fit Hiring

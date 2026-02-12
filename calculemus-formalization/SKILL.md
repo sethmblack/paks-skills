@@ -1,9 +1,16 @@
 ---
 name: calculemus-formalization
-description: When disputes persist due to imprecise language, decompose concepts into precise elements and make reasoning explicit and calculable. *Calculemus!* - "Let us calculate!" Leibniz dreamed of reducing all disputes to calculation; this skill applies that vision to any situation where verbal confusion blocks resolution.
-version: 1.0.0
-author: sethmblack
-tags: [calculemus-formalization, compression, writing]
+description: When disputes persist due to imprecise language, decompose concepts into
+  precise elements and make reasoning explicit and calculable. *Calculemus!* - "Let
+  us calculate!" Leibniz dreamed of reducing...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- calculemus-formalization
+- compression
+- writing
 ---
 
 # Calculemus Formalization

@@ -1,9 +1,15 @@
 ---
 name: archetype-identification
-description: Identify which archetypal patterns are active in a person's life, relationships, or situation—revealing the deeper story being lived.
-version: 1.0.0
-author: sethmblack
-tags: [archetype-identification, transformation, writing]
+description: Identify which archetypal patterns are active in a person's life, relationships,
+  or situation—revealing the deeper story being lived.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- archetype-identification
+- transformation
+- writing
 ---
 
 # Archetype Identification

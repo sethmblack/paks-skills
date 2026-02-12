@@ -1,9 +1,15 @@
 ---
 name: gift-with-purchase-strategy
-description: Design irresistible promotional offers that convert browsers to buyers, introduce new products, and build lasting loyalty through Estee Lauder's revolutionary strategic generosity system.
-version: 1.0.0
-author: sethmblack
-tags: [gift-with-purchase-strategy, writing]
+description: Design irresistible promotional offers that convert browsers to buyers,
+  introduce new products, and build lasting loyalty through Estee Lauder's revolutionary
+  strategic generosity system.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- gift-with-purchase-strategy
+- writing
 ---
 
 # Gift with Purchase Strategy

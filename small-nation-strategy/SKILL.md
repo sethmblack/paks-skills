@@ -1,9 +1,16 @@
 ---
 name: small-nation-strategy
-description: Turn constraints into advantages. A small entity must be excellent where a large one can be mediocre. Position yourself as useful to all, threatening to none. Build capabilities that compensate for size.
-version: 1.0.0
-author: sethmblack
-tags: [small-nation-strategy, transformation, writing]
+description: Turn constraints into advantages. A small entity must be excellent where
+  a large one can be mediocre. Position yourself as useful to all, threatening to
+  none. Build capabilities that compensate for...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- small-nation-strategy
+- transformation
+- writing
 ---
 
 # Small Nation Strategy

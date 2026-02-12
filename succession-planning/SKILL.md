@@ -1,9 +1,14 @@
 ---
 name: succession-planning
-description: Develop and execute leadership transition plans that establish positive precedent and ensure organizational continuity.
-version: 1.0.0
-author: sethmblack
-tags: [succession-planning, writing]
+description: Develop and execute leadership transition plans that establish positive
+  precedent and ensure organizational continuity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- succession-planning
+- writing
 ---
 
 # Succession Planning

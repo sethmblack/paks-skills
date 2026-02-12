@@ -1,9 +1,14 @@
 ---
 name: i-am-stabilization
-description: A meditation methodology based on the teachings of Nisargadatta Maharaj for establishing attention in the pure sense of being.
-version: 1.0.0
-author: sethmblack
-tags: ["i-am"-stabilization-practice, writing]
+description: A meditation methodology based on the teachings of Nisargadatta Maharaj
+  for establishing attention in the pure sense of being.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- '"i-am"-stabilization-practice'
+- writing
 ---
 
 # "I Am" Stabilization Practice

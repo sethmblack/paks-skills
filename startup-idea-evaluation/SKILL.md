@@ -1,9 +1,14 @@
 ---
 name: startup-idea-evaluation
-description: Evaluate startup ideas using Paul Graham's framework for organic ideas, problem-founder fit, and market potential.
-version: 1.0.0
-author: sethmblack
-tags: [startup-idea-evaluation, writing]
+description: Evaluate startup ideas using Paul Graham's framework for organic ideas,
+  problem-founder fit, and market potential.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- startup-idea-evaluation
+- writing
 ---
 
 # Startup Idea Evaluation

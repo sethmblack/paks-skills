@@ -1,9 +1,17 @@
 ---
 name: founder-ceo-partnership
-description: Design effective founder-professional CEO partnerships that amplify founder vision while adding operational scale and credibility.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, founder-ceo-partnership, storytelling, structure, writing]
+description: Design effective founder-professional CEO partnerships that amplify founder
+  vision while adding operational scale and credibility.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- founder-ceo-partnership
+- storytelling
+- structure
+- writing
 ---
 
 # Founder-CEO Partnership

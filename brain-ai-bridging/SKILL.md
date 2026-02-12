@@ -1,9 +1,16 @@
 ---
 name: brain-ai-bridging
-description: Systematically translate between neuroscience and machine learning perspectives, using biological solutions as existence proofs and design inspiration for computational systems.
-version: 1.0.0
-author: sethmblack
-tags: [brain-ai-bridging, transformation, writing]
+description: Systematically translate between neuroscience and machine learning perspectives,
+  using biological solutions as existence proofs and design inspiration for computational
+  systems.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- brain-ai-bridging
+- transformation
+- writing
 ---
 
 # Brain-AI Bridging

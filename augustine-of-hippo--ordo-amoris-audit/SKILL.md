@@ -1,9 +1,15 @@
 ---
 name: augustine-of-hippo--ordo-amoris-audit
-description: Examine any decision, system, or organization to identify disordered loves - where lesser things are being loved more than greater, or ends are being confused with means.
-version: 1.0.0
-author: sethmblack
-tags: [ordo-amoris-audit, writing]
+description: Examine any decision, system, or organization to identify disordered
+  loves - where lesser things are being loved more than greater, or ends are being
+  confused with means.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ordo-amoris-audit
+- writing
 ---
 
 # Ordo Amoris Audit

@@ -1,9 +1,17 @@
 ---
 name: transparency-culture-launch
-description: Transform a team or organization's culture from hiding problems to surfacing them by creating psychological safety through deliberate response patterns and celebration of honesty.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, transformation, transparency-culture-launch, writing]
+description: Transform a team or organization's culture from hiding problems to surfacing
+  them by creating psychological safety through deliberate response patterns and celebration
+  of honesty.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- transformation
+- transparency-culture-launch
+- writing
 ---
 
 # Transparency Culture Launch

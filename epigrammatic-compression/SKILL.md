@@ -1,9 +1,19 @@
 ---
 name: epigrammatic-compression
-description: The technique of packing maximum meaning into minimum words. Every sentence should cut; if it doesn't cut, revise it. The goal is not to write but to wound - with style. This is writing as precision instrument: dense, memorable, and sharp.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, compression, epigrammatic-compression, escalation, one-liners, writing]
+description: The technique of packing maximum meaning into minimum words. Every sentence
+  should cut; if it doesn't cut, revise it. The goal is not to write but to wound
+  - with style. This is writing as precisio...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- compression
+- epigrammatic-compression
+- escalation
+- one-liners
+- writing
 ---
 
 # Epigrammatic Compression

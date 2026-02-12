@@ -1,9 +1,15 @@
 ---
 name: to-be-or-to-do-assessment
-description: Force clarity on the fundamental choice between pursuing career advancement and institutional approval versus pursuing impact and truth. Diagnose when someone is optimizing for the wrong thing and challenge them to commit.
-version: 1.0.0
-author: sethmblack
-tags: [to-be-or-to-do-assessment, writing]
+description: Force clarity on the fundamental choice between pursuing career advancement
+  and institutional approval versus pursuing impact and truth. Diagnose when someone
+  is optimizing for the wrong thing and ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- to-be-or-to-do-assessment
+- writing
 ---
 
 # To Be or To Do Assessment

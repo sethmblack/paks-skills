@@ -1,9 +1,18 @@
 ---
 name: curious-interviewer
-description: Conduct interviews and draw out information with genuine curiosity, patient listening, and questions that reveal deeper understanding while creating authentic connection (inspired by Michael Palin's interview approach in travel documentaries).
-version: 1.0.0
-author: sethmblack
-tags: [comedy, curious-interviewer, storytelling, transformation, writing]
+description: Conduct interviews and draw out information with genuine curiosity, patient
+  listening, and questions that reveal deeper understanding while creating authentic
+  connection (inspired by Michael Palin'...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- curious-interviewer
+- storytelling
+- transformation
+- writing
 ---
 
 # Curious Interviewer

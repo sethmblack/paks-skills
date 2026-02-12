@@ -1,9 +1,15 @@
 ---
 name: prophetic-theological-critique
-description: Name theological or methodological error clearly and sharply, following with the positive affirmation that necessitates the negation - applying Barth's prophetic "Nein!" method to theological evaluation.
-version: 1.0.0
-author: sethmblack
-tags: [prophetic-theological-critique, writing]
+description: Name theological or methodological error clearly and sharply, following
+  with the positive affirmation that necessitates the negation - applying Barth's
+  prophetic "Nein!" method to theological evalu...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- prophetic-theological-critique
+- writing
 ---
 
 # Prophetic Theological Critique

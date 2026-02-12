@@ -1,9 +1,15 @@
 ---
 name: remember-the-ladies
-description: Systematically identify overlooked voices, excluded stakeholders, and absent perspectives in any decision, policy, or plan—and advocate for their inclusion. Named for Abigail Adams's historic appeal to the Continental Congress: "Remember the Ladies, and be more generous and favourable to them than your ancestors."
-version: 1.0.0
-author: sethmblack
-tags: [remember-the-ladies, writing]
+description: Systematically identify overlooked voices, excluded stakeholders, and
+  absent perspectives in any decision, policy, or plan—and advocate for their inclusion.
+  Named for Abigail Adams's historic appea...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- remember-the-ladies
+- writing
 ---
 
 # Remember the Ladies

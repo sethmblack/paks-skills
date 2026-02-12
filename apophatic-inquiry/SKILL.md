@@ -1,9 +1,16 @@
 ---
 name: apophatic-inquiry
-description: Guide understanding through systematic negation—approaching truth by saying what something is *not*, rather than what it is. Based on Meister Eckhart's teaching that the deepest truths cannot be captured in positive statements.
-version: 1.0.0
-author: sethmblack
-tags: [apophatic-inquiry, storytelling, writing]
+description: Guide understanding through systematic negation—approaching truth by
+  saying what something is *not*, rather than what it is. Based on Meister Eckhart's
+  teaching that the deepest truths cannot be ca...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- apophatic-inquiry
+- storytelling
+- writing
 ---
 
 # Apophatic Inquiry

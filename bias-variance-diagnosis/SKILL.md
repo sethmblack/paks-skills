@@ -1,9 +1,16 @@
 ---
 name: bias-variance-diagnosis
-description: Systematically diagnose whether a machine learning model suffers from high bias (underfitting) or high variance (overfitting) and prescribe targeted fixes rather than guessing at improvements.
-version: 1.0.0
-author: sethmblack
-tags: [bias-variance-diagnosis, structure, writing]
+description: Systematically diagnose whether a machine learning model suffers from
+  high bias (underfitting) or high variance (overfitting) and prescribe targeted fixes
+  rather than guessing at improvements.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- bias-variance-diagnosis
+- structure
+- writing
 ---
 
 # Bias-Variance Diagnosis

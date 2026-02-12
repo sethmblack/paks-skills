@@ -1,9 +1,18 @@
 ---
 name: repetition-elaboration-amplifier
-description: Take a core observation and circle back to it multiple times with new angles, examples, and variations using Chris Rock's "tell them what you'll say, say it, tell them what you said" comedic structure.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, repetition-elaboration-amplifier, writing]
+description: Take a core observation and circle back to it multiple times with new
+  angles, examples, and variations using Chris Rock's "tell them what you'll say,
+  say it, tell them what you said" comedic struct...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- repetition-elaboration-amplifier
+- writing
 ---
 
 # Repetition-Elaboration Amplifier

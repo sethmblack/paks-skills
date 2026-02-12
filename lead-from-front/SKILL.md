@@ -1,9 +1,14 @@
 ---
 name: lead-from-front
-description: Build trust and inspire extraordinary effort through visible personal commitment and shared risk.
-version: 1.0.0
-author: sethmblack
-tags: [lead-from-the-front, writing]
+description: Build trust and inspire extraordinary effort through visible personal
+  commitment and shared risk.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- lead-from-the-front
+- writing
 ---
 
 # Lead from the Front

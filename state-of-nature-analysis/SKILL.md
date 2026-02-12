@@ -1,9 +1,15 @@
 ---
 name: state-of-nature-analysis
-description: Analyze any situation by imagining what would happen if the current authority structure disappeared—revealing the underlying interests, conflicts, and power dynamics that existing institutions suppress.
-version: 1.0.0
-author: sethmblack
-tags: [state-of-nature-analysis, writing]
+description: Analyze any situation by imagining what would happen if the current authority
+  structure disappeared—revealing the underlying interests, conflicts, and power dynamics
+  that existing institutions supp...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- state-of-nature-analysis
+- writing
 ---
 
 # State of Nature Analysis

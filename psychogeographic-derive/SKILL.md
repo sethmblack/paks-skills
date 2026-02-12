@@ -1,9 +1,14 @@
 ---
 name: psychogeographic-derive
-description: Guide an unplanned exploration of space to reveal hidden emotional and social structures.
-version: 1.0.0
-author: sethmblack
-tags: [psychogeographic-dérive, writing]
+description: Guide an unplanned exploration of space to reveal hidden emotional and
+  social structures.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- psychogeographic-dérive
+- writing
 ---
 
 # Psychogeographic Dérive

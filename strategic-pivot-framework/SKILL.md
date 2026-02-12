@@ -1,9 +1,16 @@
 ---
 name: strategic-pivot-framework
-description: Guide organizations through existential platform transitions while managing legacy business dependencies, based on Satya Nadella's "mobile-first, cloud-first" transformation of Microsoft from Windows-centric company to cloud leader.
-version: 1.0.0
-author: sethmblack
-tags: [strategic-pivot-framework, transformation, writing]
+description: Guide organizations through existential platform transitions while managing
+  legacy business dependencies, based on Satya Nadella's "mobile-first, cloud-first"
+  transformation of Microsoft from Windo...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- strategic-pivot-framework
+- transformation
+- writing
 ---
 
 # Strategic Pivot Framework

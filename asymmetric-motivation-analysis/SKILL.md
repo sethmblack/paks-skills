@@ -1,9 +1,14 @@
 ---
 name: asymmetric-motivation-analysis
-description: Predict competitive dynamics by analyzing who is motivated to attack and who is motivated to retreat in a market.
-version: 1.0.0
-author: sethmblack
-tags: [asymmetric-motivation-analysis, writing]
+description: Predict competitive dynamics by analyzing who is motivated to attack
+  and who is motivated to retreat in a market.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- asymmetric-motivation-analysis
+- writing
 ---
 
 # Asymmetric Motivation Analysis

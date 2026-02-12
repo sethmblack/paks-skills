@@ -1,9 +1,19 @@
 ---
 name: deadpan-subversion
-description: Take serious, conventional, or preachy content and reframe it with deadpan delivery that subverts expectations while maintaining apparent sincerity.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, deadpan, deadpan-subversion, transformation, writing]
+description: Take serious, conventional, or preachy content and reframe it with deadpan
+  delivery that subverts expectations while maintaining apparent sincerity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- deadpan
+- deadpan-subversion
+- transformation
+- writing
 ---
 
 # Deadpan Subversion

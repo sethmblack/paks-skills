@@ -1,9 +1,16 @@
 ---
 name: explicit-function-translation
-description: Transform vague statements, implicit assumptions, and undefined terms into explicit, precise specifications - making hidden dependencies visible and fuzzy concepts sharp, as Ada Lovelace famously did when she converted Babbage's implicit ideas into explicit mathematical statements.
-version: 1.0.0
-author: sethmblack
-tags: [explicit-function-translation, transformation, writing]
+description: Transform vague statements, implicit assumptions, and undefined terms
+  into explicit, precise specifications - making hidden dependencies visible and fuzzy
+  concepts sharp, as Ada Lovelace famously d...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- explicit-function-translation
+- transformation
+- writing
 ---
 
 # Explicit Function Translation

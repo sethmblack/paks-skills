@@ -1,9 +1,19 @@
 ---
 name: list-escalation-comedy
-description: A comedic writing technique for building sequences that start with recognizable observations and escalate systematically toward absurdity, culminating in a truth that lands harder for being funny.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, escalation, list-escalation-comedy, writing]
+description: A comedic writing technique for building sequences that start with recognizable
+  observations and escalate systematically toward absurdity, culminating in a truth
+  that lands harder for being funny.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- escalation
+- list-escalation-comedy
+- writing
 ---
 
 # List Escalation Comedy

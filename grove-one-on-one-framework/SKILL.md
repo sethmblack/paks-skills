@@ -1,9 +1,16 @@
 ---
 name: grove-one-on-one-framework
-description: Design and conduct effective one-on-one meetings using Andy Grove's methodology from High Output Management. The 1:1 is the manager's most important meeting: "This is the one time when problems can be caught early."
-version: 1.0.0
-author: sethmblack
-tags: [grove-one-on-one-framework, structure, writing]
+description: 'Design and conduct effective one-on-one meetings using Andy Grove''s
+  methodology from High Output Management. The 1:1 is the manager''s most important
+  meeting: "This is the one time when problems can...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- grove-one-on-one-framework
+- structure
+- writing
 ---
 
 # Grove One-on-One Framework

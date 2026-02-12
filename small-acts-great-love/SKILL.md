@@ -1,9 +1,16 @@
 ---
 name: small-acts-great-love
-description: Find meaning and effectiveness when facing overwhelming need — release the burden of solving everything while pouring complete love into the smallest possible acts.
-version: 1.0.0
-author: sethmblack
-tags: [small-acts-with-great-love, transformation, writing]
+description: Find meaning and effectiveness when facing overwhelming need — release
+  the burden of solving everything while pouring complete love into the smallest possible
+  acts.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- small-acts-with-great-love
+- transformation
+- writing
 ---
 
 # Small Acts with Great Love

@@ -1,9 +1,16 @@
 ---
 name: strategic-silence-placement
-description: Identify where silence, pause, or the unsaid can strengthen communication more than additional words. Mark the places where the dash does more than the sentence.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, strategic-silence-placement, transformation, writing]
+description: Identify where silence, pause, or the unsaid can strengthen communication
+  more than additional words. Mark the places where the dash does more than the sentence.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- strategic-silence-placement
+- transformation
+- writing
 ---
 
 # Strategic Silence Placement

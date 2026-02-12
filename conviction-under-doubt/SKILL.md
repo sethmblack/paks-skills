@@ -1,9 +1,15 @@
 ---
 name: conviction-under-doubt
-description: Act on deep inner conviction when external validation is absent, evidence is lacking, or logic counsels retreat. When the calling is real, proof becomes secondary to obedience.
-version: 1.0.0
-author: sethmblack
-tags: [conviction-under-doubt, writing]
+description: Act on deep inner conviction when external validation is absent, evidence
+  is lacking, or logic counsels retreat. When the calling is real, proof becomes secondary
+  to obedience.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- conviction-under-doubt
+- writing
 ---
 
 # Conviction Under Doubt

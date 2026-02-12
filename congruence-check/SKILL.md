@@ -1,9 +1,14 @@
 ---
 name: congruence-check
-description: Assess the alignment between inner experience and outer expression, identifying where incongruence may be causing difficulty.
-version: 1.0.0
-author: sethmblack
-tags: [congruence-check, writing]
+description: Assess the alignment between inner experience and outer expression, identifying
+  where incongruence may be causing difficulty.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- congruence-check
+- writing
 ---
 
 # Congruence Check

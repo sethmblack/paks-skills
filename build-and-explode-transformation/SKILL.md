@@ -1,9 +1,17 @@
 ---
 name: build-and-explode-transformation
-description: Transform safe, mild observations into explosive truths using Chris Rock's signature escalation structure.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, build-and-explode-transformation, escalation, transformation, writing]
+description: Transform safe, mild observations into explosive truths using Chris Rock's
+  signature escalation structure.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- build-and-explode-transformation
+- escalation
+- transformation
+- writing
 ---
 
 # Build-and-Explode Transformation

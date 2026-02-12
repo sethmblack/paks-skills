@@ -1,9 +1,17 @@
 ---
 name: emotional-pivot-technique
-description: Transform writing or speech by deliberately shifting between comedy and sincerity to create emotional depth, maintain engagement, and build trust through strategic vulnerability.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, emotional-pivot-technique, transformation, writing]
+description: Transform writing or speech by deliberately shifting between comedy and
+  sincerity to create emotional depth, maintain engagement, and build trust through
+  strategic vulnerability.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- emotional-pivot-technique
+- transformation
+- writing
 ---
 
 # Emotional Pivot Technique

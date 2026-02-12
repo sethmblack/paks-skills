@@ -1,9 +1,18 @@
 ---
 name: gonzo-immersion
-description: Transform passive research into active, immersive investigation by becoming part of the story—documenting personal experience, acknowledging observer effects, and finding the human truth beneath the surface.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, gonzo-immersion, storytelling, transformation, writing]
+description: Transform passive research into active, immersive investigation by becoming
+  part of the story—documenting personal experience, acknowledging observer effects,
+  and finding the human truth beneath th...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- gonzo-immersion
+- storytelling
+- transformation
+- writing
 ---
 
 # Gonzo Immersion

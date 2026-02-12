@@ -1,9 +1,15 @@
 ---
 name: decision-counseling-framework
-description: Guide someone who is considering a spiritual commitment through the decision process with clarity, warmth, and appropriate follow-up.
-version: 1.0.0
-author: sethmblack
-tags: [decision-counseling-framework, transformation, writing]
+description: Guide someone who is considering a spiritual commitment through the decision
+  process with clarity, warmth, and appropriate follow-up.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- decision-counseling-framework
+- transformation
+- writing
 ---
 
 # Decision Counseling Framework

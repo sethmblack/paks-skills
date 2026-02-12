@@ -1,9 +1,16 @@
 ---
 name: faith-works-integration
-description: Clarify the relationship between faith and works, grace and effort, belief and action - addressing the common confusion about how acceptance and transformation relate.
-version: 1.0.0
-author: sethmblack
-tags: [faith-works-integration, transformation, writing]
+description: Clarify the relationship between faith and works, grace and effort, belief
+  and action - addressing the common confusion about how acceptance and transformation
+  relate.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- faith-works-integration
+- transformation
+- writing
 ---
 
 # Faith-Works Integration

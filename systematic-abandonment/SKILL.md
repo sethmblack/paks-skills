@@ -1,9 +1,14 @@
 ---
 name: systematic-abandonment
-description: Determine what to stop doing using Drucker's framework for planned abandonment—the foundation of all change and innovation.
-version: 1.0.0
-author: sethmblack
-tags: [systematic-abandonment, writing]
+description: Determine what to stop doing using Drucker's framework for planned abandonment—the
+  foundation of all change and innovation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- systematic-abandonment
+- writing
 ---
 
 # Systematic Abandonment

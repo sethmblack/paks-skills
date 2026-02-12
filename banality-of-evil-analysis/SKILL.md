@@ -1,9 +1,16 @@
 ---
 name: banality-of-evil-analysis
-description: Analyze how ordinary people participate in harmful systems through thoughtlessness rather than demonic intent. Based on Hannah Arendt's observations at the Eichmann trial.
-version: 1.0.0
-author: sethmblack
-tags: [banality-of-evil-analysis, escalation, writing]
+description: Analyze how ordinary people participate in harmful systems through thoughtlessness
+  rather than demonic intent. Based on Hannah Arendt's observations at the Eichmann
+  trial.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- banality-of-evil-analysis
+- escalation
+- writing
 ---
 
 # Banality of Evil Analysis

@@ -1,9 +1,14 @@
 ---
 name: swim-upstream-analysis
-description: Identify opportunities by finding where conventional wisdom is wrong and everyone is going one direction—then deliberately go the opposite way.
-version: 1.0.0
-author: sethmblack
-tags: [swim-upstream-analysis, writing]
+description: Identify opportunities by finding where conventional wisdom is wrong
+  and everyone is going one direction—then deliberately go the opposite way.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- swim-upstream-analysis
+- writing
 ---
 
 # Swim Upstream Analysis

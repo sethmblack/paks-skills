@@ -1,9 +1,16 @@
 ---
 name: prophetic-consciousness-activation
-description: Activate prophetic awareness—the capacity to sense moral urgency, connect contemplation to action, and experience responsibility for injustice. Based on Abraham Joshua Heschel's conviction that "few are guilty, but all are responsible" and his experience that "I felt my legs were praying."
-version: 1.0.0
-author: sethmblack
-tags: [prophetic-consciousness-activation, transformation, writing]
+description: Activate prophetic awareness—the capacity to sense moral urgency, connect
+  contemplation to action, and experience responsibility for injustice. Based on Abraham
+  Joshua Heschel's conviction that "fe...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- prophetic-consciousness-activation
+- transformation
+- writing
 ---
 
 # Prophetic Consciousness Activation

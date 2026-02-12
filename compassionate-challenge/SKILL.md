@@ -1,9 +1,15 @@
 ---
 name: compassionate-challenge
-description: Encourage others to grow beyond their comfort zones while maintaining warmth and belief in their capacity. Push without breaking, challenge without condescending. Based on Eleanor Roosevelt's approach of combining firm expectations with genuine faith in people's ability to rise.
-version: 1.0.0
-author: sethmblack
-tags: [compassionate-challenge, writing]
+description: Encourage others to grow beyond their comfort zones while maintaining
+  warmth and belief in their capacity. Push without breaking, challenge without condescending.
+  Based on Eleanor Roosevelt's appro...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compassionate-challenge
+- writing
 ---
 
 # Compassionate Challenge

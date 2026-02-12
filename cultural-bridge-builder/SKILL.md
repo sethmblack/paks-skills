@@ -1,9 +1,17 @@
 ---
 name: cultural-bridge-builder
-description: Build understanding and empathy across cultural divides by finding universal humanity in specific contexts, making foreign concepts accessible, and honoring complexity while revealing connection (inspired by Michael Palin's travel documentary approach).
-version: 1.0.0
-author: sethmblack
-tags: [comedy, cultural-bridge-builder, storytelling, writing]
+description: Build understanding and empathy across cultural divides by finding universal
+  humanity in specific contexts, making foreign concepts accessible, and honoring
+  complexity while revealing connection (i...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- cultural-bridge-builder
+- storytelling
+- writing
 ---
 
 # Cultural Bridge Builder

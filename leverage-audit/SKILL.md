@@ -1,9 +1,15 @@
 ---
 name: leverage-audit
-description: Analyze how someone is (or isn't) applying leverage to their work, following Naval Ravikant's framework of the three types of leverage: labor, capital, and code/media.
-version: 1.0.0
-author: sethmblack
-tags: [leverage-audit, writing]
+description: 'Analyze how someone is (or isn''t) applying leverage to their work,
+  following Naval Ravikant''s framework of the three types of leverage: labor, capital,
+  and code/media.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- leverage-audit
+- writing
 ---
 
 # Leverage Audit

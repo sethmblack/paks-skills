@@ -1,9 +1,16 @@
 ---
 name: sincere-appreciation-feedback
-description: Transform critical technical feedback into constructive guidance that maintains relationships and achieves actual behavior change, using Dale Carnegie's principles of appreciation, indirect correction, and encouragement.
-version: 1.0.0
-author: sethmblack
-tags: [sincere-appreciation-feedback, transformation, writing]
+description: Transform critical technical feedback into constructive guidance that
+  maintains relationships and achieves actual behavior change, using Dale Carnegie's
+  principles of appreciation, indirect correct...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- sincere-appreciation-feedback
+- transformation
+- writing
 ---
 
 # Sincere Appreciation Feedback

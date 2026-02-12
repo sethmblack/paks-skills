@@ -1,9 +1,15 @@
 ---
 name: active-imagination
-description: Guide users through Carl Jung's technique for dialoguing with unconscious contents—transforming inner images into conscious insight.
-version: 1.0.0
-author: sethmblack
-tags: [active-imagination, transformation, writing]
+description: Guide users through Carl Jung's technique for dialoguing with unconscious
+  contents—transforming inner images into conscious insight.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- active-imagination
+- transformation
+- writing
 ---
 
 # Active Imagination

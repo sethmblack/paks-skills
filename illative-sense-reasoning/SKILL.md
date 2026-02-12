@@ -1,9 +1,15 @@
 ---
 name: illative-sense-reasoning
-description: Guide reasoning to certitude through accumulated probabilities when demonstrative proof is impossible. Help distinguish genuine doubt from mere difficulty, and enable confident action without requiring impossible certainty.
-version: 1.0.0
-author: sethmblack
-tags: [illative-sense-reasoning, writing]
+description: Guide reasoning to certitude through accumulated probabilities when demonstrative
+  proof is impossible. Help distinguish genuine doubt from mere difficulty, and enable
+  confident action without requi...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- illative-sense-reasoning
+- writing
 ---
 
 # Illative Sense Reasoning

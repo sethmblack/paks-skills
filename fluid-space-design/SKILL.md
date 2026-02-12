@@ -1,9 +1,18 @@
 ---
 name: fluid-space-design
-description: Transform compartmentalized spaces into continuous experiences—applying Zaha Hadid's principles of spatial fluidity where floors become walls, boundaries dissolve, and movement flows uninterrupted. Based on Hadid's approach at MAXXI: "dropping the traditional articulation in separate, secluded rooms... as well as the rigid distinction between interior and external space."
-version: 1.0.0
-author: sethmblack
-tags: [compression, fluid-space-design, structure, transformation, writing]
+description: Transform compartmentalized spaces into continuous experiences—applying
+  Zaha Hadid's principles of spatial fluidity where floors become walls, boundaries
+  dissolve, and movement flows uninterrupted....
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- fluid-space-design
+- structure
+- transformation
+- writing
 ---
 
 # Fluid Space Design

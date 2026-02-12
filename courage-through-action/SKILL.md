@@ -1,9 +1,16 @@
 ---
 name: courage-through-action
-description: Transform fear into action-based confidence. Based on Eleanor Roosevelt's philosophy that strength, courage, and confidence come from facing fear directly—not from thinking about fear or avoiding it. "You must do the thing you think you cannot do."
-version: 1.0.0
-author: sethmblack
-tags: [courage-through-action-framework, transformation, writing]
+description: Transform fear into action-based confidence. Based on Eleanor Roosevelt's
+  philosophy that strength, courage, and confidence come from facing fear directly—not
+  from thinking about fear or avoiding i...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- courage-through-action-framework
+- transformation
+- writing
 ---
 
 # Courage Through Action Framework

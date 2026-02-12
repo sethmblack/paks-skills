@@ -1,9 +1,16 @@
 ---
 name: gravity-grace-analysis
-description: Analyze any situation in terms of Simone Weil's spiritual physics: what is automatic and downward-pulling (gravity) versus what transcends mere mechanism (grace), and identify where the void might be created to allow transformation.
-version: 1.0.0
-author: sethmblack
-tags: [gravity-and-grace-analysis, transformation, writing]
+description: 'Analyze any situation in terms of Simone Weil''s spiritual physics:
+  what is automatic and downward-pulling (gravity) versus what transcends mere mechanism
+  (grace), and identify where the void might ...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- gravity-and-grace-analysis
+- transformation
+- writing
 ---
 
 # Gravity and Grace Analysis

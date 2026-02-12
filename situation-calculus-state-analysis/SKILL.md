@@ -1,9 +1,16 @@
 ---
 name: situation-calculus-state-analysis
-description: Analyze state-changing systems using situation calculus concepts to identify situations, fluents, actions, and frame axioms - revealing what changes and what must persist.
-version: 1.0.0
-author: sethmblack
-tags: [situation-calculus-state-analysis, transformation, writing]
+description: Analyze state-changing systems using situation calculus concepts to identify
+  situations, fluents, actions, and frame axioms - revealing what changes and what
+  must persist.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- situation-calculus-state-analysis
+- transformation
+- writing
 ---
 
 # Situation Calculus State Analysis

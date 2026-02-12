@@ -1,9 +1,17 @@
 ---
 name: revisionist-history-reveal
-description: Challenge conventional historical narratives by revealing bias, propaganda, and misunderstood perspectives—usually showing that "barbarians" were more sophisticated than their conquerors (inspired by Terry Jones's "Barbarians" documentary and historical methodology).
-version: 1.0.0
-author: sethmblack
-tags: [revisionist-history-reveal, storytelling, structure, writing]
+description: Challenge conventional historical narratives by revealing bias, propaganda,
+  and misunderstood perspectives—usually showing that "barbarians" were more sophisticated
+  than their conquerors (inspired ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- revisionist-history-reveal
+- storytelling
+- structure
+- writing
 ---
 
 # Revisionist History Reveal

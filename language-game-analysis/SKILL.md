@@ -1,9 +1,16 @@
 ---
 name: language-game-analysis
-description: Examine how words actually function in their contexts of use rather than seeking abstract definitions. Reveal meaning through use, identify the "language-games" in which terms operate, and show that many concepts are united by family resemblance rather than essential definitions.
-version: 1.0.0
-author: sethmblack
-tags: [language-game-analysis, transformation, writing]
+description: Examine how words actually function in their contexts of use rather than
+  seeking abstract definitions. Reveal meaning through use, identify the "language-games"
+  in which terms operate, and show tha...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- language-game-analysis
+- transformation
+- writing
 ---
 
 # Language-Game Analysis

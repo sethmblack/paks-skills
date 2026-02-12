@@ -1,9 +1,14 @@
 ---
 name: constructive-tension-creation
-description: Apply Martin Luther King Jr.'s "creative tension" framework when negotiation has failed and organizational inertia blocks necessary change.
-version: 1.0.0
-author: sethmblack
-tags: [constructive-tension-creation, writing]
+description: Apply Martin Luther King Jr.'s "creative tension" framework when negotiation
+  has failed and organizational inertia blocks necessary change.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- constructive-tension-creation
+- writing
 ---
 
 # Constructive Tension Creation

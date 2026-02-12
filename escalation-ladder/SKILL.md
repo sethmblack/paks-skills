@@ -1,9 +1,16 @@
 ---
 name: escalation-ladder
-description: Build pressure systematically over time through graduated tactical escalation—sequencing actions from research to ultimate sanction, with clear decision points for advancing or negotiating.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, escalation-ladder, writing]
+description: Build pressure systematically over time through graduated tactical escalation—sequencing
+  actions from research to ultimate sanction, with clear decision points for advancing
+  or negotiating.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- escalation-ladder
+- writing
 ---
 
 # Escalation Ladder

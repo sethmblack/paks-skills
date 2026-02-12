@@ -1,9 +1,15 @@
 ---
 name: aporia-navigation
-description: Work productively within states of puzzlement, confusion, or impasse—transforming what feels like failure into fertile ground for genuine understanding.
-version: 1.0.0
-author: sethmblack
-tags: [aporia-navigation, transformation, writing]
+description: Work productively within states of puzzlement, confusion, or impasse—transforming
+  what feels like failure into fertile ground for genuine understanding.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- aporia-navigation
+- transformation
+- writing
 ---
 
 # Aporia Navigation

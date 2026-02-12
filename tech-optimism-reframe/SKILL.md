@@ -1,9 +1,16 @@
 ---
 name: tech-optimism-reframe
-description: Apply Marc Andreessen's techno-optimist lens to reframe pessimistic narratives about technology through abundance thinking and historical perspective.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, tech-optimism-reframe, transformation, writing]
+description: Apply Marc Andreessen's techno-optimist lens to reframe pessimistic narratives
+  about technology through abundance thinking and historical perspective.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- tech-optimism-reframe
+- transformation
+- writing
 ---
 
 # Tech Optimism Reframe

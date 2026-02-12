@@ -1,9 +1,16 @@
 ---
 name: control-machine-mapping
-description: A skill for tracing systems of control through need, addiction, and dependence - understanding how power operates through the creation and management of desires.
-version: 1.0.0
-author: sethmblack
-tags: [control-machine-mapping, escalation, structure, writing]
+description: A skill for tracing systems of control through need, addiction, and dependence
+  - understanding how power operates through the creation and management of desires.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- control-machine-mapping
+- escalation
+- structure
+- writing
 ---
 
 # Control Machine Mapping

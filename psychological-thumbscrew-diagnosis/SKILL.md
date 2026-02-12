@@ -1,9 +1,17 @@
 ---
 name: psychological-thumbscrew-diagnosis
-description: Diagnose the psychological vulnerabilities, hidden motivations, and emotional drivers of a person or type based on behavioral signals, using Robert Greene's framework from Law 33 and The Laws of Human Nature.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, psychological-thumbscrew-diagnosis, storytelling, writing]
+description: Diagnose the psychological vulnerabilities, hidden motivations, and emotional
+  drivers of a person or type based on behavioral signals, using Robert Greene's framework
+  from Law 33 and The Laws of Hu...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- psychological-thumbscrew-diagnosis
+- storytelling
+- writing
 ---
 
 # Psychological Thumbscrew Diagnosis

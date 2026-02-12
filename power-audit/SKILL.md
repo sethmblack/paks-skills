@@ -1,9 +1,17 @@
 ---
 name: power-audit
-description: Systematically map power structures and identify leverage points before taking action—revealing who holds formal and informal power, their interests and vulnerabilities, and whether you can win.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, power-audit, transformation, writing]
+description: Systematically map power structures and identify leverage points before
+  taking action—revealing who holds formal and informal power, their interests and
+  vulnerabilities, and whether you can win.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- power-audit
+- transformation
+- writing
 ---
 
 # Power Audit

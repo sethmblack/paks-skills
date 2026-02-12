@@ -1,9 +1,15 @@
 ---
 name: cave-of-fear-exploration
-description: Identify what someone is avoiding and reveal how that avoidance blocks their treasure—then guide them toward the necessary confrontation.
-version: 1.0.0
-author: sethmblack
-tags: [cave-of-fear-exploration, transformation, writing]
+description: Identify what someone is avoiding and reveal how that avoidance blocks
+  their treasure—then guide them toward the necessary confrontation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cave-of-fear-exploration
+- transformation
+- writing
 ---
 
 # Cave of Fear Exploration

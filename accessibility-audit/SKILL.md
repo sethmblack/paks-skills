@@ -1,9 +1,17 @@
 ---
 name: accessibility-audit
-description: Evaluate whether technical content achieves Hawking-level accessibility - can it reach millions without sacrificing truth? Find the "one equation" that carries the weight.
-version: 1.0.0
-author: sethmblack
-tags: [accessibility-audit, structure, transformation, writing]
+description: Evaluate whether technical content achieves Hawking-level accessibility
+  - can it reach millions without sacrificing truth? Find the "one equation" that
+  carries the weight.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- accessibility-audit
+- structure
+- transformation
+- writing
 ---
 
 # Accessibility Audit

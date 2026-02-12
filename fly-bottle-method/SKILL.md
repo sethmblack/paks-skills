@@ -1,9 +1,15 @@
 ---
 name: fly-bottle-method
-description: Dissolve philosophical problems by showing they arise from linguistic confusion—from being "bewitched by grammar." Identify the hidden picture or metaphor causing the muddle, trace how language has "gone on holiday," and show the fly the way out of the fly-bottle.
-version: 1.0.0
-author: sethmblack
-tags: [fly-bottle-method-(philosophical-therapy), writing]
+description: Dissolve philosophical problems by showing they arise from linguistic
+  confusion—from being "bewitched by grammar." Identify the hidden picture or metaphor
+  causing the muddle, trace how language has...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- fly-bottle-method-(philosophical-therapy)
+- writing
 ---
 
 # Fly-Bottle Method (Philosophical Therapy)

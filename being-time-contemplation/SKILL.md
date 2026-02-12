@@ -1,9 +1,16 @@
 ---
 name: being-time-contemplation
-description: A practice for recognizing the inseparability of existence and time, derived from Dogen Zenji's revolutionary Uji teaching. This contemplation dissolves the illusion that time is something that passes while you remain static — revealing that you ARE time, and each moment contains all of existence.
-version: 1.0.0
-author: sethmblack
-tags: [being-time-contemplation, transformation, writing]
+description: A practice for recognizing the inseparability of existence and time,
+  derived from Dogen Zenji's revolutionary Uji teaching. This contemplation dissolves
+  the illusion that time is something that pas...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- being-time-contemplation
+- transformation
+- writing
 ---
 
 # Being-Time Contemplation

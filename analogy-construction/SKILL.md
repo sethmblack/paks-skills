@@ -1,9 +1,15 @@
 ---
 name: analogy-construction
-description: Create powerful analogies that illuminate abstract concepts through familiar experiences.
-version: 1.0.0
-author: sethmblack
-tags: [analogy-construction, storytelling, writing]
+description: Create powerful analogies that illuminate abstract concepts through familiar
+  experiences.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- analogy-construction
+- storytelling
+- writing
 ---
 
 # Analogy Construction

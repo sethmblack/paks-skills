@@ -1,9 +1,14 @@
 ---
 name: strategic-philanthropy-design
-description: Design giving or contribution strategies that build capacity rather than create dependency, using Carnegie's library-building philosophy.
-version: 1.0.0
-author: sethmblack
-tags: [strategic-philanthropy-design, writing]
+description: Design giving or contribution strategies that build capacity rather than
+  create dependency, using Carnegie's library-building philosophy.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- strategic-philanthropy-design
+- writing
 ---
 
 # Strategic Philanthropy Design

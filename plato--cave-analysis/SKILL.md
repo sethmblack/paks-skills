@@ -1,9 +1,15 @@
 ---
 name: plato--cave-analysis
-description: Apply Plato's Allegory of the Cave framework to diagnose epistemic position and design a path toward enlightenment.
-version: 1.0.0
-author: sethmblack
-tags: [cave-allegory-analysis, storytelling, writing]
+description: Apply Plato's Allegory of the Cave framework to diagnose epistemic position
+  and design a path toward enlightenment.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cave-allegory-analysis
+- storytelling
+- writing
 ---
 
 # Cave Allegory Analysis

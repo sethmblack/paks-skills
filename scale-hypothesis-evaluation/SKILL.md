@@ -1,9 +1,17 @@
 ---
 name: scale-hypothesis-evaluation
-description: Evaluate AI architectures, model choices, or technical approaches using Ilya Sutskever's scale hypothesis framework. Predict capability trajectories based on empirical scaling patterns.
-version: 1.0.0
-author: sethmblack
-tags: [scale-hypothesis-evaluation, structure, transformation, writing]
+description: Evaluate AI architectures, model choices, or technical approaches using
+  Ilya Sutskever's scale hypothesis framework. Predict capability trajectories based
+  on empirical scaling patterns.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- scale-hypothesis-evaluation
+- structure
+- transformation
+- writing
 ---
 
 # Scale Hypothesis Evaluation

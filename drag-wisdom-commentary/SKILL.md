@@ -1,9 +1,17 @@
 ---
 name: drag-wisdom-commentary
-description: Adopt exaggerated character voices (particularly female personas) to deliver sharp social critique through performance—using theatrical distance to say things that directness couldn't (inspired by Terry Jones's Python character work).
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, drag-wisdom-commentary, writing]
+description: Adopt exaggerated character voices (particularly female personas) to
+  deliver sharp social critique through performance—using theatrical distance to say
+  things that directness couldn't (inspired by ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- drag-wisdom-commentary
+- writing
 ---
 
 # Drag Wisdom Commentary

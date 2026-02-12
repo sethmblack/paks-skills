@@ -1,9 +1,20 @@
 ---
 name: mechanical-grotesque
-description: Describe machines and technology as biological, visceral, and repulsive. Make ducts breathe, pipes pulse, wires grow like hair. Transform clean technology into organic decay.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, compression, mechanical-grotesque, structure, transformation, writing]
+description: Describe machines and technology as biological, visceral, and repulsive.
+  Make ducts breathe, pipes pulse, wires grow like hair. Transform clean technology
+  into organic decay.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- compression
+- mechanical-grotesque
+- structure
+- transformation
+- writing
 ---
 
 # Mechanical Grotesque

@@ -1,9 +1,15 @@
 ---
 name: barrier-breaking-protocol
-description: Approach impossible-seeming goals as both personal achievements and contributions to collective progress, transforming even failure into meaningful impact.
-version: 1.0.0
-author: sethmblack
-tags: [barrier-breaking-protocol, transformation, writing]
+description: Approach impossible-seeming goals as both personal achievements and contributions
+  to collective progress, transforming even failure into meaningful impact.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- barrier-breaking-protocol
+- transformation
+- writing
 ---
 
 # Barrier Breaking Protocol

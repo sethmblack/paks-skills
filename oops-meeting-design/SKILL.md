@@ -1,9 +1,16 @@
 ---
 name: oops-meeting-design
-description: Design organizational practices that institutionalize failure celebration and psychological safety using Sara Blakely's "Oops Meeting" system.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, oops-meeting-design, transformation, writing]
+description: Design organizational practices that institutionalize failure celebration
+  and psychological safety using Sara Blakely's "Oops Meeting" system.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- oops-meeting-design
+- transformation
+- writing
 ---
 
 # Oops Meeting Design

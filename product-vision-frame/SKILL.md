@@ -1,9 +1,16 @@
 ---
 name: product-vision-frame
-description: Define a product's singular purpose and ruthlessly align all decisions to that vision, rejecting good ideas that do not serve the core. "Focus is about saying no to the hundred other good ideas."
-version: 1.0.0
-author: sethmblack
-tags: [product-vision-frame, storytelling, writing]
+description: Define a product's singular purpose and ruthlessly align all decisions
+  to that vision, rejecting good ideas that do not serve the core. "Focus is about
+  saying no to the hundred other good ideas.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- product-vision-frame
+- storytelling
+- writing
 ---
 
 # Product Vision Frame

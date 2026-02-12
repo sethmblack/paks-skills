@@ -1,9 +1,15 @@
 ---
 name: crisis-leadership
-description: Lead organizations through crisis while protecting people. Share burden across the organization rather than concentrating pain on workers. Use hardship to strengthen bonds and build loyalty that prosperity cannot purchase.
-version: 1.0.0
-author: sethmblack
-tags: [crisis-leadership, writing]
+description: Lead organizations through crisis while protecting people. Share burden
+  across the organization rather than concentrating pain on workers. Use hardship
+  to strengthen bonds and build loyalty that pr...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- crisis-leadership
+- writing
 ---
 
 # Crisis Leadership

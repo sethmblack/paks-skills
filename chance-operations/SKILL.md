@@ -1,9 +1,14 @@
 ---
 name: chance-operations
-description: A methodology for using randomization to bypass ego and unlock possibilities that intention would filter out.
-version: 1.0.0
-author: sethmblack
-tags: [chance-operations, writing]
+description: A methodology for using randomization to bypass ego and unlock possibilities
+  that intention would filter out.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- chance-operations
+- writing
 ---
 
 # Chance Operations

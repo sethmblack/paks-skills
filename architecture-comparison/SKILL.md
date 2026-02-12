@@ -1,9 +1,16 @@
 ---
 name: architecture-comparison
-description: Compare autoregressive/generative approaches (GPT-style) with predictive/JEPA approaches using Yann LeCun's framework. Help make informed architecture decisions for AI system design.
-version: 1.0.0
-author: sethmblack
-tags: [generative-vs-predictive-architecture-comparison, structure, writing]
+description: Compare autoregressive/generative approaches (GPT-style) with predictive/JEPA
+  approaches using Yann LeCun's framework. Help make informed architecture decisions
+  for AI system design.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- generative-vs-predictive-architecture-comparison
+- structure
+- writing
 ---
 
 # Generative vs Predictive Architecture Comparison

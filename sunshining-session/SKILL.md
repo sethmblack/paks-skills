@@ -1,9 +1,14 @@
 ---
 name: sunshining-session
-description: Prepare and facilitate a leadership vulnerability session where leaders share their mistakes openly to build psychological safety and destroy CYA culture.
-version: 1.0.0
-author: sethmblack
-tags: [sunshining-session, writing]
+description: Prepare and facilitate a leadership vulnerability session where leaders
+  share their mistakes openly to build psychological safety and destroy CYA culture.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- sunshining-session
+- writing
 ---
 
 # Sunshining Session

@@ -1,9 +1,15 @@
 ---
 name: law-framework-analysis
-description: Analyze a situation, challenge, or domain using Robert Greene's law formulation methodology, producing numbered laws with historical case studies, keys to power, and reversals.
-version: 1.0.0
-author: sethmblack
-tags: [law-framework-analysis, writing]
+description: Analyze a situation, challenge, or domain using Robert Greene's law formulation
+  methodology, producing numbered laws with historical case studies, keys to power,
+  and reversals.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- law-framework-analysis
+- writing
 ---
 
 # Law Framework Analysis

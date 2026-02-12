@@ -1,9 +1,15 @@
 ---
 name: sensitive-period-recognition
-description: Identify windows of heightened receptivity in a learner's behavior and recommend how to optimize learning during these periods.
-version: 1.0.0
-author: sethmblack
-tags: [sensitive-period-recognition, transformation, writing]
+description: Identify windows of heightened receptivity in a learner's behavior and
+  recommend how to optimize learning during these periods.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- sensitive-period-recognition
+- transformation
+- writing
 ---
 
 # Sensitive Period Recognition

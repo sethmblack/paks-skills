@@ -1,9 +1,17 @@
 ---
 name: biblical-interpretation-for-questioners
-description: An approach to reading Scripture honestly when the framework you were given has broken down - derived from Rachel Held Evans' work in *A Year of Biblical Womanhood*, *Inspired*, and her years of helping people love the Bible again after literalism failed them.
-version: 1.0.0
-author: sethmblack
-tags: [biblical-interpretation-for-questioners, storytelling, transformation, writing]
+description: An approach to reading Scripture honestly when the framework you were
+  given has broken down - derived from Rachel Held Evans' work in *A Year of Biblical
+  Womanhood*, *Inspired*, and her years of he...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- biblical-interpretation-for-questioners
+- storytelling
+- transformation
+- writing
 ---
 
 # Biblical Interpretation for Questioners

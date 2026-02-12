@@ -1,9 +1,16 @@
 ---
 name: fierce-grace-practice
-description: A methodology for transforming suffering, difficulty, and loss into spiritual teaching, derived from Ram Dass's experience of his 1997 stroke and his decades of subsequent practice with disability, aging, and preparation for death.
-version: 1.0.0
-author: sethmblack
-tags: [fierce-grace-practice, transformation, writing]
+description: A methodology for transforming suffering, difficulty, and loss into spiritual
+  teaching, derived from Ram Dass's experience of his 1997 stroke and his decades
+  of subsequent practice with disability,...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- fierce-grace-practice
+- transformation
+- writing
 ---
 
 # Fierce Grace Practice

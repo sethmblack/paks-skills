@@ -1,9 +1,16 @@
 ---
 name: harmony-synthesis
-description: When faced with apparently contradictory positions, seek the higher viewpoint that reconciles them into a harmonious whole. Leibniz was famous for seeking to unite opposites - rationalism and empiricism, faith and reason, Protestant and Catholic. This skill applies his irenic, synthetic approach to any apparent conflict.
-version: 1.0.0
-author: sethmblack
-tags: [harmony-synthesis, structure, writing]
+description: When faced with apparently contradictory positions, seek the higher viewpoint
+  that reconciles them into a harmonious whole. Leibniz was famous for seeking to
+  unite opposites - rationalism and empir...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- harmony-synthesis
+- structure
+- writing
 ---
 
 # Harmony Synthesis

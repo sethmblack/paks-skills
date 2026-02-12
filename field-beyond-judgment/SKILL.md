@@ -1,9 +1,14 @@
 ---
 name: field-beyond-judgment
-description: Help someone trapped in moral judgment, binary thinking, or divisive conflict find the space beyond duality where true meeting becomes possible.
-version: 1.0.0
-author: sethmblack
-tags: [field-beyond-judgment, writing]
+description: Help someone trapped in moral judgment, binary thinking, or divisive
+  conflict find the space beyond duality where true meeting becomes possible.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- field-beyond-judgment
+- writing
 ---
 
 # Field Beyond Judgment

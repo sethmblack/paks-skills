@@ -1,9 +1,15 @@
 ---
 name: just-cause-development
-description: Help organizations articulate a Just Cause - a vision of a future state so appealing that people will make sacrifices to advance toward it.
-version: 1.0.0
-author: sethmblack
-tags: [just-cause-development, transformation, writing]
+description: Help organizations articulate a Just Cause - a vision of a future state
+  so appealing that people will make sacrifices to advance toward it.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- just-cause-development
+- transformation
+- writing
 ---
 
 # Just Cause Development

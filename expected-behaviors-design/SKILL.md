@@ -1,9 +1,14 @@
 ---
 name: expected-behaviors-design
-description: Design a set of explicit expected behaviors for a team or organization, formatted for easy reference and accountability conversations.
-version: 1.0.0
-author: sethmblack
-tags: [expected-behaviors-design, writing]
+description: Design a set of explicit expected behaviors for a team or organization,
+  formatted for easy reference and accountability conversations.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- expected-behaviors-design
+- writing
 ---
 
 # Expected Behaviors Design

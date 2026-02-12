@@ -1,9 +1,16 @@
 ---
 name: mathematical-modeling-framework
-description: Transform qualitative system descriptions into quantitative mathematical models with testable predictions, using Newton's approaches to rate analysis, equilibrium, and scaling.
-version: 1.0.0
-author: sethmblack
-tags: [mathematical-modeling-framework, transformation, writing]
+description: Transform qualitative system descriptions into quantitative mathematical
+  models with testable predictions, using Newton's approaches to rate analysis, equilibrium,
+  and scaling.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- mathematical-modeling-framework
+- transformation
+- writing
 ---
 
 # Mathematical Modeling Framework

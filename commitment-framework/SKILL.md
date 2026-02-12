@@ -1,9 +1,16 @@
 ---
 name: commitment-framework
-description: Maintain unwavering character or persona integrity throughout a performance, presentation, or sustained creative act—eliminating exit ramps, absorbing reactions without breaking, and never explaining.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, commitment-framework, writing]
+description: Maintain unwavering character or persona integrity throughout a performance,
+  presentation, or sustained creative act—eliminating exit ramps, absorbing reactions
+  without breaking, and never explaining.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- commitment-framework
+- writing
 ---
 
 # Commitment Framework

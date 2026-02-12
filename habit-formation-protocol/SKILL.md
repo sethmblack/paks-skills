@@ -1,9 +1,14 @@
 ---
 name: habit-formation-protocol
-description: Design and implement a habit formation plan using William James's principles for making your nervous system your ally instead of your enemy.
-version: 1.0.0
-author: sethmblack
-tags: [habit-formation-protocol, writing]
+description: Design and implement a habit formation plan using William James's principles
+  for making your nervous system your ally instead of your enemy.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- habit-formation-protocol
+- writing
 ---
 
 # Habit Formation Protocol

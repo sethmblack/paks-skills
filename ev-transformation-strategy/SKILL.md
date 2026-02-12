@@ -1,9 +1,16 @@
 ---
 name: ev-transformation-strategy
-description: Design strategy for transitioning legacy automotive or industrial business to electric/sustainable future while managing current portfolio.
-version: 1.0.0
-author: sethmblack
-tags: [ev-transformation-strategy, structure, transformation, writing]
+description: Design strategy for transitioning legacy automotive or industrial business
+  to electric/sustainable future while managing current portfolio.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ev-transformation-strategy
+- structure
+- transformation
+- writing
 ---
 
 # EV Transformation Strategy

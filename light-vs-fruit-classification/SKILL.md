@@ -1,9 +1,16 @@
 ---
 name: light-vs-fruit-classification
-description: Distinguish between "experiments of light" (investigations that illuminate causes and build understanding) and "experiments of fruit" (investigations that produce useful results). Ensures understanding precedes application and prevents blind optimization.
-version: 1.0.0
-author: sethmblack
-tags: [light-vs.-fruit-classification, transformation, writing]
+description: Distinguish between "experiments of light" (investigations that illuminate
+  causes and build understanding) and "experiments of fruit" (investigations that
+  produce useful results). Ensures understan...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- light-vs.-fruit-classification
+- transformation
+- writing
 ---
 
 # Light vs. Fruit Classification

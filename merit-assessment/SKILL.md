@@ -1,9 +1,14 @@
 ---
 name: merit-assessment
-description: Evaluate people based on demonstrated results and proven ability rather than credentials, titles, or background.
-version: 1.0.0
-author: sethmblack
-tags: [merit-assessment, writing]
+description: Evaluate people based on demonstrated results and proven ability rather
+  than credentials, titles, or background.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- merit-assessment
+- writing
 ---
 
 # Merit Assessment

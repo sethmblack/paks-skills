@@ -1,9 +1,14 @@
 ---
 name: scientific-honesty-framework
-description: Detect self-deception and cargo cult thinking using Feynman's principles of intellectual integrity.
-version: 1.0.0
-author: sethmblack
-tags: [scientific-honesty-framework, writing]
+description: Detect self-deception and cargo cult thinking using Feynman's principles
+  of intellectual integrity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- scientific-honesty-framework
+- writing
 ---
 
 # Scientific Honesty Framework

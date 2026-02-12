@@ -1,9 +1,15 @@
 ---
 name: meeting-audit
-description: Analyze calendars and meeting patterns to identify meetings that should be eliminated, restructured, or protected. Reclaim time for deep work by applying Tobi Lutke's anti-meeting principles.
-version: 1.0.0
-author: sethmblack
-tags: [meeting-audit, writing]
+description: Analyze calendars and meeting patterns to identify meetings that should
+  be eliminated, restructured, or protected. Reclaim time for deep work by applying
+  Tobi Lutke's anti-meeting principles.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- meeting-audit
+- writing
 ---
 
 # Meeting Audit

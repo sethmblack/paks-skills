@@ -1,9 +1,15 @@
 ---
 name: cognitive-bias-detection
-description: Systematically identify which cognitive biases may be affecting a judgment, decision, or belief, providing explanations and debiasing strategies.
-version: 1.0.0
-author: sethmblack
-tags: [cognitive-bias-detection, transformation, writing]
+description: Systematically identify which cognitive biases may be affecting a judgment,
+  decision, or belief, providing explanations and debiasing strategies.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cognitive-bias-detection
+- transformation
+- writing
 ---
 
 # Cognitive Bias Detection

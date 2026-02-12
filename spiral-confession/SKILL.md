@@ -1,9 +1,20 @@
 ---
 name: spiral-confession
-description: Transform generic emotional statements into layered confessional narratives that spiral from surface behavior into psychological architecture, revealing the internalized voices and patterns driving the behavior.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, escalation, spiral-confession, storytelling, structure, transformation, writing]
+description: Transform generic emotional statements into layered confessional narratives
+  that spiral from surface behavior into psychological architecture, revealing the
+  internalized voices and patterns driving...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- escalation
+- spiral-confession
+- storytelling
+- structure
+- transformation
+- writing
 ---
 
 # Spiral Confession

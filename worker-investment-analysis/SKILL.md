@@ -1,9 +1,14 @@
 ---
 name: worker-investment-analysis
-description: Analyze worker and team investment decisions through the lens of strategic value creation rather than cost minimization.
-version: 1.0.0
-author: sethmblack
-tags: [worker-investment-analysis, writing]
+description: Analyze worker and team investment decisions through the lens of strategic
+  value creation rather than cost minimization.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- worker-investment-analysis
+- writing
 ---
 
 # Worker Investment Analysis

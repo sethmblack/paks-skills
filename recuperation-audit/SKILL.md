@@ -1,9 +1,15 @@
 ---
 name: recuperation-audit
-description: Assess how radical ideas, movements, or critiques have been (or will be) absorbed and commodified by the system.
-version: 1.0.0
-author: sethmblack
-tags: [recuperation-audit, transformation, writing]
+description: Assess how radical ideas, movements, or critiques have been (or will
+  be) absorbed and commodified by the system.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- recuperation-audit
+- transformation
+- writing
 ---
 
 # Recuperation Audit

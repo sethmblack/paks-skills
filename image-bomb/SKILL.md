@@ -1,9 +1,15 @@
 ---
 name: image-bomb
-description: Design a compelling visual action that forces media coverage of an issue without requiring budget or platform access.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, image-bomb, writing]
+description: Design a compelling visual action that forces media coverage of an issue
+  without requiring budget or platform access.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- image-bomb
+- writing
 ---
 
 # Image Bomb

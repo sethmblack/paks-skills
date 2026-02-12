@@ -1,9 +1,15 @@
 ---
 name: liberal-education-framework
-description: Design or evaluate educational and formation approaches using John Henry Newman's philosophy of liberal education, which cultivates the whole person and develops intellectual habit rather than merely transmitting information or training for specific tasks.
-version: 1.0.0
-author: sethmblack
-tags: [liberal-education-framework, writing]
+description: Design or evaluate educational and formation approaches using John Henry
+  Newman's philosophy of liberal education, which cultivates the whole person and
+  develops intellectual habit rather than mere...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- liberal-education-framework
+- writing
 ---
 
 # Liberal Education Framework

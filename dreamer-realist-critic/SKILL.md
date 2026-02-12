@@ -1,9 +1,16 @@
 ---
 name: dreamer-realist-critic
-description: Structured creative problem-solving using Walt Disney's three-room methodology: separate imagination, practical planning, and critical evaluation into distinct phases that don't contaminate each other.
-version: 1.0.0
-author: sethmblack
-tags: [dreamer-realist-critic, transformation, writing]
+description: 'Structured creative problem-solving using Walt Disney''s three-room
+  methodology: separate imagination, practical planning, and critical evaluation into
+  distinct phases that don''t contaminate each ot...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- dreamer-realist-critic
+- transformation
+- writing
 ---
 
 # Dreamer-Realist-Critic

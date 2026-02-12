@@ -1,9 +1,19 @@
 ---
 name: personal-to-universal
-description: Transform abstract social issues or generic statements into undeniable truths by grounding them in specific personal experiences, then showing how the personal story reveals universal systemic realities.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, personal-to-universal-bridge, storytelling, transformation, writing]
+description: Transform abstract social issues or generic statements into undeniable
+  truths by grounding them in specific personal experiences, then showing how the
+  personal story reveals universal systemic real...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- personal-to-universal-bridge
+- storytelling
+- transformation
+- writing
 ---
 
 # Personal-to-Universal Bridge

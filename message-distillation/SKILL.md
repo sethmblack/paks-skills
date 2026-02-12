@@ -1,9 +1,16 @@
 ---
 name: message-distillation
-description: Transform complex messages into immediately comprehensible, maximally impactful forms—distilling to single sentences, embodying images, subverted symbols, and stripped-down essentials that work for both children and scholars.
-version: 1.0.0
-author: sethmblack
-tags: [message-distillation, transformation, writing]
+description: Transform complex messages into immediately comprehensible, maximally
+  impactful forms—distilling to single sentences, embodying images, subverted symbols,
+  and stripped-down essentials that work for...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- message-distillation
+- transformation
+- writing
 ---
 
 # Message Distillation

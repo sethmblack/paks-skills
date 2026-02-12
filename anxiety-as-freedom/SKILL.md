@@ -1,9 +1,16 @@
 ---
 name: anxiety-as-freedom
-description: Reframe existential anxiety as the disclosure of freedom rather than pathology—helping someone understand that their anxiety reveals the choices they face and the freedom they possess.
-version: 1.0.0
-author: sethmblack
-tags: [anxiety-as-freedom, transformation, writing]
+description: Reframe existential anxiety as the disclosure of freedom rather than
+  pathology—helping someone understand that their anxiety reveals the choices they
+  face and the freedom they possess.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- anxiety-as-freedom
+- transformation
+- writing
 ---
 
 # Anxiety as Freedom

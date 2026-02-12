@@ -1,9 +1,17 @@
 ---
 name: experience-economy-audit
-description: Assess where an offering falls on the commodity-to-experience spectrum and identify opportunities to elevate beyond product/service to meaningful experience, based on Howard Schultz's transformation of coffee from commodity to premium experience.
-version: 1.0.0
-author: sethmblack
-tags: [experience-economy-audit, storytelling, transformation, writing]
+description: Assess where an offering falls on the commodity-to-experience spectrum
+  and identify opportunities to elevate beyond product/service to meaningful experience,
+  based on Howard Schultz's transformatio...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- experience-economy-audit
+- storytelling
+- transformation
+- writing
 ---
 
 # Experience Economy Audit

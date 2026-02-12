@@ -1,9 +1,15 @@
 ---
 name: strategic-timing-assessment
-description: Determine optimal timing for major actions using Harriet Tubman's "Saturday Night" methodology - analyzing observation cycles, response delays, and cover conditions.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, strategic-timing-assessment, writing]
+description: Determine optimal timing for major actions using Harriet Tubman's "Saturday
+  Night" methodology - analyzing observation cycles, response delays, and cover conditions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- strategic-timing-assessment
+- writing
 ---
 
 # Strategic Timing Assessment

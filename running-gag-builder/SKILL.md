@@ -1,9 +1,17 @@
 ---
 name: running-gag-builder
-description: Establish and maintain recurring character traits or jokes that compound in value over time through consistency and strategic variation.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, escalation, running-gag-builder, writing]
+description: Establish and maintain recurring character traits or jokes that compound
+  in value over time through consistency and strategic variation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- escalation
+- running-gag-builder
+- writing
 ---
 
 # Running Gag Builder

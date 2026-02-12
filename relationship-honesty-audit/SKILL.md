@@ -1,9 +1,16 @@
 ---
 name: relationship-honesty-audit
-description: Audit relationship communication patterns to identify where comfortable lies are being maintained instead of hard truths, then provide framework for radical honesty. Based on Patrice O'Neal's "Black Phillip Show" methodology of cutting through relationship pretense to reveal actual dynamics.
-version: 1.0.0
-author: sethmblack
-tags: [relationship-honesty-audit, transformation, writing]
+description: Audit relationship communication patterns to identify where comfortable
+  lies are being maintained instead of hard truths, then provide framework for radical
+  honesty. Based on Patrice O'Neal's "Blac...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- relationship-honesty-audit
+- transformation
+- writing
 ---
 
 # Relationship Honesty Audit

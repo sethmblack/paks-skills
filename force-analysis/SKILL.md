@@ -1,9 +1,16 @@
 ---
 name: force-analysis
-description: Analyze how force operates in any situation—who or what is reducing persons to things, and how both victim and wielder are degraded by force's operation.
-version: 1.0.0
-author: sethmblack
-tags: [force-analysis, storytelling, transformation, writing]
+description: Analyze how force operates in any situation—who or what is reducing persons
+  to things, and how both victim and wielder are degraded by force's operation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- force-analysis
+- storytelling
+- transformation
+- writing
 ---
 
 # Force Analysis

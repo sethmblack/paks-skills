@@ -1,9 +1,17 @@
 ---
 name: historical-connection
-description: A methodology for revealing how present conditions emerged from past processes, making visible the chains of cause and effect that comfortable narratives obscure. This skill connects current situations to their historical origins, transforming "how things are" into "how things were made."
-version: 1.0.0
-author: sethmblack
-tags: [historical-connection, storytelling, transformation, writing]
+description: A methodology for revealing how present conditions emerged from past
+  processes, making visible the chains of cause and effect that comfortable narratives
+  obscure. This skill connects current situat...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- historical-connection
+- storytelling
+- transformation
+- writing
 ---
 
 # Historical Connection

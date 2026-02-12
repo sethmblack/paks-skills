@@ -1,9 +1,16 @@
 ---
 name: fortune-virtu-analysis
-description: Separate what's within your control (virtù) from what's circumstance (fortuna) to focus action appropriately.
-version: 1.0.0
-author: sethmblack
-tags: [fortune-virtù-analysis, storytelling, transformation, writing]
+description: Separate what's within your control (virtù) from what's circumstance
+  (fortuna) to focus action appropriately.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- fortune-virtù-analysis
+- storytelling
+- transformation
+- writing
 ---
 
 # Fortune-Virtù Analysis

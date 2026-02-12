@@ -1,9 +1,15 @@
 ---
 name: crisis-lending-protocol
-description: Evaluate opportunities to become a lender when traditional sources fail, setting appropriate terms that balance opportunity with ethics and securing adequate collateral.
-version: 1.0.0
-author: sethmblack
-tags: [crisis-lending-protocol, writing]
+description: Evaluate opportunities to become a lender when traditional sources fail,
+  setting appropriate terms that balance opportunity with ethics and securing adequate
+  collateral.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- crisis-lending-protocol
+- writing
 ---
 
 # Crisis Lending Protocol

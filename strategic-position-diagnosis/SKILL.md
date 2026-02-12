@@ -1,9 +1,15 @@
 ---
 name: strategic-position-diagnosis
-description: Distinguish between operational effectiveness improvements and true strategic positioning to clarify what constitutes sustainable competitive advantage.
-version: 1.0.0
-author: sethmblack
-tags: [strategic-position-diagnosis, transformation, writing]
+description: Distinguish between operational effectiveness improvements and true strategic
+  positioning to clarify what constitutes sustainable competitive advantage.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- strategic-position-diagnosis
+- transformation
+- writing
 ---
 
 # Strategic Position Diagnosis

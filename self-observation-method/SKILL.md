@@ -1,9 +1,14 @@
 ---
 name: self-observation-method
-description: A systematic framework for observing your own mechanical patterns, center activity, and automatic responses - derived from P.D. Ouspensky's Fourth Way teaching.
-version: 1.0.0
-author: sethmblack
-tags: [self-observation-method, writing]
+description: A systematic framework for observing your own mechanical patterns, center
+  activity, and automatic responses - derived from P.D. Ouspensky's Fourth Way teaching.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- self-observation-method
+- writing
 ---
 
 # Self-Observation Method

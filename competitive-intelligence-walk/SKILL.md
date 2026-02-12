@@ -1,9 +1,14 @@
 ---
 name: competitive-intelligence-walk
-description: Systematically learn from competitors by observing what they do *better* than you, not their weaknesses.
-version: 1.0.0
-author: sethmblack
-tags: [competitive-intelligence-walk, writing]
+description: Systematically learn from competitors by observing what they do *better*
+  than you, not their weaknesses.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- competitive-intelligence-walk
+- writing
 ---
 
 # Competitive Intelligence Walk

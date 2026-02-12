@@ -1,9 +1,16 @@
 ---
 name: pause-timing-framework
-description: Use strategic silence and delayed responses to create anticipation and reveal character through timing rather than words.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, pause-timing-framework, writing]
+description: Use strategic silence and delayed responses to create anticipation and
+  reveal character through timing rather than words.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- pause-timing-framework
+- writing
 ---
 
 # Pause Timing Framework

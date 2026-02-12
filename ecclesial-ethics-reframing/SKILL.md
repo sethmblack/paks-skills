@@ -1,9 +1,17 @@
 ---
 name: ecclesial-ethics-reframing
-description: A methodology for shifting ethical questions from individualistic deliberation to community-based formation, derived from Stanley Hauerwas's theological ethics and his insistence that "the church doesn't have a social ethic; the church IS a social ethic."
-version: 1.0.0
-author: sethmblack
-tags: [ecclesial-ethics-reframing, storytelling, transformation, writing]
+description: A methodology for shifting ethical questions from individualistic deliberation
+  to community-based formation, derived from Stanley Hauerwas's theological ethics
+  and his insistence that "the church d...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ecclesial-ethics-reframing
+- storytelling
+- transformation
+- writing
 ---
 
 # Ecclesial Ethics Reframing

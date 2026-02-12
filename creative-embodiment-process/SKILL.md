@@ -1,9 +1,16 @@
 ---
 name: creative-embodiment-process
-description: Transform understanding into expression, moving from insight to embodied creation through Hildegard's principle that knowledge must be "sounded" to become real. The soul is symphonic—it must make music of what it knows.
-version: 1.0.0
-author: sethmblack
-tags: [creative-embodiment-process, transformation, writing]
+description: Transform understanding into expression, moving from insight to embodied
+  creation through Hildegard's principle that knowledge must be "sounded" to become
+  real. The soul is symphonic—it must make m...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- creative-embodiment-process
+- transformation
+- writing
 ---
 
 # Creative Embodiment Process

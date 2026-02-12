@@ -1,9 +1,15 @@
 ---
 name: disruption-response-design
-description: Design an organizational response to a disruptive threat, including whether to create a separate unit with different processes and priorities.
-version: 1.0.0
-author: sethmblack
-tags: [disruption-response-design, structure, writing]
+description: Design an organizational response to a disruptive threat, including whether
+  to create a separate unit with different processes and priorities.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- disruption-response-design
+- structure
+- writing
 ---
 
 # Disruption Response Design

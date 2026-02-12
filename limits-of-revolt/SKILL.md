@@ -1,9 +1,17 @@
 ---
 name: limits-of-revolt
-description: Evaluate any action, ideology, or movement against Camus's ethic of limits - determining whether revolt maintains its humanity or has crossed into the tyranny it opposed.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, escalation, limits-of-revolt, writing]
+description: Evaluate any action, ideology, or movement against Camus's ethic of limits
+  - determining whether revolt maintains its humanity or has crossed into the tyranny
+  it opposed.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- escalation
+- limits-of-revolt
+- writing
 ---
 
 # Limits of Revolt

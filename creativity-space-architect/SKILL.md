@@ -1,9 +1,16 @@
 ---
 name: creativity-space-architect
-description: Implement John Cleese's 5-factor creativity framework to design optimal conditions for creative work: Space, Time, Time (incubation), Confidence, and Humor.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, compression, creativity-space-architect, writing]
+description: 'Implement John Cleese''s 5-factor creativity framework to design optimal
+  conditions for creative work: Space, Time, Time (incubation), Confidence, and Humor.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- compression
+- creativity-space-architect
+- writing
 ---
 
 # Creativity Space Architect

@@ -1,9 +1,15 @@
 ---
 name: double-effect-reasoning
-description: Evaluate the moral permissibility of actions that produce both good and bad effects by applying the principle of double effect. This framework determines when it is permissible to cause harm as a side effect of bringing about a good result.
-version: 1.0.0
-author: sethmblack
-tags: [double-effect-reasoning, writing]
+description: Evaluate the moral permissibility of actions that produce both good and
+  bad effects by applying the principle of double effect. This framework determines
+  when it is permissible to cause harm as a s...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- double-effect-reasoning
+- writing
 ---
 
 # Double Effect Reasoning

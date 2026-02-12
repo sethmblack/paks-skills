@@ -1,9 +1,15 @@
 ---
 name: spectacle-diagnosis
-description: Analyze any situation to identify where authentic experience has been replaced by representation.
-version: 1.0.0
-author: sethmblack
-tags: [spectacle-diagnosis, storytelling, writing]
+description: Analyze any situation to identify where authentic experience has been
+  replaced by representation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- spectacle-diagnosis
+- storytelling
+- writing
 ---
 
 # Spectacle Diagnosis

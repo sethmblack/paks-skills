@@ -1,9 +1,16 @@
 ---
 name: authentic-storytelling
-description: Transform any subject into a compelling human story by finding the real people and their true experiences behind abstractions.
-version: 1.0.0
-author: sethmblack
-tags: [authentic-storytelling, storytelling, transformation, writing]
+description: Transform any subject into a compelling human story by finding the real
+  people and their true experiences behind abstractions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- authentic-storytelling
+- storytelling
+- transformation
+- writing
 ---
 
 # Authentic Storytelling

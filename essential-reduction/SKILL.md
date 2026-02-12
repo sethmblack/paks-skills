@@ -1,9 +1,15 @@
 ---
 name: essential-reduction
-description: Apply subtractive analysis to creative work, identifying elements that can be removed to strengthen the core essence.
-version: 1.0.0
-author: sethmblack
-tags: [compression, essential-reduction, writing]
+description: Apply subtractive analysis to creative work, identifying elements that
+  can be removed to strengthen the core essence.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- essential-reduction
+- writing
 ---
 
 # Essential Reduction

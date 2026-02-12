@@ -1,9 +1,18 @@
 ---
 name: storyboard-experience
-description: Visualize and sequence any experience, journey, or narrative by mapping it scene-by-scene before building - Walt Disney's methodology for seeing the whole picture, enabling cheap iteration and creating shared vision.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, storyboard-experience, storytelling, transformation, writing]
+description: Visualize and sequence any experience, journey, or narrative by mapping
+  it scene-by-scene before building - Walt Disney's methodology for seeing the whole
+  picture, enabling cheap iteration and crea...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- storyboard-experience
+- storytelling
+- transformation
+- writing
 ---
 
 # Storyboard Experience

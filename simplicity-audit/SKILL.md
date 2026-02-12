@@ -1,9 +1,16 @@
 ---
 name: simplicity-audit
-description: Systematically eliminate unnecessary complexity from a product, feature, or process by applying Steve Jobs's ruthless simplification methodology: "Simplicity is the ultimate sophistication."
-version: 1.0.0
-author: sethmblack
-tags: [simplicity-audit, structure, writing]
+description: 'Systematically eliminate unnecessary complexity from a product, feature,
+  or process by applying Steve Jobs''s ruthless simplification methodology: "Simplicity
+  is the ultimate sophistication.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- simplicity-audit
+- structure
+- writing
 ---
 
 # Simplicity Audit

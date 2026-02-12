@@ -1,9 +1,14 @@
 ---
 name: nelson-touch-command
-description: Lead distributed teams through shared intent rather than detailed orders. Empower people to execute your purpose when they cannot see your signals.
-version: 1.0.0
-author: sethmblack
-tags: [nelson-touch-command, writing]
+description: Lead distributed teams through shared intent rather than detailed orders.
+  Empower people to execute your purpose when they cannot see your signals.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- nelson-touch-command
+- writing
 ---
 
 # Nelson Touch Command

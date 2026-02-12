@@ -1,9 +1,16 @@
 ---
 name: imaginative-theology
-description: Convey theological truth through story, image, and "supposal" rather than bare argument - baptizing the imagination so that truth is felt before it is formulated.
-version: 1.0.0
-author: sethmblack
-tags: [imaginative-theology, storytelling, writing]
+description: Convey theological truth through story, image, and "supposal" rather
+  than bare argument - baptizing the imagination so that truth is felt before it is
+  formulated.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- imaginative-theology
+- storytelling
+- writing
 ---
 
 # Imaginative Theology

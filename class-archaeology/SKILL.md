@@ -1,9 +1,16 @@
 ---
 name: class-archaeology
-description: Systematically excavate the class, privilege, and status assumptions buried in behaviors, trends, products, or cultural phenomena.
-version: 1.0.0
-author: sethmblack
-tags: [class-archaeology, comedy, transformation, writing]
+description: Systematically excavate the class, privilege, and status assumptions
+  buried in behaviors, trends, products, or cultural phenomena.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- class-archaeology
+- comedy
+- transformation
+- writing
 ---
 
 # Class Archaeology

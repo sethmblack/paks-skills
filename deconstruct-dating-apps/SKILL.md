@@ -1,9 +1,20 @@
 ---
 name: deconstruct-dating-apps
-description: Apply forensic analysis to modern romance and dating culture, exposing the algorithmic absurdity, transactional nature, and impossible expectations of finding love through digital platforms.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, compression, deconstruct-dating-apps, storytelling, transformation, writing]
+description: Apply forensic analysis to modern romance and dating culture, exposing
+  the algorithmic absurdity, transactional nature, and impossible expectations of
+  finding love through digital platforms.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- compression
+- deconstruct-dating-apps
+- storytelling
+- transformation
+- writing
 ---
 
 # Deconstruct Dating Apps

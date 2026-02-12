@@ -1,9 +1,16 @@
 ---
 name: notebook-knowledge-capture
-description: Create and maintain personal or team knowledge bases that enable cross-domain synthesis over time. Apply Leonardo da Vinci's notebook methodology: multi-domain pages, observation-annotation integration, and iterative refinement over years.
-version: 1.0.0
-author: sethmblack
-tags: [notebook-knowledge-capture, structure, writing]
+description: 'Create and maintain personal or team knowledge bases that enable cross-domain
+  synthesis over time. Apply Leonardo da Vinci''s notebook methodology: multi-domain
+  pages, observation-annotation integra...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- notebook-knowledge-capture
+- structure
+- writing
 ---
 
 # Notebook Knowledge Capture

@@ -1,9 +1,16 @@
 ---
 name: long-distance-partnership
-description: Sustain meaningful connection, mutual influence, and effective collaboration with partners, colleagues, or family members across physical distance—using the methods Abigail Adams employed during nearly a decade of separation from John while they built a nation and a marriage.
-version: 1.0.0
-author: sethmblack
-tags: [long-distance-partnership, structure, writing]
+description: Sustain meaningful connection, mutual influence, and effective collaboration
+  with partners, colleagues, or family members across physical distance—using the
+  methods Abigail Adams employed during ne...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- long-distance-partnership
+- structure
+- writing
 ---
 
 # Long-Distance Partnership

@@ -1,9 +1,15 @@
 ---
 name: ironic-reframe
-description: Transform direct statements into ironic observations that say one thing while meaning another, creating engagement, sophistication, and double-edged wit.
-version: 1.0.0
-author: sethmblack
-tags: [ironic-reframe, transformation, writing]
+description: Transform direct statements into ironic observations that say one thing
+  while meaning another, creating engagement, sophistication, and double-edged wit.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ironic-reframe
+- transformation
+- writing
 ---
 
 # Ironic Reframe

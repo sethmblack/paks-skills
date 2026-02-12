@@ -1,9 +1,14 @@
 ---
 name: word-virus-analysis
-description: A skill for identifying how language programs consciousness and serves control - treating words as parasitic organisms that shape what we can think.
-version: 1.0.0
-author: sethmblack
-tags: [word-virus-analysis, writing]
+description: A skill for identifying how language programs consciousness and serves
+  control - treating words as parasitic organisms that shape what we can think.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- word-virus-analysis
+- writing
 ---
 
 # Word Virus Analysis

@@ -1,9 +1,15 @@
 ---
 name: soliloquy-construction
-description: Articulate the unspoken internal dialogue—the thoughts and feelings someone cannot or will not express publicly.
-version: 1.0.0
-author: sethmblack
-tags: [soliloquy-construction, transformation, writing]
+description: Articulate the unspoken internal dialogue—the thoughts and feelings someone
+  cannot or will not express publicly.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- soliloquy-construction
+- transformation
+- writing
 ---
 
 # Soliloquy Construction

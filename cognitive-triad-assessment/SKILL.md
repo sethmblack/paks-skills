@@ -1,9 +1,15 @@
 ---
 name: cognitive-triad-assessment
-description: Map depressive thinking patterns across Aaron Beck's cognitive triad: negative views of self, world/others, and future. Provides structured understanding of how depression colors thinking in three interconnected domains.
-version: 1.0.0
-author: sethmblack
-tags: [cognitive-triad-assessment, writing]
+description: 'Map depressive thinking patterns across Aaron Beck''s cognitive triad:
+  negative views of self, world/others, and future. Provides structured understanding
+  of how depression colors thinking in three ...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cognitive-triad-assessment
+- writing
 ---
 
 # Cognitive Triad Assessment

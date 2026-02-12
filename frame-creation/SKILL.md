@@ -1,9 +1,15 @@
 ---
 name: frame-creation
-description: A methodology for designating attention as the creative act, where establishing context transforms ordinary phenomena into significant experience.
-version: 1.0.0
-author: sethmblack
-tags: [frame-creation, transformation, writing]
+description: A methodology for designating attention as the creative act, where establishing
+  context transforms ordinary phenomena into significant experience.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- frame-creation
+- transformation
+- writing
 ---
 
 # Frame Creation

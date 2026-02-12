@@ -1,9 +1,21 @@
 ---
 name: character-bit-construction
-description: Develop recognizable character types from observational details, creating embodied characters with distinct voice, perspective, and internal logic rather than described types.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, character-bit-construction, comedy, observational, storytelling, structure, writing]
+description: Develop recognizable character types from observational details, creating
+  embodied characters with distinct voice, perspective, and internal logic rather
+  than described types.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- character-bit-construction
+- comedy
+- observational
+- storytelling
+- structure
+- writing
 ---
 
 # Character Bit Construction

@@ -1,9 +1,17 @@
 ---
 name: asymmetric-bet-sizing
-description: Evaluate a portfolio of initiatives using moonshot math: fund projects with low probability but massive potential returns, accepting that most will fail while optimizing for total value created.
-version: 1.0.0
-author: sethmblack
-tags: [asymmetric-bet-sizing, storytelling, transformation, writing]
+description: 'Evaluate a portfolio of initiatives using moonshot math: fund projects
+  with low probability but massive potential returns, accepting that most will fail
+  while optimizing for total value created.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- asymmetric-bet-sizing
+- storytelling
+- transformation
+- writing
 ---
 
 # Asymmetric Bet Sizing

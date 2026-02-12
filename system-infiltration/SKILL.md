@@ -1,9 +1,17 @@
 ---
 name: system-infiltration
-description: Work within systems to critique or transform them from inside—understanding rules, finding blind spots, entering through legitimate channels, planting critique, and letting the system's response prove your point.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, system-infiltration, transformation, writing]
+description: Work within systems to critique or transform them from inside—understanding
+  rules, finding blind spots, entering through legitimate channels, planting critique,
+  and letting the system's response pr...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- system-infiltration
+- transformation
+- writing
 ---
 
 # System Infiltration

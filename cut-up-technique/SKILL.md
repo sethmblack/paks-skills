@@ -1,9 +1,16 @@
 ---
 name: cut-up-technique
-description: A skill for disrupting textual meaning through physical cutting and reassembly - scrambling language to break the control of linear narrative.
-version: 1.0.0
-author: sethmblack
-tags: [cut-up-technique, storytelling, transformation, writing]
+description: A skill for disrupting textual meaning through physical cutting and reassembly
+  - scrambling language to break the control of linear narrative.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cut-up-technique
+- storytelling
+- transformation
+- writing
 ---
 
 # Cut-Up Technique

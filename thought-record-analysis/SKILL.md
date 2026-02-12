@@ -1,9 +1,16 @@
 ---
 name: thought-record-analysis
-description: Guide someone through the structured 7-column thought record process to examine, evaluate, and reframe automatic thoughts. Based on Aaron Beck's cognitive therapy methodology.
-version: 1.0.0
-author: sethmblack
-tags: [thought-record-analysis, transformation, writing]
+description: Guide someone through the structured 7-column thought record process
+  to examine, evaluate, and reframe automatic thoughts. Based on Aaron Beck's cognitive
+  therapy methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- thought-record-analysis
+- transformation
+- writing
 ---
 
 # Thought Record Analysis

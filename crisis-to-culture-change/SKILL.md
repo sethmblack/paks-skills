@@ -1,9 +1,16 @@
 ---
 name: crisis-to-culture-change
-description: Convert organizational crisis into lasting cultural transformation through radical accountability, communication redesign, and permanent systemic change.
-version: 1.0.0
-author: sethmblack
-tags: [crisis-to-culture-change, escalation, transformation, writing]
+description: Convert organizational crisis into lasting cultural transformation through
+  radical accountability, communication redesign, and permanent systemic change.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- crisis-to-culture-change
+- escalation
+- transformation
+- writing
 ---
 
 # Crisis-to-Culture Change

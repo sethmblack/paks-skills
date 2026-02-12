@@ -1,9 +1,16 @@
 ---
 name: partner-investment-analysis
-description: Evaluate employee benefit investments through the lens of brand strength and customer experience returns, reframing HR costs as strategic investments in the people who ARE your brand.
-version: 1.0.0
-author: sethmblack
-tags: [partner-investment-analysis, transformation, writing]
+description: Evaluate employee benefit investments through the lens of brand strength
+  and customer experience returns, reframing HR costs as strategic investments in
+  the people who ARE your brand.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- partner-investment-analysis
+- transformation
+- writing
 ---
 
 # Partner Investment Analysis

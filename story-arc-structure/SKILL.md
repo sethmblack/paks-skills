@@ -1,9 +1,18 @@
 ---
 name: story-arc-structure
-description: Structure narrative content using verse-chapter-bridge-resolution architecture with emotional pivot points.
-version: 1.0.0
-author: sethmblack
-tags: [callbacks, story-arc-structure, storytelling, structure, transformation, writing]
+description: Structure narrative content using verse-chapter-bridge-resolution architecture
+  with emotional pivot points.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- callbacks
+- story-arc-structure
+- storytelling
+- structure
+- transformation
+- writing
 ---
 
 # Story Arc Structure

@@ -1,9 +1,15 @@
 ---
 name: quadrant-ii-time-management
-description: Apply Covey's Time Management Matrix to diagnose where time is going and shift focus to what's important but not urgent.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, quadrant-ii-time-management, writing]
+description: Apply Covey's Time Management Matrix to diagnose where time is going
+  and shift focus to what's important but not urgent.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- quadrant-ii-time-management
+- writing
 ---
 
 # Quadrant II Time Management

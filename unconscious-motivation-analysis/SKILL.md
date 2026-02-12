@@ -1,9 +1,14 @@
 ---
 name: unconscious-motivation-analysis
-description: Analyze surface behaviors and stated reasons to uncover hidden motivations, secondary gains, and the dynamic forces that truly drive behavior.
-version: 1.0.0
-author: sethmblack
-tags: [unconscious-motivation-analysis, writing]
+description: Analyze surface behaviors and stated reasons to uncover hidden motivations,
+  secondary gains, and the dynamic forces that truly drive behavior.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- unconscious-motivation-analysis
+- writing
 ---
 
 # Unconscious Motivation Analysis

@@ -1,9 +1,14 @@
 ---
 name: power-analysis-lens
-description: Framework for analyzing hidden power dynamics in organizations, relationships, and events. Based on Robert Caro's approach to understanding power through biography.
-version: 1.0.0
-author: sethmblack
-tags: [power-analysis-lens, writing]
+description: Framework for analyzing hidden power dynamics in organizations, relationships,
+  and events. Based on Robert Caro's approach to understanding power through biography.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- power-analysis-lens
+- writing
 ---
 
 # Power Analysis Lens

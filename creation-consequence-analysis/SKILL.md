@@ -1,9 +1,16 @@
 ---
 name: creation-consequence-analysis
-description: Analyze any act of creation through Mary Shelley's framework to surface unexamined responsibilities, overlooked consequences, and the obligations that creation entails.
-version: 1.0.0
-author: sethmblack
-tags: [creation-consequence-analysis, transformation, writing]
+description: Analyze any act of creation through Mary Shelley's framework to surface
+  unexamined responsibilities, overlooked consequences, and the obligations that creation
+  entails.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- creation-consequence-analysis
+- transformation
+- writing
 ---
 
 # Creation Consequence Analysis

@@ -1,9 +1,14 @@
 ---
 name: fei-fei-li--dataset-quality-audit
-description: Systematically evaluate dataset quality for ML training using ImageNet-derived principles developed by Fei-Fei Li.
-version: 1.0.0
-author: sethmblack
-tags: [dataset-quality-audit, writing]
+description: Systematically evaluate dataset quality for ML training using ImageNet-derived
+  principles developed by Fei-Fei Li.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- dataset-quality-audit
+- writing
 ---
 
 # Dataset Quality Audit

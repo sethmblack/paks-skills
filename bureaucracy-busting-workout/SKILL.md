@@ -1,9 +1,15 @@
 ---
 name: bureaucracy-busting-workout
-description: Facilitate rapid identification and elimination of bureaucratic waste through structured team sessions with real-time decision-making. Based on Jack Welch's Work-Out methodology: "Get a bunch of people in a room, identify the dumb things we do, and kill them on the spot."
-version: 1.0.0
-author: sethmblack
-tags: [bureaucracy-busting-work-out, writing]
+description: 'Facilitate rapid identification and elimination of bureaucratic waste
+  through structured team sessions with real-time decision-making. Based on Jack Welch''s
+  Work-Out methodology: "Get a bunch of pe...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- bureaucracy-busting-work-out
+- writing
 ---
 
 # Bureaucracy-Busting Work-Out

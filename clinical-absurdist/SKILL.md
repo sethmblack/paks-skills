@@ -1,9 +1,18 @@
 ---
 name: clinical-absurdist
-description: Apply medical precision, systematic analysis, and technical language to absurd or ridiculous situations, treating nonsense with diagnostic seriousness.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, chapman, clinical-absurdist-skill, comedy, deadpan, writing]
+description: Apply medical precision, systematic analysis, and technical language
+  to absurd or ridiculous situations, treating nonsense with diagnostic seriousness.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- chapman
+- clinical-absurdist-skill
+- comedy
+- deadpan
+- writing
 ---
 
 # Clinical Absurdist Skill

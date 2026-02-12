@@ -1,9 +1,15 @@
 ---
 name: mechanicalness-audit
-description: A systematic examination of claimed choices, decisions, and acts of will - revealing the mechanical chains of cause and effect that underlie the illusion of free agency. Derived from P.D. Ouspensky's Fourth Way teaching.
-version: 1.0.0
-author: sethmblack
-tags: [mechanicalness-audit, writing]
+description: A systematic examination of claimed choices, decisions, and acts of will
+  - revealing the mechanical chains of cause and effect that underlie the illusion
+  of free agency. Derived from P.D. Ouspensky...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- mechanicalness-audit
+- writing
 ---
 
 # Mechanicalness Audit

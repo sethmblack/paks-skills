@@ -1,9 +1,15 @@
 ---
 name: covenant-assessment
-description: Evaluate the durability of any agreement by examining its enforcement mechanisms. Covenants without the sword are but words—this skill identifies whether an agreement will hold when tested.
-version: 1.0.0
-author: sethmblack
-tags: [covenant-assessment, writing]
+description: Evaluate the durability of any agreement by examining its enforcement
+  mechanisms. Covenants without the sword are but words—this skill identifies whether
+  an agreement will hold when tested.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- covenant-assessment
+- writing
 ---
 
 # Covenant Assessment

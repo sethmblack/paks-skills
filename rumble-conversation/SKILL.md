@@ -1,9 +1,17 @@
 ---
 name: rumble-conversation
-description: Structure and facilitate a difficult conversation using Brene Brown's rumbling methodology - leaning into vulnerability, staying curious and generous, owning your part, and achieving clarity without blame or shame.
-version: 1.0.0
-author: sethmblack
-tags: [rumble-conversation, storytelling, structure, writing]
+description: Structure and facilitate a difficult conversation using Brene Brown's
+  rumbling methodology - leaning into vulnerability, staying curious and generous,
+  owning your part, and achieving clarity withou...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- rumble-conversation
+- storytelling
+- structure
+- writing
 ---
 
 # Rumble Conversation

@@ -1,9 +1,15 @@
 ---
 name: analogical-reasoning
-description: Provide a framework for speaking meaningfully about transcendent realities (especially God) by distinguishing univocal, equivocal, and analogical predication. This enables meaningful theological language while preserving divine transcendence.
-version: 1.0.0
-author: sethmblack
-tags: [analogical-reasoning, writing]
+description: Provide a framework for speaking meaningfully about transcendent realities
+  (especially God) by distinguishing univocal, equivocal, and analogical predication.
+  This enables meaningful theological la...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- analogical-reasoning
+- writing
 ---
 
 # Analogical Reasoning

@@ -1,9 +1,20 @@
 ---
 name: carson-monologue-structure
-description: Build comedy sequences with momentum using Carson's four-phase architecture: Opening → Body → Callback → Button.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, carson-monologue-structure, comedy, escalation, observational, structure, writing]
+description: 'Build comedy sequences with momentum using Carson''s four-phase architecture:
+  Opening → Body → Callback → Button.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- carson-monologue-structure
+- comedy
+- escalation
+- observational
+- structure
+- writing
 ---
 
 # Carson Monologue Structure

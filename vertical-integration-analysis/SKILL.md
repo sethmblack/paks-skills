@@ -1,9 +1,14 @@
 ---
 name: vertical-integration-analysis
-description: Analyze operations for dependency vulnerabilities and integration opportunities using Carnegie's supply chain control methodology.
-version: 1.0.0
-author: sethmblack
-tags: [vertical-integration-analysis, writing]
+description: Analyze operations for dependency vulnerabilities and integration opportunities
+  using Carnegie's supply chain control methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- vertical-integration-analysis
+- writing
 ---
 
 # Vertical Integration Analysis

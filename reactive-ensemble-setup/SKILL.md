@@ -1,9 +1,15 @@
 ---
 name: reactive-ensemble-setup
-description: Structure multi-voice content where one central character reacts to others' zingers rather than delivering jokes themselves—the reaction becomes the comedy.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, reactive-ensemble-setup, writing]
+description: Structure multi-voice content where one central character reacts to others'
+  zingers rather than delivering jokes themselves—the reaction becomes the comedy.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- reactive-ensemble-setup
+- writing
 ---
 
 # Reactive Ensemble Setup

@@ -1,9 +1,15 @@
 ---
 name: aspiration-rejection-surrender
-description: The triple labour diagnostic and practice framework from Sri Aurobindo's Integral Yoga for working through resistance in personal transformation.
-version: 1.0.0
-author: sethmblack
-tags: [aspiration-rejection-surrender, transformation, writing]
+description: The triple labour diagnostic and practice framework from Sri Aurobindo's
+  Integral Yoga for working through resistance in personal transformation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- aspiration-rejection-surrender
+- transformation
+- writing
 ---
 
 # Aspiration-Rejection-Surrender

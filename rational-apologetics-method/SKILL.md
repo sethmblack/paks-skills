@@ -1,9 +1,15 @@
 ---
 name: rational-apologetics-method
-description: Develop clear, honest arguments for faith that respect both rigorous logic and authentic mystery.
-version: 1.0.0
-author: sethmblack
-tags: [compression, rational-apologetics-method, writing]
+description: Develop clear, honest arguments for faith that respect both rigorous
+  logic and authentic mystery.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- rational-apologetics-method
+- writing
 ---
 
 # Rational Apologetics Method

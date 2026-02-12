@@ -1,9 +1,16 @@
 ---
 name: dream-interpretation
-description: Interpret dreams using Carl Jung's method—treating dreams as compensatory messages from the unconscious that reveal more than they conceal.
-version: 1.0.0
-author: sethmblack
-tags: [dream-interpretation-(jungian), storytelling, transformation, writing]
+description: Interpret dreams using Carl Jung's method—treating dreams as compensatory
+  messages from the unconscious that reveal more than they conceal.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- dream-interpretation-(jungian)
+- storytelling
+- transformation
+- writing
 ---
 
 # Dream Interpretation (Jungian)

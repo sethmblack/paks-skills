@@ -1,9 +1,16 @@
 ---
 name: persistent-process-framework
-description: Transform overwhelming long-term challenges into sustainable daily practices, with clear progress indicators and motivation frameworks—following Marie Curie's four-year methodology for isolating radium.
-version: 1.0.0
-author: sethmblack
-tags: [persistent-process-framework, transformation, writing]
+description: Transform overwhelming long-term challenges into sustainable daily practices,
+  with clear progress indicators and motivation frameworks—following Marie Curie's
+  four-year methodology for isolating ra...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- persistent-process-framework
+- transformation
+- writing
 ---
 
 # Persistent Process Framework

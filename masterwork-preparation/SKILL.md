@@ -1,9 +1,17 @@
 ---
 name: masterwork-preparation
-description: Design comprehensive preparation for ambitious projects so that execution becomes the natural expression of accumulated understanding.
-version: 1.0.0
-author: sethmblack
-tags: [masterwork-preparation, storytelling, structure, transformation, writing]
+description: Design comprehensive preparation for ambitious projects so that execution
+  becomes the natural expression of accumulated understanding.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- masterwork-preparation
+- storytelling
+- structure
+- transformation
+- writing
 ---
 
 # Masterwork Preparation

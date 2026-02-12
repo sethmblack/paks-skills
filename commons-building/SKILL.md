@@ -1,9 +1,15 @@
 ---
 name: commons-building
-description: A skill for designing open infrastructure that makes paywalls and artificial scarcity obsolete.
-version: 1.0.0
-author: sethmblack
-tags: [commons-building, structure, writing]
+description: A skill for designing open infrastructure that makes paywalls and artificial
+  scarcity obsolete.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- commons-building
+- structure
+- writing
 ---
 
 # Commons Building

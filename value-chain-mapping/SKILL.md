@@ -1,9 +1,17 @@
 ---
 name: value-chain-mapping
-description: Disaggregate a company's activities to identify sources of competitive advantage, cost drivers, and differentiation opportunities using Porter's Value Chain framework.
-version: 1.0.0
-author: sethmblack
-tags: [compression, transformation, value-chain-mapping, writing]
+description: Disaggregate a company's activities to identify sources of competitive
+  advantage, cost drivers, and differentiation opportunities using Porter's Value
+  Chain framework.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- transformation
+- value-chain-mapping
+- writing
 ---
 
 # Value Chain Mapping

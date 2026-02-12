@@ -1,9 +1,16 @@
 ---
 name: human-development-focus
-description: Evaluate decisions through the lens of human development. Are we building people or discarding them? Is investment in people seen as cost to minimize or foundation to strengthen? Transform cost-center thinking into development-center practice.
-version: 1.0.0
-author: sethmblack
-tags: [human-development-focus, transformation, writing]
+description: Evaluate decisions through the lens of human development. Are we building
+  people or discarding them? Is investment in people seen as cost to minimize or foundation
+  to strengthen? Transform cost-cen...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- human-development-focus
+- transformation
+- writing
 ---
 
 # Human Development Focus

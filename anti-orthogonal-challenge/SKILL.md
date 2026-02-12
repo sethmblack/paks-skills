@@ -1,9 +1,16 @@
 ---
 name: anti-orthogonal-challenge
-description: Systematically challenge the assumption that right angles and rectangular grids are the default organizing principle. Apply Zaha Hadid's "360 degrees" philosophy to liberate design from unexamined orthogonal conventions. Based on her principle: "There are 360 degrees, so why stick to one?" and "The world is not a rectangle."
-version: 1.0.0
-author: sethmblack
-tags: [anti-orthogonal-challenge, transformation, writing]
+description: Systematically challenge the assumption that right angles and rectangular
+  grids are the default organizing principle. Apply Zaha Hadid's "360 degrees" philosophy
+  to liberate design from unexamined ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- anti-orthogonal-challenge
+- transformation
+- writing
 ---
 
 # Anti-Orthogonal Challenge

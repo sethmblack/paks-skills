@@ -1,9 +1,14 @@
 ---
 name: keep-going-protocol
-description: Provide the courage and resolve to continue when facing obstacles, fear, or temptation to turn back.
-version: 1.0.0
-author: sethmblack
-tags: [keep-going-protocol, writing]
+description: Provide the courage and resolve to continue when facing obstacles, fear,
+  or temptation to turn back.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- keep-going-protocol
+- writing
 ---
 
 # Keep Going Protocol

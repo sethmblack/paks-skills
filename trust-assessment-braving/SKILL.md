@@ -1,9 +1,16 @@
 ---
 name: trust-assessment-braving
-description: Diagnose trust issues in a relationship or team using Brene Brown's BRAVING inventory - Boundaries, Reliability, Accountability, Vault, Integrity, Non-judgment, Generosity - and identify specific actions to repair or build trust.
-version: 1.0.0
-author: sethmblack
-tags: [structure, trust-assessment:-braving, writing]
+description: Diagnose trust issues in a relationship or team using Brene Brown's BRAVING
+  inventory - Boundaries, Reliability, Accountability, Vault, Integrity, Non-judgment,
+  Generosity - and identify specific a...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- structure
+- trust-assessment:-braving
+- writing
 ---
 
 # Trust Assessment: BRAVING

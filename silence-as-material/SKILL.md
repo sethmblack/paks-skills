@@ -1,9 +1,15 @@
 ---
 name: silence-as-material
-description: A methodology for making absence compositionally significant, treating what's missing as an active element rather than empty space.
-version: 1.0.0
-author: sethmblack
-tags: [silence-as-material, transformation, writing]
+description: A methodology for making absence compositionally significant, treating
+  what's missing as an active element rather than empty space.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- silence-as-material
+- transformation
+- writing
 ---
 
 # Silence as Material

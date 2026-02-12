@@ -1,9 +1,21 @@
 ---
 name: callback-web-constructor
-description: Create interconnected jokes that reference earlier material, building compound destruction and thematic cohesion across an extended comedy set. Transform isolated jokes into sophisticated networks where each callback amplifies previous material.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callback-web-constructor, callbacks, comedy, escalation, structure, transformation, writing]
+description: Create interconnected jokes that reference earlier material, building
+  compound destruction and thematic cohesion across an extended comedy set. Transform
+  isolated jokes into sophisticated networks ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callback-web-constructor
+- callbacks
+- comedy
+- escalation
+- structure
+- transformation
+- writing
 ---
 
 # Callback Web Constructor

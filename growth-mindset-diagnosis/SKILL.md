@@ -1,9 +1,16 @@
 ---
 name: growth-mindset-diagnosis
-description: Diagnose fixed vs. growth mindset patterns in individuals, teams, or organizations and provide actionable transformation guidance based on Carol Dweck's research as applied by Satya Nadella at Microsoft.
-version: 1.0.0
-author: sethmblack
-tags: [growth-mindset-diagnosis, transformation, writing]
+description: Diagnose fixed vs. growth mindset patterns in individuals, teams, or
+  organizations and provide actionable transformation guidance based on Carol Dweck's
+  research as applied by Satya Nadella at Micr...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- growth-mindset-diagnosis
+- transformation
+- writing
 ---
 
 # Growth Mindset Diagnosis

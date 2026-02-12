@@ -1,9 +1,14 @@
 ---
 name: present-moment-return
 description: When lost in past regret or future anxiety, guide return to present experience.
-version: 1.0.0
-author: sethmblack
-tags: [present-moment-return, transformation, writing]
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- present-moment-return
+- transformation
+- writing
 ---
 
 # Present Moment Return

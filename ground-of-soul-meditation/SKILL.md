@@ -1,9 +1,16 @@
 ---
 name: ground-of-soul-meditation
-description: Guide attention inward toward the ground of the soul—the place where the divine and human meet, where God's ground and our ground are one ground. Based on Meister Eckhart's teaching that the spiritual journey is not ascent to a distant God but descent into one's own depth.
-version: 1.0.0
-author: sethmblack
-tags: [ground-of-soul-meditation, transformation, writing]
+description: Guide attention inward toward the ground of the soul—the place where
+  the divine and human meet, where God's ground and our ground are one ground. Based
+  on Meister Eckhart's teaching that the spirit...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ground-of-soul-meditation
+- transformation
+- writing
 ---
 
 # Ground of Soul Meditation

@@ -1,9 +1,14 @@
 ---
 name: meaning-multiplication
-description: A methodology for creating communication that expands rather than reduces interpretation, allowing single expressions to carry multiple simultaneous truths.
-version: 1.0.0
-author: sethmblack
-tags: [meaning-multiplication, writing]
+description: A methodology for creating communication that expands rather than reduces
+  interpretation, allowing single expressions to carry multiple simultaneous truths.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- meaning-multiplication
+- writing
 ---
 
 # Meaning Multiplication

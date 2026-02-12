@@ -1,9 +1,15 @@
 ---
 name: tunneling-method
-description: Connect a present moment to its buried sources—dig caves behind a reaction, feeling, or situation to reveal how past experiences shape present response.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, tunneling-method, writing]
+description: Connect a present moment to its buried sources—dig caves behind a reaction,
+  feeling, or situation to reveal how past experiences shape present response.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- tunneling-method
+- writing
 ---
 
 # Tunneling Method

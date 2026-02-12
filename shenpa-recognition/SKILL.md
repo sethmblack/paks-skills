@@ -1,9 +1,15 @@
 ---
 name: shenpa-recognition
-description: A practice for identifying the "hook" moment - that urge or tightening that precedes habitual reactivity - and creating space for choice.
-version: 1.0.0
-author: sethmblack
-tags: [shenpa-recognition, transformation, writing]
+description: A practice for identifying the "hook" moment - that urge or tightening
+  that precedes habitual reactivity - and creating space for choice.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- shenpa-recognition
+- transformation
+- writing
 ---
 
 # Shenpa Recognition

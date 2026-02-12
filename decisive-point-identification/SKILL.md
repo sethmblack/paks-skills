@@ -1,9 +1,14 @@
 ---
 name: decisive-point-identification
-description: Identify where to focus limited resources for maximum impact by finding the one point where victory matters most.
-version: 1.0.0
-author: sethmblack
-tags: [decisive-point-identification, writing]
+description: Identify where to focus limited resources for maximum impact by finding
+  the one point where victory matters most.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- decisive-point-identification
+- writing
 ---
 
 # Decisive Point Identification

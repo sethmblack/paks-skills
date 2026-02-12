@@ -1,9 +1,17 @@
 ---
 name: guerrilla-ontology
-description: A methodology for destabilizing rigid belief systems through strategic absurdity, paradox, and cognitive disruption.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, guerrilla-ontology, storytelling, writing]
+description: A methodology for destabilizing rigid belief systems through strategic
+  absurdity, paradox, and cognitive disruption.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- guerrilla-ontology
+- storytelling
+- writing
 ---
 
 # Guerrilla Ontology

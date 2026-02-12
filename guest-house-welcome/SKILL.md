@@ -1,9 +1,15 @@
 ---
 name: guest-house-welcome
-description: Transform resistance to difficult emotions into acceptance and learning by treating each emotion as a guest bringing guidance from beyond.
-version: 1.0.0
-author: sethmblack
-tags: [guest-house-welcome, transformation, writing]
+description: Transform resistance to difficult emotions into acceptance and learning
+  by treating each emotion as a guest bringing guidance from beyond.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- guest-house-welcome
+- transformation
+- writing
 ---
 
 # Guest House Welcome

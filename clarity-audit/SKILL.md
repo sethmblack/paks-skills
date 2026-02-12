@@ -1,9 +1,13 @@
 ---
 name: clarity-audit
 description: Apply George Orwell's writing rules to diagnose and improve prose clarity.
-version: 1.0.0
-author: sethmblack
-tags: [clarity-audit, writing]
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- clarity-audit
+- writing
 ---
 
 # Clarity Audit

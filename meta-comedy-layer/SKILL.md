@@ -1,9 +1,20 @@
 ---
 name: meta-comedy-layer
-description: Add meta-commentary about comedy structure, joke conventions, or entertainment expectations while telling the joke itself, creating a layered effect where the comedy operates on multiple levels simultaneously.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, deadpan, meta-comedy-layer, storytelling, writing]
+description: Add meta-commentary about comedy structure, joke conventions, or entertainment
+  expectations while telling the joke itself, creating a layered effect where the
+  comedy operates on multiple levels sim...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- deadpan
+- meta-comedy-layer
+- storytelling
+- writing
 ---
 
 # Meta-Comedy Layer

@@ -1,9 +1,16 @@
 ---
 name: infrastructure-as-power
-description: Analyze how physical infrastructure encodes political choices, benefits specific groups, and shapes communities for generations. Based on Robert Moses's use of highways, bridges, and parks as instruments of power and exclusion.
-version: 1.0.0
-author: sethmblack
-tags: [infrastructure-as-power, storytelling, writing]
+description: Analyze how physical infrastructure encodes political choices, benefits
+  specific groups, and shapes communities for generations. Based on Robert Moses's
+  use of highways, bridges, and parks as instr...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- infrastructure-as-power
+- storytelling
+- writing
 ---
 
 # Infrastructure as Power

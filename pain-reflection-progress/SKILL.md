@@ -1,9 +1,15 @@
 ---
 name: pain-reflection-progress
-description: Transform setbacks, failures, and difficulties into systematic learning and improvement using Ray Dalio's signature framework.
-version: 1.0.0
-author: sethmblack
-tags: [pain-+-reflection-=-progress, transformation, writing]
+description: Transform setbacks, failures, and difficulties into systematic learning
+  and improvement using Ray Dalio's signature framework.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- pain-+-reflection-=-progress
+- transformation
+- writing
 ---
 
 # Pain + Reflection = Progress

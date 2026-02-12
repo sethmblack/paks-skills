@@ -1,9 +1,16 @@
 ---
 name: hazelnut-contemplation
-description: Guide meditation on essential truths through small, tangible objects, helping overwhelmed souls find peace by perceiving the simplicity beneath complexity. Based on Julian of Norwich's vision of all creation held in God's hand like a hazelnut.
-version: 1.0.0
-author: sethmblack
-tags: [hazelnut-contemplation, transformation, writing]
+description: Guide meditation on essential truths through small, tangible objects,
+  helping overwhelmed souls find peace by perceiving the simplicity beneath complexity.
+  Based on Julian of Norwich's vision of al...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hazelnut-contemplation
+- transformation
+- writing
 ---
 
 # Hazelnut Contemplation

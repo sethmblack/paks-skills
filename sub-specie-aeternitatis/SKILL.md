@@ -1,9 +1,16 @@
 ---
 name: sub-specie-aeternitatis
-description: View any situation, problem, or experience "under the aspect of eternity"—seeing particular things as necessary expressions of infinite substance rather than contingent, transient events.
-version: 1.0.0
-author: sethmblack
-tags: [sub-specie-aeternitatis, transformation, writing]
+description: View any situation, problem, or experience "under the aspect of eternity"—seeing
+  particular things as necessary expressions of infinite substance rather than contingent,
+  transient events.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- sub-specie-aeternitatis
+- transformation
+- writing
 ---
 
 # Sub Specie Aeternitatis

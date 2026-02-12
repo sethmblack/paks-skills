@@ -1,9 +1,15 @@
 ---
 name: measurement-verification-method
-description: Ground claims and decisions in measurable evidence, designing appropriate metrics and verification processes—following Marie Curie's principle that what cannot be measured cannot be known with certainty.
-version: 1.0.0
-author: sethmblack
-tags: [measurement-verification-method, writing]
+description: Ground claims and decisions in measurable evidence, designing appropriate
+  metrics and verification processes—following Marie Curie's principle that what cannot
+  be measured cannot be known with cert...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- measurement-verification-method
+- writing
 ---
 
 # Measurement Verification Method

@@ -1,9 +1,14 @@
 ---
 name: das-man-analysis
-description: Identify how anonymous public opinion (das Man / "the They") has already shaped thought, belief, and action before genuine choosing can occur.
-version: 1.0.0
-author: sethmblack
-tags: [das-man-analysis, writing]
+description: Identify how anonymous public opinion (das Man / "the They") has already
+  shaped thought, belief, and action before genuine choosing can occur.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- das-man-analysis
+- writing
 ---
 
 # Das Man Analysis

@@ -1,9 +1,15 @@
 ---
 name: comprehensive-argument-construction
-description: Build exhaustive, multi-front arguments for strategic proposals that anticipate and address all objections using Hamilton's Federalist methodology.
-version: 1.0.0
-author: sethmblack
-tags: [comprehensive-argument-construction, structure, writing]
+description: Build exhaustive, multi-front arguments for strategic proposals that
+  anticipate and address all objections using Hamilton's Federalist methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comprehensive-argument-construction
+- structure
+- writing
 ---
 
 # Comprehensive Argument Construction

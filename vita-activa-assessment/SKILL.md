@@ -1,9 +1,17 @@
 ---
 name: vita-activa-assessment
-description: Analyze activities, life patterns, or institutional contexts through Hannah Arendt's tripartite framework of human activity: labor, work, and action.
-version: 1.0.0
-author: sethmblack
-tags: [compression, structure, transformation, vita-activa-assessment, writing]
+description: 'Analyze activities, life patterns, or institutional contexts through
+  Hannah Arendt''s tripartite framework of human activity: labor, work, and action.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- structure
+- transformation
+- vita-activa-assessment
+- writing
 ---
 
 # Vita Activa Assessment

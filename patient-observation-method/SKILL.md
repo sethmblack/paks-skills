@@ -1,9 +1,15 @@
 ---
 name: patient-observation-method
-description: Apply Jane Goodall's patient observation methodology to deeply understand complex situations, people, or systems that resist quick analysis. What you see in a moment is not what you understand over time.
-version: 1.0.0
-author: sethmblack
-tags: [patient-observation-method, writing]
+description: Apply Jane Goodall's patient observation methodology to deeply understand
+  complex situations, people, or systems that resist quick analysis. What you see
+  in a moment is not what you understand over...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- patient-observation-method
+- writing
 ---
 
 # Patient Observation Method

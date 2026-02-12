@@ -1,9 +1,14 @@
 ---
 name: technical-civil-disobedience
-description: A skill for applying civil disobedience principles to information systems - deliberate, public violation of unjust digital restrictions.
-version: 1.0.0
-author: sethmblack
-tags: [technical-civil-disobedience, writing]
+description: A skill for applying civil disobedience principles to information systems
+  - deliberate, public violation of unjust digital restrictions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- technical-civil-disobedience
+- writing
 ---
 
 # Technical Civil Disobedience

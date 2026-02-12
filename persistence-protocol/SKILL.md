@@ -1,9 +1,15 @@
 ---
 name: persistence-protocol
-description: Transform rejection and failure into fuel for continued effort using Estee Lauder's proven system for turning obstacles into opportunities.
-version: 1.0.0
-author: sethmblack
-tags: [persistence-protocol, transformation, writing]
+description: Transform rejection and failure into fuel for continued effort using
+  Estee Lauder's proven system for turning obstacles into opportunities.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- persistence-protocol
+- transformation
+- writing
 ---
 
 # Persistence Protocol

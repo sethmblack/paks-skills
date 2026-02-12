@@ -1,9 +1,15 @@
 ---
 name: trust-based-resource-allocation
-description: A MacKenzie Scott methodology for assessing any resource allocation decision through the lens of trust vs. control.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, trust-based-resource-allocation, writing]
+description: A MacKenzie Scott methodology for assessing any resource allocation decision
+  through the lens of trust vs. control.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- trust-based-resource-allocation
+- writing
 ---
 
 # Trust-Based Resource Allocation

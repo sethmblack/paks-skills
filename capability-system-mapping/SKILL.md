@@ -1,9 +1,14 @@
 ---
 name: capability-system-mapping
-description: Map the mutually reinforcing capabilities required to win and identify gaps between current state and strategic requirements.
-version: 1.0.0
-author: sethmblack
-tags: [capability-system-mapping, writing]
+description: Map the mutually reinforcing capabilities required to win and identify
+  gaps between current state and strategic requirements.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- capability-system-mapping
+- writing
 ---
 
 # Capability System Mapping

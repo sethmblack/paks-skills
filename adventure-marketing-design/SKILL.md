@@ -1,9 +1,17 @@
 ---
 name: adventure-marketing-design
-description: Design high-impact, low-cost marketing initiatives that generate significant attention through bold, personally-led activities rather than traditional advertising.
-version: 1.0.0
-author: sethmblack
-tags: [adventure-marketing-design, comedy, storytelling, structure, writing]
+description: Design high-impact, low-cost marketing initiatives that generate significant
+  attention through bold, personally-led activities rather than traditional advertising.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- adventure-marketing-design
+- comedy
+- storytelling
+- structure
+- writing
 ---
 
 # Adventure Marketing Design

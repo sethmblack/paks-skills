@@ -1,9 +1,17 @@
 ---
 name: ai-hype-deflation
-description: Apply Yann LeCun's contrarian perspective to challenge overhyped AI predictions and claims, grounding them in engineering reality and historical perspective. Prevent bad decisions based on unrealistic expectations about AI timelines and capabilities.
-version: 1.0.0
-author: sethmblack
-tags: [ai-hype-deflation, structure, transformation, writing]
+description: Apply Yann LeCun's contrarian perspective to challenge overhyped AI predictions
+  and claims, grounding them in engineering reality and historical perspective. Prevent
+  bad decisions based on unrealis...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ai-hype-deflation
+- structure
+- transformation
+- writing
 ---
 
 # AI Hype Deflation

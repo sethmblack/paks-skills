@@ -1,9 +1,16 @@
 ---
 name: variation-mapping
-description: Systematically identify and catalog the variations within any population, system, or category. Variation is the raw material on which selection acts—without understanding what varies, you cannot predict what will be selected.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, variation-mapping, writing]
+description: Systematically identify and catalog the variations within any population,
+  system, or category. Variation is the raw material on which selection acts—without
+  understanding what varies, you cannot pr...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- variation-mapping
+- writing
 ---
 
 # Variation Mapping

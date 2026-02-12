@@ -1,9 +1,16 @@
 ---
 name: dignity-under-pressure
-description: Maintain personal dignity and extend dignity to others even in hostile or degrading circumstances.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, dignity-preservation-under-pressure, transformation, writing]
+description: Maintain personal dignity and extend dignity to others even in hostile
+  or degrading circumstances.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- dignity-preservation-under-pressure
+- transformation
+- writing
 ---
 
 # Dignity Preservation Under Pressure

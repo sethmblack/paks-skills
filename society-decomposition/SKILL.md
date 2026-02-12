@@ -1,9 +1,14 @@
 ---
 name: society-decomposition
-description: Decompose any complex system behavior into a "society" of interacting simple agents, revealing how intelligence emerges from non-intelligence.
-version: 1.0.0
-author: sethmblack
-tags: [society-decomposition, writing]
+description: Decompose any complex system behavior into a "society" of interacting
+  simple agents, revealing how intelligence emerges from non-intelligence.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- society-decomposition
+- writing
 ---
 
 # Society Decomposition

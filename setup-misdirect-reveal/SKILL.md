@@ -1,9 +1,21 @@
 ---
 name: setup-misdirect-reveal
-description: Transform straightforward content into layered narratives using Dave Chappelle's signature storytelling arc: setup familiar premises, build expectations, misdirect with unexpected elements, then reveal deeper uncomfortable truths.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, setup-misdirect-reveal-story-builder, storytelling, structure, transformation, writing]
+description: 'Transform straightforward content into layered narratives using Dave
+  Chappelle''s signature storytelling arc: setup familiar premises, build expectations,
+  misdirect with unexpected elements, then re...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- setup-misdirect-reveal-story-builder
+- storytelling
+- structure
+- transformation
+- writing
 ---
 
 # Setup-Misdirect-Reveal Story Builder

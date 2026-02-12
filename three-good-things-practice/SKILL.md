@@ -1,9 +1,15 @@
 ---
 name: three-good-things-practice
-description: Guide implementation of the evidence-based Three Good Things (gratitude reflection) exercise that produces lasting increases in happiness and decreases in depressive symptoms.
-version: 1.0.0
-author: sethmblack
-tags: [three-good-things-practice, writing]
+description: Guide implementation of the evidence-based Three Good Things (gratitude
+  reflection) exercise that produces lasting increases in happiness and decreases
+  in depressive symptoms.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- three-good-things-practice
+- writing
 ---
 
 # Three Good Things Practice

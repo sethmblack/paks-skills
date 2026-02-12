@@ -1,9 +1,15 @@
 ---
 name: psychological-safety-creation
-description: Create conditions where another person feels safe enough to be honest, vulnerable, and explore difficult material without fear of judgment.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, psychological-safety-creation, writing]
+description: Create conditions where another person feels safe enough to be honest,
+  vulnerable, and explore difficult material without fear of judgment.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- psychological-safety-creation
+- writing
 ---
 
 # Psychological Safety Creation

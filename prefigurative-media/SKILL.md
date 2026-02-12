@@ -1,9 +1,15 @@
 ---
 name: prefigurative-media
-description: A skill for creating artifacts from a better world - fake newspapers, announcements, websites - that let people experience alternatives to current reality.
-version: 1.0.0
-author: sethmblack
-tags: [prefigurative-media, transformation, writing]
+description: A skill for creating artifacts from a better world - fake newspapers,
+  announcements, websites - that let people experience alternatives to current reality.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- prefigurative-media
+- transformation
+- writing
 ---
 
 # Prefigurative Media

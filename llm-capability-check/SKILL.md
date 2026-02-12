@@ -1,9 +1,16 @@
 ---
 name: llm-capability-check
-description: Apply Yann LeCun's framework to systematically assess whether AI/LLM capability claims match fundamental architectural realities. Cut through hype by checking claims against what current systems can actually do.
-version: 1.0.0
-author: sethmblack
-tags: [llm-capability-reality-check, structure, writing]
+description: Apply Yann LeCun's framework to systematically assess whether AI/LLM
+  capability claims match fundamental architectural realities. Cut through hype by
+  checking claims against what current systems ca...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- llm-capability-reality-check
+- structure
+- writing
 ---
 
 # LLM Capability Reality Check

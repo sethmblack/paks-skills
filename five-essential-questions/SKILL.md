@@ -1,9 +1,15 @@
 ---
 name: five-essential-questions
-description: Conduct an organizational self-assessment using Drucker's five questions that every organization must answer to achieve clarity and focus.
-version: 1.0.0
-author: sethmblack
-tags: [five-essential-questions, transformation, writing]
+description: Conduct an organizational self-assessment using Drucker's five questions
+  that every organization must answer to achieve clarity and focus.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- five-essential-questions
+- transformation
+- writing
 ---
 
 # Five Essential Questions

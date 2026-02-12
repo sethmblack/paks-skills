@@ -1,9 +1,15 @@
 ---
 name: creative-collaboration-facilitation
-description: Design and facilitate high-stakes creative collaboration among talented individuals, managing egos while producing excellent work.
-version: 1.0.0
-author: sethmblack
-tags: [creative-collaboration-facilitation, transformation, writing]
+description: Design and facilitate high-stakes creative collaboration among talented
+  individuals, managing egos while producing excellent work.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- creative-collaboration-facilitation
+- transformation
+- writing
 ---
 
 # Creative Collaboration Facilitation

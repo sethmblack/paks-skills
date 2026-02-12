@@ -1,9 +1,15 @@
 ---
 name: slant-truth-delivery
-description: Communicate difficult truths indirectly, using metaphor, image, and circumlocution to allow the listener to arrive at understanding without being overwhelmed or blinded.
-version: 1.0.0
-author: sethmblack
-tags: [slant-truth-delivery, storytelling, writing]
+description: Communicate difficult truths indirectly, using metaphor, image, and circumlocution
+  to allow the listener to arrive at understanding without being overwhelmed or blinded.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- slant-truth-delivery
+- storytelling
+- writing
 ---
 
 # Slant Truth Delivery

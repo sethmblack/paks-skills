@@ -1,9 +1,15 @@
 ---
 name: hard-decision-framework
-description: Provide a framework for making and executing difficult people decisions that leaders typically avoid - firing, demoting, and addressing underperformance.
-version: 1.0.0
-author: sethmblack
-tags: [hard-decision-framework, structure, writing]
+description: Provide a framework for making and executing difficult people decisions
+  that leaders typically avoid - firing, demoting, and addressing underperformance.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hard-decision-framework
+- structure
+- writing
 ---
 
 # Hard Decision Framework

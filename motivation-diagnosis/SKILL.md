@@ -1,9 +1,15 @@
 ---
 name: motivation-diagnosis
-description: Uncover the layered motivations driving a person's behavior using Shakespeare's three-level psychological framework.
-version: 1.0.0
-author: sethmblack
-tags: [motivation-diagnosis, storytelling, writing]
+description: Uncover the layered motivations driving a person's behavior using Shakespeare's
+  three-level psychological framework.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- motivation-diagnosis
+- storytelling
+- writing
 ---
 
 # Motivation Diagnosis

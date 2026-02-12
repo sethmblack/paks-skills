@@ -1,9 +1,15 @@
 ---
 name: foucauldian-power-mapping
-description: Map how power circulates in a situation, institution, or practice. Power is not held but exercised; not repressive but productive. Trace its capillary operations.
-version: 1.0.0
-author: sethmblack
-tags: [foucauldian-power-mapping, structure, writing]
+description: Map how power circulates in a situation, institution, or practice. Power
+  is not held but exercised; not repressive but productive. Trace its capillary operations.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- foucauldian-power-mapping
+- structure
+- writing
 ---
 
 # Foucauldian Power Mapping

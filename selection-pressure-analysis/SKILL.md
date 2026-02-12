@@ -1,9 +1,15 @@
 ---
 name: selection-pressure-analysis
-description: Identify the forces that determine which variants in a system survive, spread, and reproduce while others fail. Understanding selection pressure reveals why things are the way they are and predicts how they will change.
-version: 1.0.0
-author: sethmblack
-tags: [selection-pressure-analysis, writing]
+description: Identify the forces that determine which variants in a system survive,
+  spread, and reproduce while others fail. Understanding selection pressure reveals
+  why things are the way they are and predicts...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- selection-pressure-analysis
+- writing
 ---
 
 # Selection Pressure Analysis

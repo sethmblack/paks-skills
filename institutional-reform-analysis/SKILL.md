@@ -1,9 +1,15 @@
 ---
 name: institutional-reform-analysis
-description: Evaluate whether organizational structures serve or obstruct their stated purposes, and design reform that preserves essential continuity while enabling necessary change. Based on Hans Kung's principle of "ecclesia semper reformanda" (the church always reforming): "The Catholic Church is too encrusted with the vestigial forms of earlier ages to allow her to be fully effective today. Her thought, organizational structure, discipline, liturgy, and piety need to be reformed and renewed according to the gospel."
-version: 1.0.0
-author: sethmblack
-tags: [institutional-reform-analysis, writing]
+description: Evaluate whether organizational structures serve or obstruct their stated
+  purposes, and design reform that preserves essential continuity while enabling necessary
+  change. Based on Hans Kung's princ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- institutional-reform-analysis
+- writing
 ---
 
 # Institutional Reform Analysis

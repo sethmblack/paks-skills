@@ -1,9 +1,15 @@
 ---
 name: hardware-to-services-pivot
-description: Transform a hardware business into a hardware-plus-services model with recurring revenue, higher margins, and ecosystem lock-in.
-version: 1.0.0
-author: sethmblack
-tags: [hardware-to-services-pivot, transformation, writing]
+description: Transform a hardware business into a hardware-plus-services model with
+  recurring revenue, higher margins, and ecosystem lock-in.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hardware-to-services-pivot
+- transformation
+- writing
 ---
 
 # Hardware to Services Pivot

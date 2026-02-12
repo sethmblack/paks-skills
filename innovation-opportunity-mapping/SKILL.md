@@ -1,9 +1,15 @@
 ---
 name: innovation-opportunity-mapping
-description: Systematically identify innovation opportunities using Drucker's seven sources framework—moving innovation from luck to disciplined search.
-version: 1.0.0
-author: sethmblack
-tags: [innovation-opportunity-mapping, transformation, writing]
+description: Systematically identify innovation opportunities using Drucker's seven
+  sources framework—moving innovation from luck to disciplined search.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- innovation-opportunity-mapping
+- transformation
+- writing
 ---
 
 # Innovation Opportunity Mapping

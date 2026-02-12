@@ -1,9 +1,15 @@
 ---
 name: travel-philosophy-assessment
-description: Plan and approach travel in a way that allows genuine transformation rather than mere consumption of experiences.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, travel-philosophy-assessment, writing]
+description: Plan and approach travel in a way that allows genuine transformation
+  rather than mere consumption of experiences.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- travel-philosophy-assessment
+- writing
 ---
 
 # Travel Philosophy Assessment

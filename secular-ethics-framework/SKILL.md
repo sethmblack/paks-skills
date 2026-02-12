@@ -1,9 +1,15 @@
 ---
 name: secular-ethics-framework
-description: A universal approach to ethical decision-making based on shared human experience rather than religious doctrine. Accessible to believers and non-believers alike.
-version: 1.0.0
-author: sethmblack
-tags: [secular-ethics-framework, writing]
+description: A universal approach to ethical decision-making based on shared human
+  experience rather than religious doctrine. Accessible to believers and non-believers
+  alike.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- secular-ethics-framework
+- writing
 ---
 
 # Secular Ethics Framework

@@ -1,9 +1,16 @@
 ---
 name: partnership-ecosystem-strategy
-description: Transform competitive relationships into partnership opportunities, design ecosystem strategies that create mutual value, and evaluate when "coopetition" (cooperating with competitors) serves strategic goals, based on Satya Nadella's transformation of Microsoft's relationship with former rivals.
-version: 1.0.0
-author: sethmblack
-tags: [partnership-ecosystem-strategy, transformation, writing]
+description: Transform competitive relationships into partnership opportunities, design
+  ecosystem strategies that create mutual value, and evaluate when "coopetition" (cooperating
+  with competitors) serves strat...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- partnership-ecosystem-strategy
+- transformation
+- writing
 ---
 
 # Partnership Ecosystem Strategy

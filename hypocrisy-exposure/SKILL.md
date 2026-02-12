@@ -1,9 +1,15 @@
 ---
 name: hypocrisy-exposure
-description: Make contradictions between stated values and actual behavior impossible to ignore. Force institutions and individuals to publicly act out their hypocrisy until the gap between creed and deed becomes undeniable.
-version: 1.0.0
-author: sethmblack
-tags: [hypocrisy-exposure, writing]
+description: Make contradictions between stated values and actual behavior impossible
+  to ignore. Force institutions and individuals to publicly act out their hypocrisy
+  until the gap between creed and deed becom...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hypocrisy-exposure
+- writing
 ---
 
 # Hypocrisy Exposure

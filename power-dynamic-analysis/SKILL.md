@@ -1,9 +1,16 @@
 ---
 name: power-dynamic-analysis
-description: Break down the actual (vs. apparent) power structure in any relationship, negotiation, social situation, or organizational dynamic, revealing who has power, who wants it, and the unspoken games being played. Based on Patrice O'Neal's methodology of analyzing relationships through the lens of power and control.
-version: 1.0.0
-author: sethmblack
-tags: [power-dynamic-analysis, storytelling, writing]
+description: Break down the actual (vs. apparent) power structure in any relationship,
+  negotiation, social situation, or organizational dynamic, revealing who has power,
+  who wants it, and the unspoken games bei...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- power-dynamic-analysis
+- storytelling
+- writing
 ---
 
 # Power Dynamic Analysis

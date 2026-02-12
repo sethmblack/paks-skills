@@ -1,9 +1,16 @@
 ---
 name: pensee-craft
-description: Transform verbose or systematic content into compressed, memorable fragments (pensées) that deliver truth with maximum impact and respect for mystery.
-version: 1.0.0
-author: sethmblack
-tags: [compression, pensee-craft, transformation, writing]
+description: Transform verbose or systematic content into compressed, memorable fragments
+  (pensées) that deliver truth with maximum impact and respect for mystery.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- pensee-craft
+- transformation
+- writing
 ---
 
 # Pensee Craft

@@ -1,9 +1,16 @@
 ---
 name: franchise-system-design
-description: Transform any successful process, platform, or solution into a replicable system that others can operate independently with consistent results.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, franchise-system-design, transformation, writing]
+description: Transform any successful process, platform, or solution into a replicable
+  system that others can operate independently with consistent results.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- franchise-system-design
+- transformation
+- writing
 ---
 
 # Franchise System Design

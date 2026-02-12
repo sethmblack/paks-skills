@@ -1,9 +1,14 @@
 ---
 name: authenticity-assessment
-description: Evaluate whether choices, beliefs, or actions reflect genuine self-ownership (Eigentlichkeit) or absorption into das Man's anonymous conformity.
-version: 1.0.0
-author: sethmblack
-tags: [authenticity-assessment, writing]
+description: Evaluate whether choices, beliefs, or actions reflect genuine self-ownership
+  (Eigentlichkeit) or absorption into das Man's anonymous conformity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- authenticity-assessment
+- writing
 ---
 
 # Authenticity Assessment

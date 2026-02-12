@@ -1,9 +1,15 @@
 ---
 name: competitive-greatness-preparation
-description: Prepare for high-stakes moments by structuring practice to simulate pressure, building confidence through thorough preparation using John Wooden's methodology.
-version: 1.0.0
-author: sethmblack
-tags: [competitive-greatness-preparation, transformation, writing]
+description: Prepare for high-stakes moments by structuring practice to simulate pressure,
+  building confidence through thorough preparation using John Wooden's methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- competitive-greatness-preparation
+- transformation
+- writing
 ---
 
 # Competitive Greatness Preparation

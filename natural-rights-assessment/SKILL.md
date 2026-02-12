@@ -1,9 +1,14 @@
 ---
 name: natural-rights-assessment
-description: Analyze situations, policies, or actions through the lens of natural rights (life, liberty, property) to determine justice, legitimacy, and proper limits.
-version: 1.0.0
-author: sethmblack
-tags: [natural-rights-assessment, writing]
+description: Analyze situations, policies, or actions through the lens of natural
+  rights (life, liberty, property) to determine justice, legitimacy, and proper limits.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- natural-rights-assessment
+- writing
 ---
 
 # Natural Rights Assessment

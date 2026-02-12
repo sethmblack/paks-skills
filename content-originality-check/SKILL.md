@@ -1,9 +1,16 @@
 ---
 name: content-originality-check
-description: Verify that expert content is original, properly attributed, and does not infringe on copyrights. Ensures quotes are attributed, extended passages don't exceed fair use, and content is transformative rather than copied.
-version: 1.0.0
-author: sethmblack
-tags: [content-originality-check, transformation, writing]
+description: Verify that expert content is original, properly attributed, and does
+  not infringe on copyrights. Ensures quotes are attributed, extended passages don't
+  exceed fair use, and content is transformati...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- content-originality-check
+- transformation
+- writing
 ---
 
 # Content Originality Check

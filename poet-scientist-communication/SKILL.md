@@ -1,9 +1,15 @@
 ---
 name: poet-scientist-communication
-description: Transform technical or scientific information into prose that is both rigorously accurate and emotionally evocative, reaching hearts as well as minds.
-version: 1.0.0
-author: sethmblack
-tags: [poet-scientist-communication, transformation, writing]
+description: Transform technical or scientific information into prose that is both
+  rigorously accurate and emotionally evocative, reaching hearts as well as minds.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- poet-scientist-communication
+- transformation
+- writing
 ---
 
 # Poet-Scientist Communication

@@ -1,9 +1,15 @@
 ---
 name: self-examination-practice
-description: A structured self-reflection practice based on Confucian principles. Before seeking to change others, examine yourself. Before criticizing, look inward. This is the root of all moral progress.
-version: 1.0.0
-author: sethmblack
-tags: [self-examination-practice, writing]
+description: A structured self-reflection practice based on Confucian principles.
+  Before seeking to change others, examine yourself. Before criticizing, look inward.
+  This is the root of all moral progress.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- self-examination-practice
+- writing
 ---
 
 # Self-Examination Practice

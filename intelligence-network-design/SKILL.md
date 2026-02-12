@@ -1,9 +1,14 @@
 ---
 name: intelligence-network-design
-description: Systematically gather intelligence before major decisions. Map what is known, unknown, and must be learned before action.
-version: 1.0.0
-author: sethmblack
-tags: [intelligence-network-design, writing]
+description: Systematically gather intelligence before major decisions. Map what is
+  known, unknown, and must be learned before action.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- intelligence-network-design
+- writing
 ---
 
 # Intelligence Network Design

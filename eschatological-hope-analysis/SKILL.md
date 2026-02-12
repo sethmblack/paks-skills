@@ -1,9 +1,16 @@
 ---
 name: eschatological-hope-analysis
-description: Transform present-bound problems into future-oriented vision by beginning with God's promised future and working backward, revealing how the eschatological horizon transforms engagement with the present.
-version: 1.0.0
-author: sethmblack
-tags: [eschatological-hope-analysis, transformation, writing]
+description: Transform present-bound problems into future-oriented vision by beginning
+  with God's promised future and working backward, revealing how the eschatological
+  horizon transforms engagement with the pr...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- eschatological-hope-analysis
+- transformation
+- writing
 ---
 
 # Eschatological Hope Analysis

@@ -1,9 +1,14 @@
 ---
 name: economic-machine-analysis
-description: Analyze economic situations through Ray Dalio's transaction-based, debt-cycle framework to understand where we are in cycles and what's likely to happen next.
-version: 1.0.0
-author: sethmblack
-tags: [economic-machine-analysis, writing]
+description: Analyze economic situations through Ray Dalio's transaction-based, debt-cycle
+  framework to understand where we are in cycles and what's likely to happen next.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- economic-machine-analysis
+- writing
 ---
 
 # Economic Machine Analysis

@@ -1,9 +1,15 @@
 ---
 name: speed-and-audacity
-description: Use speed as a strategic weapon—move faster than opponents believe possible to create advantages that careful planning cannot achieve.
-version: 1.0.0
-author: sethmblack
-tags: [compression, speed-and-audacity, writing]
+description: Use speed as a strategic weapon—move faster than opponents believe possible
+  to create advantages that careful planning cannot achieve.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- speed-and-audacity
+- writing
 ---
 
 # Speed and Audacity

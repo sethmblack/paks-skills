@@ -1,9 +1,15 @@
 ---
 name: accountability-mapping
-description: Establish clear individual ownership with measurable deliverables for initiatives, eliminating diffuse responsibility.
-version: 1.0.0
-author: sethmblack
-tags: [accountability-mapping, escalation, writing]
+description: Establish clear individual ownership with measurable deliverables for
+  initiatives, eliminating diffuse responsibility.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- accountability-mapping
+- escalation
+- writing
 ---
 
 # Accountability Mapping

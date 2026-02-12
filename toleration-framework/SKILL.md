@@ -1,9 +1,14 @@
 ---
 name: toleration-framework
-description: Determine the proper limits of toleration and the boundaries of civil authority over conscience, belief, and expression.
-version: 1.0.0
-author: sethmblack
-tags: [toleration-framework, writing]
+description: Determine the proper limits of toleration and the boundaries of civil
+  authority over conscience, belief, and expression.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- toleration-framework
+- writing
 ---
 
 # Toleration Framework

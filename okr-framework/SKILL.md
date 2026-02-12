@@ -1,9 +1,16 @@
 ---
 name: okr-framework
-description: Implement Objectives and Key Results for goal-setting, alignment, and execution tracking. Based on Andy Grove's methodology developed at Intel: "If you don't know where you're going, you won't get there."
-version: 1.0.0
-author: sethmblack
-tags: [okr-framework, transformation, writing]
+description: 'Implement Objectives and Key Results for goal-setting, alignment, and
+  execution tracking. Based on Andy Grove''s methodology developed at Intel: "If you
+  don''t know where you''re going, you won''t get ...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- okr-framework
+- transformation
+- writing
 ---
 
 # OKR Framework

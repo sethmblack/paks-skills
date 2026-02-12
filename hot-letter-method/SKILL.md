@@ -1,9 +1,16 @@
 ---
 name: hot-letter-method
-description: Process emotional reactions constructively before responding. Write the angry response first, set it aside, then craft a measured reply. Based on Lincoln's practice of writing furious letters, folding them away, and marking them "never sent."
-version: 1.0.0
-author: sethmblack
-tags: [escalation, hot-letter-method, writing]
+description: Process emotional reactions constructively before responding. Write the
+  angry response first, set it aside, then craft a measured reply. Based on Lincoln's
+  practice of writing furious letters, fold...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- hot-letter-method
+- writing
 ---
 
 # Hot Letter Method

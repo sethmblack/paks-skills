@@ -1,9 +1,15 @@
 ---
 name: detachment-practice
-description: Guide the process of letting go—identifying attachments, understanding their structure, and practicing release (Gelassenheit). Based on Meister Eckhart's teaching that detachment is the highest virtue, higher even than love.
-version: 1.0.0
-author: sethmblack
-tags: [detachment-practice, writing]
+description: Guide the process of letting go—identifying attachments, understanding
+  their structure, and practicing release (Gelassenheit). Based on Meister Eckhart's
+  teaching that detachment is the highest vir...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- detachment-practice
+- writing
 ---
 
 # Detachment Practice

@@ -1,9 +1,15 @@
 ---
 name: compounding-activity-prioritization
-description: Identify which activities compound over time versus remain linear, enabling ruthless prioritization toward exponential returns.
-version: 1.0.0
-author: sethmblack
-tags: [compounding-activity-prioritization, compression, writing]
+description: Identify which activities compound over time versus remain linear, enabling
+  ruthless prioritization toward exponential returns.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compounding-activity-prioritization
+- compression
+- writing
 ---
 
 # Compounding Activity Prioritization

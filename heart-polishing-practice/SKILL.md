@@ -1,9 +1,14 @@
 ---
 name: heart-polishing-practice
-description: A spiritual purification methodology derived from Al-Ghazali's teaching that the heart is a mirror capable of reflecting divine light when properly polished.
-version: 1.0.0
-author: sethmblack
-tags: [heart-polishing-practice, writing]
+description: A spiritual purification methodology derived from Al-Ghazali's teaching
+  that the heart is a mirror capable of reflecting divine light when properly polished.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- heart-polishing-practice
+- writing
 ---
 
 # Heart-Polishing Practice

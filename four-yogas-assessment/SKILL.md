@@ -1,9 +1,16 @@
 ---
 name: four-yogas-assessment
-description: A practical framework for identifying which yoga path(s) best suit a person's temperament and guiding their spiritual development, derived from Swami Vivekananda's synthesis of the four classical yoga paths.
-version: 1.0.0
-author: sethmblack
-tags: [four-yogas-assessment, transformation, writing]
+description: A practical framework for identifying which yoga path(s) best suit a
+  person's temperament and guiding their spiritual development, derived from Swami
+  Vivekananda's synthesis of the four classical y...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- four-yogas-assessment
+- transformation
+- writing
 ---
 
 # Four Yogas Assessment

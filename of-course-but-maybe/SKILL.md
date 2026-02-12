@@ -1,9 +1,18 @@
 ---
 name: of-course-but-maybe
-description: Transform observations or moral statements using Louis C.K.'s signature "Of Course... But Maybe" rhetorical framework to expose the tension between socially acceptable positions and honest counter-thoughts.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, escalation, of-course-but-maybe-reframe, transformation, writing]
+description: Transform observations or moral statements using Louis C.K.'s signature
+  "Of Course... But Maybe" rhetorical framework to expose the tension between socially
+  acceptable positions and honest counter-...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- escalation
+- of-course-but-maybe-reframe
+- transformation
+- writing
 ---
 
 # Of Course But Maybe Reframe

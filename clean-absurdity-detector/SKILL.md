@@ -1,9 +1,21 @@
 ---
 name: clean-absurdity-detector
-description: Identify and articulate the inherent contradictions and weirdness in everyday experiences without profanity or crude humor, finding comedy through precision observation rather than transgression. Based on Brian Regan's clean comedy methodology.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, clean-absurdity-detector, comedy, escalation, storytelling, transformation, writing]
+description: Identify and articulate the inherent contradictions and weirdness in
+  everyday experiences without profanity or crude humor, finding comedy through precision
+  observation rather than transgression. B...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- clean-absurdity-detector
+- comedy
+- escalation
+- storytelling
+- transformation
+- writing
 ---
 
 # Clean Absurdity Detector

@@ -1,9 +1,15 @@
 ---
 name: financial-architecture-assessment
-description: Systematically assess and design funding mechanisms for organizational obligations and investments using Hamilton's Treasury principles.
-version: 1.0.0
-author: sethmblack
-tags: [financial-architecture-assessment, structure, writing]
+description: Systematically assess and design funding mechanisms for organizational
+  obligations and investments using Hamilton's Treasury principles.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- financial-architecture-assessment
+- structure
+- writing
 ---
 
 # Financial Architecture Assessment

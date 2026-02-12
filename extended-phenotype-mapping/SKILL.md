@@ -1,9 +1,16 @@
 ---
 name: extended-phenotype-mapping
-description: Map the effects of replicators (genes, memes, cultural patterns, code) beyond their immediate containers into environmental modifications, artifacts, and actions at a distance. Understand how organizations, teams, and systems express their "genes" through the things they build.
-version: 1.0.0
-author: sethmblack
-tags: [extended-phenotype-mapping, structure, writing]
+description: Map the effects of replicators (genes, memes, cultural patterns, code)
+  beyond their immediate containers into environmental modifications, artifacts, and
+  actions at a distance. Understand how organ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- extended-phenotype-mapping
+- structure
+- writing
 ---
 
 # Extended Phenotype Mapping

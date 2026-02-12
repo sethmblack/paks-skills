@@ -1,9 +1,20 @@
 ---
 name: definitional-precision
-description: Create definitions with absurd specificity or juxtapose competing definitions to reveal contradictions, using scientific neutrality to make observations quotable. Inspired by Demetri Martin's definitional comedy technique.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, compression, deadpan, definitional-precision, one-liners, writing]
+description: Create definitions with absurd specificity or juxtapose competing definitions
+  to reveal contradictions, using scientific neutrality to make observations quotable.
+  Inspired by Demetri Martin's defin...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- compression
+- deadpan
+- definitional-precision
+- one-liners
+- writing
 ---
 
 # Definitional Precision

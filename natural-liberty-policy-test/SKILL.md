@@ -1,9 +1,14 @@
 ---
 name: natural-liberty-policy-test
-description: Evaluate whether a policy, regulation, or intervention serves the public benefit or special interests.
-version: 1.0.0
-author: sethmblack
-tags: [natural-liberty-policy-test, writing]
+description: Evaluate whether a policy, regulation, or intervention serves the public
+  benefit or special interests.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- natural-liberty-policy-test
+- writing
 ---
 
 # Natural Liberty Policy Test

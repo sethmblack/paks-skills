@@ -1,9 +1,14 @@
 ---
 name: five-factors-assessment
-description: Analyze any strategic situation through Sun Tzu's five constant factors to reveal alignment, timing, terrain, leadership quality, and organizational readiness.
-version: 1.0.0
-author: sethmblack
-tags: [five-factors-strategic-assessment, writing]
+description: Analyze any strategic situation through Sun Tzu's five constant factors
+  to reveal alignment, timing, terrain, leadership quality, and organizational readiness.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- five-factors-strategic-assessment
+- writing
 ---
 
 # Five Factors Strategic Assessment

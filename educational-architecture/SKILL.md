@@ -1,9 +1,16 @@
 ---
 name: educational-architecture
-description: Design systematic learning programs using Jefferson's principles from the University of Virginia: clear foundations, disciplinary coherence, learner sovereignty, community integration, and institutional capacity for progress.
-version: 1.0.0
-author: sethmblack
-tags: [educational-architecture, structure, writing]
+description: 'Design systematic learning programs using Jefferson''s principles from
+  the University of Virginia: clear foundations, disciplinary coherence, learner sovereignty,
+  community integration, and institut...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- educational-architecture
+- structure
+- writing
 ---
 
 # Educational Architecture

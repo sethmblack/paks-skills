@@ -1,9 +1,15 @@
 ---
 name: wound-wisdom-portal
-description: Transform the experience of suffering from meaningless pain to meaningful opening, revealing what the wound is making possible.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, wound-wisdom-portal, writing]
+description: Transform the experience of suffering from meaningless pain to meaningful
+  opening, revealing what the wound is making possible.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- wound-wisdom-portal
+- writing
 ---
 
 # Wound Wisdom Portal

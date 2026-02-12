@@ -1,9 +1,21 @@
 ---
 name: escalation-spiral
-description: Transform mundane, relatable situations into mounting comedic panic through Brian Regan-style escalation, using rapid-fire internal monologue with increasing stakes, confusion, and explosive vocal energy.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, compression, escalation, escalation-spiral, observational, storytelling]
+description: Transform mundane, relatable situations into mounting comedic panic through
+  Brian Regan-style escalation, using rapid-fire internal monologue with increasing
+  stakes, confusion, and explosive vocal ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- compression
+- escalation
+- escalation-spiral
+- observational
+- storytelling
 ---
 
 # Escalation Spiral

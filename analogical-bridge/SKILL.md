@@ -1,9 +1,18 @@
 ---
 name: analogical-bridge
-description: Use a familiar, observable process to explain and build acceptance for an unfamiliar or counterintuitive one. Bridge the gap between the known and the unknown through carefully constructed analogies.
-version: 1.0.0
-author: sethmblack
-tags: [analogical-bridge, storytelling, structure, transformation, writing]
+description: Use a familiar, observable process to explain and build acceptance for
+  an unfamiliar or counterintuitive one. Bridge the gap between the known and the
+  unknown through carefully constructed analogies.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- analogical-bridge
+- storytelling
+- structure
+- transformation
+- writing
 ---
 
 # Analogical Bridge

@@ -1,9 +1,15 @@
 ---
 name: combat-stance-everyday-stance
-description: Audit and align everyday behavior with peak performance requirements. Eliminate the gap between how you operate daily and how you need to perform when it matters.
-version: 1.0.0
-author: sethmblack
-tags: [combat-stance-everyday-stance, writing]
+description: Audit and align everyday behavior with peak performance requirements.
+  Eliminate the gap between how you operate daily and how you need to perform when
+  it matters.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- combat-stance-everyday-stance
+- writing
 ---
 
 # Combat Stance Everyday Stance

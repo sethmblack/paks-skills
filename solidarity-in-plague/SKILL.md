@@ -1,9 +1,17 @@
 ---
 name: solidarity-in-plague
-description: Guide response to collective catastrophe or shared suffering through Camus's ethic of solidarity - doing one's job with decency, resisting despair, and recognizing that we cannot save ourselves alone.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, solidarity-in-plague, transformation, writing]
+description: Guide response to collective catastrophe or shared suffering through
+  Camus's ethic of solidarity - doing one's job with decency, resisting despair, and
+  recognizing that we cannot save ourselves alone.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- solidarity-in-plague
+- transformation
+- writing
 ---
 
 # Solidarity in Plague

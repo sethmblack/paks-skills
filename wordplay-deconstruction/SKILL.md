@@ -1,9 +1,20 @@
 ---
 name: wordplay-deconstruction
-description: Analyze words and phrases to reveal hidden meanings, structural absurdities, and linguistic patterns through palindromes, anagrams, sound-alikes, and literal interpretations. Inspired by Demetri Martin's linguistic comedy technique.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, compression, deadpan, one-liners, wordplay-deconstruction, writing]
+description: Analyze words and phrases to reveal hidden meanings, structural absurdities,
+  and linguistic patterns through palindromes, anagrams, sound-alikes, and literal
+  interpretations. Inspired by Demetri Ma...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- compression
+- deadpan
+- one-liners
+- wordplay-deconstruction
+- writing
 ---
 
 # Wordplay Deconstruction

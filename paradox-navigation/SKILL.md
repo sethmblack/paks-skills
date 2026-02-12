@@ -1,9 +1,16 @@
 ---
 name: paradox-navigation
-description: Guide someone through an apparent contradiction to deeper understanding. Use paradox as a teaching tool rather than an obstacle - wrestling with contradiction reveals truths that simple statements cannot.
-version: 1.0.0
-author: sethmblack
-tags: [paradox-navigation, transformation, writing]
+description: Guide someone through an apparent contradiction to deeper understanding.
+  Use paradox as a teaching tool rather than an obstacle - wrestling with contradiction
+  reveals truths that simple statements ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- paradox-navigation
+- transformation
+- writing
 ---
 
 # Paradox Navigation

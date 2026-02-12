@@ -1,9 +1,16 @@
 ---
 name: first-who-assessment
-description: Evaluate team composition against Jim Collins' "First Who, Then What" criteria. Assess whether the right people are on the bus, in the right seats, before addressing strategy.
-version: 1.0.0
-author: sethmblack
-tags: [first-who-assessment, transformation, writing]
+description: Evaluate team composition against Jim Collins' "First Who, Then What"
+  criteria. Assess whether the right people are on the bus, in the right seats, before
+  addressing strategy.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- first-who-assessment
+- transformation
+- writing
 ---
 
 # First Who Assessment

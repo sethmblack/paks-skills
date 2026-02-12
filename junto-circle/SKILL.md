@@ -1,9 +1,15 @@
 ---
 name: junto-circle
-description: Design and facilitate mutual improvement groups using Benjamin Franklin's structured inquiry approach—the model that spawned America's first lending library, the American Philosophical Society, and the University of Pennsylvania.
-version: 1.0.0
-author: sethmblack
-tags: [junto-circle, writing]
+description: Design and facilitate mutual improvement groups using Benjamin Franklin's
+  structured inquiry approach—the model that spawned America's first lending library,
+  the American Philosophical Society, and...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- junto-circle
+- writing
 ---
 
 # Junto Circle

@@ -1,9 +1,14 @@
 ---
 name: incentive-inversion-analysis
-description: Reveal how well-intentioned policies create perverse incentives that produce the opposite of their intended effects.
-version: 1.0.0
-author: sethmblack
-tags: [incentive-inversion-analysis, writing]
+description: Reveal how well-intentioned policies create perverse incentives that
+  produce the opposite of their intended effects.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- incentive-inversion-analysis
+- writing
 ---
 
 # Incentive Inversion Analysis

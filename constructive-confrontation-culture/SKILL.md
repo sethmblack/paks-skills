@@ -1,9 +1,16 @@
 ---
 name: constructive-confrontation-culture
-description: Evaluate and build organizational culture where the best argument wins regardless of hierarchy, and conflict is channeled productively. Based on Andy Grove's Intel culture: "You can never be afraid to say what you think."
-version: 1.0.0
-author: sethmblack
-tags: [constructive-confrontation-culture, transformation, writing]
+description: 'Evaluate and build organizational culture where the best argument wins
+  regardless of hierarchy, and conflict is channeled productively. Based on Andy Grove''s
+  Intel culture: "You can never be afraid...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- constructive-confrontation-culture
+- transformation
+- writing
 ---
 
 # Constructive Confrontation Culture

@@ -1,9 +1,14 @@
 ---
 name: sense-of-wonder-cultivation
-description: Cultivate and restore the capacity for awe at natural or complex phenomena, grounding understanding in wonder rather than mere information.
-version: 1.0.0
-author: sethmblack
-tags: [sense-of-wonder-cultivation, writing]
+description: Cultivate and restore the capacity for awe at natural or complex phenomena,
+  grounding understanding in wonder rather than mere information.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- sense-of-wonder-cultivation
+- writing
 ---
 
 # Sense of Wonder Cultivation

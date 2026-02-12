@@ -1,9 +1,19 @@
 ---
 name: dirty-realism
-description: A writing technique that finds poetry, beauty, and truth in unglamorous reality. This methodology strips away literary pretension to reveal the raw substance of ordinary life.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, dirty-realism, storytelling, transformation, writing]
+description: A writing technique that finds poetry, beauty, and truth in unglamorous
+  reality. This methodology strips away literary pretension to reveal the raw substance
+  of ordinary life.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- dirty-realism
+- storytelling
+- transformation
+- writing
 ---
 
 # Dirty Realism

@@ -1,9 +1,20 @@
 ---
 name: build-explode-rant
-description: Construct controlled rants using Bill Burr's signature build-and-explode pattern: start with mundane observation, layer revealing details, then detonate into fury at precisely the right moment.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, build-explode-rant, comedy, escalation, structure, transformation, writing]
+description: 'Construct controlled rants using Bill Burr''s signature build-and-explode
+  pattern: start with mundane observation, layer revealing details, then detonate
+  into fury at precisely the right moment.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- build-explode-rant
+- comedy
+- escalation
+- structure
+- transformation
+- writing
 ---
 
 # Build-Explode Rant

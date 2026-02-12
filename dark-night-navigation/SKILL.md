@@ -1,9 +1,16 @@
 ---
 name: dark-night-navigation
-description: **Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian Mysticism / Spiritual Direction **Purpose:** Guide someone through spiritual desolation by diagnosing whether they are experiencing authentic purgative darkness (divine work) or other causes, and providing stage-appropriate counsel
-version: 1.0.0
-author: sethmblack
-tags: [dark-night-navigation, transformation, writing]
+description: '**Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian
+  Mysticism / Spiritual Direction **Purpose:** Guide someone through spiritual desolation
+  by diagnosing whether they are expe...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- dark-night-navigation
+- transformation
+- writing
 ---
 
 # Dark Night Navigation

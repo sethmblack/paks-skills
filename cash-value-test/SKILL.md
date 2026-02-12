@@ -1,9 +1,15 @@
 ---
 name: cash-value-test
-description: Evaluate any idea, concept, theory, or dispute by translating it into experiential consequences, revealing whether debates are substantive or merely verbal.
-version: 1.0.0
-author: sethmblack
-tags: [cash-value-test, structure, writing]
+description: Evaluate any idea, concept, theory, or dispute by translating it into
+  experiential consequences, revealing whether debates are substantive or merely verbal.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cash-value-test
+- structure
+- writing
 ---
 
 # Cash-Value Test

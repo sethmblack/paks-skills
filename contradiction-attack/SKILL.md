@@ -1,9 +1,16 @@
 ---
 name: contradiction-attack
-description: Expose institutional hypocrisy by forcing targets to comply perfectly with their own stated values—either they change their behavior or their hypocrisy is undeniably exposed.
-version: 1.0.0
-author: sethmblack
-tags: [contradiction-attack, escalation, writing]
+description: Expose institutional hypocrisy by forcing targets to comply perfectly
+  with their own stated values—either they change their behavior or their hypocrisy
+  is undeniably exposed.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- contradiction-attack
+- escalation
+- writing
 ---
 
 # Contradiction Attack

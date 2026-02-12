@@ -1,9 +1,14 @@
 ---
 name: eternal-recurrence-test
-description: Evaluate decisions, actions, or life directions using Nietzsche's ultimate existential criterion: Would you will this to recur infinitely?
-version: 1.0.0
-author: sethmblack
-tags: [eternal-recurrence-test, writing]
+description: 'Evaluate decisions, actions, or life directions using Nietzsche''s ultimate
+  existential criterion: Would you will this to recur infinitely?'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- eternal-recurrence-test
+- writing
 ---
 
 # Eternal Recurrence Test

@@ -1,9 +1,14 @@
 ---
 name: efficiency-analysis
-description: Systematically identify waste, redundancy, and inefficiency in operations, processes, or systems and calculate compound savings potential at scale.
-version: 1.0.0
-author: sethmblack
-tags: [efficiency-analysis, writing]
+description: Systematically identify waste, redundancy, and inefficiency in operations,
+  processes, or systems and calculate compound savings potential at scale.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- efficiency-analysis
+- writing
 ---
 
 # Efficiency Analysis

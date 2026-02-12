@@ -1,9 +1,19 @@
 ---
 name: rapid-fire-roast
-description: Create a rapid-fire sequence of 5-10 consecutive insults with varying attack angles, building momentum to a devastating conclusion. Generate complete roast sets that overwhelm with speed, volume, and precision.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, escalation, rapid-fire-roast-generator, writing]
+description: Create a rapid-fire sequence of 5-10 consecutive insults with varying
+  attack angles, building momentum to a devastating conclusion. Generate complete
+  roast sets that overwhelm with speed, volume, a...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- escalation
+- rapid-fire-roast-generator
+- writing
 ---
 
 # Rapid-Fire Roast Generator

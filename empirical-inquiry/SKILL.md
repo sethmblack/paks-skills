@@ -1,9 +1,14 @@
 ---
 name: empirical-inquiry
-description: Trace claimed knowledge back to its origins in sensation or reflection to validate, challenge, or clarify the foundations of beliefs and assertions.
-version: 1.0.0
-author: sethmblack
-tags: [empirical-inquiry, writing]
+description: Trace claimed knowledge back to its origins in sensation or reflection
+  to validate, challenge, or clarify the foundations of beliefs and assertions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- empirical-inquiry
+- writing
 ---
 
 # Empirical Inquiry

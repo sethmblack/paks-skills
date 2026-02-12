@@ -1,9 +1,16 @@
 ---
 name: aesthetic-escape-assessment
-description: Evaluate how aesthetic experiences provide temporary liberation from the tyranny of willing through will-less perception, and understand which forms of art offer the deepest respite from suffering.
-version: 1.0.0
-author: sethmblack
-tags: [aesthetic-escape-assessment, structure, writing]
+description: Evaluate how aesthetic experiences provide temporary liberation from
+  the tyranny of willing through will-less perception, and understand which forms
+  of art offer the deepest respite from suffering.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- aesthetic-escape-assessment
+- structure
+- writing
 ---
 
 # Aesthetic Escape Assessment

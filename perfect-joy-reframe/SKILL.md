@@ -1,9 +1,16 @@
 ---
 name: perfect-joy-reframe
-description: Transform experiences of rejection, failure, and suffering using St. Francis's paradoxical teaching that perfect joy lies not in success or recognition, but in embracing difficulty with patience, love, and grace.
-version: 1.0.0
-author: sethmblack
-tags: [perfect-joy-reframe, transformation, writing]
+description: Transform experiences of rejection, failure, and suffering using St.
+  Francis's paradoxical teaching that perfect joy lies not in success or recognition,
+  but in embracing difficulty with patience, l...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- perfect-joy-reframe
+- transformation
+- writing
 ---
 
 # Perfect Joy Reframe

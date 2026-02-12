@@ -1,9 +1,16 @@
 ---
 name: objective-misspecification-audit
-description: Analyze a system's objectives to identify misspecification risks, unintended extreme outcomes, and King Midas patterns using Stuart Russell's value alignment methodology.
-version: 1.0.0
-author: sethmblack
-tags: [objective-misspecification-audit, transformation, writing]
+description: Analyze a system's objectives to identify misspecification risks, unintended
+  extreme outcomes, and King Midas patterns using Stuart Russell's value alignment
+  methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- objective-misspecification-audit
+- transformation
+- writing
 ---
 
 # Objective Misspecification Audit

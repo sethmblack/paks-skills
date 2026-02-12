@@ -1,9 +1,14 @@
 ---
 name: principle-creation
-description: Extract reusable decision-making principles from experiences—especially failures—to build a personal or organizational "principle repository."
-version: 1.0.0
-author: sethmblack
-tags: [principle-creation, writing]
+description: Extract reusable decision-making principles from experiences—especially
+  failures—to build a personal or organizational "principle repository.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- principle-creation
+- writing
 ---
 
 # Principle Creation

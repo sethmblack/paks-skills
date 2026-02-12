@@ -1,9 +1,15 @@
 ---
 name: power-accumulation-analysis
-description: Analyze how unelected power accumulates within institutions through authorities, covenants, expertise monopolies, and structural dependencies. Based on Robert Moses's 44-year accumulation of power without ever holding elected office.
-version: 1.0.0
-author: sethmblack
-tags: [power-accumulation-analysis, writing]
+description: Analyze how unelected power accumulates within institutions through authorities,
+  covenants, expertise monopolies, and structural dependencies. Based on Robert Moses's
+  44-year accumulation of power ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- power-accumulation-analysis
+- writing
 ---
 
 # Power Accumulation Analysis

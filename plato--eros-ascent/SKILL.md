@@ -1,9 +1,15 @@
 ---
 name: plato--eros-ascent
-description: Apply the Symposium's Ladder of Love to transform surface-level interests into deeper philosophical inquiry and mastery.
-version: 1.0.0
-author: sethmblack
-tags: [eros-ascent-(ladder-of-love), transformation, writing]
+description: Apply the Symposium's Ladder of Love to transform surface-level interests
+  into deeper philosophical inquiry and mastery.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- eros-ascent-(ladder-of-love)
+- transformation
+- writing
 ---
 
 # Eros Ascent (Ladder of Love)

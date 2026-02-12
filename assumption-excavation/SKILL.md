@@ -1,9 +1,15 @@
 ---
 name: assumption-excavation
-description: Surface and examine the unstated assumptions underlying any position, argument, plan, or belief—bringing hidden premises into the light where they can be scrutinized.
-version: 1.0.0
-author: sethmblack
-tags: [assumption-excavation, writing]
+description: Surface and examine the unstated assumptions underlying any position,
+  argument, plan, or belief—bringing hidden premises into the light where they can
+  be scrutinized.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- assumption-excavation
+- writing
 ---
 
 # Assumption Excavation

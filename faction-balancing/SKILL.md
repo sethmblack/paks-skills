@@ -1,9 +1,16 @@
 ---
 name: faction-balancing
-description: Navigate between opposing groups without alienating either. Maintain relationships with all factions while ensuring none becomes dominant, using their competition for your favor to strengthen your position.
-version: 1.0.0
-author: sethmblack
-tags: [faction-balancing, transformation, writing]
+description: Navigate between opposing groups without alienating either. Maintain
+  relationships with all factions while ensuring none becomes dominant, using their
+  competition for your favor to strengthen your ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- faction-balancing
+- transformation
+- writing
 ---
 
 # Faction Balancing

@@ -1,9 +1,14 @@
 ---
 name: investment-speculation-diagnosis
-description: Evaluate whether an action constitutes true investment or speculation using Benjamin Graham's rigorous definition.
-version: 1.0.0
-author: sethmblack
-tags: [investment-vs.-speculation-diagnosis, writing]
+description: Evaluate whether an action constitutes true investment or speculation
+  using Benjamin Graham's rigorous definition.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- investment-vs.-speculation-diagnosis
+- writing
 ---
 
 # Investment vs. Speculation Diagnosis

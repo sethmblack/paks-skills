@@ -1,9 +1,17 @@
 ---
 name: strategic-retreat-analysis
-description: Evaluate whether to continue or retreat from a market, business line, or initiative using the principle that strategic retreat enables reallocation toward higher-value opportunities.
-version: 1.0.0
-author: sethmblack
-tags: [compression, strategic-retreat-analysis, transformation, writing]
+description: Evaluate whether to continue or retreat from a market, business line,
+  or initiative using the principle that strategic retreat enables reallocation toward
+  higher-value opportunities.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- strategic-retreat-analysis
+- transformation
+- writing
 ---
 
 # Strategic Retreat Analysis

@@ -1,9 +1,17 @@
 ---
 name: fake-work-detector
-description: Distinguish between activities that feel productive (motion) and activities that move metrics (progress), identifying organizational dysfunction and recommending focus areas.
-version: 1.0.0
-author: sethmblack
-tags: [compression, fake-work-detector, structure, writing]
+description: Distinguish between activities that feel productive (motion) and activities
+  that move metrics (progress), identifying organizational dysfunction and recommending
+  focus areas.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- fake-work-detector
+- structure
+- writing
 ---
 
 # Fake Work Detector

@@ -1,9 +1,17 @@
 ---
 name: rapid-tempo-execution
-description: Accelerate execution to gain initiative and surprise, outpacing competition or circumstances.
-version: 1.0.0
-author: sethmblack
-tags: [compression, escalation, rapid-tempo-execution, structure, writing]
+description: Accelerate execution to gain initiative and surprise, outpacing competition
+  or circumstances.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- escalation
+- rapid-tempo-execution
+- structure
+- writing
 ---
 
 # Rapid Tempo Execution

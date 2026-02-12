@@ -1,9 +1,18 @@
 ---
 name: perspective-flip-routine
-description: Take a controversial or one-sided topic and authentically present multiple perspectives, then flip between them to expose contradictions, common ground, or absurdity.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, perspective-flip-routine, transformation, writing]
+description: Take a controversial or one-sided topic and authentically present multiple
+  perspectives, then flip between them to expose contradictions, common ground, or
+  absurdity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- perspective-flip-routine
+- transformation
+- writing
 ---
 
 # Perspective-Flip Routine

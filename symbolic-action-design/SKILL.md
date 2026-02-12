@@ -1,9 +1,15 @@
 ---
 name: symbolic-action-design
-description: Design symbolic gestures that reshape relationships and change what people believe is possible.
-version: 1.0.0
-author: sethmblack
-tags: [symbolic-action-design, transformation, writing]
+description: Design symbolic gestures that reshape relationships and change what people
+  believe is possible.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- symbolic-action-design
+- transformation
+- writing
 ---
 
 # Symbolic Action Design

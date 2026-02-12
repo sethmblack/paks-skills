@@ -1,9 +1,19 @@
 ---
 name: bipartisan-political-frame
-description: Convert partisan political content into bipartisan humor that hits all sides equally, using Bob Hope's safe political comedy formula. This skill makes political humor accessible and universal by targeting absurd behavior rather than ideology.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, bipartisan-political-frame, comedy, observational, transformation, writing]
+description: Convert partisan political content into bipartisan humor that hits all
+  sides equally, using Bob Hope's safe political comedy formula. This skill makes
+  political humor accessible and universal by ta...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- bipartisan-political-frame
+- comedy
+- observational
+- transformation
+- writing
 ---
 
 # Bipartisan Political Frame

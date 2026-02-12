@@ -1,9 +1,16 @@
 ---
 name: market-over-team-analysis
-description: Evaluate opportunities using Marc Andreessen's core insight that market quality matters more than team quality, applying the Rachleff formulation to make better investment, career, and strategic decisions.
-version: 1.0.0
-author: sethmblack
-tags: [market-over-team-analysis, structure, writing]
+description: Evaluate opportunities using Marc Andreessen's core insight that market
+  quality matters more than team quality, applying the Rachleff formulation to make
+  better investment, career, and strategic de...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- market-over-team-analysis
+- structure
+- writing
 ---
 
 # Market Over Team Analysis

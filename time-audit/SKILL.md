@@ -1,9 +1,14 @@
 ---
 name: time-audit
-description: Examine where your time actually goes and reclaim it for what truly matters, using Seneca's philosophy from "On the Shortness of Life."
-version: 1.0.0
-author: sethmblack
-tags: [time-audit, writing]
+description: Examine where your time actually goes and reclaim it for what truly matters,
+  using Seneca's philosophy from "On the Shortness of Life.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- time-audit
+- writing
 ---
 
 # Time Audit

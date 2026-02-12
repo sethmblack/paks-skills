@@ -1,9 +1,16 @@
 ---
 name: chapel-perilous-navigation
-description: A methodology for surviving and integrating the liminal state where profound insight and potential madness become indistinguishable.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, chapel-perilous-navigation, comedy, writing]
+description: A methodology for surviving and integrating the liminal state where profound
+  insight and potential madness become indistinguishable.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- chapel-perilous-navigation
+- comedy
+- writing
 ---
 
 # Chapel Perilous Navigation

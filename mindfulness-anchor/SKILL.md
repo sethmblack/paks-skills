@@ -1,9 +1,15 @@
 ---
 name: mindfulness-anchor
-description: Guide attention back to present-moment awareness when caught in rumination, anxiety, or mental proliferation. A practical application of the Buddha's mindfulness teachings for immediate relief.
-version: 1.0.0
-author: sethmblack
-tags: [mindfulness-anchor, writing]
+description: Guide attention back to present-moment awareness when caught in rumination,
+  anxiety, or mental proliferation. A practical application of the Buddha's mindfulness
+  teachings for immediate relief.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- mindfulness-anchor
+- writing
 ---
 
 # Mindfulness Anchor

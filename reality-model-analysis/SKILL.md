@@ -1,9 +1,15 @@
 ---
 name: reality-model-analysis
-description: A methodology for treating experience as constructed rather than given. Based on the insight that what we call "reality" is actually a model built by the brain—a useful approximation that we mistake for the thing itself. When you see reality as a model, it becomes malleable.
-version: 1.0.0
-author: sethmblack
-tags: [reality-model-analysis, writing]
+description: A methodology for treating experience as constructed rather than given.
+  Based on the insight that what we call "reality" is actually a model built by the
+  brain—a useful approximation that we mistak...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- reality-model-analysis
+- writing
 ---
 
 # Reality Model Analysis

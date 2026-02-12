@@ -1,9 +1,20 @@
 ---
 name: everyday-observation-finder
-description: Analyze a topic and identify mundane, everyday observations that can become comedy through confusion, technology bewilderment, or gentle absurdity. Extract relatable moments that reveal life's fundamental strangeness when examined with patient attention.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, compression, everyday-observation-finder, observational, transformation, writing]
+description: Analyze a topic and identify mundane, everyday observations that can
+  become comedy through confusion, technology bewilderment, or gentle absurdity. Extract
+  relatable moments that reveal life's fund...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- compression
+- everyday-observation-finder
+- observational
+- transformation
+- writing
 ---
 
 # Everyday Observation Finder

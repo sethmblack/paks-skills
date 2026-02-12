@@ -1,9 +1,15 @@
 ---
 name: breaking-the-line
-description: Reject conventional approaches when they favor the entrenched opponent. Create chaos where your superior execution can prevail.
-version: 1.0.0
-author: sethmblack
-tags: [breaking-the-line, structure, writing]
+description: Reject conventional approaches when they favor the entrenched opponent.
+  Create chaos where your superior execution can prevail.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- breaking-the-line
+- structure
+- writing
 ---
 
 # Breaking the Line

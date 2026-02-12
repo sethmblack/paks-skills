@@ -1,9 +1,18 @@
 ---
 name: cultural-code-switch-dialogue
-description: Write dialogue that authentically incorporates multiple cultural registers (languages, references, idioms) to illustrate immigrant/diaspora experience and cultural hybridity—without falling into stereotypes or caricature.
-version: 1.0.0
-author: sethmblack
-tags: [callbacks, comedy, cultural-code-switch-dialogue, storytelling, writing]
+description: Write dialogue that authentically incorporates multiple cultural registers
+  (languages, references, idioms) to illustrate immigrant/diaspora experience and
+  cultural hybridity—without falling into st...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- callbacks
+- comedy
+- cultural-code-switch-dialogue
+- storytelling
+- writing
 ---
 
 # Cultural Code-Switch Dialogue

@@ -1,9 +1,16 @@
 ---
 name: tam-expansion-analysis
-description: Calculate the potential market size by considering how software removes existing constraints, using Marc Andreessen's insight that technology expands markets rather than just capturing existing share.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, tam-expansion-analysis, writing]
+description: Calculate the potential market size by considering how software removes
+  existing constraints, using Marc Andreessen's insight that technology expands markets
+  rather than just capturing existing share.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- tam-expansion-analysis
+- writing
 ---
 
 # TAM Expansion Analysis

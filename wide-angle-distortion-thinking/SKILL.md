@@ -1,9 +1,17 @@
 ---
 name: wide-angle-distortion-thinking
-description: Use spatial distortion to visualize power dynamics, institutional oppression, and scale imbalances. Make foreground elements grotesquely large while pushing backgrounds to impossible distances.
-version: 1.0.0
-author: sethmblack
-tags: [structure, transformation, wide-angle-distortion-thinking, writing]
+description: Use spatial distortion to visualize power dynamics, institutional oppression,
+  and scale imbalances. Make foreground elements grotesquely large while pushing backgrounds
+  to impossible distances.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- structure
+- transformation
+- wide-angle-distortion-thinking
+- writing
 ---
 
 # Wide-Angle Distortion Thinking

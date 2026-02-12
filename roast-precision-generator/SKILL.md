@@ -1,9 +1,18 @@
 ---
 name: roast-precision-generator
-description: Generate hyper-specific roast jokes that are funny because they're accurate, not just mean. Follows Nikki Glaser's "queen of the roast" methodology emphasizing specificity, recognition, intelligence, and affection.
-version: 1.0.0
-author: sethmblack
-tags: [callbacks, comedy, one-liners, roast-precision-generator, writing]
+description: Generate hyper-specific roast jokes that are funny because they're accurate,
+  not just mean. Follows Nikki Glaser's "queen of the roast" methodology emphasizing
+  specificity, recognition, intelligenc...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- callbacks
+- comedy
+- one-liners
+- roast-precision-generator
+- writing
 ---
 
 # Roast Precision Generator

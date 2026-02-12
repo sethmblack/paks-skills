@@ -1,9 +1,16 @@
 ---
 name: tribe-building-framework
-description: Design and nurture a tribe or movement around a product, cause, or leader, based on Seth Godin's methodology from "Tribes."
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, structure, tribe-building-framework, writing]
+description: Design and nurture a tribe or movement around a product, cause, or leader,
+  based on Seth Godin's methodology from "Tribes.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- structure
+- tribe-building-framework
+- writing
 ---
 
 # Tribe Building Framework

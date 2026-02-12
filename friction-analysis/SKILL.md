@@ -1,9 +1,14 @@
 ---
 name: friction-analysis
-description: **Expert Origin:** Carl von Clausewitz **Skill Type:** Diagnostic Framework **Trigger:** "Why isn't this working as planned?" / "Plans keep failing in execution"
-version: 1.0.0
-author: sethmblack
-tags: [friction-analysis, writing]
+description: '**Expert Origin:** Carl von Clausewitz **Skill Type:** Diagnostic Framework
+  **Trigger:** "Why isn''t this working as planned?" / "Plans keep failing in execution'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- friction-analysis
+- writing
 ---
 
 # Friction Analysis

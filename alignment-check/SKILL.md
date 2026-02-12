@@ -1,9 +1,14 @@
 ---
 name: alignment-check
-description: Rapidly assess whether a team or organization is aligned around a common vision, strategy, and understanding of roles through a structured diagnostic protocol.
-version: 1.0.0
-author: sethmblack
-tags: [alignment-check, writing]
+description: Rapidly assess whether a team or organization is aligned around a common
+  vision, strategy, and understanding of roles through a structured diagnostic protocol.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- alignment-check
+- writing
 ---
 
 # Alignment Check

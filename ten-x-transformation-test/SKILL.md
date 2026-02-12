@@ -1,9 +1,17 @@
 ---
 name: ten-x-transformation-test
-description: Challenge incremental thinking by asking what would need to be true for 10x improvement, reframing problems from optimization to transformation.
-version: 1.0.0
-author: sethmblack
-tags: [10x-transformation-test, compression, structure, transformation, writing]
+description: Challenge incremental thinking by asking what would need to be true for
+  10x improvement, reframing problems from optimization to transformation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- 10x-transformation-test
+- compression
+- structure
+- transformation
+- writing
 ---
 
 # 10x Transformation Test

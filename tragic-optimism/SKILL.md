@@ -1,9 +1,16 @@
 ---
 name: tragic-optimism
-description: Maintain hope and find meaning in the face of the "tragic triad": unavoidable pain, inescapable guilt, and certain death. Viktor Frankl's framework for optimism that does not deny tragedy but transforms it.
-version: 1.0.0
-author: sethmblack
-tags: [tragic-optimism-assessment, transformation, writing]
+description: 'Maintain hope and find meaning in the face of the "tragic triad": unavoidable
+  pain, inescapable guilt, and certain death. Viktor Frankl''s framework for optimism
+  that does not deny tragedy but trans...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- tragic-optimism-assessment
+- transformation
+- writing
 ---
 
 # Tragic Optimism Assessment

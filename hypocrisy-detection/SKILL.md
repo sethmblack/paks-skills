@@ -1,9 +1,16 @@
 ---
 name: hypocrisy-detection
-description: Analyze situations, institutions, or arguments to identify gaps between stated values and actual behavior. Based on Twain's satirical method of stripping away pretense to reveal the truth nobody will say out loud.
-version: 1.0.0
-author: sethmblack
-tags: [hypocrisy-detection, one-liners, writing]
+description: Analyze situations, institutions, or arguments to identify gaps between
+  stated values and actual behavior. Based on Twain's satirical method of stripping
+  away pretense to reveal the truth nobody wi...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hypocrisy-detection
+- one-liners
+- writing
 ---
 
 # Hypocrisy Detection

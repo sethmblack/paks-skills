@@ -1,9 +1,16 @@
 ---
 name: lantern-audit
-description: Expose gaps between stated values and actual behavior by designing and performing literal tests that reveal hypocrisy, forcing confrontation between what is claimed and what is practiced.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, lantern-audit, writing]
+description: Expose gaps between stated values and actual behavior by designing and
+  performing literal tests that reveal hypocrisy, forcing confrontation between what
+  is claimed and what is practiced.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- lantern-audit
+- writing
 ---
 
 # Lantern Audit

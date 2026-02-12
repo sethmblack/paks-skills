@@ -1,9 +1,15 @@
 ---
 name: pragmatic-governance
-description: Evaluate every proposal, policy, or strategy by one criterion: Does it work? Learn from others who have solved similar problems. Abandon approaches that fail regardless of their theoretical elegance.
-version: 1.0.0
-author: sethmblack
-tags: [pragmatic-governance, writing]
+description: 'Evaluate every proposal, policy, or strategy by one criterion: Does
+  it work? Learn from others who have solved similar problems. Abandon approaches
+  that fail regardless of their theoretical elegance.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- pragmatic-governance
+- writing
 ---
 
 # Pragmatic Governance

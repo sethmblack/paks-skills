@@ -1,9 +1,14 @@
 ---
 name: ironic-voice
-description: A skill for adopting the voice of what you oppose with such fidelity that the voice condemns itself.
-version: 1.0.0
-author: sethmblack
-tags: [ironic-voice, writing]
+description: A skill for adopting the voice of what you oppose with such fidelity
+  that the voice condemns itself.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ironic-voice
+- writing
 ---
 
 # Ironic Voice

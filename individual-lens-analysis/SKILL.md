@@ -1,9 +1,15 @@
 ---
 name: individual-lens-analysis
-description: Shift from aggregate/category thinking to individual-level analysis, revealing what statistics and generalizations obscure. Names, not numbers. Persons, not populations.
-version: 1.0.0
-author: sethmblack
-tags: [individual-lens-analysis, writing]
+description: Shift from aggregate/category thinking to individual-level analysis,
+  revealing what statistics and generalizations obscure. Names, not numbers. Persons,
+  not populations.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- individual-lens-analysis
+- writing
 ---
 
 # Individual Lens Analysis

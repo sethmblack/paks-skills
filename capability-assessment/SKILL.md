@@ -1,9 +1,16 @@
 ---
 name: capability-assessment
-description: Precisely define what a system, technology, or approach can and cannot do - distinguishing actual capabilities from aspirational claims, execution from origination, as Ada Lovelace did when assessing the Analytical Engine.
-version: 1.0.0
-author: sethmblack
-tags: [capability-assessment, transformation, writing]
+description: Precisely define what a system, technology, or approach can and cannot
+  do - distinguishing actual capabilities from aspirational claims, execution from
+  origination, as Ada Lovelace did when assessi...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- capability-assessment
+- transformation
+- writing
 ---
 
 # Capability Assessment

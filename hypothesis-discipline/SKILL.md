@@ -1,9 +1,16 @@
 ---
 name: hypothesis-discipline
-description: Rigorously classify claims by their evidence level, distinguishing what has been demonstrated from what is hypothesized, applying Newton's "hypotheses non fingo" standard.
-version: 1.0.0
-author: sethmblack
-tags: [hypothesis-discipline, transformation, writing]
+description: Rigorously classify claims by their evidence level, distinguishing what
+  has been demonstrated from what is hypothesized, applying Newton's "hypotheses non
+  fingo" standard.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hypothesis-discipline
+- transformation
+- writing
 ---
 
 # Hypothesis Discipline

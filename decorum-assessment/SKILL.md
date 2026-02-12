@@ -1,9 +1,15 @@
 ---
 name: decorum-assessment
-description: Evaluate and calibrate the fit between speaker, message, audience, and occasion to determine the appropriate style, tone, and approach for maximum effectiveness.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, decorum-assessment, writing]
+description: Evaluate and calibrate the fit between speaker, message, audience, and
+  occasion to determine the appropriate style, tone, and approach for maximum effectiveness.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- decorum-assessment
+- writing
 ---
 
 # Decorum Assessment

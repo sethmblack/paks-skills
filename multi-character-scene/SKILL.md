@@ -1,9 +1,19 @@
 ---
 name: multi-character-scene
-description: Transform narrative description into fully embodied multi-character scenes where each person's voice, internal logic, and perspective is inhabited completely. Based on Richard Pryor's technique of creating entire theatrical scenes through character embodiment, this skill makes conflict, interaction, and perspective collisions immediate and visceral.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, escalation, multi-character-scene-builder, storytelling, transformation, writing]
+description: Transform narrative description into fully embodied multi-character scenes
+  where each person's voice, internal logic, and perspective is inhabited completely.
+  Based on Richard Pryor's technique of ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- escalation
+- multi-character-scene-builder
+- storytelling
+- transformation
+- writing
 ---
 
 # Multi-Character Scene Builder

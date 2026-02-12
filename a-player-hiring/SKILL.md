@@ -1,9 +1,15 @@
 ---
 name: a-player-hiring
-description: Evaluate candidates and hiring decisions through Steve Jobs's A-player framework to build world-class teams and prevent organizational talent decay: "A players hire A players. B players hire C players."
-version: 1.0.0
-author: sethmblack
-tags: [a-player-hiring, writing]
+description: 'Evaluate candidates and hiring decisions through Steve Jobs''s A-player
+  framework to build world-class teams and prevent organizational talent decay: "A
+  players hire A players. B players hire C play...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- a-player-hiring
+- writing
 ---
 
 # A-Player Hiring

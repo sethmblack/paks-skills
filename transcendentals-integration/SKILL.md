@@ -1,9 +1,14 @@
 ---
 name: transcendentals-integration
-description: Demonstrate the convertibility and mutual dependence of beauty, goodness, and truth - restoring wholeness when one has been separated from the others.
-version: 1.0.0
-author: sethmblack
-tags: [transcendentals-integration, writing]
+description: Demonstrate the convertibility and mutual dependence of beauty, goodness,
+  and truth - restoring wholeness when one has been separated from the others.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transcendentals-integration
+- writing
 ---
 
 # Transcendentals Integration

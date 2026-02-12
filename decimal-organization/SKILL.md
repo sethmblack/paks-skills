@@ -1,9 +1,15 @@
 ---
 name: decimal-organization
-description: Design organizational structures using simple, scalable units with clear accountability at each level.
-version: 1.0.0
-author: sethmblack
-tags: [decimal-organization, structure, writing]
+description: Design organizational structures using simple, scalable units with clear
+  accountability at each level.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- decimal-organization
+- structure
+- writing
 ---
 
 # Decimal Organization

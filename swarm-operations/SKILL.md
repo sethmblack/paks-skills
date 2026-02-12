@@ -1,9 +1,14 @@
 ---
 name: swarm-operations
-description: A skill for conducting distributed action where participants self-select, self-coordinate, and act toward shared goals without central direction.
-version: 1.0.0
-author: sethmblack
-tags: [swarm-operations, writing]
+description: A skill for conducting distributed action where participants self-select,
+  self-coordinate, and act toward shared goals without central direction.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- swarm-operations
+- writing
 ---
 
 # Swarm Operations

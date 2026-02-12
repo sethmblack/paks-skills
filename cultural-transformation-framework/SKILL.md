@@ -1,9 +1,17 @@
 ---
 name: cultural-transformation-framework
-description: Guide large-scale organizational culture change from toxic/competitive to collaborative/growth-oriented, based on Satya Nadella's methodology for transforming Microsoft's culture.
-version: 1.0.0
-author: sethmblack
-tags: [cultural-transformation-framework, storytelling, transformation, writing]
+description: Guide large-scale organizational culture change from toxic/competitive
+  to collaborative/growth-oriented, based on Satya Nadella's methodology for transforming
+  Microsoft's culture.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cultural-transformation-framework
+- storytelling
+- transformation
+- writing
 ---
 
 # Cultural Transformation Framework

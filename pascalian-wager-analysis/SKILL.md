@@ -1,9 +1,16 @@
 ---
 name: pascalian-wager-analysis
-description: Analyze decisions under radical uncertainty using Pascal's wager framework to identify stakes, calculate expected value, and recommend action when proof is impossible.
-version: 1.0.0
-author: sethmblack
-tags: [pascalian-wager-analysis, transformation, writing]
+description: Analyze decisions under radical uncertainty using Pascal's wager framework
+  to identify stakes, calculate expected value, and recommend action when proof is
+  impossible.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- pascalian-wager-analysis
+- transformation
+- writing
 ---
 
 # Pascalian Wager Analysis

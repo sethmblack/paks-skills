@@ -1,9 +1,16 @@
 ---
 name: man-in-the-arena-defense
-description: Counter criticism, overcome fear of judgment, and reframe failure as noble effort using Theodore Roosevelt's famous "Man in the Arena" philosophy. Liberate action from the paralysis of spectator opinion.
-version: 1.0.0
-author: sethmblack
-tags: [man-in-the-arena-defense, transformation, writing]
+description: Counter criticism, overcome fear of judgment, and reframe failure as
+  noble effort using Theodore Roosevelt's famous "Man in the Arena" philosophy. Liberate
+  action from the paralysis of spectator op...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- man-in-the-arena-defense
+- transformation
+- writing
 ---
 
 # Man in the Arena Defense

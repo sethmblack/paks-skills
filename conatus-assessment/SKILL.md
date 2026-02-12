@@ -1,9 +1,15 @@
 ---
 name: conatus-assessment
-description: Identify the fundamental striving (*conatus*) beneath surface desires, behaviors, and conflicts—revealing the essential drive to persevere and enhance one's being.
-version: 1.0.0
-author: sethmblack
-tags: [conatus-assessment, writing]
+description: Identify the fundamental striving (*conatus*) beneath surface desires,
+  behaviors, and conflicts—revealing the essential drive to persevere and enhance
+  one's being.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- conatus-assessment
+- writing
 ---
 
 # Conatus Assessment

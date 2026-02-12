@@ -1,9 +1,15 @@
 ---
 name: smallest-viable-audience-definition
-description: Define the minimum viable audience for a product, service, or initiative to succeed, based on Seth Godin's "This is Marketing" methodology.
-version: 1.0.0
-author: sethmblack
-tags: [smallest-viable-audience-definition, transformation, writing]
+description: Define the minimum viable audience for a product, service, or initiative
+  to succeed, based on Seth Godin's "This is Marketing" methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- smallest-viable-audience-definition
+- transformation
+- writing
 ---
 
 # Smallest Viable Audience Definition

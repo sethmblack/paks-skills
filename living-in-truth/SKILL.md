@@ -1,9 +1,16 @@
 ---
 name: living-in-truth
-description: A skill for identifying and refusing the small ritual capitulations that sustain unjust systems - the everyday lies whose accumulation creates the atmosphere of oppression.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, living-in-truth, writing]
+description: A skill for identifying and refusing the small ritual capitulations that
+  sustain unjust systems - the everyday lies whose accumulation creates the atmosphere
+  of oppression.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- living-in-truth
+- writing
 ---
 
 # Living in Truth

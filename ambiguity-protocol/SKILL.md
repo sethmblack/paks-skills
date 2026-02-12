@@ -1,9 +1,17 @@
 ---
 name: ambiguity-protocol
-description: Create productive uncertainty that sustains long-term engagement by planting contradictory evidence, refusing resolution, and making "solving it" impossible while keeping audiences invested in investigation.
-version: 1.0.0
-author: sethmblack
-tags: [ambiguity-protocol, storytelling, structure, writing]
+description: Create productive uncertainty that sustains long-term engagement by planting
+  contradictory evidence, refusing resolution, and making "solving it" impossible
+  while keeping audiences invested in inve...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ambiguity-protocol
+- storytelling
+- structure
+- writing
 ---
 
 # Ambiguity Protocol

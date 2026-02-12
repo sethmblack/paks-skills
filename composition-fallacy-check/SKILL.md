@@ -1,9 +1,14 @@
 ---
 name: composition-fallacy-check
-description: Identify when individually rational behavior creates collectively irrational outcomes.
-version: 1.0.0
-author: sethmblack
-tags: [composition-fallacy-check, writing]
+description: Identify when individually rational behavior creates collectively irrational
+  outcomes.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- composition-fallacy-check
+- writing
 ---
 
 # Composition Fallacy Check

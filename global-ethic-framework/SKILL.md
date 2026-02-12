@@ -1,9 +1,15 @@
 ---
 name: global-ethic-framework
-description: Identify shared ethical principles across religious, cultural, or worldview divides to enable practical cooperation. Based on Hans Kung's methodology: "No world peace without peace among religions. No peace among religions without dialogue between the religions. No dialogue between the religions without accurate knowledge of one another."
-version: 1.0.0
-author: sethmblack
-tags: [global-ethic-framework, writing]
+description: 'Identify shared ethical principles across religious, cultural, or worldview
+  divides to enable practical cooperation. Based on Hans Kung''s methodology: "No
+  world peace without peace among religions....'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- global-ethic-framework
+- writing
 ---
 
 # Global Ethic Framework

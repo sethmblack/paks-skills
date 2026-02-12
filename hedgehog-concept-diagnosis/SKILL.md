@@ -1,9 +1,15 @@
 ---
 name: hedgehog-concept-diagnosis
-description: Guide organizations to identify their Hedgehog Concept through systematic three-circles analysis, finding the intersection of what they can be best at, what drives their economic engine, and what they are deeply passionate about.
-version: 1.0.0
-author: sethmblack
-tags: [hedgehog-concept-diagnosis, writing]
+description: Guide organizations to identify their Hedgehog Concept through systematic
+  three-circles analysis, finding the intersection of what they can be best at, what
+  drives their economic engine, and what t...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- hedgehog-concept-diagnosis
+- writing
 ---
 
 # Hedgehog Concept Diagnosis

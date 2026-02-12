@@ -1,9 +1,17 @@
 ---
 name: musical-emotional-bait-and-switch
-description: Create songs or musical content where the musical form (melody, rhythm, genre) deliberately contradicts or undercuts the lyrical/thematic content, using catchiness as a delivery mechanism for difficult truths and cognitive dissonance as emotional amplification.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, musical-emotional-bait-and-switch, writing]
+description: Create songs or musical content where the musical form (melody, rhythm,
+  genre) deliberately contradicts or undercuts the lyrical/thematic content, using
+  catchiness as a delivery mechanism for diffi...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- musical-emotional-bait-and-switch
+- writing
 ---
 
 # Musical Emotional Bait-and-Switch

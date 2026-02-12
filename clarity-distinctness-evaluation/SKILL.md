@@ -1,9 +1,15 @@
 ---
 name: clarity-distinctness-evaluation
-description: Evaluate whether an idea, concept, or argument is sufficiently clear (vivid and present to the mind) and distinct (precisely separated from other concepts) to be trusted as a foundation for further reasoning.
-version: 1.0.0
-author: sethmblack
-tags: [clarity-distinctness-evaluation, writing]
+description: Evaluate whether an idea, concept, or argument is sufficiently clear
+  (vivid and present to the mind) and distinct (precisely separated from other concepts)
+  to be trusted as a foundation for further...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- clarity-distinctness-evaluation
+- writing
 ---
 
 # Clarity-Distinctness Evaluation

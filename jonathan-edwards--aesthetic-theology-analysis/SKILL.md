@@ -1,9 +1,15 @@
 ---
 name: jonathan-edwards--aesthetic-theology-analysis
-description: Analyze any subject through the lens of divine beauty and excellency, revealing how it relates to the ultimate beauty that is God's holiness, using Jonathan Edwards's framework that unites aesthetics and theology.
-version: 1.0.0
-author: sethmblack
-tags: [aesthetic-theology-analysis, writing]
+description: Analyze any subject through the lens of divine beauty and excellency,
+  revealing how it relates to the ultimate beauty that is God's holiness, using Jonathan
+  Edwards's framework that unites aestheti...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- aesthetic-theology-analysis
+- writing
 ---
 
 # Aesthetic Theology Analysis

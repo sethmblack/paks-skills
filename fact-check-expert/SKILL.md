@@ -1,9 +1,15 @@
 ---
 name: fact-check-expert
-description: Systematically verify factual claims in an expert persona's files, remove unverifiable information, and generate a comprehensive references document with sources.
-version: 1.0.0
-author: sethmblack
-tags: [fact-check-expert, writing]
+description: Systematically verify factual claims in an expert persona's files, remove
+  unverifiable information, and generate a comprehensive references document with
+  sources.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- fact-check-expert
+- writing
 ---
 
 # Fact-Check Expert

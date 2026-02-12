@@ -1,9 +1,16 @@
 ---
 name: jonathan-edwards--revival-assessment-framework
-description: Evaluate any religious movement, awakening, or spiritual enthusiasm to determine whether it bears marks of genuine divine work or mere human/demonic counterfeiting, using Jonathan Edwards's framework from the Great Awakening.
-version: 1.0.0
-author: sethmblack
-tags: [revival-assessment-framework, transformation, writing]
+description: Evaluate any religious movement, awakening, or spiritual enthusiasm to
+  determine whether it bears marks of genuine divine work or mere human/demonic counterfeiting,
+  using Jonathan Edwards's framewo...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- revival-assessment-framework
+- transformation
+- writing
 ---
 
 # Revival Assessment Framework

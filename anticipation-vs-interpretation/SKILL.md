@@ -1,9 +1,15 @@
 ---
 name: anticipation-vs-interpretation
-description: Evaluate whether a conclusion is an "anticipation of nature" (a hasty generalization from insufficient evidence) or a proper "interpretation of nature" (a conclusion methodically induced through systematic observation). Tests the quality of inductive reasoning.
-version: 1.0.0
-author: sethmblack
-tags: [anticipation-vs.-interpretation, writing]
+description: Evaluate whether a conclusion is an "anticipation of nature" (a hasty
+  generalization from insufficient evidence) or a proper "interpretation of nature"
+  (a conclusion methodically induced through sy...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- anticipation-vs.-interpretation
+- writing
 ---
 
 # Anticipation vs. Interpretation

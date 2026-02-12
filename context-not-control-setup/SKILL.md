@@ -1,9 +1,15 @@
 ---
 name: context-not-control-setup
-description: Convert a control-based management situation into a context-based one by providing the information package that enables autonomous decision-making.
-version: 1.0.0
-author: sethmblack
-tags: [context-not-control-setup, escalation, writing]
+description: Convert a control-based management situation into a context-based one
+  by providing the information package that enables autonomous decision-making.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- context-not-control-setup
+- escalation
+- writing
 ---
 
 # Context Not Control Setup

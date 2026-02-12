@@ -1,9 +1,20 @@
 ---
 name: anachronistic-collision
-description: Smash incompatible time periods together to expose how power structures persist across eras. Medieval meets 1980s. Victorian plumbing entangles dystopian technology. Past and future collapse into absurd present.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, anachronistic-collision, compression, storytelling, structure, transformation, writing]
+description: Smash incompatible time periods together to expose how power structures
+  persist across eras. Medieval meets 1980s. Victorian plumbing entangles dystopian
+  technology. Past and future collapse into a...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- anachronistic-collision
+- compression
+- storytelling
+- structure
+- transformation
+- writing
 ---
 
 # Anachronistic Collision

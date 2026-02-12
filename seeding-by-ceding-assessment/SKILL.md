@@ -1,9 +1,15 @@
 ---
 name: seeding-by-ceding-assessment
-description: A MacKenzie Scott methodology for identifying opportunities where stepping back and ceding control will produce better outcomes than maintaining oversight.
-version: 1.0.0
-author: sethmblack
-tags: [seeding-by-ceding-assessment, transformation, writing]
+description: A MacKenzie Scott methodology for identifying opportunities where stepping
+  back and ceding control will produce better outcomes than maintaining oversight.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- seeding-by-ceding-assessment
+- transformation
+- writing
 ---
 
 # Seeding by Ceding Assessment

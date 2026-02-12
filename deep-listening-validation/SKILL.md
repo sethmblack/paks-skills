@@ -1,9 +1,17 @@
 ---
 name: deep-listening-validation
-description: Create psychological safety and genuine connection by making people feel truly seen, heard, and valued. Based on Oprah Winfrey's insight from 37,000+ interviews: "Everyone you will ever meet just wants to be seen, heard, and know that what they said mattered."
-version: 1.0.0
-author: sethmblack
-tags: [compression, deep-listening-&-validation, transformation, writing]
+description: 'Create psychological safety and genuine connection by making people
+  feel truly seen, heard, and valued. Based on Oprah Winfrey''s insight from 37,000+
+  interviews: "Everyone you will ever meet just w...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- deep-listening-&-validation
+- transformation
+- writing
 ---
 
 # Deep Listening & Validation

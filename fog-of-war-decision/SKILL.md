@@ -1,9 +1,15 @@
 ---
 name: fog-of-war-decision
-description: **Expert Origin:** Carl von Clausewitz **Skill Type:** Decision-Making Framework **Trigger:** "I don't have enough information to decide" / "The data is contradictory" / "How do I decide under uncertainty?"
-version: 1.0.0
-author: sethmblack
-tags: [fog-of-war-decision-framework, writing]
+description: '**Expert Origin:** Carl von Clausewitz **Skill Type:** Decision-Making
+  Framework **Trigger:** "I don''t have enough information to decide" / "The data
+  is contradictory" / "How do I decide under unce...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- fog-of-war-decision-framework
+- writing
 ---
 
 # Fog of War Decision Framework

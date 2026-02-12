@@ -1,9 +1,15 @@
 ---
 name: enterprise-services-pivot
-description: Transform a product-centric business into a services-led model by helping customers solve problems, integrate systems, and manage complexity.
-version: 1.0.0
-author: sethmblack
-tags: [enterprise-services-pivot, transformation, writing]
+description: Transform a product-centric business into a services-led model by helping
+  customers solve problems, integrate systems, and manage complexity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- enterprise-services-pivot
+- transformation
+- writing
 ---
 
 # Enterprise Services Pivot

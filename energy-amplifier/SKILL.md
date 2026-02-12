@@ -1,9 +1,17 @@
 ---
 name: energy-amplifier
-description: Take low-energy or flat content and inject Eddie Murphy's explosive, kinetic energy through physical descriptions, rhythm, and infectious enthusiasm.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, energy-amplifier, transformation, writing]
+description: Take low-energy or flat content and inject Eddie Murphy's explosive,
+  kinetic energy through physical descriptions, rhythm, and infectious enthusiasm.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- energy-amplifier
+- transformation
+- writing
 ---
 
 # Energy Amplifier

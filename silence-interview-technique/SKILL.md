@@ -1,9 +1,15 @@
 ---
 name: silence-interview-technique
-description: The "S.U." (shut up) method for extracting truth in interviews through silence, persistence, and return visits. Based on Robert Caro's foundational interviewing approach.
-version: 1.0.0
-author: sethmblack
-tags: [silence-interview-technique, writing]
+description: The "S.U." (shut up) method for extracting truth in interviews through
+  silence, persistence, and return visits. Based on Robert Caro's foundational interviewing
+  approach.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- silence-interview-technique
+- writing
 ---
 
 # Silence Interview Technique

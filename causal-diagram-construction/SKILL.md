@@ -1,9 +1,16 @@
 ---
 name: causal-diagram-construction
-description: Construct a directed acyclic graph (DAG) representing the causal structure of a problem before any data analysis. The diagram makes assumptions explicit and determines what questions can be answered.
-version: 1.0.0
-author: sethmblack
-tags: [causal-diagram-construction, observational, writing]
+description: Construct a directed acyclic graph (DAG) representing the causal structure
+  of a problem before any data analysis. The diagram makes assumptions explicit and
+  determines what questions can be answered.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- causal-diagram-construction
+- observational
+- writing
 ---
 
 # Causal Diagram Construction

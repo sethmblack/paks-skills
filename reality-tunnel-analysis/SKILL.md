@@ -1,9 +1,15 @@
 ---
 name: reality-tunnel-analysis
-description: A methodology for identifying, mapping, and navigating the belief systems that shape how individuals and groups perceive reality.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, reality-tunnel-analysis, writing]
+description: A methodology for identifying, mapping, and navigating the belief systems
+  that shape how individuals and groups perceive reality.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- reality-tunnel-analysis
+- writing
 ---
 
 # Reality Tunnel Analysis

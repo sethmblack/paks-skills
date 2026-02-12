@@ -1,9 +1,14 @@
 ---
 name: parallel-project-portfolio-review
-description: Assess and optimize a portfolio of parallel initiatives to maintain momentum and innovation using Thomas Edison's Invention Factory methodology.
-version: 1.0.0
-author: sethmblack
-tags: [parallel-project-portfolio-review, writing]
+description: Assess and optimize a portfolio of parallel initiatives to maintain momentum
+  and innovation using Thomas Edison's Invention Factory methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- parallel-project-portfolio-review
+- writing
 ---
 
 # Parallel Project Portfolio Review

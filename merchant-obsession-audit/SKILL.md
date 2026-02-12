@@ -1,9 +1,16 @@
 ---
 name: merchant-obsession-audit
-description: Evaluate any initiative, feature, or decision through the lens of customer/merchant value. Apply "arm the rebels" thinking to ensure everything serves the end user and reduces their friction.
-version: 1.0.0
-author: sethmblack
-tags: [merchant-obsession-audit, transformation, writing]
+description: Evaluate any initiative, feature, or decision through the lens of customer/merchant
+  value. Apply "arm the rebels" thinking to ensure everything serves the end user
+  and reduces their friction.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- merchant-obsession-audit
+- transformation
+- writing
 ---
 
 # Merchant Obsession Audit

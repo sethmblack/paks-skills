@@ -1,9 +1,14 @@
 ---
 name: freemium-model-design
-description: Design freemium pricing strategies that use free tiers as aggressive growth engines while building sustainable paths to monetization.
-version: 1.0.0
-author: sethmblack
-tags: [freemium-model-design, writing]
+description: Design freemium pricing strategies that use free tiers as aggressive
+  growth engines while building sustainable paths to monetization.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- freemium-model-design
+- writing
 ---
 
 # Freemium Model Design

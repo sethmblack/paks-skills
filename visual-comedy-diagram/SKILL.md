@@ -1,9 +1,19 @@
 ---
 name: visual-comedy-diagram
-description: Convert concepts into visual diagrams (Venn diagrams, pie charts, graphs, bar charts) that reveal absurdity through literal representation. Inspired by Demetri Martin's visual comedy technique.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, compression, deadpan, visual-comedy-diagram, writing]
+description: Convert concepts into visual diagrams (Venn diagrams, pie charts, graphs,
+  bar charts) that reveal absurdity through literal representation. Inspired by Demetri
+  Martin's visual comedy technique.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- compression
+- deadpan
+- visual-comedy-diagram
+- writing
 ---
 
 # Visual Comedy Diagram

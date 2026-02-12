@@ -1,9 +1,20 @@
 ---
 name: slow-burn-story
-description: Transform a topic, observation, or piece of content into a Nate Bargatze-style slow-burn story with patient pacing, accumulating details, and present-tense delivery that lets mundane situations reveal their absurdity naturally.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, deadpan, slow-burn-story, storytelling, transformation, writing]
+description: Transform a topic, observation, or piece of content into a Nate Bargatze-style
+  slow-burn story with patient pacing, accumulating details, and present-tense delivery
+  that lets mundane situations rev...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- deadpan
+- slow-burn-story
+- storytelling
+- transformation
+- writing
 ---
 
 # Slow-Burn Story

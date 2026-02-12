@@ -1,9 +1,16 @@
 ---
 name: readymade-designation
-description: A methodology for transformation through recontextualization rather than creation. The power lies not in making something new, but in pointing at something existing and declaring its new identity.
-version: 1.0.0
-author: sethmblack
-tags: [readymade-designation, transformation, writing]
+description: A methodology for transformation through recontextualization rather than
+  creation. The power lies not in making something new, but in pointing at something
+  existing and declaring its new identity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- readymade-designation
+- transformation
+- writing
 ---
 
 # Readymade Designation

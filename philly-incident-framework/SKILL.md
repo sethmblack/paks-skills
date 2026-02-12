@@ -1,9 +1,18 @@
 ---
 name: philly-incident-framework
-description: Turn hostile environments into performance art through controlled escalation and unwavering commitment, based on Bill Burr's legendary 2006 Philadelphia incident where he transformed a booing crowd into cheering fans through 12 minutes of direct confrontation.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, escalation, philly-incident-framework, transformation, writing]
+description: Turn hostile environments into performance art through controlled escalation
+  and unwavering commitment, based on Bill Burr's legendary 2006 Philadelphia incident
+  where he transformed a booing crowd...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- escalation
+- philly-incident-framework
+- transformation
+- writing
 ---
 
 # Philly Incident Framework

@@ -1,9 +1,17 @@
 ---
 name: defiant-reframe
-description: Take an apparent defeat, setback, or failure and reframe it as an opportunity, demonstration of character, or setup for future triumph—while acknowledging reality honestly.
-version: 1.0.0
-author: sethmblack
-tags: [defiant-reframe, storytelling, transformation, writing]
+description: Take an apparent defeat, setback, or failure and reframe it as an opportunity,
+  demonstration of character, or setup for future triumph—while acknowledging reality
+  honestly.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- defiant-reframe
+- storytelling
+- transformation
+- writing
 ---
 
 # Defiant Reframe

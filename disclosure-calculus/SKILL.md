@@ -1,9 +1,16 @@
 ---
 name: disclosure-calculus
-description: Guide potential whistleblowers through a structured decision-making framework to assess whether disclosure is warranted and how to proceed responsibly.
-version: 1.0.0
-author: sethmblack
-tags: [disclosure-calculus, escalation, storytelling, writing]
+description: Guide potential whistleblowers through a structured decision-making framework
+  to assess whether disclosure is warranted and how to proceed responsibly.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- disclosure-calculus
+- escalation
+- storytelling
+- writing
 ---
 
 # Disclosure Calculus

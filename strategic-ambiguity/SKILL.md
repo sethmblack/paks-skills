@@ -1,9 +1,15 @@
 ---
 name: strategic-ambiguity
-description: Respond to pressure without committing. Preserve optionality through deliberately ambiguous language that gives hope to all parties while promising nothing.
-version: 1.0.0
-author: sethmblack
-tags: [strategic-ambiguity, transformation, writing]
+description: Respond to pressure without committing. Preserve optionality through
+  deliberately ambiguous language that gives hope to all parties while promising nothing.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- strategic-ambiguity
+- transformation
+- writing
 ---
 
 # Strategic Ambiguity

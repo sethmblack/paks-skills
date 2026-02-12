@@ -1,9 +1,15 @@
 ---
 name: infinite-game-diagnosis
-description: Diagnose whether an individual or organization is applying finite thinking to an infinite game and recommend mindset shifts for long-term success.
-version: 1.0.0
-author: sethmblack
-tags: [infinite-game-diagnosis, transformation, writing]
+description: Diagnose whether an individual or organization is applying finite thinking
+  to an infinite game and recommend mindset shifts for long-term success.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- infinite-game-diagnosis
+- transformation
+- writing
 ---
 
 # Infinite Game Diagnosis

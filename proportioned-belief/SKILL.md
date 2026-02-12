@@ -1,9 +1,15 @@
 ---
 name: proportioned-belief
-description: Evaluate claims and proportion confidence to available evidence, avoiding both credulity and excessive skepticism.
-version: 1.0.0
-author: sethmblack
-tags: [observational, proportioned-belief, writing]
+description: Evaluate claims and proportion confidence to available evidence, avoiding
+  both credulity and excessive skepticism.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- observational
+- proportioned-belief
+- writing
 ---
 
 # Proportioned Belief

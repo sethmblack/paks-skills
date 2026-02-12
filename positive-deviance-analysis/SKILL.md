@@ -1,9 +1,15 @@
 ---
 name: positive-deviance-analysis
-description: Find and study outliers who succeed despite the same constraints as everyone else, to discover solutions that already exist within your system. Based on Atul Gawande's methodology from "Better."
-version: 1.0.0
-author: sethmblack
-tags: [positive-deviance-analysis, writing]
+description: Find and study outliers who succeed despite the same constraints as everyone
+  else, to discover solutions that already exist within your system. Based on Atul
+  Gawande's methodology from "Better.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- positive-deviance-analysis
+- writing
 ---
 
 # Positive Deviance Analysis

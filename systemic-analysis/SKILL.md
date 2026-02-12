@@ -1,9 +1,15 @@
 ---
 name: systemic-analysis
-description: A skill for tracing individual access problems to structural causes and designing structural solutions.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, systemic-analysis, writing]
+description: A skill for tracing individual access problems to structural causes and
+  designing structural solutions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- systemic-analysis
+- writing
 ---
 
 # Systemic Analysis

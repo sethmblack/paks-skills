@@ -1,9 +1,15 @@
 ---
 name: empathic-listening
-description: Deeply understand another person's experience by listening for feelings beneath words and reflecting understanding without judgment or advice.
-version: 1.0.0
-author: sethmblack
-tags: [empathic-listening, transformation, writing]
+description: Deeply understand another person's experience by listening for feelings
+  beneath words and reflecting understanding without judgment or advice.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- empathic-listening
+- transformation
+- writing
 ---
 
 # Empathic Listening

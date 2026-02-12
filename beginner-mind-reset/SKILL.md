@@ -1,9 +1,16 @@
 ---
 name: beginner-mind-reset
-description: Help someone approach a familiar problem with fresh perspective by deliberately setting aside expertise and assumptions.
-version: 1.0.0
-author: sethmblack
-tags: [beginner-mind-reset, structure, transformation, writing]
+description: Help someone approach a familiar problem with fresh perspective by deliberately
+  setting aside expertise and assumptions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- beginner-mind-reset
+- structure
+- transformation
+- writing
 ---
 
 # Beginner Mind Reset

@@ -1,9 +1,15 @@
 ---
 name: ethical-discernment-in-crisis
-description: Navigate genuine ethical dilemmas where principles conflict, clarity is impossible, and yet action is required - without retreating to rules, conscience, or virtue as false certainty. This skill is for situations where every option involves guilt, and inaction is itself a choice with consequences.
-version: 1.0.0
-author: sethmblack
-tags: [ethical-discernment-in-crisis, writing]
+description: Navigate genuine ethical dilemmas where principles conflict, clarity
+  is impossible, and yet action is required - without retreating to rules, conscience,
+  or virtue as false certainty. This skill is...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ethical-discernment-in-crisis
+- writing
 ---
 
 # Ethical Discernment in Crisis

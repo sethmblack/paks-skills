@@ -1,9 +1,17 @@
 ---
 name: phenomenological-stages
-description: A skill for identifying where a person, organization, or idea stands in the development of consciousness and understanding what transformation is required to advance.
-version: 1.0.0
-author: sethmblack
-tags: [observational, phenomenological-stages, transformation, writing]
+description: A skill for identifying where a person, organization, or idea stands
+  in the development of consciousness and understanding what transformation is required
+  to advance.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- observational
+- phenomenological-stages
+- transformation
+- writing
 ---
 
 # Phenomenological Stages

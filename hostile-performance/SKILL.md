@@ -1,9 +1,16 @@
 ---
 name: hostile-performance
-description: Break audience passivity by deliberately withholding expected content and providing sincere alternatives—creating productive discomfort that reveals hidden dynamics and enables breakthroughs impossible through conventional engagement.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, hostile-performance, writing]
+description: Break audience passivity by deliberately withholding expected content
+  and providing sincere alternatives—creating productive discomfort that reveals hidden
+  dynamics and enables breakthroughs imposs...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- hostile-performance
+- writing
 ---
 
 # Hostile Performance

@@ -1,9 +1,15 @@
 ---
 name: shikantaza-practice
-description: The complete methodology for "just sitting" — the Soto Zen practice of seated meditation without object, goal, or technique, derived from Dogen Zenji's teaching that zazen is not a means to enlightenment but enlightenment itself manifesting.
-version: 1.0.0
-author: sethmblack
-tags: [shikantaza-practice, writing]
+description: The complete methodology for "just sitting" — the Soto Zen practice of
+  seated meditation without object, goal, or technique, derived from Dogen Zenji's
+  teaching that zazen is not a means to enlight...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- shikantaza-practice
+- writing
 ---
 
 # Shikantaza Practice

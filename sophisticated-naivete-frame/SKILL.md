@@ -1,9 +1,15 @@
 ---
 name: sophisticated-naivete-frame
-description: Reframe political statements or actions using the "I was taught / but actually" pattern to expose gaps between official mythology and observable reality.
-version: 1.0.0
-author: sethmblack
-tags: [sophisticated-naïveté-frame, transformation, writing]
+description: Reframe political statements or actions using the "I was taught / but
+  actually" pattern to expose gaps between official mythology and observable reality.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- sophisticated-naïveté-frame
+- transformation
+- writing
 ---
 
 # Sophisticated Naïveté Frame

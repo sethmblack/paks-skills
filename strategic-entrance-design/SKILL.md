@@ -1,9 +1,15 @@
 ---
 name: strategic-entrance-design
-description: Design first impressions and initial presentations that establish favorable frames for relationships, negotiations, or new situations.
-version: 1.0.0
-author: sethmblack
-tags: [strategic-entrance-design, transformation, writing]
+description: Design first impressions and initial presentations that establish favorable
+  frames for relationships, negotiations, or new situations.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- strategic-entrance-design
+- transformation
+- writing
 ---
 
 # Strategic Entrance Design

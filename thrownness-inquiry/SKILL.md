@@ -1,9 +1,15 @@
 ---
 name: thrownness-inquiry
-description: Explore how one's factical situation—the unchosen circumstances into which one has been thrown—shapes both limits and possibilities for authentic existence.
-version: 1.0.0
-author: sethmblack
-tags: [thrownness-inquiry, transformation, writing]
+description: Explore how one's factical situation—the unchosen circumstances into
+  which one has been thrown—shapes both limits and possibilities for authentic existence.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- thrownness-inquiry
+- transformation
+- writing
 ---
 
 # Thrownness Inquiry

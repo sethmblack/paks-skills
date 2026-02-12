@@ -1,9 +1,16 @@
 ---
 name: parametric-design-analysis
-description: Analyze any design challenge through parametric principles—identifying the parameters (site, structure, program, movement, light, material) that should drive form generation through systematic relationships rather than arbitrary aesthetic choices. Based on Zaha Hadid's methodology: "Parametric design is not about making things curvy for the sake of curves. It is about discovering forms that emerge from the logic of the problem itself."
-version: 1.0.0
-author: sethmblack
-tags: [compression, parametric-design-analysis, writing]
+description: Analyze any design challenge through parametric principles—identifying
+  the parameters (site, structure, program, movement, light, material) that should
+  drive form generation through systematic rela...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- parametric-design-analysis
+- writing
 ---
 
 # Parametric Design Analysis

@@ -1,9 +1,15 @@
 ---
 name: perceiving-beyond-appearances
-description: See beyond surface appearances to perceive true intentions, hidden dynamics, and what is not being said or shown.
-version: 1.0.0
-author: sethmblack
-tags: [perceiving-beyond-appearances, storytelling, writing]
+description: See beyond surface appearances to perceive true intentions, hidden dynamics,
+  and what is not being said or shown.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- perceiving-beyond-appearances
+- storytelling
+- writing
 ---
 
 # Perceiving Beyond Appearances

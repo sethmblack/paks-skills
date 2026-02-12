@@ -1,9 +1,18 @@
 ---
 name: social-reform-narrative
-description: Transform statistics, policy critiques, and systemic issues into emotionally compelling individual stories that move readers to action, following Dickens's method of showing systems through souls.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, social-reform-narrative, storytelling, transformation, writing]
+description: Transform statistics, policy critiques, and systemic issues into emotionally
+  compelling individual stories that move readers to action, following Dickens's method
+  of showing systems through souls.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- social-reform-narrative
+- storytelling
+- transformation
+- writing
 ---
 
 # Social Reform Narrative

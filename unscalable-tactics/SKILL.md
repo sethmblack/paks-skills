@@ -1,9 +1,15 @@
 ---
 name: unscalable-tactics
-description: Identify specific unscalable actions that can accelerate early traction for a product or startup.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, unscalable-tactics, writing]
+description: Identify specific unscalable actions that can accelerate early traction
+  for a product or startup.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- unscalable-tactics
+- writing
 ---
 
 # Unscalable Tactics

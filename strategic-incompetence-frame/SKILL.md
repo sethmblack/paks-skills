@@ -1,9 +1,19 @@
 ---
 name: strategic-incompetence-frame
-description: Transform societal role expectations into comedy through spectacular, joyful failure that exposes the absurdity of the expectations themselves.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, escalation, storytelling, strategic-incompetence-frame, transformation, writing]
+description: Transform societal role expectations into comedy through spectacular,
+  joyful failure that exposes the absurdity of the expectations themselves.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- escalation
+- storytelling
+- strategic-incompetence-frame
+- transformation
+- writing
 ---
 
 # Strategic Incompetence Frame

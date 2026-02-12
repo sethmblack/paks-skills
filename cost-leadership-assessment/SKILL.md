@@ -1,9 +1,14 @@
 ---
 name: cost-leadership-assessment
-description: Systematically identify cost reduction opportunities and efficiency investments using Carnegie's "watch the costs" methodology.
-version: 1.0.0
-author: sethmblack
-tags: [cost-leadership-assessment, writing]
+description: Systematically identify cost reduction opportunities and efficiency investments
+  using Carnegie's "watch the costs" methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cost-leadership-assessment
+- writing
 ---
 
 # Cost Leadership Assessment

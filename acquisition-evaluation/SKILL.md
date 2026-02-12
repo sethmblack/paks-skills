@@ -1,9 +1,15 @@
 ---
 name: acquisition-evaluation
-description: Evaluate potential acquisitions against strategic fit, cultural compatibility, and integration feasibility using the Iger framework proven across Pixar, Marvel, Lucasfilm, and 21st Century Fox.
-version: 1.0.0
-author: sethmblack
-tags: [acquisition-evaluation, writing]
+description: Evaluate potential acquisitions against strategic fit, cultural compatibility,
+  and integration feasibility using the Iger framework proven across Pixar, Marvel,
+  Lucasfilm, and 21st Century Fox.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- acquisition-evaluation
+- writing
 ---
 
 # Acquisition Evaluation

@@ -1,9 +1,15 @@
 ---
 name: daily-masterpiece-method
-description: Shift focus from overwhelming long-term goals to concrete daily actions, providing structure for today's effort using John Wooden's "Make Each Day Your Masterpiece" philosophy.
-version: 1.0.0
-author: sethmblack
-tags: [daily-masterpiece-method, writing]
+description: Shift focus from overwhelming long-term goals to concrete daily actions,
+  providing structure for today's effort using John Wooden's "Make Each Day Your Masterpiece"
+  philosophy.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- daily-masterpiece-method
+- writing
 ---
 
 # Daily Masterpiece Method

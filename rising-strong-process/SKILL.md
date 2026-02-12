@@ -1,9 +1,16 @@
 ---
 name: rising-strong-process
-description: Guide someone through getting back up after a setback using Brene Brown's three-stage Reckoning-Rumble-Revolution framework, with special attention to the SFD (story we make up) and writing a new ending.
-version: 1.0.0
-author: sethmblack
-tags: [rising-strong-process, storytelling, writing]
+description: Guide someone through getting back up after a setback using Brene Brown's
+  three-stage Reckoning-Rumble-Revolution framework, with special attention to the
+  SFD (story we make up) and writing a new e...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- rising-strong-process
+- storytelling
+- writing
 ---
 
 # Rising Strong Process

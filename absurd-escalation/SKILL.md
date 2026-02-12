@@ -1,9 +1,21 @@
 ---
 name: absurd-escalation
-description: Take mundane observations and follow their internal logic to increasingly absurd but technically plausible conclusions. This skill embodies Mitch Hedberg's technique of starting with ordinary reality and escalating through strict logical progression to delightful weirdness.
-version: 1.0.0
-author: sethmblack
-tags: [absurd-escalation, absurdist, comedy, compression, deadpan, escalation, hedberg, observational]
+description: Take mundane observations and follow their internal logic to increasingly
+  absurd but technically plausible conclusions. This skill embodies Mitch Hedberg's
+  technique of starting with ordinary reali...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurd-escalation
+- absurdist
+- comedy
+- compression
+- deadpan
+- escalation
+- hedberg
+- observational
 ---
 
 # Absurd Escalation

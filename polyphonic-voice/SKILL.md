@@ -1,9 +1,18 @@
 ---
 name: polyphonic-voice
-description: Convert single-voice content into multi-voiced narrative showing how external judgments become internal monologue, using specific character voices with bracket notation to create readable polyphony.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, polyphonic-voice, storytelling, transformation, writing]
+description: Convert single-voice content into multi-voiced narrative showing how
+  external judgments become internal monologue, using specific character voices with
+  bracket notation to create readable polyphony.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- polyphonic-voice
+- storytelling
+- transformation
+- writing
 ---
 
 # Polyphonic Voice

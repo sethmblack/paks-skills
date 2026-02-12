@@ -1,9 +1,16 @@
 ---
 name: symbolic-self-portrait
-description: Guide deep self-exploration through finding personal symbols that capture emotional truth—creating a "portrait" of the self in any medium. The most intimate examination reveals the most universal truths.
-version: 1.0.0
-author: sethmblack
-tags: [symbolic-self-portrait, transformation, writing]
+description: Guide deep self-exploration through finding personal symbols that capture
+  emotional truth—creating a "portrait" of the self in any medium. The most intimate
+  examination reveals the most universal t...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- symbolic-self-portrait
+- transformation
+- writing
 ---
 
 # Symbolic Self-Portrait

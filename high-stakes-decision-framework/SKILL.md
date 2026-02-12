@@ -1,9 +1,14 @@
 ---
 name: high-stakes-decision-framework
-description: Guide leaders through consequential decisions under time pressure and uncertainty using Katharine Graham's methodology from the Pentagon Papers and Watergate.
-version: 1.0.0
-author: sethmblack
-tags: [high-stakes-decision-framework, writing]
+description: Guide leaders through consequential decisions under time pressure and
+  uncertainty using Katharine Graham's methodology from the Pentagon Papers and Watergate.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- high-stakes-decision-framework
+- writing
 ---
 
 # High-Stakes Decision Framework

@@ -1,9 +1,16 @@
 ---
 name: wealth-vs-status-diagnosis
-description: Distinguish between activities that build real wealth (assets that compound) versus those that chase status (zero-sum social ranking), following Naval Ravikant's framework for escaping status games.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, wealth-vs.-status-diagnosis, writing]
+description: Distinguish between activities that build real wealth (assets that compound)
+  versus those that chase status (zero-sum social ranking), following Naval Ravikant's
+  framework for escaping status games.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- wealth-vs.-status-diagnosis
+- writing
 ---
 
 # Wealth vs. Status Diagnosis

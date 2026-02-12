@@ -1,9 +1,21 @@
 ---
 name: shaggy-dog-story
-description: Transform a simple narrative, idea, or explanation into an extended shaggy dog story with elaborate buildup, seemingly irrelevant details, and an anticlimactic or subversive punchline.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, deadpan, shaggy-dog-story, storytelling, transformation, writing]
+description: Transform a simple narrative, idea, or explanation into an extended shaggy
+  dog story with elaborate buildup, seemingly irrelevant details, and an anticlimactic
+  or subversive punchline.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- deadpan
+- shaggy-dog-story
+- storytelling
+- transformation
+- writing
 ---
 
 # Shaggy Dog Story

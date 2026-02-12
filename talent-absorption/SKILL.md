@@ -1,9 +1,15 @@
 ---
 name: talent-absorption
-description: After victory or acquisition, identify and absorb skilled people and valuable practices from the defeated. Never destroy what can serve you.
-version: 1.0.0
-author: sethmblack
-tags: [structure, talent-absorption, writing]
+description: After victory or acquisition, identify and absorb skilled people and
+  valuable practices from the defeated. Never destroy what can serve you.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- structure
+- talent-absorption
+- writing
 ---
 
 # Talent Absorption

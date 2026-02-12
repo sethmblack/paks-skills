@@ -1,9 +1,15 @@
 ---
 name: rhetorical-triangle
-description: Evaluate and improve persuasive communication through the three modes of persuasion: ethos (credibility), pathos (emotion), and logos (logic).
-version: 1.0.0
-author: sethmblack
-tags: [rhetorical-triangle-assessment, transformation, writing]
+description: 'Evaluate and improve persuasive communication through the three modes
+  of persuasion: ethos (credibility), pathos (emotion), and logos (logic).'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- rhetorical-triangle-assessment
+- transformation
+- writing
 ---
 
 # Rhetorical Triangle Assessment

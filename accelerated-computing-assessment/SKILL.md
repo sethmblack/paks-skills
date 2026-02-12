@@ -1,9 +1,16 @@
 ---
 name: accelerated-computing-assessment
-description: Assess computing architecture decisions and technology investments in the context of the post-Moore's Law era, evaluating the need for and path to accelerated computing.
-version: 1.0.0
-author: sethmblack
-tags: [accelerated-computing-assessment, structure, writing]
+description: Assess computing architecture decisions and technology investments in
+  the context of the post-Moore's Law era, evaluating the need for and path to accelerated
+  computing.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- accelerated-computing-assessment
+- structure
+- writing
 ---
 
 # Accelerated Computing Assessment

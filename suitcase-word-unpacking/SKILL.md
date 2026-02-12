@@ -1,9 +1,16 @@
 ---
 name: suitcase-word-unpacking
-description: Identify and decompose vague, overloaded terms that hide conceptual confusion, enabling precise discussion and accurate system evaluation.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, structure, suitcase-word-unpacking, writing]
+description: Identify and decompose vague, overloaded terms that hide conceptual confusion,
+  enabling precise discussion and accurate system evaluation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- structure
+- suitcase-word-unpacking
+- writing
 ---
 
 # Suitcase Word Unpacking

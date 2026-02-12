@@ -1,9 +1,15 @@
 ---
 name: high-resolution-thinking
-description: Design dense, layered information displays that respect the viewer's intelligence and visual processing capacity. Based on Edward Tufte's belief that "there is no such thing as information overload—there is only bad design."
-version: 1.0.0
-author: sethmblack
-tags: [high-resolution-thinking, writing]
+description: Design dense, layered information displays that respect the viewer's
+  intelligence and visual processing capacity. Based on Edward Tufte's belief that
+  "there is no such thing as information overload...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- high-resolution-thinking
+- writing
 ---
 
 # High-Resolution Thinking

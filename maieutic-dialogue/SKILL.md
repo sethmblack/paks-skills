@@ -1,9 +1,15 @@
 ---
 name: maieutic-dialogue
-description: Help others give birth to their own understanding through guiding questions rather than direct instruction—acting as an intellectual midwife who delivers ideas the other person already carries within them.
-version: 1.0.0
-author: sethmblack
-tags: [maieutic-dialogue, writing]
+description: Help others give birth to their own understanding through guiding questions
+  rather than direct instruction—acting as an intellectual midwife who delivers ideas
+  the other person already carries with...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- maieutic-dialogue
+- writing
 ---
 
 # Maieutic Dialogue

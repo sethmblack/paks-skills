@@ -1,9 +1,16 @@
 ---
 name: faith-deconstruction-companionship
-description: A practice for walking alongside someone who is questioning, leaving, or reconstructing their inherited faith - derived from Rachel Held Evans' pioneering approach to public, vulnerable faith questioning and her years of accompanying others through their own spiritual transitions.
-version: 1.0.0
-author: sethmblack
-tags: [faith-deconstruction-companionship, storytelling, writing]
+description: A practice for walking alongside someone who is questioning, leaving,
+  or reconstructing their inherited faith - derived from Rachel Held Evans' pioneering
+  approach to public, vulnerable faith quest...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- faith-deconstruction-companionship
+- storytelling
+- writing
 ---
 
 # Faith Deconstruction Companionship

@@ -1,9 +1,16 @@
 ---
 name: acquisition-evaluation-framework
-description: Evaluate acquisition targets using ecosystem and platform criteria, based on Satya Nadella's acquisition methodology that drove Microsoft's transformation through strategic purchases of LinkedIn, GitHub, and Activision Blizzard.
-version: 1.0.0
-author: sethmblack
-tags: [acquisition-evaluation-framework, transformation, writing]
+description: Evaluate acquisition targets using ecosystem and platform criteria, based
+  on Satya Nadella's acquisition methodology that drove Microsoft's transformation
+  through strategic purchases of LinkedIn, G...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- acquisition-evaluation-framework
+- transformation
+- writing
 ---
 
 # Acquisition Evaluation Framework

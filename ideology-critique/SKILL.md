@@ -1,9 +1,16 @@
 ---
 name: ideology-critique
-description: Expose how ideas that appear natural, inevitable, or neutral actually emerged from historical conditions and serve particular class interests. Denaturalize the given, historicize the eternal, reveal the partisan character of the universal.
-version: 1.0.0
-author: sethmblack
-tags: [ideology-critique, transformation, writing]
+description: Expose how ideas that appear natural, inevitable, or neutral actually
+  emerged from historical conditions and serve particular class interests. Denaturalize
+  the given, historicize the eternal, revea...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ideology-critique
+- transformation
+- writing
 ---
 
 # Ideology Critique

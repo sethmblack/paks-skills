@@ -1,9 +1,18 @@
 ---
 name: comic-deflation
-description: Expose institutional hypocrisy and pomposity by letting subjects deflate themselves through their own words, contradictions, and absurdities, following Dickens's satirical method.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, comic-deflation, transformation, writing]
+description: Expose institutional hypocrisy and pomposity by letting subjects deflate
+  themselves through their own words, contradictions, and absurdities, following Dickens's
+  satirical method.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- comic-deflation
+- transformation
+- writing
 ---
 
 # Comic Deflation

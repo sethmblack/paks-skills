@@ -1,9 +1,15 @@
 ---
 name: tap-water-philosophy
-description: Evaluate products, services, and pricing decisions against the standard of abundance and accessibility. The mission of a manufacturer is to produce goods so plentifully and affordably that they become like tap water: freely available to all, eliminating poverty through material abundance.
-version: 1.0.0
-author: sethmblack
-tags: [tap-water-philosophy, writing]
+description: Evaluate products, services, and pricing decisions against the standard
+  of abundance and accessibility. The mission of a manufacturer is to produce goods
+  so plentifully and affordably that they bec...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- tap-water-philosophy
+- writing
 ---
 
 # Tap Water Philosophy

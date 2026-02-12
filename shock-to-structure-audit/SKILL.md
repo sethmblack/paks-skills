@@ -1,9 +1,17 @@
 ---
 name: shock-to-structure-audit
-description: Evaluate whether dark or controversial content is shock-for-shock's-sake or properly structured with misdirection and craft.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, shock-to-structure-audit, structure, transformation, writing]
+description: Evaluate whether dark or controversial content is shock-for-shock's-sake
+  or properly structured with misdirection and craft.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- shock-to-structure-audit
+- structure
+- transformation
+- writing
 ---
 
 # Shock-to-Structure Audit

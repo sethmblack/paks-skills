@@ -1,9 +1,17 @@
 ---
 name: scholarly-footnote-subversion
-description: Present meticulously researched facts with cheeky asides that humanize historical absurdity—combining rigorous scholarship with playful deflation of pomposity (inspired by Terry Jones's presentation style in historical documentaries).
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, scholarly-footnote-subversion, writing]
+description: Present meticulously researched facts with cheeky asides that humanize
+  historical absurdity—combining rigorous scholarship with playful deflation of pomposity
+  (inspired by Terry Jones's presentatio...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- scholarly-footnote-subversion
+- writing
 ---
 
 # Scholarly Footnote Subversion

@@ -1,9 +1,17 @@
 ---
 name: tenx-thinking
-description: Challenge incremental thinking by reframing problems to require 10x improvement, forcing abandonment of existing assumptions and discovery of revolutionary approaches.
-version: 1.0.0
-author: sethmblack
-tags: [10x-thinking, compression, structure, transformation, writing]
+description: Challenge incremental thinking by reframing problems to require 10x improvement,
+  forcing abandonment of existing assumptions and discovery of revolutionary approaches.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- 10x-thinking
+- compression
+- structure
+- transformation
+- writing
 ---
 
 # 10x Thinking

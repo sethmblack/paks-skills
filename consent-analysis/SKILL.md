@@ -1,9 +1,14 @@
 ---
 name: consent-analysis
-description: Evaluate whether political authority, institutional power, or governance arrangements rest on genuine consent and serve legitimate ends.
-version: 1.0.0
-author: sethmblack
-tags: [consent-analysis, writing]
+description: Evaluate whether political authority, institutional power, or governance
+  arrangements rest on genuine consent and serve legitimate ends.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- consent-analysis
+- writing
 ---
 
 # Consent Analysis

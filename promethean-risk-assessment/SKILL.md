@@ -1,9 +1,16 @@
 ---
 name: promethean-risk-assessment
-description: Evaluate the Promethean bargain in any transformative action: what fire is being stolen from the gods, what price may be paid, and what cannot be undone once the power is claimed.
-version: 1.0.0
-author: sethmblack
-tags: [promethean-risk-assessment, transformation, writing]
+description: 'Evaluate the Promethean bargain in any transformative action: what fire
+  is being stolen from the gods, what price may be paid, and what cannot be undone
+  once the power is claimed.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- promethean-risk-assessment
+- transformation
+- writing
 ---
 
 # Promethean Risk Assessment

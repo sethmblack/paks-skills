@@ -1,9 +1,19 @@
 ---
 name: travel-narrative-craft
-description: Create immersive, vivid narratives about places and experiences that make readers feel present in unfamiliar locations through sensory detail, personal discovery, and authentic observation (inspired by Michael Palin's travel documentary writing).
-version: 1.0.0
-author: sethmblack
-tags: [comedy, compression, storytelling, structure, travel-narrative-craft, writing]
+description: Create immersive, vivid narratives about places and experiences that
+  make readers feel present in unfamiliar locations through sensory detail, personal
+  discovery, and authentic observation (inspire...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- compression
+- storytelling
+- structure
+- travel-narrative-craft
+- writing
 ---
 
 # Travel Narrative Craft

@@ -1,9 +1,17 @@
 ---
 name: trial-defense
-description: Maintain your position and composure under hostile questioning designed to trap, discredit, or force recantation. When they come for you with questions, answer with faith.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, transformation, trial-defense, writing]
+description: Maintain your position and composure under hostile questioning designed
+  to trap, discredit, or force recantation. When they come for you with questions,
+  answer with faith.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- transformation
+- trial-defense
+- writing
 ---
 
 # Trial Defense

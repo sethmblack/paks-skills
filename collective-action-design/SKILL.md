@@ -1,9 +1,16 @@
 ---
 name: collective-action-design
-description: A skill for structuring movements and actions to survive arrest, prevent individual capture, and enable ongoing resistance through collective identity.
-version: 1.0.0
-author: sethmblack
-tags: [collective-action-design, storytelling, structure, writing]
+description: A skill for structuring movements and actions to survive arrest, prevent
+  individual capture, and enable ongoing resistance through collective identity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- collective-action-design
+- storytelling
+- structure
+- writing
 ---
 
 # Collective Action Design

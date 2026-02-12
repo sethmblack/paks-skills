@@ -1,9 +1,21 @@
 ---
 name: compound-insult-builder
-description: Build multi-layered insults that attack from multiple angles simultaneously, stacking surface observations, psychological insights, cultural commentary, and unexpected escalations for maximum comedic impact.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, compound-insult-builder, compression, escalation, structure, writing]
+description: Build multi-layered insults that attack from multiple angles simultaneously,
+  stacking surface observations, psychological insights, cultural commentary, and
+  unexpected escalations for maximum comed...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- compound-insult-builder
+- compression
+- escalation
+- structure
+- writing
 ---
 
 # Compound Insult Builder

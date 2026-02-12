@@ -1,9 +1,15 @@
 ---
 name: belief-stress-test
-description: Test whether stated positions are genuinely held beliefs or performative stances through logical extension to absurdity.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, belief-stress-test, writing]
+description: Test whether stated positions are genuinely held beliefs or performative
+  stances through logical extension to absurdity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- belief-stress-test
+- writing
 ---
 
 # Belief Stress Test

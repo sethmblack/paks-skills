@@ -1,9 +1,15 @@
 ---
 name: two-question-problem-solving
-description: Approach any significant problem by first identifying who has solved it and what can be learned from their approach.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, two-question-problem-solving, writing]
+description: Approach any significant problem by first identifying who has solved
+  it and what can be learned from their approach.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- two-question-problem-solving
+- writing
 ---
 
 # Two-Question Problem Solving

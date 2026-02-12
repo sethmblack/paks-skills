@@ -1,9 +1,18 @@
 ---
 name: casual-escalation-builder
-description: Take a simple premise and escalate it to absurd conclusions while maintaining conversational, matter-of-fact tone throughout.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, casual-escalation-builder, comedy, deadpan, escalation, writing]
+description: Take a simple premise and escalate it to absurd conclusions while maintaining
+  conversational, matter-of-fact tone throughout.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- casual-escalation-builder
+- comedy
+- deadpan
+- escalation
+- writing
 ---
 
 # Casual Escalation Builder

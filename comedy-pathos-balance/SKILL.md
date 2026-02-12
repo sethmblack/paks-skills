@@ -1,9 +1,18 @@
 ---
 name: comedy-pathos-balance
-description: Shift seamlessly from slapstick comedy to emotional depth within the same performance. Based on Red Skelton's ability to distinguish himself by using pathos—being funny while reaching people emotionally.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, comedy-pathos-balance, writing]
+description: Shift seamlessly from slapstick comedy to emotional depth within the
+  same performance. Based on Red Skelton's ability to distinguish himself by using
+  pathos—being funny while reaching people emotio...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- comedy-pathos-balance
+- writing
 ---
 
 # Comedy-Pathos Balance

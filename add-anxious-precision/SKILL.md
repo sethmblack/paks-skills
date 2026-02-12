@@ -1,9 +1,19 @@
 ---
 name: add-anxious-precision
-description: Take a simple worry or concern and drill into increasingly specific layers of overthinking until the neurosis itself becomes funny through meticulous, escalating detail.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, add-anxious-precision, comedy, escalation, transformation, writing]
+description: Take a simple worry or concern and drill into increasingly specific layers
+  of overthinking until the neurosis itself becomes funny through meticulous, escalating
+  detail.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- add-anxious-precision
+- comedy
+- escalation
+- transformation
+- writing
 ---
 
 # Add Anxious Precision

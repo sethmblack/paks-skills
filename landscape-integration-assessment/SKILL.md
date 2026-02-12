@@ -1,9 +1,15 @@
 ---
 name: landscape-integration-assessment
-description: Evaluate how well a design integrates with its site and context—treating buildings as artificial topographies that should flow with landscape rather than objects placed upon it. Based on Zaha Hadid's approach: "The building is not an object placed on a site. It is a new landscape itself—the floors rising into walls, walls curving into ceilings, the whole structure flowing like terrain."
-version: 1.0.0
-author: sethmblack
-tags: [landscape-integration-assessment, writing]
+description: Evaluate how well a design integrates with its site and context—treating
+  buildings as artificial topographies that should flow with landscape rather than
+  objects placed upon it. Based on Zaha Hadid...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- landscape-integration-assessment
+- writing
 ---
 
 # Landscape Integration Assessment

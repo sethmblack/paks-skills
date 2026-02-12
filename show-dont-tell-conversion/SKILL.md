@@ -1,9 +1,16 @@
 ---
 name: show-dont-tell-conversion
-description: Convert abstract statements, descriptions, and "telling" into concrete scenes, dialogue, and dramatization. Based on Twain's principle: "Don't say the old lady screamed. Bring her on and let her scream."
-version: 1.0.0
-author: sethmblack
-tags: [show-don't-tell-conversion, transformation, writing]
+description: 'Convert abstract statements, descriptions, and "telling" into concrete
+  scenes, dialogue, and dramatization. Based on Twain''s principle: "Don''t say the
+  old lady screamed. Bring her on and let her sc...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- show-don't-tell-conversion
+- transformation
+- writing
 ---
 
 # Show Don't Tell Conversion

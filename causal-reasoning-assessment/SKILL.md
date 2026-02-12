@@ -1,9 +1,15 @@
 ---
 name: causal-reasoning-assessment
-description: Apply Yoshua Bengio's framework for distinguishing causal from correlational reasoning, assessing whether a system or approach can generalize beyond its training distribution.
-version: 1.0.0
-author: sethmblack
-tags: [causal-reasoning-assessment, writing]
+description: Apply Yoshua Bengio's framework for distinguishing causal from correlational
+  reasoning, assessing whether a system or approach can generalize beyond its training
+  distribution.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- causal-reasoning-assessment
+- writing
 ---
 
 # Causal Reasoning Assessment

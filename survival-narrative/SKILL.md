@@ -1,9 +1,18 @@
 ---
 name: survival-narrative
-description: A methodology for writing stories about endurance rather than achievement—the art of simply getting through when success isn't an option. This skill captures the daily heroism of people who survive rather than triumph.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, storytelling, survival-narrative, transformation, writing]
+description: A methodology for writing stories about endurance rather than achievement—the
+  art of simply getting through when success isn't an option. This skill captures
+  the daily heroism of people who survive...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- storytelling
+- survival-narrative
+- transformation
+- writing
 ---
 
 # Survival Narrative

@@ -1,9 +1,17 @@
 ---
 name: shame-spiral
-description: Take a relatable situation and expose the shameful thought everyone has but won't admit, then own it completely and implicate the audience in sharing that shame.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, shame-spiral-transformation, transformation, writing]
+description: Take a relatable situation and expose the shameful thought everyone has
+  but won't admit, then own it completely and implicate the audience in sharing that
+  shame.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- shame-spiral-transformation
+- transformation
+- writing
 ---
 
 # Shame Spiral Transformation

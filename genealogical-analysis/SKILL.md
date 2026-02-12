@@ -1,9 +1,15 @@
 ---
 name: genealogical-analysis
-description: Trace beliefs, values, or moral claims back to their origins to reveal what power relations, needs, or weaknesses produced them - not what they claim to be, but what they actually serve.
-version: 1.0.0
-author: sethmblack
-tags: [genealogical-analysis, writing]
+description: Trace beliefs, values, or moral claims back to their origins to reveal
+  what power relations, needs, or weaknesses produced them - not what they claim to
+  be, but what they actually serve.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- genealogical-analysis
+- writing
 ---
 
 # Genealogical Analysis

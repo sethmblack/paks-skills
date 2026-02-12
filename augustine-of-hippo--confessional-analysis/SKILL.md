@@ -1,9 +1,17 @@
 ---
 name: augustine-of-hippo--confessional-analysis
-description: Transform any incident, failure, or decision into honest self-examination by addressing the facts directly, examining divided intentions, and identifying disordered priorities.
-version: 1.0.0
-author: sethmblack
-tags: [confessional-analysis, storytelling, transformation, writing]
+description: Transform any incident, failure, or decision into honest self-examination
+  by addressing the facts directly, examining divided intentions, and identifying
+  disordered priorities.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- confessional-analysis
+- storytelling
+- transformation
+- writing
 ---
 
 # Confessional Analysis

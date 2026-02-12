@@ -1,9 +1,15 @@
 ---
 name: ecological-web-analysis
-description: Reveal hidden connections in complex systems and trace how disturbances ripple through webs of relationship, uncovering unintended consequences and systemic effects.
-version: 1.0.0
-author: sethmblack
-tags: [ecological-web-analysis, writing]
+description: Reveal hidden connections in complex systems and trace how disturbances
+  ripple through webs of relationship, uncovering unintended consequences and systemic
+  effects.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ecological-web-analysis
+- writing
 ---
 
 # Ecological Web Analysis

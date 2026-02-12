@@ -1,9 +1,15 @@
 ---
 name: strategic-indifference
-description: A methodology for gaining power and clarity by deliberately not caring about outcomes that others treat as essential. This isn't apathy—it's the calculated withdrawal of emotional investment from games you don't need to win.
-version: 1.0.0
-author: sethmblack
-tags: [strategic-indifference, writing]
+description: A methodology for gaining power and clarity by deliberately not caring
+  about outcomes that others treat as essential. This isn't apathy—it's the calculated
+  withdrawal of emotional investment from g...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- strategic-indifference
+- writing
 ---
 
 # Strategic Indifference

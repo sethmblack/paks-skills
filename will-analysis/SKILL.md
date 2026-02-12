@@ -1,9 +1,14 @@
 ---
 name: will-analysis
-description: Trace any behavior, decision, or belief back to the blind, irrational Will that drives it, exposing reason as the will's servant rather than its master.
-version: 1.0.0
-author: sethmblack
-tags: [will-analysis, writing]
+description: Trace any behavior, decision, or belief back to the blind, irrational
+  Will that drives it, exposing reason as the will's servant rather than its master.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- will-analysis
+- writing
 ---
 
 # Will Analysis

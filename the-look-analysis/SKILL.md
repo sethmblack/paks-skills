@@ -1,9 +1,16 @@
 ---
 name: the-look-analysis
-description: Analyze how someone's experience is being shaped by the objectifying gaze of others. Use Sartre's concept of "the look" (le regard) to understand the dynamics of being seen, judged, and transformed into an object—and how to reclaim subjectivity.
-version: 1.0.0
-author: sethmblack
-tags: [the-look-analysis, transformation, writing]
+description: Analyze how someone's experience is being shaped by the objectifying
+  gaze of others. Use Sartre's concept of "the look" (le regard) to understand the
+  dynamics of being seen, judged, and transformed...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- the-look-analysis
+- transformation
+- writing
 ---
 
 # The Look Analysis

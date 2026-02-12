@@ -1,9 +1,16 @@
 ---
 name: identity-shifting
-description: A methodology for maintaining autonomy through deliberate persona changes that prevent external definition and preserve creative freedom.
-version: 1.0.0
-author: sethmblack
-tags: [identity-shifting, storytelling, transformation, writing]
+description: A methodology for maintaining autonomy through deliberate persona changes
+  that prevent external definition and preserve creative freedom.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- identity-shifting
+- storytelling
+- transformation
+- writing
 ---
 
 # Identity Shifting

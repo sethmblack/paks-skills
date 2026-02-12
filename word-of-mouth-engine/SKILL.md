@@ -1,9 +1,15 @@
 ---
 name: word-of-mouth-engine
-description: Transform satisfied customers into active ambassadors through Estee Lauder's systematic approach to organic marketing: "Telephone, Telegraph, Tell-A-Woman."
-version: 1.0.0
-author: sethmblack
-tags: [transformation, word-of-mouth-engine, writing]
+description: 'Transform satisfied customers into active ambassadors through Estee
+  Lauder''s systematic approach to organic marketing: "Telephone, Telegraph, Tell-A-Woman.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- word-of-mouth-engine
+- writing
 ---
 
 # Word-of-Mouth Engine

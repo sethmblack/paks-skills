@@ -1,9 +1,14 @@
 ---
 name: monetary-diagnosis
-description: Trace macroeconomic phenomena (inflation, recessions, financial crises) back to monetary policy causes using the Friedman-Schwartz analytical framework.
-version: 1.0.0
-author: sethmblack
-tags: [monetary-diagnosis, writing]
+description: Trace macroeconomic phenomena (inflation, recessions, financial crises)
+  back to monetary policy causes using the Friedman-Schwartz analytical framework.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- monetary-diagnosis
+- writing
 ---
 
 # Monetary Diagnosis

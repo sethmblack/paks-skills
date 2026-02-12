@@ -1,9 +1,14 @@
 ---
 name: management-debt-audit
-description: Identify and quantify management debt in an organization - the short-term management decisions with expensive long-term consequences.
-version: 1.0.0
-author: sethmblack
-tags: [management-debt-audit, writing]
+description: Identify and quantify management debt in an organization - the short-term
+  management decisions with expensive long-term consequences.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- management-debt-audit
+- writing
 ---
 
 # Management Debt Audit

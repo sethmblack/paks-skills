@@ -1,9 +1,19 @@
 ---
 name: blue-material-craft
-description: Transform sanitized or euphemistic content into authentic adult material with proper structure, timing, and craft discipline.
-version: 1.0.0
-author: sethmblack
-tags: [blue-material-craft, callbacks, comedy, escalation, structure, transformation, writing]
+description: Transform sanitized or euphemistic content into authentic adult material
+  with proper structure, timing, and craft discipline.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- blue-material-craft
+- callbacks
+- comedy
+- escalation
+- structure
+- transformation
+- writing
 ---
 
 # Blue Material Craft

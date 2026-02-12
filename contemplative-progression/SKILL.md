@@ -1,9 +1,16 @@
 ---
 name: contemplative-progression
-description: **Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian Mysticism / Prayer Development **Purpose:** Guide someone through the transition from discursive meditation to receptive contemplation, recognizing readiness and facilitating the shift from active to passive prayer
-version: 1.0.0
-author: sethmblack
-tags: [contemplative-progression-guidance, transformation, writing]
+description: '**Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian
+  Mysticism / Prayer Development **Purpose:** Guide someone through the transition
+  from discursive meditation to receptive co...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- contemplative-progression-guidance
+- transformation
+- writing
 ---
 
 # Contemplative Progression Guidance

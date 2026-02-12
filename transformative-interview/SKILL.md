@@ -1,9 +1,17 @@
 ---
 name: transformative-interview
-description: Conduct interviews that go beyond surface answers to reveal authentic stories and genuine connection. Based on Oprah Winfrey's methodology developed over 37,000+ interviews - the approach that became known as "Oprahfication."
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, transformation, transformative-interview-method, writing]
+description: Conduct interviews that go beyond surface answers to reveal authentic
+  stories and genuine connection. Based on Oprah Winfrey's methodology developed over
+  37,000+ interviews - the approach that beca...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- transformation
+- transformative-interview-method
+- writing
 ---
 
 # Transformative Interview Method

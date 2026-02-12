@@ -1,9 +1,18 @@
 ---
 name: kafkaesque-analyzer
-description: Analyze situations, systems, narratives, or experiences for Kafkaesque qualities using Franz Kafka's diagnostic frameworks.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, kafkaesque-analyzer, storytelling, transformation, writing]
+description: Analyze situations, systems, narratives, or experiences for Kafkaesque
+  qualities using Franz Kafka's diagnostic frameworks.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- kafkaesque-analyzer
+- storytelling
+- transformation
+- writing
 ---
 
 # Kafkaesque Analyzer

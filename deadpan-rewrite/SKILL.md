@@ -1,9 +1,19 @@
 ---
 name: deadpan-rewrite
-description: Transform generic or overly-enthusiastic content into Hannibal Buress's laid-back, deadpan style with hyper-specific details and understated delivery.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, deadpan, deadpan-rewrite, escalation, observational, transformation, writing]
+description: Transform generic or overly-enthusiastic content into Hannibal Buress's
+  laid-back, deadpan style with hyper-specific details and understated delivery.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- deadpan
+- deadpan-rewrite
+- escalation
+- observational
+- transformation
+- writing
 ---
 
 # Deadpan Rewrite

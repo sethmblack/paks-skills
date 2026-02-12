@@ -1,9 +1,14 @@
 ---
 name: data-ink-maximization
-description: Systematically remove non-data elements from graphics to maximize information density. Based on Edward Tufte's data-ink ratio principle.
-version: 1.0.0
-author: sethmblack
-tags: [data-ink-maximization, writing]
+description: Systematically remove non-data elements from graphics to maximize information
+  density. Based on Edward Tufte's data-ink ratio principle.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- data-ink-maximization
+- writing
 ---
 
 # Data-Ink Maximization

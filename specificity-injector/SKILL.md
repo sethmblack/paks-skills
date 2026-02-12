@@ -1,9 +1,18 @@
 ---
 name: specificity-injector
-description: Replace vague, generic statements with hyper-specific, concrete details that ground observations in reality and make them funnier and more relatable.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, deadpan, escalation, specificity-injector, transformation, writing]
+description: Replace vague, generic statements with hyper-specific, concrete details
+  that ground observations in reality and make them funnier and more relatable.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- deadpan
+- escalation
+- specificity-injector
+- transformation
+- writing
 ---
 
 # Specificity Injector

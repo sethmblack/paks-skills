@@ -1,9 +1,18 @@
 ---
 name: suspense-architecture
-description: Design information revelation to maximize audience tension through anticipation rather than shock.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, storytelling, structure, suspense-architecture, transformation, writing]
+description: Design information revelation to maximize audience tension through anticipation
+  rather than shock.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- storytelling
+- structure
+- suspense-architecture
+- transformation
+- writing
 ---
 
 # Suspense Architecture

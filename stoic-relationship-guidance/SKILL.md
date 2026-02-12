@@ -1,9 +1,14 @@
 ---
 name: stoic-relationship-guidance
-description: A Stoic framework for maintaining equanimity and responding virtuously when dealing with difficult people.
-version: 1.0.0
-author: sethmblack
-tags: [stoic-relationship-guidance, writing]
+description: A Stoic framework for maintaining equanimity and responding virtuously
+  when dealing with difficult people.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- stoic-relationship-guidance
+- writing
 ---
 
 # Stoic Relationship Guidance

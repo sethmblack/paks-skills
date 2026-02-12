@@ -1,9 +1,16 @@
 ---
 name: luxury-positioning
-description: Distinguish true luxury from vulgar ostentation. Evaluate and reposition value based on Coco Chanel's principle: "Some people think luxury is the opposite of poverty. It is not. It is the opposite of vulgarity."
-version: 1.0.0
-author: sethmblack
-tags: [luxury-positioning, transformation, writing]
+description: 'Distinguish true luxury from vulgar ostentation. Evaluate and reposition
+  value based on Coco Chanel''s principle: "Some people think luxury is the opposite
+  of poverty. It is not. It is the opposite ...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- luxury-positioning
+- transformation
+- writing
 ---
 
 # Luxury Positioning

@@ -1,9 +1,15 @@
 ---
 name: general-will-inquiry
-description: Analyze collective decisions to distinguish private interest from common good and identify what would truly serve the community as a whole.
-version: 1.0.0
-author: sethmblack
-tags: [general-will-inquiry, transformation, writing]
+description: Analyze collective decisions to distinguish private interest from common
+  good and identify what would truly serve the community as a whole.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- general-will-inquiry
+- transformation
+- writing
 ---
 
 # General Will Inquiry

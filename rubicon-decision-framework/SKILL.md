@@ -1,9 +1,16 @@
 ---
 name: rubicon-decision-framework
-description: Evaluate and commit to pivotal decisions where retreat becomes impossible. When the time for deliberation ends, cross fully or not at all.
-version: 1.0.0
-author: sethmblack
-tags: [rubicon-decision-framework, storytelling, transformation, writing]
+description: Evaluate and commit to pivotal decisions where retreat becomes impossible.
+  When the time for deliberation ends, cross fully or not at all.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- rubicon-decision-framework
+- storytelling
+- transformation
+- writing
 ---
 
 # Rubicon Decision Framework

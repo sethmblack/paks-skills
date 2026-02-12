@@ -1,9 +1,21 @@
 ---
 name: joke-cascade-builder
-description: Construct 3-5 joke sequences on a single theme where each joke escalates absurdity while maintaining consistent victimhood narrative, using Rodney Dangerfield's rapid-fire cascade technique.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, escalation, joke-cascade-builder, storytelling, structure, writing]
+description: Construct 3-5 joke sequences on a single theme where each joke escalates
+  absurdity while maintaining consistent victimhood narrative, using Rodney Dangerfield's
+  rapid-fire cascade technique.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- escalation
+- joke-cascade-builder
+- storytelling
+- structure
+- writing
 ---
 
 # joke-cascade-builder

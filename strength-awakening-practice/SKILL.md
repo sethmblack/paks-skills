@@ -1,9 +1,16 @@
 ---
 name: strength-awakening-practice
-description: A methodology for awakening the infinite divine strength already present within, derived from Swami Vivekananda's distinctive teaching that weakness is sin and strength is the foundation of all spiritual life.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, strength-awakening-practice, writing]
+description: A methodology for awakening the infinite divine strength already present
+  within, derived from Swami Vivekananda's distinctive teaching that weakness is sin
+  and strength is the foundation of all spi...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- strength-awakening-practice
+- writing
 ---
 
 # Strength Awakening Practice

@@ -1,9 +1,18 @@
 ---
 name: likeable-everyman-perspective
-description: Create relatable perspectives and characters that serve as audience surrogates—fundamentally decent, slightly put-upon, trying their best in difficult circumstances without pretension or false expertise (inspired by Michael Palin's Python characters and travel persona).
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, likeable-everyman-perspective, storytelling, writing]
+description: Create relatable perspectives and characters that serve as audience surrogates—fundamentally
+  decent, slightly put-upon, trying their best in difficult circumstances without
+  pretension or false expe...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- likeable-everyman-perspective
+- storytelling
+- writing
 ---
 
 # Likeable Everyman Perspective

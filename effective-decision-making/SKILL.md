@@ -1,9 +1,15 @@
 ---
 name: effective-decision-making
-description: Apply Drucker's five-element framework for making important decisions at the highest level of conceptual understanding.
-version: 1.0.0
-author: sethmblack
-tags: [effective-decision-making, escalation, writing]
+description: Apply Drucker's five-element framework for making important decisions
+  at the highest level of conceptual understanding.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- effective-decision-making
+- escalation
+- writing
 ---
 
 # Effective Decision-Making

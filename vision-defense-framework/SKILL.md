@@ -1,9 +1,17 @@
 ---
 name: vision-defense-framework
-description: Methodology for defending ambitious, unconventional ideas against criticism that they are "unbuildable," "impractical," or "impossible." Based on Zaha Hadid's experience of 16 years as a "paper architect" before vindication. She proved that "For years they called my work 'paper architecture'—unbuildable fantasies. But I was building the future. The drawings that seemed impossible in 1983 became the buildings of 2003."
-version: 1.0.0
-author: sethmblack
-tags: [structure, transformation, vision-defense-framework, writing]
+description: Methodology for defending ambitious, unconventional ideas against criticism
+  that they are "unbuildable," "impractical," or "impossible." Based on Zaha Hadid's
+  experience of 16 years as a "paper arc...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- structure
+- transformation
+- vision-defense-framework
+- writing
 ---
 
 # Vision Defense Framework

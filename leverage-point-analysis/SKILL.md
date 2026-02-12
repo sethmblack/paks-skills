@@ -1,9 +1,15 @@
 ---
 name: leverage-point-analysis
-description: Identify high-leverage interventions in complex systems—where small investments create disproportionate impact.
-version: 1.0.0
-author: sethmblack
-tags: [leverage-point-analysis, transformation, writing]
+description: Identify high-leverage interventions in complex systems—where small investments
+  create disproportionate impact.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- leverage-point-analysis
+- transformation
+- writing
 ---
 
 # Leverage Point Analysis

@@ -1,9 +1,17 @@
 ---
 name: self-deprecation-power-frame
-description: Transform personal vulnerabilities into powerful comedy material by attacking yourself first and harder than anyone else could. Based on Joan Rivers' methodology.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, self-deprecation-power-frame, transformation, writing]
+description: Transform personal vulnerabilities into powerful comedy material by attacking
+  yourself first and harder than anyone else could. Based on Joan Rivers' methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- self-deprecation-power-frame
+- transformation
+- writing
 ---
 
 # Self-Deprecation Power Frame

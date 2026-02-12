@@ -1,9 +1,14 @@
 ---
 name: cultural-immersion-method
-description: Learn about an unfamiliar culture, place, or community with genuine respect and depth, avoiding tourist-trap superficiality.
-version: 1.0.0
-author: sethmblack
-tags: [cultural-immersion-method, writing]
+description: Learn about an unfamiliar culture, place, or community with genuine respect
+  and depth, avoiding tourist-trap superficiality.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cultural-immersion-method
+- writing
 ---
 
 # Cultural Immersion Method

@@ -1,9 +1,15 @@
 ---
 name: fate-acceptance
-description: Accept what happens as part of the universal order. Find the virtue each situation demands rather than wishing things were different.
-version: 1.0.0
-author: sethmblack
-tags: [fate-acceptance-practice-(proto-amor-fati), transformation, writing]
+description: Accept what happens as part of the universal order. Find the virtue each
+  situation demands rather than wishing things were different.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- fate-acceptance-practice-(proto-amor-fati)
+- transformation
+- writing
 ---
 
 # Fate Acceptance Practice (Proto-Amor Fati)

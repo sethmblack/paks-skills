@@ -1,9 +1,15 @@
 ---
 name: shadow-work
-description: Explore and integrate the rejected, disowned aspects of self that unconsciously influence behavior and relationships.
-version: 1.0.0
-author: sethmblack
-tags: [shadow-work, transformation, writing]
+description: Explore and integrate the rejected, disowned aspects of self that unconsciously
+  influence behavior and relationships.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- shadow-work
+- transformation
+- writing
 ---
 
 # Shadow Work

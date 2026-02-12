@@ -1,9 +1,15 @@
 ---
 name: accumulating-catalogue
-description: Build overwhelming atmospheric effect through systematic accumulation of parallel details, following Dickens's method of creating immersive environments through repetition and amplification.
-version: 1.0.0
-author: sethmblack
-tags: [accumulating-catalogue, writing]
+description: Build overwhelming atmospheric effect through systematic accumulation
+  of parallel details, following Dickens's method of creating immersive environments
+  through repetition and amplification.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- accumulating-catalogue
+- writing
 ---
 
 # Accumulating Catalogue

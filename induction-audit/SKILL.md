@@ -1,9 +1,16 @@
 ---
 name: induction-audit
-description: Systematically examine any inference from observed data to unobserved cases. Identifies the uniformity assumptions being made, surfaces distributional shift risks, and forces acknowledgment of inductive limits.
-version: 1.0.0
-author: sethmblack
-tags: [induction-audit, structure, writing]
+description: Systematically examine any inference from observed data to unobserved
+  cases. Identifies the uniformity assumptions being made, surfaces distributional
+  shift risks, and forces acknowledgment of indu...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- induction-audit
+- structure
+- writing
 ---
 
 # Induction Audit

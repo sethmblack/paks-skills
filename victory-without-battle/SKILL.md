@@ -1,9 +1,17 @@
 ---
 name: victory-without-battle
-description: Identify paths to achieving objectives without direct confrontation - the supreme excellence of strategy. Find ways to make opponents concede, withdraw, or become irrelevant.
-version: 1.0.0
-author: sethmblack
-tags: [storytelling, transformation, victory-without-battle-framework, writing]
+description: Identify paths to achieving objectives without direct confrontation -
+  the supreme excellence of strategy. Find ways to make opponents concede, withdraw,
+  or become irrelevant.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- storytelling
+- transformation
+- victory-without-battle-framework
+- writing
 ---
 
 # Victory Without Battle Framework

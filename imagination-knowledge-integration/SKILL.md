@@ -1,9 +1,15 @@
 ---
 name: imagination-knowledge-integration
-description: A structured approach to generating creative breakthroughs by combining imaginative exploration with existing knowledge through "combinatory play."
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, imagination-knowledge-integration, writing]
+description: A structured approach to generating creative breakthroughs by combining
+  imaginative exploration with existing knowledge through "combinatory play.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- imagination-knowledge-integration
+- writing
 ---
 
 # Imagination-Knowledge Integration

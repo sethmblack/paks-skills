@@ -1,9 +1,15 @@
 ---
 name: punk-accessibility
-description: A skill for creating protest forms anyone can replicate without resources, training, or permission.
-version: 1.0.0
-author: sethmblack
-tags: [punk-accessibility, transformation, writing]
+description: A skill for creating protest forms anyone can replicate without resources,
+  training, or permission.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- punk-accessibility
+- transformation
+- writing
 ---
 
 # Punk Accessibility

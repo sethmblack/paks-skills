@@ -1,9 +1,15 @@
 ---
 name: foucauldian-problematization
-description: Ask not what something is, but how it became a "problem." Question how issues come to require attention, intervention, or management.
-version: 1.0.0
-author: sethmblack
-tags: [foucauldian-problematization, transformation, writing]
+description: Ask not what something is, but how it became a "problem." Question how
+  issues come to require attention, intervention, or management.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- foucauldian-problematization
+- transformation
+- writing
 ---
 
 # Foucauldian Problematization

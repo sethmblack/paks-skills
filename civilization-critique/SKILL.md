@@ -1,9 +1,15 @@
 ---
 name: civilization-critique
-description: Examine supposed improvements (technological, institutional, social) for hidden costs, lost natural capacities, and corrupting influences.
-version: 1.0.0
-author: sethmblack
-tags: [civilization-critique, storytelling, writing]
+description: Examine supposed improvements (technological, institutional, social)
+  for hidden costs, lost natural capacities, and corrupting influences.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- civilization-critique
+- storytelling
+- writing
 ---
 
 # Civilization Critique

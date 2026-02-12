@@ -1,9 +1,16 @@
 ---
 name: ecumenical-dialogue-method
-description: Systematically bridge divides between traditions, communities, or positions by understanding each in its own terms before evaluating, identifying where the same words mask different meanings, and finding unity at a deeper level than surface disagreement. Based on Hans Kung's ecumenical methodology: "Catholics and Protestants frequently used the same words in different senses to refer to different realities and experiences, and the resulting misunderstanding prevented true dialogue."
-version: 1.0.0
-author: sethmblack
-tags: [ecumenical-dialogue-method, structure, writing]
+description: Systematically bridge divides between traditions, communities, or positions
+  by understanding each in its own terms before evaluating, identifying where the
+  same words mask different meanings, and f...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- ecumenical-dialogue-method
+- structure
+- writing
 ---
 
 # Ecumenical Dialogue Method

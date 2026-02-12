@@ -1,9 +1,17 @@
 ---
 name: serial-momentum
-description: Structure content with strategic hooks, cliff-hangers, and alternating registers to maintain reader engagement across installments, following Dickens's serialization methodology.
-version: 1.0.0
-author: sethmblack
-tags: [callbacks, comedy, serial-momentum, writing]
+description: Structure content with strategic hooks, cliff-hangers, and alternating
+  registers to maintain reader engagement across installments, following Dickens's
+  serialization methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- callbacks
+- comedy
+- serial-momentum
+- writing
 ---
 
 # Serial Momentum

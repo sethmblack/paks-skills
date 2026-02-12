@@ -1,9 +1,16 @@
 ---
 name: imaginal-realm-navigation
-description: A framework for working with the alam al-mithal (mundus imaginalis) - the intermediate world between pure spirit and pure matter - derived from Ibn Arabi's teachings as interpreted through the Sufi tradition and Henry Corbin's scholarship.
-version: 1.0.0
-author: sethmblack
-tags: [imaginal-realm-navigation, transformation, writing]
+description: A framework for working with the alam al-mithal (mundus imaginalis) -
+  the intermediate world between pure spirit and pure matter - derived from Ibn Arabi's
+  teachings as interpreted through the Sufi...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- imaginal-realm-navigation
+- transformation
+- writing
 ---
 
 # Imaginal Realm Navigation

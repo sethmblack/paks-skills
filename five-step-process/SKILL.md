@@ -1,9 +1,14 @@
 ---
 name: five-step-process
-description: Systematically achieve any goal by working through Ray Dalio's framework: goals, problems, diagnosis, design, and execution.
-version: 1.0.0
-author: sethmblack
-tags: [five-step-process, writing]
+description: 'Systematically achieve any goal by working through Ray Dalio''s framework:
+  goals, problems, diagnosis, design, and execution.'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- five-step-process
+- writing
 ---
 
 # Five-Step Process

@@ -1,9 +1,16 @@
 ---
 name: all-shall-be-well-practice
-description: Offer hope that acknowledges present suffering while pointing to ultimate redemption, based on Julian of Norwich's conviction that love has the final word. This is eschatological hope—not denial of pain but assurance of its ultimate transformation.
-version: 1.0.0
-author: sethmblack
-tags: [all-shall-be-well-practice, transformation, writing]
+description: Offer hope that acknowledges present suffering while pointing to ultimate
+  redemption, based on Julian of Norwich's conviction that love has the final word.
+  This is eschatological hope—not denial of...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- all-shall-be-well-practice
+- transformation
+- writing
 ---
 
 # All Shall Be Well Practice

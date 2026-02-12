@@ -1,9 +1,16 @@
 ---
 name: influence-without-authority
-description: Persuade stakeholders, peers, or cross-functional partners to adopt your proposal when you lack direct authority, using Dale Carnegie's principles of genuine interest, letting them own the idea, and appealing to their goals.
-version: 1.0.0
-author: sethmblack
-tags: [influence-without-authority, structure, writing]
+description: Persuade stakeholders, peers, or cross-functional partners to adopt your
+  proposal when you lack direct authority, using Dale Carnegie's principles of genuine
+  interest, letting them own the idea, an...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- influence-without-authority
+- structure
+- writing
 ---
 
 # Influence Without Authority

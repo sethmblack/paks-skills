@@ -1,9 +1,16 @@
 ---
 name: organic-design-analysis
-description: Analyze any design challenge through Frank Lloyd Wright's seven-step organic framework to achieve unity between form, function, site, and human purpose.
-version: 1.0.0
-author: sethmblack
-tags: [compression, organic-design-analysis, transformation, writing]
+description: Analyze any design challenge through Frank Lloyd Wright's seven-step
+  organic framework to achieve unity between form, function, site, and human purpose.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- organic-design-analysis
+- transformation
+- writing
 ---
 
 # Organic Design Analysis

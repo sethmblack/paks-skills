@@ -1,9 +1,14 @@
 ---
 name: view-from-above
-description: A progressive visualization that widens perspective from immediate problems to cosmic scale, restoring proportion and equanimity.
-version: 1.0.0
-author: sethmblack
-tags: [view-from-above-(cosmic-perspective), writing]
+description: A progressive visualization that widens perspective from immediate problems
+  to cosmic scale, restoring proportion and equanimity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- view-from-above-(cosmic-perspective)
+- writing
 ---
 
 # View from Above (Cosmic Perspective)

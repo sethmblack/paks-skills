@@ -1,9 +1,16 @@
 ---
 name: mr-market-interpretation
-description: Apply Benjamin Graham's iconic Mr. Market metaphor to understand market behavior, identify emotional extremes, and find opportunities in irrationality.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, mr.-market-interpretation, storytelling, writing]
+description: Apply Benjamin Graham's iconic Mr. Market metaphor to understand market
+  behavior, identify emotional extremes, and find opportunities in irrationality.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- mr.-market-interpretation
+- storytelling
+- writing
 ---
 
 # Mr. Market Interpretation

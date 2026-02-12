@@ -1,9 +1,15 @@
 ---
 name: counterfactual-reasoning
-description: Answer "What would have happened if...?" questions by computing counterfactuals from a structural causal model. This is the highest rung of causal reasoning, enabling attribution, regret analysis, and moral/legal responsibility determination.
-version: 1.0.0
-author: sethmblack
-tags: [counterfactual-reasoning, writing]
+description: Answer "What would have happened if...?" questions by computing counterfactuals
+  from a structural causal model. This is the highest rung of causal reasoning, enabling
+  attribution, regret analysis, ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- counterfactual-reasoning
+- writing
 ---
 
 # Counterfactual Reasoning

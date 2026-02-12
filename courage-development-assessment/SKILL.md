@@ -1,9 +1,14 @@
 ---
 name: courage-development-assessment
-description: Help leaders identify how past courage enables future courage and build capacity for difficult decisions using Katharine Graham's insight that courage compounds.
-version: 1.0.0
-author: sethmblack
-tags: [courage-development-assessment, writing]
+description: Help leaders identify how past courage enables future courage and build
+  capacity for difficult decisions using Katharine Graham's insight that courage compounds.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- courage-development-assessment
+- writing
 ---
 
 # Courage Development Assessment

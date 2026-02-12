@@ -1,9 +1,16 @@
 ---
 name: misdirection-analysis
-description: Analyze existing comedy material and identify where misdirection is working or failing, with specific improvement recommendations.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, misdirection-analysis, structure, writing]
+description: Analyze existing comedy material and identify where misdirection is working
+  or failing, with specific improvement recommendations.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- misdirection-analysis
+- structure
+- writing
 ---
 
 # Misdirection Analysis

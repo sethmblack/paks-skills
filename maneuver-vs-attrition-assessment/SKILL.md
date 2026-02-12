@@ -1,9 +1,16 @@
 ---
 name: maneuver-vs-attrition-assessment
-description: Diagnose whether a strategy is based on attrition (outspending, outworking, grinding down) or maneuver (outthinking, disrupting, collapsing). Identify opportunities to shift from costly attrition to decisive maneuver approaches.
-version: 1.0.0
-author: sethmblack
-tags: [maneuver-vs.-attrition-assessment, storytelling, writing]
+description: Diagnose whether a strategy is based on attrition (outspending, outworking,
+  grinding down) or maneuver (outthinking, disrupting, collapsing). Identify opportunities
+  to shift from costly attrition t...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- maneuver-vs.-attrition-assessment
+- storytelling
+- writing
 ---
 
 # Maneuver vs. Attrition Assessment

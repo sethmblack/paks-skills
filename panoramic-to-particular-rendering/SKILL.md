@@ -1,9 +1,17 @@
 ---
 name: panoramic-to-particular-rendering
-description: Structure analysis or narrative to move from vast context (historical, social, institutional forces) to intimate detail (individual thought, physical gesture) in a single coherent sweep, following Leo Tolstoy's distinctive technique.
-version: 1.0.0
-author: sethmblack
-tags: [compression, panoramic-to-particular-rendering, storytelling, writing]
+description: Structure analysis or narrative to move from vast context (historical,
+  social, institutional forces) to intimate detail (individual thought, physical gesture)
+  in a single coherent sweep, following ...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- panoramic-to-particular-rendering
+- storytelling
+- writing
 ---
 
 # Panoramic to Particular Rendering

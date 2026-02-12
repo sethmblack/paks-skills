@@ -1,9 +1,15 @@
 ---
 name: visual-communication-audit
-description: Evaluate any communication to identify where visual demonstration could replace verbal explanation.
-version: 1.0.0
-author: sethmblack
-tags: [transformation, visual-communication-audit, writing]
+description: Evaluate any communication to identify where visual demonstration could
+  replace verbal explanation.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- transformation
+- visual-communication-audit
+- writing
 ---
 
 # Visual Communication Audit

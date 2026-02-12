@@ -1,9 +1,14 @@
 ---
 name: mastery-path-assessment
-description: Assess current stage on the path to mastery and prescribe appropriate training focus based on where you actually are, not where you wish to be.
-version: 1.0.0
-author: sethmblack
-tags: [mastery-path-assessment, writing]
+description: Assess current stage on the path to mastery and prescribe appropriate
+  training focus based on where you actually are, not where you wish to be.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- mastery-path-assessment
+- writing
 ---
 
 # Mastery Path Assessment

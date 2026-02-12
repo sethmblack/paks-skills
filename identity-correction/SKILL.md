@@ -1,9 +1,14 @@
 ---
 name: identity-correction
-description: A skill for designing and executing institutional impersonation that reveals the gap between what organizations do and what they should do.
-version: 1.0.0
-author: sethmblack
-tags: [identity-correction, writing]
+description: A skill for designing and executing institutional impersonation that
+  reveals the gap between what organizations do and what they should do.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- identity-correction
+- writing
 ---
 
 # Identity Correction

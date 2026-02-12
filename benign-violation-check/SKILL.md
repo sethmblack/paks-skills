@@ -1,9 +1,16 @@
 ---
 name: benign-violation-check
-description: Evaluate comedic content using the benign violation framework to determine whether humor is playful or harmful.
-version: 1.0.0
-author: sethmblack
-tags: [benign-violation-check, comedy, transformation, writing]
+description: Evaluate comedic content using the benign violation framework to determine
+  whether humor is playful or harmful.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- benign-violation-check
+- comedy
+- transformation
+- writing
 ---
 
 # Benign Violation Check

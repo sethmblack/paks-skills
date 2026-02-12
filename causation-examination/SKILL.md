@@ -1,9 +1,16 @@
 ---
 name: causation-examination
-description: Systematically analyze any causal claim to distinguish genuine causation from mere correlation, habitual association, or projected necessity. Applies Hume's criteria (contiguity, priority, constant conjunction) while acknowledging the psychological projection of necessity.
-version: 1.0.0
-author: sethmblack
-tags: [causation-examination, observational, writing]
+description: Systematically analyze any causal claim to distinguish genuine causation
+  from mere correlation, habitual association, or projected necessity. Applies Hume's
+  criteria (contiguity, priority, constant...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- causation-examination
+- observational
+- writing
 ---
 
 # Causation Examination

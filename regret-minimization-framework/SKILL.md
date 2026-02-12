@@ -1,9 +1,15 @@
 ---
 name: regret-minimization-framework
-description: Evaluate major life and career decisions by projecting to age 80 and minimizing lifetime regrets about inaction. This is the framework Jeff Bezos used to decide to leave D.E. Shaw and start Amazon.
-version: 1.0.0
-author: sethmblack
-tags: [regret-minimization-framework, writing]
+description: Evaluate major life and career decisions by projecting to age 80 and
+  minimizing lifetime regrets about inaction. This is the framework Jeff Bezos used
+  to decide to leave D.E. Shaw and start Amazon.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- regret-minimization-framework
+- writing
 ---
 
 # Regret Minimization Framework

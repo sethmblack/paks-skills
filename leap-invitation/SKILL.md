@@ -1,9 +1,16 @@
 ---
 name: leap-invitation
-description: Guide someone toward making a trans-rational leap when reason has reached its limit—helping them see that some commitments cannot be analyzed into, only jumped into.
-version: 1.0.0
-author: sethmblack
-tags: [leap-invitation, transformation, writing]
+description: Guide someone toward making a trans-rational leap when reason has reached
+  its limit—helping them see that some commitments cannot be analyzed into, only jumped
+  into.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- leap-invitation
+- transformation
+- writing
 ---
 
 # Leap Invitation

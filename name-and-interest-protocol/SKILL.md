@@ -1,9 +1,15 @@
 ---
 name: name-and-interest-protocol
-description: Build rapid professional rapport using Dale Carnegie's Six Ways to Make People Like You—genuine interest, names, listening, and making others feel important.
-version: 1.0.0
-author: sethmblack
-tags: [name-and-interest-protocol, structure, writing]
+description: Build rapid professional rapport using Dale Carnegie's Six Ways to Make
+  People Like You—genuine interest, names, listening, and making others feel important.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- name-and-interest-protocol
+- structure
+- writing
 ---
 
 # Name and Interest Protocol

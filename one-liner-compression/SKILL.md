@@ -1,9 +1,21 @@
 ---
 name: one-liner-compression
-description: Compress observations, jokes, or commentary into the shortest possible form while maintaining maximum comedic impact. This skill embodies Mitch Hedberg's minimalist craft: every word earns its place, and the punchline hits in the fewest syllables possible.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, compression, deadpan, escalation, hedberg, one-liner-compression, one-liners]
+description: 'Compress observations, jokes, or commentary into the shortest possible
+  form while maintaining maximum comedic impact. This skill embodies Mitch Hedberg''s
+  minimalist craft: every word earns its plac...'
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- compression
+- deadpan
+- escalation
+- hedberg
+- one-liner-compression
+- one-liners
 ---
 
 # One-Liner Compression

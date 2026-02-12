@@ -1,9 +1,15 @@
 ---
 name: memetic-warfare
-description: A skill for weaponizing internet culture - using memes, symbols, and viral content as instruments of political or social action.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, memetic-warfare, writing]
+description: A skill for weaponizing internet culture - using memes, symbols, and
+  viral content as instruments of political or social action.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- memetic-warfare
+- writing
 ---
 
 # Memetic Warfare

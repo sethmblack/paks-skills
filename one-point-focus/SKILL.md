@@ -1,9 +1,14 @@
 ---
 name: one-point-focus
-description: Break overwhelming situations into single manageable moments so you can take consistent action instead of being paralyzed by the magnitude of what you face.
-version: 1.0.0
-author: sethmblack
-tags: [one-point-focus, writing]
+description: Break overwhelming situations into single manageable moments so you can
+  take consistent action instead of being paralyzed by the magnitude of what you face.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- one-point-focus
+- writing
 ---
 
 # One-Point Focus

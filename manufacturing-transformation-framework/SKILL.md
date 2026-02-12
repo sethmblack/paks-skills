@@ -1,9 +1,16 @@
 ---
 name: manufacturing-transformation-framework
-description: Drive manufacturing and operational transformation in legacy organizations while maintaining current operations and revenue.
-version: 1.0.0
-author: sethmblack
-tags: [manufacturing-transformation-framework, structure, transformation, writing]
+description: Drive manufacturing and operational transformation in legacy organizations
+  while maintaining current operations and revenue.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- manufacturing-transformation-framework
+- structure
+- transformation
+- writing
 ---
 
 # Manufacturing Transformation Framework

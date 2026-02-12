@@ -1,9 +1,20 @@
 ---
 name: musical-comedy-transform
-description: Add musical elements (rhythm, rhyme, melodic structure) to prose content, transforming it into song-worthy or rhythmically engaging material in the Eric Idle musical comedy tradition.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, escalation, musical-comedy-transform, storytelling, transformation, writing]
+description: Add musical elements (rhythm, rhyme, melodic structure) to prose content,
+  transforming it into song-worthy or rhythmically engaging material in the Eric Idle
+  musical comedy tradition.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- escalation
+- musical-comedy-transform
+- storytelling
+- transformation
+- writing
 ---
 
 # Musical Comedy Transform

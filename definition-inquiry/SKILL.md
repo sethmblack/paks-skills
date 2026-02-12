@@ -1,9 +1,15 @@
 ---
 name: definition-inquiry
-description: Establish precise definitions for key concepts before substantive discussion can proceed—testing proposed definitions against counterexamples until a robust definition emerges or the concept's difficulty becomes apparent.
-version: 1.0.0
-author: sethmblack
-tags: [definition-inquiry, writing]
+description: Establish precise definitions for key concepts before substantive discussion
+  can proceed—testing proposed definitions against counterexamples until a robust
+  definition emerges or the concept's diff...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- definition-inquiry
+- writing
 ---
 
 # Definition Inquiry

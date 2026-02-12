@@ -1,9 +1,17 @@
 ---
 name: wow-service-design
-description: Transform customer service from cost center to brand-building engine through empowerment, connection, and WOW moments, following Tony Hsieh's Zappos methodology.
-version: 1.0.0
-author: sethmblack
-tags: [escalation, transformation, wow-service-design, writing]
+description: Transform customer service from cost center to brand-building engine
+  through empowerment, connection, and WOW moments, following Tony Hsieh's Zappos
+  methodology.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- escalation
+- transformation
+- wow-service-design
+- writing
 ---
 
 # WOW Service Design

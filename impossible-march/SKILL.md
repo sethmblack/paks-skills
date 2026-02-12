@@ -1,9 +1,14 @@
 ---
 name: impossible-march
-description: When competitors or obstacles guard all conventional paths, find the route they consider impossible—the one that is harder but undefended.
-version: 1.0.0
-author: sethmblack
-tags: [the-impossible-march, writing]
+description: When competitors or obstacles guard all conventional paths, find the
+  route they consider impossible—the one that is harder but undefended.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- the-impossible-march
+- writing
 ---
 
 # The Impossible March

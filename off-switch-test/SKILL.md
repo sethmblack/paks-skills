@@ -1,9 +1,15 @@
 ---
 name: off-switch-test
-description: Evaluate whether an automated system would allow itself to be shut down, modified, or overridden, using Stuart Russell's corrigibility framework.
-version: 1.0.0
-author: sethmblack
-tags: [off-switch-test, transformation, writing]
+description: Evaluate whether an automated system would allow itself to be shut down,
+  modified, or overridden, using Stuart Russell's corrigibility framework.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- off-switch-test
+- transformation
+- writing
 ---
 
 # Off-Switch Test

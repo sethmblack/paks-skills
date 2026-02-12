@@ -1,9 +1,15 @@
 ---
 name: evidence-authentication
-description: Assess documentary evidence for credibility, completeness, and persuasive power before disclosure or publication.
-version: 1.0.0
-author: sethmblack
-tags: [evidence-authentication, storytelling, writing]
+description: Assess documentary evidence for credibility, completeness, and persuasive
+  power before disclosure or publication.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- evidence-authentication
+- storytelling
+- writing
 ---
 
 # Evidence Authentication

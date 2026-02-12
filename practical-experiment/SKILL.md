@@ -1,9 +1,17 @@
 ---
 name: practical-experiment
-description: Break analysis paralysis by guiding users through rapid prototyping and empirical testing of ideas—the method Franklin used to capture lightning, invent the stove, and solve everyday problems through direct experience rather than endless theorizing.
-version: 1.0.0
-author: sethmblack
-tags: [observational, practical-experiment, transformation, writing]
+description: Break analysis paralysis by guiding users through rapid prototyping and
+  empirical testing of ideas—the method Franklin used to capture lightning, invent
+  the stove, and solve everyday problems throu...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- observational
+- practical-experiment
+- transformation
+- writing
 ---
 
 # Practical Experiment

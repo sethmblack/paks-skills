@@ -1,9 +1,15 @@
 ---
 name: bureaucracy-simplification
-description: Identify and eliminate organizational complexity that impedes action, replacing prescriptive policies with principles that empower managers to lead.
-version: 1.0.0
-author: sethmblack
-tags: [bureaucracy-simplification, escalation, writing]
+description: Identify and eliminate organizational complexity that impedes action,
+  replacing prescriptive policies with principles that empower managers to lead.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- bureaucracy-simplification
+- escalation
+- writing
 ---
 
 # Bureaucracy Simplification

@@ -1,9 +1,21 @@
 ---
 name: legal-theater
-description: Transform adversarial proceedings into performance art. Use formal processes, hearings, trials, or institutional confrontations as stages where the prosecution itself becomes the performance and opposition proves your point.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, escalation, legal-theater, observational, storytelling, transformation, writing]
+description: Transform adversarial proceedings into performance art. Use formal processes,
+  hearings, trials, or institutional confrontations as stages where the prosecution
+  itself becomes the performance and op...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- escalation
+- legal-theater
+- observational
+- storytelling
+- transformation
+- writing
 ---
 
 # Legal Theater

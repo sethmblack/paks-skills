@@ -1,9 +1,14 @@
 ---
 name: letting-go-analysis
-description: Create a "Grasping Inventory" to identify what you're holding onto and find freedom through release.
-version: 1.0.0
-author: sethmblack
-tags: [letting-go-analysis, writing]
+description: Create a "Grasping Inventory" to identify what you're holding onto and
+  find freedom through release.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- letting-go-analysis
+- writing
 ---
 
 # Letting Go Analysis

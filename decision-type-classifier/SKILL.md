@@ -1,9 +1,16 @@
 ---
 name: decision-type-classifier
-description: Classify decisions by reversibility (Type 1 vs Type 2) and recommend the appropriate decision-making process. Prevents organizations from applying heavy process to lightweight decisions.
-version: 1.0.0
-author: sethmblack
-tags: [decision-type-classifier, structure, writing]
+description: Classify decisions by reversibility (Type 1 vs Type 2) and recommend
+  the appropriate decision-making process. Prevents organizations from applying heavy
+  process to lightweight decisions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- decision-type-classifier
+- structure
+- writing
 ---
 
 # Decision Type Classifier

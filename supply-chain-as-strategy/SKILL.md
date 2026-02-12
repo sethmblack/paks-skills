@@ -1,9 +1,16 @@
 ---
 name: supply-chain-as-strategy
-description: Transform your supply chain from a cost center into a competitive moat through supplier consolidation, inventory optimization, exclusive access, and operational control.
-version: 1.0.0
-author: sethmblack
-tags: [supply-chain-as-strategy, transformation, writing]
+description: Transform your supply chain from a cost center into a competitive moat
+  through supplier consolidation, inventory optimization, exclusive access, and operational
+  control.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- supply-chain-as-strategy
+- transformation
+- writing
 ---
 
 # Supply Chain as Strategy

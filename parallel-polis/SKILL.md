@@ -1,9 +1,15 @@
 ---
 name: parallel-polis
-description: A skill for designing authentic structures alongside official ones - creating spaces where people can live as if they were free while official systems persist.
-version: 1.0.0
-author: sethmblack
-tags: [parallel-polis, writing]
+description: A skill for designing authentic structures alongside official ones -
+  creating spaces where people can live as if they were free while official systems
+  persist.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- parallel-polis
+- writing
 ---
 
 # Parallel Polis

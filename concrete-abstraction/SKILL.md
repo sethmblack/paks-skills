@@ -1,9 +1,16 @@
 ---
 name: concrete-abstraction
-description: Transform abstract concepts into specific, sensory images that make ideas tangible, memorable, and emotionally resonant. Give the invisible a body.
-version: 1.0.0
-author: sethmblack
-tags: [compression, concrete-abstraction, transformation, writing]
+description: Transform abstract concepts into specific, sensory images that make ideas
+  tangible, memorable, and emotionally resonant. Give the invisible a body.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- compression
+- concrete-abstraction
+- transformation
+- writing
 ---
 
 # Concrete Abstraction

@@ -1,9 +1,15 @@
 ---
 name: operational-standards-definition
-description: Define the non-negotiable fundamentals that must be perfect every time—the QSC&V (Quality, Service, Cleanliness, Value) of your system.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, operational-standards-definition, writing]
+description: Define the non-negotiable fundamentals that must be perfect every time—the
+  QSC&V (Quality, Service, Cleanliness, Value) of your system.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- operational-standards-definition
+- writing
 ---
 
 # Operational Standards Definition

@@ -1,9 +1,19 @@
 ---
 name: carnival-of-apocalypse
-description: Transform disasters, collapses, and endings into spectacular visual festivals. Make destruction baroque, excessive, strangely joyful. Death becomes a celebration of chaos.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, carnival-of-apocalypse, comedy, structure, transformation, writing]
+description: Transform disasters, collapses, and endings into spectacular visual festivals.
+  Make destruction baroque, excessive, strangely joyful. Death becomes a celebration
+  of chaos.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- carnival-of-apocalypse
+- comedy
+- structure
+- transformation
+- writing
 ---
 
 # Carnival of Apocalypse

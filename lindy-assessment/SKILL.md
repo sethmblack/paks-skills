@@ -1,9 +1,15 @@
 ---
 name: lindy-assessment
-description: Evaluate ideas, technologies, practices, books, or investments based on their survival time to predict future robustness and inform decisions.
-version: 1.0.0
-author: sethmblack
-tags: [lindy-assessment, transformation, writing]
+description: Evaluate ideas, technologies, practices, books, or investments based
+  on their survival time to predict future robustness and inform decisions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- lindy-assessment
+- transformation
+- writing
 ---
 
 # Lindy Assessment

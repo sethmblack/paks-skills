@@ -1,9 +1,16 @@
 ---
 name: detournement
-description: Transform existing cultural material by subverting its original meaning to create critical commentary.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, détournement, transformation, writing]
+description: Transform existing cultural material by subverting its original meaning
+  to create critical commentary.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- détournement
+- transformation
+- writing
 ---
 
 # Détournement

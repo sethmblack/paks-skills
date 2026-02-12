@@ -1,9 +1,18 @@
 ---
 name: hot-pockets-escalation
-description: Apply Jim Gaffigan's Hot Pockets Method to escalate observations about products, habits, or behaviors through structured exploration of cognitive dissonance.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, callbacks, comedy, escalation, hot-pockets-escalation, writing]
+description: Apply Jim Gaffigan's Hot Pockets Method to escalate observations about
+  products, habits, or behaviors through structured exploration of cognitive dissonance.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- callbacks
+- comedy
+- escalation
+- hot-pockets-escalation
+- writing
 ---
 
 # Hot Pockets Escalation

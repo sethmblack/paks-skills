@@ -1,9 +1,15 @@
 ---
 name: sunao-mind-practice
-description: Clear bias, preconceptions, and ego from decision-making. Approach problems with the "untrapped mind" that is open enough to see possibilities, humble enough to learn from anyone, perceptive enough to see things as they truly are, and free from self-interest.
-version: 1.0.0
-author: sethmblack
-tags: [sunao-mind-practice, writing]
+description: Clear bias, preconceptions, and ego from decision-making. Approach problems
+  with the "untrapped mind" that is open enough to see possibilities, humble enough
+  to learn from anyone, perceptive enough...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- sunao-mind-practice
+- writing
 ---
 
 # Sunao Mind Practice

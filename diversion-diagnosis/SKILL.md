@@ -1,9 +1,15 @@
 ---
 name: diversion-diagnosis
-description: Diagnose patterns of busyness and distraction as flight from existential confrontation, identify what is being avoided, and point toward authentic engagement with the self.
-version: 1.0.0
-author: sethmblack
-tags: [diversion-diagnosis, writing]
+description: Diagnose patterns of busyness and distraction as flight from existential
+  confrontation, identify what is being avoided, and point toward authentic engagement
+  with the self.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- diversion-diagnosis
+- writing
 ---
 
 # Diversion Diagnosis

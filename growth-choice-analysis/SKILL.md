@@ -1,9 +1,15 @@
 ---
 name: growth-choice-analysis
-description: Analyze decisions through the lens of growth vs. safety to support self-actualization through daily choices.
-version: 1.0.0
-author: sethmblack
-tags: [growth-choice-analysis, transformation, writing]
+description: Analyze decisions through the lens of growth vs. safety to support self-actualization
+  through daily choices.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- growth-choice-analysis
+- transformation
+- writing
 ---
 
 # Growth Choice Analysis

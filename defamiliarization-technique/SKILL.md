@@ -1,9 +1,16 @@
 ---
 name: defamiliarization-technique
-description: Apply Leo Tolstoy's defamiliarization (ostranenie) technique to make familiar concepts, processes, or situations appear strange and questionable, revealing hidden assumptions and conventions.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, defamiliarization-technique, writing]
+description: Apply Leo Tolstoy's defamiliarization (ostranenie) technique to make
+  familiar concepts, processes, or situations appear strange and questionable, revealing
+  hidden assumptions and conventions.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- defamiliarization-technique
+- writing
 ---
 
 # Defamiliarization Technique

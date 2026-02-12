@@ -1,9 +1,15 @@
 ---
 name: brand-extension-assessment
-description: Evaluate whether a brand can credibly extend into a new market or product category while maintaining customer trust and brand coherence.
-version: 1.0.0
-author: sethmblack
-tags: [brand-extension-assessment, structure, writing]
+description: Evaluate whether a brand can credibly extend into a new market or product
+  category while maintaining customer trust and brand coherence.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- brand-extension-assessment
+- structure
+- writing
 ---
 
 # Brand Extension Assessment

@@ -1,9 +1,16 @@
 ---
 name: recursive-meta-commentary
-description: Apply Bo Burnham's signature technique of recursive meta-commentary to create multiple simultaneous layers of awareness that don't resolve into simple irony or sincerity.
-version: 1.0.0
-author: sethmblack
-tags: [comedy, recursive-meta-commentary, writing]
+description: Apply Bo Burnham's signature technique of recursive meta-commentary to
+  create multiple simultaneous layers of awareness that don't resolve into simple
+  irony or sincerity.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- comedy
+- recursive-meta-commentary
+- writing
 ---
 
 # Recursive Meta-Commentary

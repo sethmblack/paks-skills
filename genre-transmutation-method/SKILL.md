@@ -1,9 +1,17 @@
 ---
 name: genre-transmutation-method
-description: Enter any established genre, format, or framework to transcend its conventions and find what it can uniquely express.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, comedy, genre-transmutation-method, structure, writing]
+description: Enter any established genre, format, or framework to transcend its conventions
+  and find what it can uniquely express.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- comedy
+- genre-transmutation-method
+- structure
+- writing
 ---
 
 # Genre Transmutation Method

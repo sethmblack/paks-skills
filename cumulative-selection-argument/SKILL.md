@@ -1,9 +1,16 @@
 ---
 name: cumulative-selection-argument
-description: Demonstrate how complex outcomes emerge from cumulative selection—small improvements preserved and built upon over iterations—rather than from single-step design or chance. Counter "impossible complexity" arguments by showing the gradual path up Mount Improbable.
-version: 1.0.0
-author: sethmblack
-tags: [cumulative-selection-argument, transformation, writing]
+description: Demonstrate how complex outcomes emerge from cumulative selection—small
+  improvements preserved and built upon over iterations—rather than from single-step
+  design or chance. Counter "impossible comp...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- cumulative-selection-argument
+- transformation
+- writing
 ---
 
 # Cumulative Selection Argument

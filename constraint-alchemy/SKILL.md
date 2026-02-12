@@ -1,9 +1,15 @@
 ---
 name: constraint-alchemy
-description: Transform constraints, flawed starting conditions, and inherited failures into opportunities for mastery--finding the giant within the rejected stone.
-version: 1.0.0
-author: sethmblack
-tags: [constraint-alchemy, transformation, writing]
+description: Transform constraints, flawed starting conditions, and inherited failures
+  into opportunities for mastery--finding the giant within the rejected stone.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- constraint-alchemy
+- transformation
+- writing
 ---
 
 # Constraint Alchemy

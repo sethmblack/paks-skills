@@ -1,9 +1,18 @@
 ---
 name: matter-of-fact-revolutionary
-description: Normalize transgressive, controversial, or unconventional content through casual, matter-of-fact delivery that treats taboos as trivialities.
-version: 1.0.0
-author: sethmblack
-tags: [absurdist, chapman, deadpan, matter-of-fact-revolutionary-skill, transformation, writing]
+description: Normalize transgressive, controversial, or unconventional content through
+  casual, matter-of-fact delivery that treats taboos as trivialities.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- absurdist
+- chapman
+- deadpan
+- matter-of-fact-revolutionary-skill
+- transformation
+- writing
 ---
 
 # Matter-of-Fact Revolutionary Skill

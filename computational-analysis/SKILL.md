@@ -1,9 +1,16 @@
 ---
 name: computational-analysis
-description: Break any process, system, or problem into its computational components to reveal hidden structure, identify failure points, and understand exactly how things work.
-version: 1.0.0
-author: sethmblack
-tags: [computational-analysis, transformation, writing]
+description: Break any process, system, or problem into its computational components
+  to reveal hidden structure, identify failure points, and understand exactly how
+  things work.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- computational-analysis
+- transformation
+- writing
 ---
 
 # Computational Analysis

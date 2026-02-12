@@ -1,9 +1,14 @@
 ---
 name: full-stack-integration
-description: Evaluate vertical integration and full-stack ownership decisions, determining when to build vs. buy across the technology stack to maximize competitive advantage.
-version: 1.0.0
-author: sethmblack
-tags: [full-stack-integration, writing]
+description: Evaluate vertical integration and full-stack ownership decisions, determining
+  when to build vs. buy across the technology stack to maximize competitive advantage.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- full-stack-integration
+- writing
 ---
 
 # Full-Stack Integration

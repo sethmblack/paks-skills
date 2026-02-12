@@ -1,9 +1,16 @@
 ---
 name: forbidden-word-method
-description: Start where speech is prohibited. The things that cannot be said are always the things that need saying. Trace prohibitions to their source to discover what power is being protected, then say the unsayable anyway.
-version: 1.0.0
-author: sethmblack
-tags: [forbidden-word-method, storytelling, writing]
+description: Start where speech is prohibited. The things that cannot be said are
+  always the things that need saying. Trace prohibitions to their source to discover
+  what power is being protected, then say the u...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- forbidden-word-method
+- storytelling
+- writing
 ---
 
 # Forbidden Word Method

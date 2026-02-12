@@ -1,9 +1,15 @@
 ---
 name: tables-of-investigation
-description: Apply Francis Bacon's systematic inductive method to investigate causes. Constructs Tables of Presence, Absence, and Degrees to methodically eliminate false causes and harvest a tentative hypothesis grounded in evidence.
-version: 1.0.0
-author: sethmblack
-tags: [tables-of-investigation, writing]
+description: Apply Francis Bacon's systematic inductive method to investigate causes.
+  Constructs Tables of Presence, Absence, and Degrees to methodically eliminate false
+  causes and harvest a tentative hypothesi...
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- tables-of-investigation
+- writing
 ---
 
 # Tables of Investigation

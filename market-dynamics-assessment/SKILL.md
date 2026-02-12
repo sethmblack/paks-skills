@@ -1,9 +1,14 @@
 ---
 name: market-dynamics-assessment
-description: Analyze how a market functions, identify distortions, and predict price and quantity movements.
-version: 1.0.0
-author: sethmblack
-tags: [market-dynamics-assessment, writing]
+description: Analyze how a market functions, identify distortions, and predict price
+  and quantity movements.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: sethmblack
+keywords:
+- market-dynamics-assessment
+- writing
 ---
 
 # Market Dynamics Assessment
