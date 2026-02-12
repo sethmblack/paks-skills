@@ -1,12 +1,10 @@
 ---
 name: 10x-force-analysis
-description: Analyze whether changes in competition, technology, customers, suppliers,
-  complementors, or regulation represent 10X forces that could trigger strategic inflection
-  points. Based on Andy Grove's fra...
+description: Analyze whether changes in competition, technology, customers, suppliers, complementors, or regulation represent 10X forces that could trigger strategic inflection points. Based on Andy Grove's fra...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - 10x-force-analysis
 - structure
