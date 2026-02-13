@@ -1,11 +1,9 @@
 ---
 name: case-based-writing
-description: Transform abstract principles into compelling narratives by grounding
-  them in specific human cases. Based on Atul Gawande's methodology as a New Yorker
-  staff writer.
+description: Transform abstract principles into compelling narratives by grounding them in specific human cases. Based on Atul Gawande's methodology as a New Yorker staff writer.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.525
   author: sethmblack
 keywords:
 - case-based-writing
