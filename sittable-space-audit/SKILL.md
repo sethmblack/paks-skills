@@ -4,7 +4,7 @@ description: Evaluate seating design against William H. Whyte's empirical criter
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2338
+  version: 1.0.4990
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sittable-space-audit
