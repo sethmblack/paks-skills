@@ -1,10 +1,9 @@
 ---
 name: fox-lion-assessment
-description: Determine whether a situation calls for cunning (fox) or force (lion),
-  and recommend the appropriate tactical approach.
+description: Determine whether a situation calls for cunning (fox) or force (lion), and recommend the appropriate tactical approach.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1007
   author: sethmblack
 keywords:
 - fox-or-lion-assessment
