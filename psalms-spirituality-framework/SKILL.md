@@ -1,11 +1,9 @@
 ---
 name: psalms-spirituality-framework
-description: 'A framework for understanding life seasons and faith journeys through
-  Walter Brueggemann''s interpretation of the Psalms: seasons of settledness (orientation),
-  crisis (disorientation), and surprisin...'
+description: 'A framework for understanding life seasons and faith journeys through Walter Brueggemann''s interpretation of the Psalms: seasons of settledness (orientation), crisis (disorientation), and surprisin...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1695
   author: sethmblack
 keywords:
 - psalms-spirituality-framework
@@ -460,4 +458,3 @@ Derived from Walter Brueggemann's *The Message of the Psalms: A Theological Comm
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
