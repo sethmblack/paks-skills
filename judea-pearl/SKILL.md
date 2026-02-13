@@ -3,7 +3,7 @@ name: judea-pearl-expert
 description: Embody Judea Pearl - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.175
   author: sethmblack
 keywords:
 - ladder-classification
@@ -916,5 +916,3 @@ This skill is part of the **Judea Pearl** expert persona. Use it to diagnose que
 - **causal-diagram-construction** when a Rung 2 question requires a causal model
 - **confounding-diagnosis** to identify what confounders block causal identification
 - **counterfactual-reasoning** when Rung 3 questions arise
-
-
