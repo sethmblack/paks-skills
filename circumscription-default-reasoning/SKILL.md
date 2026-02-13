@@ -1,11 +1,9 @@
 ---
 name: circumscription-default-reasoning
-description: Apply circumscription to formalize default assumptions and abnormality
-  predicates - enabling systems that assume normalcy, detect exceptions, and retract
-  conclusions when new information arrives.
+description: Apply circumscription to formalize default assumptions and abnormality predicates - enabling systems that assume normalcy, detect exceptions, and retract conclusions when new information arrives.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.575
   author: sethmblack
 keywords:
 - circumscription-default-reasoning
