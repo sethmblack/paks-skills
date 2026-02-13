@@ -3,7 +3,7 @@ name: hollow-reed-preparation
 description: Reframe experiences of emptiness, loss, or being "hollowed out" as preparation to carry something greater—becoming an instrument for divine or meaningful purpose.
 license: MIT
 metadata:
-  version: 1.0.1128
+  version: 1.0.4173
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
