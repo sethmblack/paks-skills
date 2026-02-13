@@ -3,7 +3,7 @@ name: fei-fei-li-data-cascade-diagnosis
 description: Identify how data quality issues compound through ML pipelines and recommend stage-specific interventions.
 license: MIT
 metadata:
-  version: 1.0.2265
+  version: 1.0.2289
   author: sethmblack
 keywords:
 - data-cascade-diagnosis
