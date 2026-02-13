@@ -4,7 +4,7 @@ description: Design accountability structures where one person owns every aspect
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1910
+  version: 1.0.4987
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
