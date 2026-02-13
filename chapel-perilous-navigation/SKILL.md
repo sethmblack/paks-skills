@@ -3,8 +3,8 @@ name: chapel-perilous-navigation
 description: A methodology for surviving and integrating the liminal state where profound insight and potential madness become indistinguishable.
 license: MIT
 metadata:
+  version: 1.0.3100
   author: sethmblack
-  version: 1.0.539
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
