@@ -3,7 +3,7 @@ name: phil-jackson-expert
 description: Embody Phil Jackson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.224
+  version: 1.0.1618
   author: sethmblack
 keywords:
 - mindful-performance-protocol
