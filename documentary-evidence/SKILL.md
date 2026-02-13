@@ -3,7 +3,7 @@ name: documentary-evidence
 description: A skill for building arguments through systematic citation of primary sources - letting documents speak louder than claims.
 license: MIT
 metadata:
-  version: 1.0.821
+  version: 1.0.3851
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
