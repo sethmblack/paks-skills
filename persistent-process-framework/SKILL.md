@@ -1,12 +1,10 @@
 ---
 name: persistent-process-framework
-description: Transform overwhelming long-term challenges into sustainable daily practices,
-  with clear progress indicators and motivation frameworks—following Marie Curie's
-  four-year methodology for isolating ra...
+description: Transform overwhelming long-term challenges into sustainable daily practices, with clear progress indicators and motivation frameworks—following Marie Curie's four-year methodology for isolating ra...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1606
 keywords:
 - persistent-process-framework
 - transformation
