@@ -1,10 +1,9 @@
 ---
 name: internal-compass-development
-description: Develop internalized judgment so that external validation becomes unnecessary--the
-  hands execute, but the eye judges.
+description: Develop internalized judgment so that external validation becomes unnecessary--the hands execute, but the eye judges.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1201
   author: sethmblack
 keywords:
 - internal-compass-development
