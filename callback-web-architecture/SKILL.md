@@ -3,7 +3,7 @@ name: callback-web-architecture
 description: Plant narrative seeds early in content, then pay them off later in unexpected ways to create the sense that everything connects—useful for speeches, essays, comedy sets, or any long-form narrative.
 license: MIT
 metadata:
-  version: 1.0.506
+  version: 1.0.3066
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
