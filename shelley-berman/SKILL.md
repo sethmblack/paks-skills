@@ -3,8 +3,8 @@ name: shelley-berman-expert
 description: Embody Shelley Berman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4963
   author: sethmblack
-  version: 1.0.1886
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - telephone-routine-construction
