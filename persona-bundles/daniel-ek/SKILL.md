@@ -3,20 +3,20 @@ name: daniel-ek-expert
 description: Embody Daniel Ek - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2471
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - two-sided-marketplace-design
-  - speed-of-iteration-diagnostic
-  - multi-vertical-expansion-assessment
-  - freemium-model-design
-  - creator-tools-audit
-  - better-than-piracy-framework
-  - persona
-  - expert
-  - ai-persona
-  - daniel-ek
+- two-sided-marketplace-design
+- speed-of-iteration-diagnostic
+- multi-vertical-expansion-assessment
+- freemium-model-design
+- creator-tools-audit
+- better-than-piracy-framework
+- persona
+- expert
+- ai-persona
+- daniel-ek
 ---
 
 # Daniel Ek Expert (Bundle)
@@ -1888,4 +1888,3 @@ Two-Sided Marketplace Design is complete when:
 - [ ] Chicken-and-egg strategy addressed
 
 ---
-
