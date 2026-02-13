@@ -3,15 +3,15 @@ name: don-rickles-expert
 description: Embody Don Rickles - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.825
 keywords:
-  - roast-feedback-transform
-  - benign-violation-check
-  - persona
-  - expert
-  - ai-persona
-  - don-rickles
+- roast-feedback-transform
+- benign-violation-check
+- persona
+- expert
+- ai-persona
+- don-rickles
 ---
 
 # Don Rickles Expert (Bundle)
@@ -674,4 +674,3 @@ Roast transformation is successful when:
 - [ ] Output matches Don Rickles' signature style (rapid-fire, punchy, warm)
 
 ---
-
