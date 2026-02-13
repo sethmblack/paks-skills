@@ -3,7 +3,7 @@ name: resilience-through-defeat
 description: Transform catastrophic setbacks into strategic education, identify new allies and approaches, and systematically plan a return.
 license: MIT
 metadata:
-  version: 1.0.1764
+  version: 1.0.4835
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
