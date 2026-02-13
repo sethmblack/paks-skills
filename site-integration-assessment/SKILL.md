@@ -4,7 +4,7 @@ description: Evaluate how well a design integrates with its context and recommen
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1912
+  version: 1.0.4989
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - site-integration-assessment
