@@ -1,10 +1,9 @@
 ---
 name: punk-accessibility
-description: A skill for creating protest forms anyone can replicate without resources,
-  training, or permission.
+description: A skill for creating protest forms anyone can replicate without resources, training, or permission.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1702
   author: sethmblack
 keywords:
 - punk-accessibility
