@@ -3,7 +3,7 @@ name: carnival-of-apocalypse
 description: Transform disasters, collapses, and endings into spectacular visual festivals. Make destruction baroque, excessive, strangely joyful. Death becomes a celebration of chaos.
 license: MIT
 metadata:
-  version: 1.0.3080
+  version: 1.0.3540
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
