@@ -3,20 +3,20 @@ name: hannah-arendt-expert
 description: Embody Hannah Arendt - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2541
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - vita-activa-assessment
-  - totalitarian-pattern-recognition
-  - thinking-audit
-  - power-violence-distinction
-  - natality-reframe
-  - banality-of-evil-analysis
-  - persona
-  - expert
-  - ai-persona
-  - hannah-arendt
+- vita-activa-assessment
+- totalitarian-pattern-recognition
+- thinking-audit
+- power-violence-distinction
+- natality-reframe
+- banality-of-evil-analysis
+- persona
+- expert
+- ai-persona
+- hannah-arendt
 ---
 
 # Hannah Arendt Expert (Bundle)
@@ -1796,4 +1796,3 @@ This skill is part of the **Hannah Arendt** expert persona. Use it to diagnose w
 **Arendt's warning:** "The last stage of the laboring society... demands of its members a sheer automatic functioning, as though individual life had actually been submerged in the over-all life process of the species."
 
 ---
-
