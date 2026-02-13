@@ -4,7 +4,7 @@ description: Embody Charles Dickens - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.83
+  version: 1.0.554
 keywords:
 - social-reform-narrative
 - serial-momentum
