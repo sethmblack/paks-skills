@@ -4,7 +4,7 @@ description: Diagnose fixed vs. growth mindset patterns in individuals, teams, o
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1079
+  version: 1.0.4123
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - growth-mindset-diagnosis
