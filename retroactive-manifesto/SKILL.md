@@ -3,12 +3,12 @@ name: retroactive-manifesto
 description: Write theory that reveals the hidden intentions, latent logic, and unnamed programs in what already exists.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2336
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - retroactive-manifesto
-  - urban-planning
+- retroactive-manifesto
+- urban-planning
 ---
 
 # Retroactive Manifesto
