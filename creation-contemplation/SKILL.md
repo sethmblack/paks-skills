@@ -1,11 +1,9 @@
 ---
 name: creation-contemplation
-description: Guide someone to see creation as St. Francis saw it - all creatures as
-  brothers and sisters praising the Creator, the natural world as mirror of divine
-  love and source of wonder.
+description: Guide someone to see creation as St. Francis saw it - all creatures as brothers and sisters praising the Creator, the natural world as mirror of divine love and source of wonder.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.681
   author: sethmblack
 keywords:
 - creation-contemplation
