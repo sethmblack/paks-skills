@@ -3,8 +3,8 @@ name: william-james-expert
 description: Embody William James - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.2226
   author: sethmblack
-  version: 1.0.289
 keywords:
 - will-to-believe-assessment
 - temperament-bridge
