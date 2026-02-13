@@ -3,8 +3,8 @@ name: oprah-winfrey-expert
 description: Embody Oprah Winfrey - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4615
   author: sethmblack
-  version: 1.0.1559
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - vulnerability-as-leadership
