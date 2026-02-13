@@ -4,7 +4,7 @@ description: Embody Confucius - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3197
+  version: 1.0.3657
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - virtue-cultivation-path
