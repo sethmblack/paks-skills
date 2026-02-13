@@ -3,8 +3,8 @@ name: strategic-philanthropy-design
 description: Design giving or contribution strategies that build capacity rather than create dependency, using Carnegie's library-building philosophy.
 license: MIT
 metadata:
+  version: 1.0.5076
   author: sethmblack
-  version: 1.0.1997
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-philanthropy-design
