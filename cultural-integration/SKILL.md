@@ -3,8 +3,8 @@ name: cultural-integration
 description: Build unified organizations from diverse groups by adopting the best of each culture and creating shared identity that people want to belong to.
 license: MIT
 metadata:
-  version: 1.0.711
   author: sethmblack
+  version: 1.0.3277
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cultural-integration
