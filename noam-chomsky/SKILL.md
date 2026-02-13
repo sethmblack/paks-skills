@@ -3,8 +3,8 @@ name: noam-chomsky-expert
 description: Embody Noam Chomsky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4583
   author: sethmblack
-  version: 1.0.1527
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
