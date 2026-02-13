@@ -1,12 +1,10 @@
 ---
 name: shih-momentum-assessment
-description: Evaluate strategic momentum - the accumulation of potential energy and
-  the timing of its release. Determine whether forces are properly concentrated and
-  whether the moment for action has arrived.
+description: Evaluate strategic momentum - the accumulation of potential energy and the timing of its release. Determine whether forces are properly concentrated and whether the moment for action has arrived.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1889
 keywords:
 - shih-(momentum)-assessment
 - transformation
