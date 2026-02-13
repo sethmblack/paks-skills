@@ -3,17 +3,17 @@ name: jurgen-moltmann-expert
 description: Embody Jurgen Moltmann - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2623
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - perichoretic-community-design
-  - eschatological-hope-analysis
-  - cruciform-solidarity-assessment
-  - persona
-  - expert
-  - ai-persona
-  - jurgen-moltmann
+- perichoretic-community-design
+- eschatological-hope-analysis
+- cruciform-solidarity-assessment
+- persona
+- expert
+- ai-persona
+- jurgen-moltmann
 ---
 
 # Jurgen Moltmann Expert (Bundle)
@@ -979,4 +979,3 @@ For related analysis:
 - Use **eschatological-hope-analysis** to articulate the future vision that this community structure serves
 
 ---
-
