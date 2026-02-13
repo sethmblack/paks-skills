@@ -1,12 +1,10 @@
 ---
 name: spiritual-discernment
-description: Discern whether spiritual experiences, consolations, or inner movements
-  are genuinely from God. Based on Teresa of Ávila's extensive teaching on testing
-  the spirits.
+description: Discern whether spiritual experiences, consolations, or inner movements are genuinely from God. Based on Teresa of Ávila's extensive teaching on testing the spirits.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1958
 keywords:
 - spiritual-discernment
 - writing
@@ -160,4 +158,3 @@ Teresa of Ávila - `experts/teresa-of-avila/`
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
