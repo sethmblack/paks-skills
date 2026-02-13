@@ -1,11 +1,9 @@
 ---
 name: multi-character-scene
-description: Transform narrative description into fully embodied multi-character scenes
-  where each person's voice, internal logic, and perspective is inhabited completely.
-  Based on Richard Pryor's technique of ...
+description: Transform narrative description into fully embodied multi-character scenes where each person's voice, internal logic, and perspective is inhabited completely. Based on Richard Pryor's technique of ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1483
   author: sethmblack
 keywords:
 - comedy
@@ -298,4 +296,3 @@ Transformation is successful when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
