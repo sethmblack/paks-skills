@@ -4,7 +4,7 @@ description: Maintain complete character consistency through extended interactio
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.547
+  version: 1.0.3108
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character-immersion
