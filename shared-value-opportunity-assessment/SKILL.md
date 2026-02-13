@@ -3,7 +3,7 @@ name: shared-value-opportunity-assessment
 description: Identify opportunities to create economic value while simultaneously creating value for society using Porter's Creating Shared Value (CSV) framework.
 license: MIT
 metadata:
-  version: 1.0.1884
+  version: 1.0.4961
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
