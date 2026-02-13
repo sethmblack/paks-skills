@@ -1,12 +1,10 @@
 ---
 name: cultural-integration-guide
-description: Guide post-acquisition integration to preserve the acquired company's
-  cultural value while achieving strategic synergies, using principles proven across
-  Disney's acquisitions of Pixar, Marvel, Luca...
+description: Guide post-acquisition integration to preserve the acquired company's cultural value while achieving strategic synergies, using principles proven across Disney's acquisitions of Pixar, Marvel, Luca...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.710
 keywords:
 - cultural-integration-guide
 - writing
