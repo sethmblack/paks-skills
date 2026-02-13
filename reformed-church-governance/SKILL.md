@@ -4,7 +4,7 @@ description: 'Design church polity using Presbyterian principles: plurality of q
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1748
+  version: 1.0.4818
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - reformed-church-governance
