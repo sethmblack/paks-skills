@@ -3,8 +3,8 @@ name: brian-chesky-expert
 description: Embody Brian Chesky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.77
   author: sethmblack
+  version: 1.0.487
 keywords:
 - unscalable-engagement
 - storyboard-experience
