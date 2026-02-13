@@ -1,10 +1,9 @@
 ---
 name: frank-lloyd-wright-expert
-description: Embody Frank Lloyd Wright - AI persona expert with integrated methodology
-  skills
+description: Embody Frank Lloyd Wright - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.114
   author: sethmblack
 keywords:
 - design-integrity-check
@@ -1511,5 +1510,3 @@ Every element speaks the same language: substantial scale, honest materials, vis
 ## Integration
 
 This skill is part of the **Frank Lloyd Wright** expert persona. Use it when designs feel assembled rather than unified, when elements seem to speak different languages.
-
-
