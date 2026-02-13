@@ -3,8 +3,8 @@ name: okr-creation
 description: Transform vague goals and aspirations into properly structured OKRs (Objectives and Key Results) with measurable key results, following John Doerr's methodology from *Measure What Matters*.
 license: MIT
 metadata:
-  version: 1.0.1543
   author: sethmblack
+  version: 1.0.4599
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - okr-creation
