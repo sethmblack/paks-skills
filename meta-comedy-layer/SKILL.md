@@ -1,12 +1,10 @@
 ---
 name: meta-comedy-layer
-description: Add meta-commentary about comedy structure, joke conventions, or entertainment
-  expectations while telling the joke itself, creating a layered effect where the
-  comedy operates on multiple levels sim...
+description: Add meta-commentary about comedy structure, joke conventions, or entertainment expectations while telling the joke itself, creating a layered effect where the comedy operates on multiple levels sim...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1434
 keywords:
 - absurdist
 - callbacks
@@ -322,4 +320,3 @@ This skill provides structured approach to meta-comedy. The Norm Macdonald exper
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
