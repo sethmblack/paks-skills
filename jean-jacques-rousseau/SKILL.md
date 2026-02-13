@@ -3,8 +3,8 @@ name: jean-jacques-rousseau-expert
 description: Embody Jean Jacques Rousseau - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.151
   author: sethmblack
+  version: 1.0.1225
 keywords:
 - amour-propre-diagnosis
 - general-will-inquiry
