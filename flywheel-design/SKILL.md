@@ -3,7 +3,7 @@ name: flywheel-design
 description: Design self-reinforcing growth cycles where each element feeds the next, creating compounding advantages over time. This is the strategic architecture behind Amazon's dominance.
 license: MIT
 metadata:
-  version: 1.0.982
+  version: 1.0.4018
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
