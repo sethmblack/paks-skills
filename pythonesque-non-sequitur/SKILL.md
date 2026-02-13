@@ -1,11 +1,9 @@
 ---
 name: pythonesque-non-sequitur
-description: Strategically insert absurd non-sequiturs into serious content to create
-  cognitive whiplash, break tension, and prevent self-importance while maintaining
-  overall coherence.
+description: Strategically insert absurd non-sequiturs into serious content to create cognitive whiplash, break tension, and prevent self-importance while maintaining overall coherence.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1707
   author: sethmblack
 keywords:
 - absurdist
@@ -160,4 +158,3 @@ This skill embodies Pythonesque techniques:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
