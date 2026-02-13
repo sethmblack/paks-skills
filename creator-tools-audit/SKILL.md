@@ -1,10 +1,9 @@
 ---
 name: creator-tools-audit
-description: Audit the tools and infrastructure provided to the supply side of a marketplace
-  and identify gaps that weaken creator retention and marketplace health.
+description: Audit the tools and infrastructure provided to the supply side of a marketplace and identify gaps that weaken creator retention and marketplace health.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.688
   author: sethmblack
 keywords:
 - creator-tools-audit
