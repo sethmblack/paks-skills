@@ -1,10 +1,9 @@
 ---
 name: enterprise-turnaround-diagnosis
-description: Diagnose the root causes of enterprise decline and create a prioritized
-  turnaround action plan with 90-day survival focus.
+description: Diagnose the root causes of enterprise decline and create a prioritized turnaround action plan with 90-day survival focus.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.878
   author: sethmblack
 keywords:
 - enterprise-turnaround-diagnosis
