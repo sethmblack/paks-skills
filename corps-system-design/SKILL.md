@@ -3,8 +3,8 @@ name: corps-system-design
 description: Design organizational structures that balance autonomy with coordination, allowing parallel action and rapid concentration.
 license: MIT
 metadata:
-  version: 1.0.3230
   author: sethmblack
+  version: 1.0.3690
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - corps-system-design
