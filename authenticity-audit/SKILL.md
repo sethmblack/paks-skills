@@ -4,7 +4,7 @@ description: Analyze content to identify where voice has been sanitized, softene
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2973
+  version: 1.0.3433
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
