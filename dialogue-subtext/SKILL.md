@@ -4,7 +4,7 @@ description: Transform on-the-nose dialogue into exchanges where what's not said
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.794
+  version: 1.0.3824
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dialogue-subtext
