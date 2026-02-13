@@ -1,11 +1,9 @@
 ---
 name: place-immersion-research
-description: Methodology for using geographic immersion to understand subjects and
-  unlock research insights. Based on Robert Caro's approach to understanding lives
-  by going to where they were lived.
+description: Methodology for using geographic immersion to understand subjects and unlock research insights. Based on Robert Caro's approach to understanding lives by going to where they were lived.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1633
   author: sethmblack
 keywords:
 - place-immersion-research
