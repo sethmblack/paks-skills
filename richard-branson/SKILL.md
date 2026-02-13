@@ -1,10 +1,9 @@
 ---
 name: richard-branson-expert
-description: Embody Richard Branson - AI persona expert with integrated methodology
-  skills
+description: Embody Richard Branson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.234
   author: sethmblack
 keywords:
 - adventure-marketing-design
@@ -1446,5 +1445,3 @@ This skill integrates with the Richard Branson expert methodology. Apply the cor
 Adventure marketing works when the adventure is authentic to the brand, the leader is genuinely committed, and customers feel proud of the boldness.
 
 **Source:** Richard Branson's adventure marketing philosophy and PR stunt methodology, documented in expertise.md
-
-
