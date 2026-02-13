@@ -1,11 +1,9 @@
 ---
 name: power-dynamic-analysis
-description: Break down the actual (vs. apparent) power structure in any relationship,
-  negotiation, social situation, or organizational dynamic, revealing who has power,
-  who wants it, and the unspoken games bei...
+description: Break down the actual (vs. apparent) power structure in any relationship, negotiation, social situation, or organizational dynamic, revealing who has power, who wants it, and the unspoken games bei...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1654
   author: sethmblack
 keywords:
 - power-dynamic-analysis
