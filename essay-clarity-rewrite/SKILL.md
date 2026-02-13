@@ -1,10 +1,9 @@
 ---
 name: essay-clarity-rewrite
-description: Transform prose into clear, direct writing using Paul Graham's principles
-  of simplicity and conversational tone.
+description: Transform prose into clear, direct writing using Paul Graham's principles of simplicity and conversational tone.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.901
   author: sethmblack
 keywords:
 - essay-clarity-rewrite
@@ -14,7 +13,7 @@ keywords:
 
 # Essay Clarity Rewrite
 
-Transform prose into clear, direct writing using Paul Graham's principles of simplicity and conversational tone.
+Transform prose into clear, direct writing using Paul Graham's principles of simplicity and conversational tone. This skill applies a systematic approach to cutting unnecessary complexity from any writing, converting academic jargon and corporate speak into plain English that respects the reader's time. The methodology is based on Graham's core insight that "fancy writing doesn't just conceal ideas; it can also conceal the lack of them." Clear writing is honest writing because there is nowhere to hide. This skill works by identifying common patterns of bloated prose (throat-clearing, nominalization, passive voice, hedging, jargon) and systematically eliminating them while preserving and strengthening the core meaning. The result is writing that sounds like something you would actually say to another person.
 
 ---
 
@@ -25,31 +24,40 @@ Transform prose into clear, direct writing using Paul Graham's principles of sim
 - Converting academic or corporate writing to accessible prose
 - Improving essays, blog posts, documentation, or emails
 - User asks "Make this clearer" or "Write this like Paul Graham"
+- Prose sounds written rather than spoken
+- Writing feels cluttered with qualifiers and jargon
 
 ---
 
 ## Inputs
 
-| Input | Required | Description |
-|-------|----------|-------------|
-| text | Yes | The text to rewrite |
-| context | No | What the writing is for (blog, email, docs, etc.) |
-| preserve | No | Any elements that must stay (terms, structure, etc.) |
+| Input | Required | Description | Validation |
+|-------|----------|-------------|------------|
+| text | Yes | The text to rewrite | Any prose that could be clearer |
+| context | No | What the writing is for (blog, email, docs, etc.) | Helps calibrate formality |
+| preserve | No | Any elements that must stay (terms, structure, etc.) | Will not be changed |
 
 ---
 
-## Paul Graham's Writing Principles
+## Core Principle
 
-### Core Philosophy
-"Fancy writing doesn't just conceal ideas. It can also conceal the lack of them. Whereas writing simply keeps you honest."
+Clear writing is not a style choice; it is an act of respect for the reader. Every unnecessary word costs the reader's attention. Every piece of jargon excludes someone. Every hedge weakens the point. The goal is writing that is as simple as the ideas allow but no simpler. As Paul Graham puts it: "Write in spoken language. Read every sentence aloud. If it sounds weird, fix it."
 
-### The Principles
+---
+
+## Methodology
+
+### Phase 1: Read Aloud Test
+
+Before making any changes, read the original text aloud. Mark every place where you stumble, hesitate, or would never actually say the words. These are your primary targets for revision.
+
+### Phase 2: Apply Paul Graham's Principles
 
 **1. Write in Spoken Language**
 "Here's a simple trick for getting more people to read what you write: write in spoken language."
-- Read every sentence aloud
-- If it sounds weird, fix it
 - If you wouldn't say it in conversation, don't write it
+- Replace formal phrasing with natural speech
+- The test: could you say this to a colleague?
 
 **2. Use Short Sentences**
 Long sentences lose readers. Break them up.
@@ -90,9 +98,7 @@ Long sentences lose readers. Break them up.
 - Don't hide behind false confidence
 - Honesty builds trust
 
----
-
-## Before/After Patterns
+### Phase 3: Apply Substitution Patterns
 
 | Before | After |
 |--------|-------|
@@ -110,9 +116,7 @@ Long sentences lose readers. Break them up.
 | "Very" | [Delete or find stronger word] |
 | "Really" | [Delete or find stronger word] |
 
----
-
-## Red Flags in Writing
+### Phase 4: Fix Red Flags
 
 | Red Flag | Problem | Fix |
 |----------|---------|-----|
@@ -123,33 +127,11 @@ Long sentences lose readers. Break them up.
 | Long paragraphs | Intimidate readers | Break them up |
 | Buried lede | Key point hidden | Move it to the front |
 
+### Phase 5: Final Read-Aloud Test
+
+Read the revised version aloud. It should sound like something you would say to a smart friend. If any part still sounds like "writing," revise it.
+
 ---
-
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
 
 ## Output Format
 
@@ -178,37 +160,49 @@ Create actionable outputs:
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Preserve the original meaning; do not distort by oversimplifying
+- Do not remove technical terms that are necessary for precision
+- Respect domain-specific language when the audience requires it
+- Do not sacrifice accuracy for brevity
+- Keep the author's voice while removing clutter
+- Some complexity is necessary; cut decoration, not structure
 
-## Example
+---
+
+## Anti-Patterns to Avoid
+
+**1. Removing all personality**
+- Wrong: Stripping text to robotic bullet points
+- Right: Keeping the author's voice while removing clutter
+- Why: Clear writing can still be engaging and personal.
+
+**2. Oversimplifying technical content**
+- Wrong: "The database thing does stuff to your data"
+- Right: "The database indexes your records for faster queries"
+- Why: Precision matters. Use plain words but keep accuracy.
+
+**3. Cutting necessary hedging**
+- Wrong: "This will work" when you mean "This should work"
+- Right: Being direct about uncertainty rather than hiding it
+- Why: False confidence is worse than appropriate hedging.
+
+**4. Applying rules mechanically**
+- Wrong: Changing every instance of "utilize" even when it's contextually correct
+- Right: Judging each case by whether the change improves clarity
+- Why: Rules are guides, not laws. Serve clarity, not rules.
+
+**5. Making everything sound the same**
+- Wrong: Every sentence is 8 words and starts with subject-verb
+- Right: Varying structure while maintaining simplicity
+- Why: Monotony is its own form of unclear writing.
+
+---
+
+## Examples
+
+### Example 1: Corporate Speak
 
 **Input:**
 "It is important to note that in order to facilitate the successful implementation of this new initiative, we will need to leverage our existing resources and ensure that all stakeholders are aligned with the strategic objectives that have been outlined by the leadership team. At the end of the day, the success of this project will be determined by our ability to execute on the key deliverables in a timely manner."
@@ -225,11 +219,11 @@ Create actionable outputs:
 
 ### Changes Made
 1. **Deleted "It is important to note that"** - Throat-clearing. Just state it.
-2. **"in order to facilitate the successful implementation" -> "To make this work"** - 8 words to 4.
-3. **"leverage our existing resources" -> "use what we have"** - Plain English.
-4. **"ensure that all stakeholders are aligned with the strategic objectives that have been outlined by the leadership team" -> "get everyone on the same page about what we're trying to do"** - Corporate jargon to human speech.
-5. **"At the end of the day" -> Deleted** - Meaningless filler.
-6. **"execute on the key deliverables in a timely manner" -> "finishing what we promised, on time"** - Concrete and direct.
+2. **"in order to facilitate the successful implementation" to "To make this work"** - 8 words to 4.
+3. **"leverage our existing resources" to "use what we have"** - Plain English.
+4. **"ensure that all stakeholders are aligned with the strategic objectives that have been outlined by the leadership team" to "get everyone on the same page about what we're trying to do"** - Corporate jargon to human speech.
+5. **"At the end of the day" deleted** - Meaningless filler.
+6. **"execute on the key deliverables in a timely manner" to "finishing what we promised, on time"** - Concrete and direct.
 
 ### Word Count
 **Before:** 71 words
@@ -241,7 +235,7 @@ The rewrite sounds like something you'd actually say to a colleague. The origina
 
 ---
 
-## Extended Example
+### Example 2: Marketing Buzzwords
 
 **Input:**
 "The paradigm shift in consumer behavior that we are currently witnessing necessitates a fundamental reconsideration of our approach to market engagement. Specifically, the proliferation of digital channels has created an environment in which traditional marketing methodologies are becoming increasingly less effective, thereby requiring organizations to adopt more innovative and customer-centric strategies."
@@ -257,11 +251,11 @@ The rewrite sounds like something you'd actually say to a colleague. The origina
 "How people buy is changing. Old marketing doesn't work as well anymore because everyone's online now. Companies need to find new ways to reach customers."
 
 ### Changes Made
-1. **"paradigm shift in consumer behavior" -> "How people buy is changing"** - Same meaning, human words.
-2. **"necessitates a fundamental reconsideration" -> cut entirely** - The next sentence explains what to do.
-3. **"proliferation of digital channels" -> "everyone's online now"** - Plain truth.
-4. **"traditional marketing methodologies are becoming increasingly less effective" -> "Old marketing doesn't work as well anymore"** - Direct.
-5. **"adopt more innovative and customer-centric strategies" -> "find new ways to reach customers"** - Says what it means.
+1. **"paradigm shift in consumer behavior" to "How people buy is changing"** - Same meaning, human words.
+2. **"necessitates a fundamental reconsideration" cut entirely** - The next sentence explains what to do.
+3. **"proliferation of digital channels" to "everyone's online now"** - Plain truth.
+4. **"traditional marketing methodologies are becoming increasingly less effective" to "Old marketing doesn't work as well anymore"** - Direct.
+5. **"adopt more innovative and customer-centric strategies" to "find new ways to reach customers"** - Says what it means.
 
 ### Word Count
 **Before:** 56 words
@@ -273,6 +267,53 @@ The original is unreadable aloud. The rewrite is how you'd explain this to a fri
 
 ---
 
+### Example 3: Academic Writing
+
+**Input:**
+"It can be argued that the implementation of evidence-based practices in educational settings has the potential to yield significant improvements in student outcomes, provided that such practices are implemented with fidelity and supported by adequate professional development opportunities for educators."
+
+**Output:**
+
+## Clarity Rewrite
+
+### Original
+"It can be argued that the implementation of evidence-based practices in educational settings has the potential to yield significant improvements in student outcomes, provided that such practices are implemented with fidelity and supported by adequate professional development opportunities for educators."
+
+### Rewritten
+"Evidence-based teaching methods improve student results when teachers learn how to use them properly."
+
+### Changes Made
+1. **"It can be argued that" deleted** - Hedge that adds nothing.
+2. **"the implementation of evidence-based practices in educational settings" to "Evidence-based teaching methods"** - Same meaning, fewer words.
+3. **"has the potential to yield significant improvements in student outcomes" to "improve student results"** - Direct statement.
+4. **"implemented with fidelity and supported by adequate professional development opportunities for educators" to "when teachers learn how to use them properly"** - Plain English.
+
+### Word Count
+**Before:** 43 words
+**After:** 14 words
+**Reduction:** 67%
+
+### Read-Aloud Test
+The rewrite is a sentence you could say out loud. The original requires taking a breath in the middle.
+
+---
+
 ## Integration
 
 This skill is part of the **Paul Graham** expert persona. Use it to transform any writing into clear, direct prose that respects the reader's time.
+
+**Works well with:**
+- `ruthless-cut` - For additional word reduction
+- `one-true-sentence` - For finding the core point to build from
+- `concrete-detail-conversion` - For making abstract points specific
+
+**When to prefer this over alternatives:**
+- When the writing is cluttered with jargon and hedging
+- When the audience is general rather than specialist
+- When clarity and accessibility are priorities
+- When you want to sound like a person, not an institution
+
+**Cautions:**
+- Technical writing may require some precision that reads as jargon
+- Academic contexts may have conventions that cannot be fully removed
+- Always preserve accuracy even when simplifying
