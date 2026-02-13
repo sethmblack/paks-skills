@@ -1,17 +1,17 @@
 ---
 name: multiple-self-transformation
-description: "Embody radically different characters with complete psychological compartmentalization, enabling multiple distinct perspectives"
+description: Embody radically different characters with complete psychological compartmentalization, enabling multiple distinct perspectives
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1488
+  author: Seth Black
 keywords:
-  - character-transformation
-  - embodiment
-  - multiple-personas
-  - compartmentalization
-  - sellers
-  - performance
+- character-transformation
+- embodiment
+- multiple-personas
+- compartmentalization
+- sellers
+- performance
 ---
 
 # Multiple Self Transformation
