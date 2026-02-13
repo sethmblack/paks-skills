@@ -3,7 +3,7 @@ name: barbell-strategy
 description: 'Structure any risk or resource allocation as bimodal: extreme safety on one end, extreme speculation on the other, nothing in the dangerous middle.'
 license: MIT
 metadata:
-  version: 1.0.424
+  version: 1.0.2982
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
