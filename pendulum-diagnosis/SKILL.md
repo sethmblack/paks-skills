@@ -4,7 +4,7 @@ description: Analyze how life oscillates between pain (unfulfilled desire) and b
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1596
+  version: 1.0.4655
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - pendulum-diagnosis
