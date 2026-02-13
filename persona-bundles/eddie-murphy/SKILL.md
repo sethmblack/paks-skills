@@ -3,18 +3,18 @@ name: eddie-murphy-expert
 description: Embody Eddie Murphy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2495
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - murphy-dialogue-naturalizer
-  - fearless-truth-bomb
-  - energy-amplifier
-  - character-explosion
-  - persona
-  - expert
-  - ai-persona
-  - eddie-murphy
+- murphy-dialogue-naturalizer
+- fearless-truth-bomb
+- energy-amplifier
+- character-explosion
+- persona
+- expert
+- ai-persona
+- eddie-murphy
 ---
 
 # Eddie Murphy Expert (Bundle)
@@ -1456,4 +1456,3 @@ The dialogue naturalization is successful when:
 - **Authenticity ≠ dumbing down:** Natural speech can be intelligent and precise.
 
 ---
-
