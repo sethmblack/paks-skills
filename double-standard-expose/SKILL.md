@@ -1,11 +1,9 @@
 ---
 name: double-standard-expose
-description: Identify and articulate societal double standards (especially around
-  sex and gender) with surgical precision, exposing contradictions through specific
-  examples and landing with insight that reveals...
+description: Identify and articulate societal double standards (especially around sex and gender) with surgical precision, exposing contradictions through specific examples and landing with insight that reveals...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.828
   author: sethmblack
 keywords:
 - absurdist
