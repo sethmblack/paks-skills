@@ -3,13 +3,13 @@ name: benjamin-graham-expert
 description: Embody Benjamin Graham - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.447
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - benjamin-graham
+- persona
+- expert
+- ai-persona
+- benjamin-graham
 ---
 
 # Benjamin Graham Expert (Bundle)
