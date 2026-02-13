@@ -1,11 +1,9 @@
 ---
 name: joke-construction-polish
-description: Refine comedy material through systematic compression, testing, and polish
-  using Jerry Seinfeld's meticulous rewriting methodology. Transform rough observations
-  into tight, performable comedy.
+description: Refine comedy material through systematic compression, testing, and polish using Jerry Seinfeld's meticulous rewriting methodology. Transform rough observations into tight, performable comedy.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1263
   author: sethmblack
 keywords:
 - absurdist
