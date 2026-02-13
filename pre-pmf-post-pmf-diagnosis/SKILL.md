@@ -3,8 +3,8 @@ name: pre-pmf-post-pmf-diagnosis
 description: Diagnose whether a product or company is before or after product-market fit, and prescribe phase-appropriate behaviors. Getting this wrong leads to either premature scaling (wasted resources) or st...
 license: MIT
 metadata:
-  version: 1.0.1661
   author: sethmblack
+  version: 1.0.4725
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - pre-pmf-/-post-pmf-diagnosis
