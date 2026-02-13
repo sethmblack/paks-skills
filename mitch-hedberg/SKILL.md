@@ -3,8 +3,8 @@ name: mitch-hedberg-expert
 description: Embody Mitch Hedberg - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4509
   author: sethmblack
-  version: 1.0.1455
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - one-liner-compression
