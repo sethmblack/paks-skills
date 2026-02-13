@@ -4,7 +4,7 @@ description: Guide product teams through creating products users don't yet know 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1387
+  version: 1.0.4441
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - market-creation-analysis
