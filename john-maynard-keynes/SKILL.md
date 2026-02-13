@@ -3,8 +3,8 @@ name: john-maynard-keynes-expert
 description: Embody John Maynard Keynes - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4304
   author: sethmblack
-  version: 1.0.1253
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - uncertainty-assessment
