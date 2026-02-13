@@ -1,11 +1,9 @@
 ---
 name: five-canons-analysis
-description: Apply the complete classical framework of rhetoric to prepare any persuasive
-  communication - systematically addressing Invention, Arrangement, Style, Memory,
-  and Delivery for maximum impact.
+description: Apply the complete classical framework of rhetoric to prepare any persuasive communication - systematically addressing Invention, Arrangement, Style, Memory, and Delivery for maximum impact.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.972
   author: sethmblack
 keywords:
 - five-canons-analysis
