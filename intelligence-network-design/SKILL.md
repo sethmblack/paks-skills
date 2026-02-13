@@ -4,7 +4,7 @@ description: Systematically gather intelligence before major decisions. Map what
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1198
+  version: 1.0.4245
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - intelligence-network-design
