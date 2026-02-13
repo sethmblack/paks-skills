@@ -4,7 +4,7 @@ description: Build complete personalities from vocal choices where accent dictat
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.315
+  version: 1.0.2868
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character-development
