@@ -1,11 +1,9 @@
 ---
 name: cross-party-system-analysis
-description: Analyze a political issue to reveal how ostensibly opposing parties serve
-  the same underlying power structure, moving beyond partisan theater to systemic
-  critique.
+description: Analyze a political issue to reveal how ostensibly opposing parties serve the same underlying power structure, moving beyond partisan theater to systemic critique.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.701
   author: sethmblack
 keywords:
 - cross-party-system-analysis
@@ -14,7 +12,7 @@ keywords:
 
 # Cross-Party System Analysis
 
-Analyze a political issue to reveal how ostensibly opposing parties serve the same underlying power structure, moving beyond partisan theater to systemic critique.
+Analyze a political issue to reveal how ostensibly opposing parties serve the same underlying power structure, moving beyond partisan theater to systemic critique. This skill applies Mort Sahl's signature analytical method: observing that when opposing parties publicly disagree but privately align on outcomes, the disagreement is theater and the alignment reveals true interests. "Publicly, they're on opposite sides of this issue. Privately, they both make sure nothing changes. Now, why would that be?" The goal is not cynical nihilism but clear-eyed understanding—when you see the system clearly, you can engage it more effectively. This skill helps distinguish partisan rhetoric from bipartisan action, identify specific shared interests with evidence, and reveal structural mechanisms producing alignment while avoiding false equivalence.
 
 ---
 
@@ -65,18 +63,15 @@ Analyze a political issue to reveal how ostensibly opposing parties serve the sa
 | `recent_actions` | No | Recent votes, bills, or actions related to issue | Specific examples with dates |
 | `audience_assumption` | No | What the audience likely believes about this issue | E.g., "audience thinks this is purely partisan fight" |
 
-**Input Validation:**
-```bash
-# Check issue specificity
-if [[ "$issue" =~ ^(politics|corruption|bad)$ ]]; then
-    echo "ERROR: Issue too vague. Provide specific policy area (e.g., 'defense spending', 'bank regulation')"
-    exit 1
-fi
-```
+---
+
+## Core Principle
+
+When both parties publicly disagree but privately align on outcomes, the disagreement is theater and the alignment reveals true interests. Look at actions, not rhetoric. Bipartisan consensus—especially on issues with broad public opposition—often indicates shared interest in maintaining current power structures rather than genuine policy agreement.
 
 ---
 
-## Workflow
+## Methodology
 
 ### Step 1: Map the Partisan Theater
 Identify how the issue is typically framed:
@@ -205,11 +200,23 @@ When the Mort Sahl expert invokes this skill, it should feel like his core metho
 
 ## Constraints
 
-- **Evidence-based:** Must document actual party actions, not just rhetoric. Cannot rely solely on "everyone knows..."
-- **Nuance preservation:** Avoid "both parties are identical" false equivalence. Real differences exist on many issues.
-- **System focus:** Must identify structural mechanism, not just "politicians are corrupt."
-- **Specific issue scope:** Analysis applies to specific issue provided, not all politics generally.
-- **Citizen perspective:** End with empowerment, not nihilism. Understanding system enables effective action.
+- Evidence-based: Must document actual party actions, not just rhetoric
+- Nuance preservation: Avoid "both parties are identical" false equivalence
+- System focus: Must identify structural mechanism, not just "politicians are corrupt"
+- Specific issue scope: Analysis applies to specific issue provided, not all politics generally
+- Citizen perspective: End with empowerment, not nihilism
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **"Both Sides Are Exactly the Same"** | False equivalence obscures real policy differences that matter. | Identify where parties genuinely differ. This analysis applies to specific issues, not all issues. |
+| **Cynical Nihilism** | "Nothing matters, don't bother voting" discourages democratic participation. | Understanding system enables more effective action, not less. |
+| **Conspiracy Framing** | "Secret cabals control everything" replaces analysis with paranoia. | Focus on documented actions, votes, and structural incentives—not speculation about hidden coordination. |
+| **Missing Evidence** | "Everyone knows they're the same" without specific votes, bills, or documented actions. | Base party positions on documented statements and voting records. |
+| **Partisan Disguise** | Using "non-partisan analysis" to attack one party while defending the other. | Genuine system analysis criticizes both parties' role in maintaining problematic structures. |
 
 ---
 
