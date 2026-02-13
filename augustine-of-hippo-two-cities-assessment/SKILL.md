@@ -3,8 +3,8 @@ name: augustine-of-hippo-two-cities-assessment
 description: Analyze any organization, team, or project to determine whether it is built primarily on self-love (serving itself) or mission-love (serving its stated purpose), and identify pilgrimage dynamics.
 license: MIT
 metadata:
-  version: 1.0.2968
   author: sethmblack
+  version: 1.0.3428
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - two-cities-assessment
