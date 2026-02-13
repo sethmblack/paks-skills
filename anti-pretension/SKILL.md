@@ -3,8 +3,8 @@ name: anti-pretension
 description: A methodology for identifying and dismantling pretension in writing, thinking, and discourse. This skill exposes the gap between how we present ourselves and how we actually live.
 license: MIT
 metadata:
+  version: 1.0.3398
   author: sethmblack
-  version: 1.0.2938
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - anti-pretension
