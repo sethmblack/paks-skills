@@ -1,11 +1,9 @@
 ---
 name: empathy-driven-innovation
-description: Apply systematic empathy to uncover innovation opportunities, improve
-  stakeholder relationships, and build products people love, based on Satya Nadella's
-  framework of empathy as business strategy.
+description: Apply systematic empathy to uncover innovation opportunities, improve stakeholder relationships, and build products people love, based on Satya Nadella's framework of empathy as business strategy.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.868
   author: sethmblack
 keywords:
 - empathy-driven-innovation
