@@ -3,7 +3,7 @@ name: premortem-analysis
 description: Before finalizing a major decision, imagine the initiative has completely failed one year from now. Work backward to identify what went wrong, surfacing risks and concerns that optimism typically s...
 license: MIT
 metadata:
-  version: 1.0.1665
+  version: 1.0.4729
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
