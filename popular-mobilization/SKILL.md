@@ -3,8 +3,8 @@ name: popular-mobilization
 description: Build strategy on a foundation of genuine connection with the people you serve. Military action without politics is like a tree without roots.
 license: MIT
 metadata:
-  version: 1.0.1646
   author: sethmblack
+  version: 1.0.4710
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - popular-mobilization
