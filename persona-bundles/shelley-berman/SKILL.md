@@ -3,16 +3,16 @@ name: shelley-berman-expert
 description: Embody Shelley Berman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2769
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - telephone-routine-construction
-  - escalating-anxiety-monologue
-  - persona
-  - expert
-  - ai-persona
-  - shelley-berman
+- telephone-routine-construction
+- escalating-anxiety-monologue
+- persona
+- expert
+- ai-persona
+- shelley-berman
 ---
 
 # Shelley Berman Expert (Bundle)
@@ -968,4 +968,3 @@ A successful telephone routine:
 **Remember:** The telephone routine isn't about jokes. It's about watching a person try to accomplish something simple while reality, through an invisible intermediary, refuses to cooperate. The audience participates by constructing the other side. The comedy is in recognition: we've all been this person, holding the phone, feeling the panic rise, wondering how a simple call became a referendum on our competence.
 
 ---
-
