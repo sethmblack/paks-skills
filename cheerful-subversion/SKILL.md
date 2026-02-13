@@ -1,11 +1,9 @@
 ---
 name: cheerful-subversion
-description: Transform earnest or serious content by approaching it with inappropriate
-  cheerfulness and optimism, creating tonal mismatch that delivers critique through
-  comedy.
+description: Transform earnest or serious content by approaching it with inappropriate cheerfulness and optimism, creating tonal mismatch that delivers critique through comedy.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.559
   author: sethmblack
 keywords:
 - absurdist
