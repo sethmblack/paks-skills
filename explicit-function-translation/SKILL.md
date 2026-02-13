@@ -4,7 +4,7 @@ description: Transform vague statements, implicit assumptions, and undefined ter
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.930
+  version: 1.0.3961
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - explicit-function-translation
