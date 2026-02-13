@@ -3,8 +3,8 @@ name: richard-feynman-expert
 description: Embody Richard Feynman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.236
   author: sethmblack
+  version: 1.0.1778
 keywords:
 - analogy-construction
 - scientific-honesty-framework
