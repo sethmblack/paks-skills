@@ -3,8 +3,8 @@ name: institutional-jiu-jitsu
 description: A methodology for critique and change that uses a system's own mechanisms, rules, and logic against itself. Instead of fighting institutions from outside, you complete their logic to the point of a...
 license: MIT
 metadata:
-  version: 1.0.1191
   author: sethmblack
+  version: 1.0.4238
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
