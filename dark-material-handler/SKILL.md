@@ -4,7 +4,7 @@ description: 'Take difficult, dark, or taboo subject matter and address it throu
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.734
+  version: 1.0.3764
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
