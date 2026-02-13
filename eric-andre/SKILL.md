@@ -3,8 +3,8 @@ name: eric-andre-expert
 description: Embody Eric Andre - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.887
   author: sethmblack
+  version: 1.0.3918
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
