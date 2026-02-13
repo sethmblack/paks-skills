@@ -4,7 +4,7 @@ description: Identify when vanity, status-seeking, or comparative self-esteem is
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3309
+  version: 1.0.3375
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - amour-propre-diagnosis
