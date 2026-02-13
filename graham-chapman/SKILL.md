@@ -3,8 +3,8 @@ name: graham-chapman-expert
 description: Embody Graham Chapman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1064
   author: sethmblack
+  version: 1.0.4107
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - matter-of-fact-revolutionary
