@@ -3,8 +3,8 @@ name: jobs-to-be-done-analysis
 description: Identify the functional, emotional, and social dimensions of the job a customer is hiring a product to do, revealing true competition and opportunities for innovation.
 license: MIT
 metadata:
-  version: 1.0.1240
   author: sethmblack
+  version: 1.0.4291
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - jobs-to-be-done-analysis
