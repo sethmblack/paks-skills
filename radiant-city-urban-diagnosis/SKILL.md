@@ -1,14 +1,14 @@
 ---
 name: radiant-city-urban-diagnosis
-description: "Diagnose urban problems using Le Corbusier's framework - identify failures of sun, space, and greenery; analyze traffic/pedestrian conflicts; assess density distribution; and prescribe radical solutions based on Radiant City principles."
+description: Diagnose urban problems using Le Corbusier's framework - identify failures of sun, space, and greenery; analyze traffic/pedestrian conflicts; assess density distribution; and prescribe radical solutions based on Radiant City principles.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2333
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - radiant-city-urban-diagnosis
-  - urban-planning
+- radiant-city-urban-diagnosis
+- urban-planning
 ---
 
 # Radiant City Urban Diagnosis
