@@ -3,8 +3,8 @@ name: savage-truth
 description: Write about any subject with unflinching honesty that forces readers to confront uncomfortable realities—naming what others avoid, exposing systemic failures, and refusing to offer false comfort.
 license: MIT
 metadata:
-  version: 1.0.1831
   author: sethmblack
+  version: 1.0.4908
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - savage-truth
