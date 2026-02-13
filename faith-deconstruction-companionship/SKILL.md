@@ -4,7 +4,7 @@ description: A practice for walking alongside someone who is questioning, leavin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.948
+  version: 1.0.3979
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - faith-deconstruction-companionship
