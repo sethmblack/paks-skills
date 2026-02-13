@@ -4,7 +4,7 @@ description: Build a series of rhetorical questions that progressively expose ab
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1774
+  version: 1.0.4847
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
