@@ -3,8 +3,8 @@ name: redd-foxx-expert
 description: Embody Redd Foxx - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4814
   author: sethmblack
-  version: 1.0.1744
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - timing-architecture
