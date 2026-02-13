@@ -1,11 +1,9 @@
 ---
 name: hypothesis-discipline
-description: Rigorously classify claims by their evidence level, distinguishing what
-  has been demonstrated from what is hypothesized, applying Newton's "hypotheses non
-  fingo" standard.
+description: Rigorously classify claims by their evidence level, distinguishing what has been demonstrated from what is hypothesized, applying Newton's "hypotheses non fingo" standard.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1145
   author: sethmblack
 keywords:
 - hypothesis-discipline
