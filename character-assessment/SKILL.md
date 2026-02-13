@@ -1,11 +1,10 @@
 ---
 name: character-assessment
-description: Evaluate the trustworthiness and reliability of individuals or organizations
-  before entering business relationships, partnerships, or high-stakes agreements.
+description: Evaluate the trustworthiness and reliability of individuals or organizations before entering business relationships, partnerships, or high-stakes agreements.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.540
 keywords:
 - character-assessment
 - writing
@@ -257,33 +256,21 @@ Create actionable outputs:
 3. [Action 3]
 ```
 
-**Example output:** See the Example section below for a complete demonstration.
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Charm blindness** | Charismatic people can still be untrustworthy | Assess track record independently of likability |
+| **Success conflation** | Past success doesn't guarantee good character | Examine how they achieved success, not just that they did |
+| **Reference theater** | Curated references tell you little | Find backdoor references; ask probing questions |
+| **Urgency override** | "We need to decide now" leads to bad partnerships | Bad partners cost more than delays; take time |
+| **Single data point** | One good or bad indicator isn't enough | Look for patterns across multiple dimensions |
 
 ## Example
 
 **Input:** "Should we bring this co-founder candidate into the company? They have great skills but I want to assess if we can trust them."
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Character Assessment: [Candidate Name]
 
