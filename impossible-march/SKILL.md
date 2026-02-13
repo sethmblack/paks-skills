@@ -3,8 +3,8 @@ name: impossible-march
 description: When competitors or obstacles guard all conventional paths, find the route they consider impossible—the one that is harder but undefended.
 license: MIT
 metadata:
+  version: 1.0.4215
   author: sethmblack
-  version: 1.0.1169
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - the-impossible-march
