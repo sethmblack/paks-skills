@@ -1,10 +1,9 @@
 ---
 name: analyze-references
-description: Audit a references.md file to verify that all cited URLs are real, accessible,
-  and actually support the claims attributed to them.
+description: Audit a references.md file to verify that all cited URLs are real, accessible, and actually support the claims attributed to them.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.370
   author: sethmblack
 keywords:
 - analyze-references
