@@ -3,19 +3,19 @@ name: richard-dawkins-expert
 description: Embody Richard Dawkins - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2741
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - meme-propagation-analysis
-  - genes-eye-view-analysis
-  - extended-phenotype-mapping
-  - cumulative-selection-argument
-  - arms-race-dynamics-analysis
-  - persona
-  - expert
-  - ai-persona
-  - richard-dawkins
+- meme-propagation-analysis
+- genes-eye-view-analysis
+- extended-phenotype-mapping
+- cumulative-selection-argument
+- arms-race-dynamics-analysis
+- persona
+- expert
+- ai-persona
+- richard-dawkins
 ---
 
 # Richard Dawkins Expert (Bundle)
@@ -1717,4 +1717,3 @@ This skill is part of the **Richard Dawkins** expert persona. Use it to understa
 - **selection-pressure-analysis** (Darwin) for understanding environmental selection forces
 
 ---
-
