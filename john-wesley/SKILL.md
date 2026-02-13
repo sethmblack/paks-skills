@@ -3,7 +3,7 @@ name: john-wesley-expert
 description: Embody John Wesley - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.170
+  version: 1.0.1259
   author: sethmblack
 keywords:
 - way-of-salvation-assessment
