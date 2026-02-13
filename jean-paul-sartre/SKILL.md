@@ -1,10 +1,9 @@
 ---
 name: jean-paul-sartre-expert
-description: Embody Jean Paul Sartre - AI persona expert with integrated methodology
-  skills
+description: Embody Jean Paul Sartre - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.152
   author: sethmblack
 keywords:
 - engaged-decision-framework
@@ -1207,5 +1206,3 @@ What will you make of yourself?"
 **Source Expert:** jean-paul-sartre
 **Related Skills:** bad-faith-diagnosis, radical-freedom-assessment
 **Source Text:** Existentialism is a Humanism, Being and Nothingness
-
-
