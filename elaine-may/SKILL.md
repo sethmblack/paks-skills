@@ -4,7 +4,7 @@ description: Embody Elaine May - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.855
+  version: 1.0.3886
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
