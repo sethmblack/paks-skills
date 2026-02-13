@@ -1,10 +1,9 @@
 ---
 name: synergetic-analysis
-description: Examine whole system behavior that cannot be predicted from parts alone
-  - identify the emergent properties that arise from relationships between components.
+description: Examine whole system behavior that cannot be predicted from parts alone - identify the emergent properties that arise from relationships between components.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2037
   author: sethmblack
 keywords:
 - synergetic-analysis
