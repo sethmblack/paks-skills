@@ -1,10 +1,9 @@
 ---
 name: epigram-forge
-description: Compress complex observations into single memorable sentences with the
-  structure and elegance of Oscar Wilde's epigrams.
+description: Compress complex observations into single memorable sentences with the structure and elegance of Oscar Wilde's epigrams.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.882
   author: sethmblack
 keywords:
 - comedy
