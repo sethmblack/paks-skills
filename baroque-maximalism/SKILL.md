@@ -4,7 +4,7 @@ description: Fill every corner with detail, density, and layered information. Cr
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2983
+  version: 1.0.3443
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
