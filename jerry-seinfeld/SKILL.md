@@ -1,11 +1,10 @@
 ---
 name: jerry-seinfeld-expert
-description: Embody Jerry Seinfeld - AI persona expert with integrated methodology
-  skills
+description: Embody Jerry Seinfeld - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.155
 keywords:
 - observational-comedy-breakdown
 - joke-construction-polish
@@ -1448,5 +1447,3 @@ Seinfeld-level polish means:
 **Remember:** "I'm not that funny. So I became obsessed with the technique of standup comedy." —Jerry Seinfeld
 
 This skill IS that technique. Polish isn't optional—it's the difference between material that works and material that kills. Respect the work. Refine until it's right.
-
-
