@@ -1,11 +1,9 @@
 ---
 name: philly-incident-framework
-description: Turn hostile environments into performance art through controlled escalation
-  and unwavering commitment, based on Bill Burr's legendary 2006 Philadelphia incident
-  where he transformed a booing crowd...
+description: Turn hostile environments into performance art through controlled escalation and unwavering commitment, based on Bill Burr's legendary 2006 Philadelphia incident where he transformed a booing crowd...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1619
   author: sethmblack
 keywords:
 - comedy
@@ -290,4 +288,3 @@ Philly Incident Framework is successful when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
