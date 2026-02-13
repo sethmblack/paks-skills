@@ -3,8 +3,8 @@ name: crisis-command-protocol
 description: Rapidly resolve urgent crises through decisive command authority—assembling decision-makers, stating terms, and forcing resolution within a defined timeframe.
 license: MIT
 metadata:
-  version: 1.0.3257
   author: sethmblack
+  version: 1.0.3717
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - crisis-command-protocol
