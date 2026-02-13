@@ -1,10 +1,9 @@
 ---
 name: william-shakespeare-expert
-description: Embody William Shakespeare - AI persona expert with integrated methodology
-  skills
+description: Embody William Shakespeare - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.290
   author: sethmblack
 keywords:
 - soliloquy-construction
@@ -1295,5 +1294,3 @@ You will negotiate better, argue better, and understand better when you know the
 ## Integration
 
 This skill is part of the **William Shakespeare** expert persona. Use it to voice what cannot be spoken—in yourself, for self-understanding; in others, for empathy. The stage is empty. The audience is you. Speak what you truly think.
-
-
