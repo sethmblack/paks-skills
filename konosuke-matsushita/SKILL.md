@@ -3,8 +3,8 @@ name: konosuke-matsushita-expert
 description: Embody Konosuke Matsushita - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.180
   author: sethmblack
+  version: 1.0.1294
 keywords:
 - tap-water-philosophy
 - sunao-mind-practice
