@@ -3,8 +3,8 @@ name: innovation-opportunity-mapping
 description: Systematically identify innovation opportunities using Drucker's seven sources framework—moving innovation from luck to disciplined search.
 license: MIT
 metadata:
+  version: 1.0.4232
   author: sethmblack
-  version: 1.0.1185
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - innovation-opportunity-mapping
