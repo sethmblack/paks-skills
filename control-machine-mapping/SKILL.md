@@ -1,10 +1,9 @@
 ---
 name: control-machine-mapping
-description: A skill for tracing systems of control through need, addiction, and dependence
-  - understanding how power operates through the creation and management of desires.
+description: A skill for tracing systems of control through need, addiction, and dependence - understanding how power operates through the creation and management of desires.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.658
   author: sethmblack
 keywords:
 - control-machine-mapping
