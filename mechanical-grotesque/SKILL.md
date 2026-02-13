@@ -1,12 +1,10 @@
 ---
 name: mechanical-grotesque
-description: Describe machines and technology as biological, visceral, and repulsive.
-  Make ducts breathe, pipes pulse, wires grow like hair. Transform clean technology
-  into organic decay.
+description: Describe machines and technology as biological, visceral, and repulsive. Make ducts breathe, pipes pulse, wires grow like hair. Transform clean technology into organic decay.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1415
 keywords:
 - absurdist
 - comedy
