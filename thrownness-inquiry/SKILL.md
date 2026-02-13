@@ -1,11 +1,10 @@
 ---
 name: thrownness-inquiry
-description: Explore how one's factical situation—the unchosen circumstances into
-  which one has been thrown—shapes both limits and possibilities for authentic existence.
+description: Explore how one's factical situation—the unchosen circumstances into which one has been thrown—shapes both limits and possibilities for authentic existence.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2104
 keywords:
 - thrownness-inquiry
 - transformation
