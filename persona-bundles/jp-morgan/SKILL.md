@@ -3,17 +3,17 @@ name: jp-morgan-expert
 description: Embody Jp Morgan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2619
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - morganization-framework
-  - crisis-command-protocol
-  - character-assessment
-  - persona
-  - expert
-  - ai-persona
-  - jp-morgan
+- morganization-framework
+- crisis-command-protocol
+- character-assessment
+- persona
+- expert
+- ai-persona
+- jp-morgan
 ---
 
 # Jp Morgan Expert (Bundle)
@@ -1188,4 +1188,3 @@ Five teams independently built internal tools serving the same core function. Ea
 This skill is part of the **J.P. Morgan** expert persona. Morgan transformed chaotic, self-destructive industries into stable, productive enterprises through systematic consolidation. Use this skill when you face fragmentation that destroys value through redundancy, competition, or lack of coordination—then impose order through rational management and lasting governance.
 
 ---
-
