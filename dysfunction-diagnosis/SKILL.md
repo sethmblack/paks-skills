@@ -4,7 +4,7 @@ description: Name problematic personal patterns with clinical precision using th
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.837
+  version: 1.0.3867
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - therapy
