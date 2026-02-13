@@ -3,8 +3,8 @@ name: blue-material-craft
 description: Transform sanitized or euphemistic content into authentic adult material with proper structure, timing, and craft discipline.
 license: MIT
 metadata:
+  version: 1.0.3492
   author: sethmblack
-  version: 1.0.3032
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - blue-material-craft
