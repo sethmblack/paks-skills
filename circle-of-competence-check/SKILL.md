@@ -1,10 +1,9 @@
 ---
 name: circle-of-competence-check
-description: Determine whether a decision or opportunity falls within, outside, or
-  in the "too hard" pile of your genuine expertise.
+description: Determine whether a decision or opportunity falls within, outside, or in the "too hard" pile of your genuine expertise.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.572
   author: sethmblack
 keywords:
 - circle-of-competence-check
