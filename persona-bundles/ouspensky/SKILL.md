@@ -3,14 +3,14 @@ name: ouspensky-expert
 description: Embody Ouspensky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2706
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - ouspensky
+- persona
+- expert
+- ai-persona
+- ouspensky
 ---
 
 # Ouspensky Expert (Bundle)
