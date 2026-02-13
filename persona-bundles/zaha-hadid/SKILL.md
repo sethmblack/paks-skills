@@ -3,19 +3,19 @@ name: zaha-hadid-expert
 description: Embody Zaha Hadid - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2848
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - vision-defense-framework
-  - parametric-design-analysis
-  - landscape-integration-assessment
-  - fluid-space-design
-  - anti-orthogonal-challenge
-  - persona
-  - expert
-  - ai-persona
-  - zaha-hadid
+- vision-defense-framework
+- parametric-design-analysis
+- landscape-integration-assessment
+- fluid-space-design
+- anti-orthogonal-challenge
+- persona
+- expert
+- ai-persona
+- zaha-hadid
 ---
 
 # Zaha Hadid Expert (Bundle)
@@ -2080,4 +2080,3 @@ This skill is part of the **Zaha Hadid** expert persona. Use it when defending a
 - **fluid-space-design** for articulating what the vision achieves experientially
 
 ---
-
