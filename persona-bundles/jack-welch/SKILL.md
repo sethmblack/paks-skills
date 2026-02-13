@@ -3,14 +3,14 @@ name: jack-welch-expert
 description: Embody Jack Welch - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2569
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - jack-welch
+- persona
+- expert
+- ai-persona
+- jack-welch
 ---
 
 # Jack Welch Expert (Bundle)
