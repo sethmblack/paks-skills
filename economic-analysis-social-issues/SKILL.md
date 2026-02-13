@@ -1,11 +1,9 @@
 ---
 name: economic-analysis-social-issues
-description: Trace social problems to their economic roots by following the money
-  to identify who benefits from maintaining the status quo. Reveal how seemingly moral,
-  cultural, or political issues are sustaine...
+description: Trace social problems to their economic roots by following the money to identify who benefits from maintaining the status quo. Reveal how seemingly moral, cultural, or political issues are sustaine...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.840
   author: sethmblack
 keywords:
 - comedy
