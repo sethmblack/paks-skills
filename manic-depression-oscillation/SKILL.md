@@ -1,17 +1,17 @@
 ---
 name: manic-depression-oscillation
-description: "Create emotionally authentic comedy by oscillating between manic energy and depressive honesty, honoring both light and darkness"
+description: Create emotionally authentic comedy by oscillating between manic energy and depressive honesty, honoring both light and darkness
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.1373
 keywords:
-  - emotional-range
-  - comedy
-  - vulnerability
-  - authenticity
-  - tonal-shifts
-  - milligan
+- emotional-range
+- comedy
+- vulnerability
+- authenticity
+- tonal-shifts
+- milligan
 ---
 
 # Manic-Depression Oscillation
