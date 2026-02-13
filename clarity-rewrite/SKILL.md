@@ -3,8 +3,8 @@ name: clarity-rewrite
 description: Transform complex, obscure, or muddled writing into clear, precise, accessible prose following Russell's methodology.
 license: MIT
 metadata:
-  version: 1.0.579
   author: sethmblack
+  version: 1.0.3141
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - clarity-rewrite
