@@ -1,12 +1,10 @@
 ---
 name: sincerity-irony-collapse
-description: Apply metamodern emotional oscillation to create content where sincerity
-  and irony exist simultaneously, revealing genuine feeling through ironic forms while
-  preventing audiences from settling into...
+description: Apply metamodern emotional oscillation to create content where sincerity and irony exist simultaneously, revealing genuine feeling through ironic forms while preventing audiences from settling into...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1909
 keywords:
 - absurdist
 - comedy
