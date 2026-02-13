@@ -3,8 +3,8 @@ name: better-than-piracy-framework
 description: Analyze entrenched competitors (including free, illegal, or informal alternatives) and design strategies to out-compete through superior experience rather than enforcement or legislation.
 license: MIT
 metadata:
-  version: 1.0.3009
   author: sethmblack
+  version: 1.0.3469
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - better-than-piracy-framework
