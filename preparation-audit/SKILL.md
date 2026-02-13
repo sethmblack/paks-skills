@@ -4,7 +4,7 @@ description: Assess readiness for a venture against Earhart's two-thirds standar
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1666
+  version: 1.0.4730
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - preparation-audit
