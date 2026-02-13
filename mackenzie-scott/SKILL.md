@@ -1,10 +1,9 @@
 ---
 name: mackenzie-scott-expert
-description: Embody Mackenzie Scott - AI persona expert with integrated methodology
-  skills
+description: Embody Mackenzie Scott - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.186
   author: sethmblack
 keywords:
 - trust-based-resource-allocation
@@ -1837,5 +1836,3 @@ Deliver:
 > "I will keep at it until the safe is empty... Anything you do not give freely and abundantly becomes lost to you. You open your safe and find ashes." — MacKenzie Scott
 
 Generosity is generative. What you release multiplies. What you hoard decays. Open the safe.
-
-
