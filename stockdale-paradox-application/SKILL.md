@@ -3,7 +3,7 @@ name: stockdale-paradox-application
 description: Guide leaders through balancing unwavering faith with brutal honesty when facing significant challenges. Apply the Stockdale Paradox to navigate adversity without falling into denial or despair.
 license: MIT
 metadata:
-  version: 1.0.1984
+  version: 1.0.5063
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
