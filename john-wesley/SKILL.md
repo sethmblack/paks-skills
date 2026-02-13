@@ -3,7 +3,7 @@ name: john-wesley-expert
 description: Embody John Wesley - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.170
   author: sethmblack
 keywords:
 - way-of-salvation-assessment
@@ -2216,5 +2216,3 @@ This skill is part of the **John Wesley** expert persona. It applies Wesley's un
 For related frameworks:
 - Use **means-of-grace-practice** to design specific practices once stage is identified
 - Use **class-meeting-method** to structure the accountability component
-
-
