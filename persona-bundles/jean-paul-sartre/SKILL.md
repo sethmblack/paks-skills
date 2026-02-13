@@ -3,14 +3,14 @@ name: jean-paul-sartre-expert
 description: Embody Jean Paul Sartre - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2579
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - jean-paul-sartre
+- persona
+- expert
+- ai-persona
+- jean-paul-sartre
 ---
 
 # Jean Paul Sartre Expert (Bundle)
