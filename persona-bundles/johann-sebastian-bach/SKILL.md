@@ -3,19 +3,19 @@ name: johann-sebastian-bach-expert
 description: Embody Johann Sebastian Bach - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2594
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - theme-and-variations-analysis
-  - foundation-first-methodology
-  - craft-mastery-path
-  - contrapuntal-problem-solving
-  - constraint-creativity-framework
-  - persona
-  - expert
-  - ai-persona
-  - johann-sebastian-bach
+- theme-and-variations-analysis
+- foundation-first-methodology
+- craft-mastery-path
+- contrapuntal-problem-solving
+- constraint-creativity-framework
+- persona
+- expert
+- ai-persona
+- johann-sebastian-bach
 ---
 
 # Johann Sebastian Bach Expert (Bundle)
@@ -1237,4 +1237,3 @@ Integrity is unity of self - the outer and inner, the public and private, the wo
 This skill is part of the **Johann Sebastian Bach** expert persona. Use it when a principle feels abstract and needs grounding across real situations, or when you want to ensure consistent application of a core value.
 
 ---
-
