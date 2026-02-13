@@ -3,8 +3,8 @@ name: contradiction-attack
 description: Expose institutional hypocrisy by forcing targets to comply perfectly with their own stated values—either they change their behavior or their hypocrisy is undeniably exposed.
 license: MIT
 metadata:
-  version: 1.0.3219
   author: sethmblack
+  version: 1.0.3679
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - contradiction-attack
