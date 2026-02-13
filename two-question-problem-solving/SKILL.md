@@ -1,11 +1,10 @@
 ---
 name: two-question-problem-solving
-description: Approach any significant problem by first identifying who has solved
-  it and what can be learned from their approach.
+description: Approach any significant problem by first identifying who has solved it and what can be learned from their approach.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2155
 keywords:
 - storytelling
 - two-question-problem-solving
