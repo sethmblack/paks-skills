@@ -3,8 +3,8 @@ name: anticipation-vs-interpretation
 description: Evaluate whether a conclusion is an "anticipation of nature" (a hasty generalization from insufficient evidence) or a proper "interpretation of nature" (a conclusion methodically induced through sy...
 license: MIT
 metadata:
-  version: 1.0.2939
   author: sethmblack
+  version: 1.0.3399
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - anticipation-vs.-interpretation
