@@ -3,14 +3,14 @@ name: ali-wong-expert
 description: Embody Ali Wong - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2391
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - ali-wong
+- persona
+- expert
+- ai-persona
+- ali-wong
 ---
 
 # Ali Wong Expert (Bundle)
