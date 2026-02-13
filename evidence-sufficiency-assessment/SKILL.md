@@ -4,7 +4,7 @@ description: 'Determine whether evidence is sufficient to support a claim before
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.916
+  version: 1.0.3947
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - analysis
