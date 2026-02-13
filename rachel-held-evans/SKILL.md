@@ -3,8 +3,8 @@ name: rachel-held-evans-expert
 description: Embody Rachel Held Evans - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4781
   author: sethmblack
-  version: 1.0.1713
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - church-hurt-healing
