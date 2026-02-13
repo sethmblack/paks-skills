@@ -4,7 +4,7 @@ description: Embody Alan Mulally - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.46
+  version: 1.0.345
 keywords:
 - values-first-evaluation
 - transparency-culture-launch
