@@ -1,10 +1,9 @@
 ---
 name: how-to-win-diagnosis
-description: Clarify the competitive advantage and value proposition that will cause
-  customers to choose you over alternatives in your chosen playing field.
+description: Clarify the competitive advantage and value proposition that will cause customers to choose you over alternatives in your chosen playing field.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1137
   author: sethmblack
 keywords:
 - how-to-win-diagnosis
