@@ -1,12 +1,10 @@
 ---
 name: base-superstructure-analysis
-description: Trace how economic relations (the base) shape and constrain political,
-  legal, and cultural institutions (the superstructure). Reveal the material foundations
-  of ideas and institutions.
+description: Trace how economic relations (the base) shape and constrain political, legal, and cultural institutions (the superstructure). Reveal the material foundations of ideas and institutions.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.430
 keywords:
 - base-superstructure-analysis
 - writing
