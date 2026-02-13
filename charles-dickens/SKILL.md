@@ -1,11 +1,10 @@
 ---
 name: charles-dickens-expert
-description: Embody Charles Dickens - AI persona expert with integrated methodology
-  skills
+description: Embody Charles Dickens - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.83
 keywords:
 - social-reform-narrative
 - serial-momentum
@@ -1698,5 +1697,3 @@ Narrative is complete when:
 - [ ] Connection to larger pattern is made without overwhelming story
 - [ ] Fictional elements clearly disclosed if applicable
 - [ ] Dignity maintained for those represented
-
-
