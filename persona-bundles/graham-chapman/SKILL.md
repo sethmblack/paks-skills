@@ -3,19 +3,19 @@ name: graham-chapman-expert
 description: Embody Graham Chapman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2537
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - matter-of-fact-revolutionary
-  - dignified-chaos-navigation
-  - deadpan-authority
-  - collaborative-straight-man
-  - clinical-absurdist
-  - persona
-  - expert
-  - ai-persona
-  - graham-chapman
+- matter-of-fact-revolutionary
+- dignified-chaos-navigation
+- deadpan-authority
+- collaborative-straight-man
+- clinical-absurdist
+- persona
+- expert
+- ai-persona
+- graham-chapman
 ---
 
 # Graham Chapman Expert (Bundle)
@@ -1015,4 +1015,3 @@ You've successfully applied matter-of-fact-revolutionary when:
 **Core Philosophy:** "Revolutionary change happens when the shocking becomes ordinary. The most radical act is treating the unconventional as unremarkable."
 
 ---
-
