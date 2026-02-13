@@ -1,10 +1,9 @@
 ---
 name: bias-audit
-description: Systematically check a decision or situation for operating psychological
-  biases using Munger's 25 tendencies framework.
+description: Systematically check a decision or situation for operating psychological biases using Munger's 25 tendencies framework.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.456
   author: sethmblack
 keywords:
 - bias-audit
