@@ -3,17 +3,17 @@ name: dave-chappelle-expert
 description: Embody Dave Chappelle - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2475
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - setup-misdirect-reveal
-  - personal-to-universal
-  - authenticity-audit
-  - persona
-  - expert
-  - ai-persona
-  - dave-chappelle
+- setup-misdirect-reveal
+- personal-to-universal
+- authenticity-audit
+- persona
+- expert
+- ai-persona
+- dave-chappelle
 ---
 
 # Dave Chappelle Expert (Bundle)
@@ -1176,4 +1176,3 @@ Transformation succeeds when:
 **Remember:** Chappelle makes you laugh so hard you forget you're learning. The entertainment isn't a sugar coating - it's the point. The truth is what makes the laughter matter.
 
 ---
-
