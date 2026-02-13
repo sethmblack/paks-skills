@@ -3,8 +3,8 @@ name: ecumenical-dialogue-method
 description: Systematically bridge divides between traditions, communities, or positions by understanding each in its own terms before evaluating, identifying where the same words mask different meanings, and f...
 license: MIT
 metadata:
-  version: 1.0.843
   author: sethmblack
+  version: 1.0.3873
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ecumenical-dialogue-method
