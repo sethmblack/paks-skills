@@ -1,11 +1,9 @@
 ---
 name: extinction-procedure
-description: Design a procedure to eliminate unwanted behavior by identifying and
-  removing the maintaining reinforcer, with preparation for extinction burst and differential
-  reinforcement of alternative behavior.
+description: Design a procedure to eliminate unwanted behavior by identifying and removing the maintaining reinforcer, with preparation for extinction burst and differential reinforcement of alternative behavior.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.934
   author: sethmblack
 keywords:
 - extinction-procedure
