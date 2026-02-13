@@ -1,10 +1,9 @@
 ---
 name: self-deception-diagnosis
-description: Identify the specific ways people (including oneself) deceive themselves
-  - the rationalizations, projections, and blind spots that prevent accurate perception.
+description: Identify the specific ways people (including oneself) deceive themselves - the rationalizations, projections, and blind spots that prevent accurate perception.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1850
   author: sethmblack
 keywords:
 - self-deception-diagnosis
