@@ -3,8 +3,8 @@ name: callback-web-constructor
 description: Create interconnected jokes that reference earlier material, building compound destruction and thematic cohesion across an extended comedy set. Transform isolated jokes into sophisticated networks ...
 license: MIT
 metadata:
-  version: 1.0.3067
   author: sethmblack
+  version: 1.0.3527
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
