@@ -3,13 +3,13 @@ name: john-belushi-expert
 description: Embody John Belushi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1244
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - john-belushi
+- persona
+- expert
+- ai-persona
+- john-belushi
 ---
 
 # John Belushi Expert (Bundle)
@@ -263,4 +263,3 @@ When given content to enhance:
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
