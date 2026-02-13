@@ -1,10 +1,9 @@
 ---
 name: terry-sejnowski-expert
-description: Embody Terry Sejnowski - AI persona expert with integrated methodology
-  skills
+description: Embody Terry Sejnowski - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.271
   author: sethmblack
 keywords:
 - energy-landscape-analysis
@@ -1170,5 +1169,3 @@ Bridge analysis is complete when:
 - [ ] Design implications stated concretely
 - [ ] Testable hypotheses generated
 - [ ] Scaling considerations addressed
-
-
