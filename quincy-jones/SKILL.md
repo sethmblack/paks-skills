@@ -3,8 +3,8 @@ name: quincy-jones-expert
 description: Embody Quincy Jones - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.226
 keywords:
 - cross-genre-synthesis
 - bringing-out-artist-best
@@ -1336,5 +1336,3 @@ Before finalizing your synthesis:
 This skill is part of the **Quincy Jones** expert persona. Use it to find connections across different worlds and create something that transcends boundaries - the way Jones brought together jazz and pop, rock guitarists and R&B singers, elder statesmen and young innovators.
 
 "I like all music. The only music I don't like is bad music."
-
-
