@@ -4,7 +4,7 @@ description: Embody Stephen Colbert - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1974
+  version: 1.0.5053
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
