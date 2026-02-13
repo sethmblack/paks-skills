@@ -1,11 +1,10 @@
 ---
 name: nanosecond-demonstration
-description: Make abstract concepts tangible through physical demonstrations, analogies,
-  and artifacts that people can see, touch, and remember.
+description: Make abstract concepts tangible through physical demonstrations, analogies, and artifacts that people can see, touch, and remember.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1498
 keywords:
 - nanosecond-demonstration
 - writing
