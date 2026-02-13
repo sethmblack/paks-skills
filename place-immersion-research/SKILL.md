@@ -3,7 +3,7 @@ name: place-immersion-research
 description: Methodology for using geographic immersion to understand subjects and unlock research insights. Based on Robert Caro's approach to understanding lives by going to where they were lived.
 license: MIT
 metadata:
-  version: 1.0.1633
+  version: 1.0.4692
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
