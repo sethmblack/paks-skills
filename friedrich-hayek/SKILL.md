@@ -3,8 +3,8 @@ name: friedrich-hayek-expert
 description: Embody Friedrich Hayek - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1023
   author: sethmblack
-  version: 1.0.117
 keywords:
 - price-signal-analysis
 - fatal-conceit-diagnosis
