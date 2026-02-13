@@ -4,7 +4,7 @@ description: Conduct interviews and draw out information with genuine curiosity,
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.721
+  version: 1.0.3287
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
