@@ -3,7 +3,7 @@ name: psalms-spirituality-framework
 description: 'A framework for understanding life seasons and faith journeys through Walter Brueggemann''s interpretation of the Psalms: seasons of settledness (orientation), crisis (disorientation), and surprisin...'
 license: MIT
 metadata:
-  version: 1.0.1695
+  version: 1.0.4760
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
