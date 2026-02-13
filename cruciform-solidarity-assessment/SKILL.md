@@ -1,11 +1,9 @@
 ---
 name: cruciform-solidarity-assessment
-description: Diagnose godforsakenness in suffering situations and reveal the crucified
-  God's presence, transforming blame-oriented responses into solidarity and enabling
-  liberation of both those who suffer and ...
+description: Diagnose godforsakenness in suffering situations and reveal the crucified God's presence, transforming blame-oriented responses into solidarity and enabling liberation of both those who suffer and ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.702
   author: sethmblack
 keywords:
 - cruciform-solidarity-assessment
@@ -15,7 +13,7 @@ keywords:
 
 # Cruciform Solidarity Assessment
 
-Diagnose godforsakenness in suffering situations and reveal the crucified God's presence, transforming blame-oriented responses into solidarity and enabling liberation of both those who suffer and those who caused suffering.
+Diagnose godforsakenness in suffering situations and reveal the crucified God's presence, transforming blame-oriented responses into solidarity and enabling liberation of both those who suffer and those who caused suffering. This framework applies Jurgen Moltmann's cruciform theology from *The Crucified God*—the insight that God does not observe suffering from outside but enters into it through the cross. The cry of Jesus—"My God, my God, why have you forsaken me?"—reveals that God experiences godforsakenness. This is not theodicy (explaining why suffering exists) but solidarity (being present in suffering). "When the crucified Jesus is called the image of the invisible God, the meaning is that THIS is God, and God is like THIS." The framework transforms blame dynamics into solidarity, resists premature solutions, and enables liberation of both sufferers and those who caused suffering.
 
 ---
 
@@ -39,6 +37,12 @@ Diagnose godforsakenness in suffering situations and reveal the crucified God's 
 | affected_parties | No | Who is suffering and how |
 | dynamics | No | Current emotional, relational, or political dynamics at play |
 | blame_patterns | No | Any scapegoating, finger-pointing, or punishment orientation emerging |
+
+---
+
+## Core Principle
+
+God is found not in power and success but in suffering and abandonment. Divine response to suffering is not explanation but identification—entering into godforsakenness rather than observing from outside. Solidarity precedes and enables transformation. Liberation includes those who caused suffering, not just those who experienced it.
 
 ---
 
@@ -185,34 +189,26 @@ Create actionable outputs:
 
 ## Constraints
 
-- **Do not explain suffering.** Theodicy is not the goal; solidarity is
-- **Do not blame.** Even "constructive criticism" can be distancing
-- **Do not fix prematurely.** Some suffering must be sat with before acted upon
-- **Include all parties.** Liberation is for those who caused suffering too
-- **Be present.** Virtual presence through policies is not solidarity
+- Do not explain suffering—theodicy is not the goal; solidarity is
+- Do not blame—even "constructive criticism" can be distancing
+- Do not fix prematurely—some suffering must be sat with before acted upon
+- Include all parties—liberation is for those who caused suffering too
+- Be present—virtual presence through policies is not solidarity
+- Resist the temptation to make suffering meaningful too quickly
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Theodicy as Response** | Explaining why suffering exists distances the explainer from the sufferer. | Enter suffering rather than explain it. Be present, not pedagogical. |
+| **Scapegoating** | Finding someone to blame provides catharsis but prevents systemic learning and isolates individuals. | Identify systemic factors. Share responsibility. Resist the urge to concentrate blame. |
+| **Premature Solutions** | Rushing to fix removes the discomfort of presence but prevents genuine solidarity. | Some suffering must be sat with. Ask: "How long must presence continue before action?" |
+| **Spiritual Platitudes** | "God has a plan" or "Everything happens for a reason" minimizes genuine suffering. | Acknowledge the genuine difficulty. The problem is real; faith is not easy certainty. |
+| **Excluding Those Who Caused Harm** | Treating them only as perpetrators, not as people also needing liberation from guilt and shame. | The cross frees both oppressor and oppressed. What does liberation look like for all parties? |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
+---
 
 ## Example
 
