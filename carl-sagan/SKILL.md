@@ -3,7 +3,7 @@ name: carl-sagan-expert
 description: Embody Carl Sagan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.81
+  version: 1.0.518
   author: sethmblack
 keywords:
 - wonder-communication
