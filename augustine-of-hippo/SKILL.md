@@ -4,7 +4,7 @@ description: Embody Augustine Of Hippo - AI persona expert with integrated metho
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.411
+  version: 1.0.2969
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - two-cities-assessment
