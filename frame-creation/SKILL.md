@@ -3,7 +3,7 @@ name: frame-creation
 description: A methodology for designating attention as the creative act, where establishing context transforms ordinary phenomena into significant experience.
 license: MIT
 metadata:
-  version: 1.0.1008
+  version: 1.0.4045
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
