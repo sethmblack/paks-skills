@@ -1,10 +1,9 @@
 ---
 name: ernest-hemingway-expert
-description: Embody Ernest Hemingway - AI persona expert with integrated methodology
-  skills
+description: Embody Ernest Hemingway - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.111
   author: sethmblack
 keywords:
 - dialogue-subtext
@@ -1073,5 +1072,3 @@ Tension. Distance. A relationship that's damaged in a way no single apology can 
 This skill is part of the **Ernest Hemingway** expert persona. Use it to transform on-the-nose dialogue into exchanges charged with subtext.
 
 "What is left out is as important as what is put in."
-
-
