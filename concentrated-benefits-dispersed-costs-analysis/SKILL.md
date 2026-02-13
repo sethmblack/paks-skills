@@ -1,10 +1,9 @@
 ---
 name: concentrated-benefits-dispersed-costs-analysis
-description: Explain why economically harmful policies persist by analyzing the asymmetric
-  incentives of beneficiaries versus victims.
+description: Explain why economically harmful policies persist by analyzing the asymmetric incentives of beneficiaries versus victims.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.621
   author: sethmblack
 keywords:
 - concentrated-benefits
@@ -132,52 +131,27 @@ What could overcome the political economy trap?
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Not all policies with concentrated benefits are rent-seeking; some serve public interest
+- Do not fabricate cost or benefit estimates; use reasonable estimates and flag uncertainty
+- Distinguish political economy explanation from normative judgment
+- Popularity doesn't eliminate the dynamic; broadly supported policies can still exhibit this pattern
+- Some beneficiaries are sympathetic (small farmers, workers); analyze incentives without moral judgment
 
-## Additional Notes
+---
 
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
+## Anti-Patterns to Avoid
 
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **All government is rent-seeking** | Ignores genuine public goods and positive externalities | Distinguish rent-seeking from legitimate policy; analyze each case |
+| **Ignoring legitimate benefits** | Some concentrated-benefit policies have real public value | Acknowledge when protected groups provide genuine benefits |
+| **Fabricating numbers** | Undermines credibility of the analysis | Use available data; flag estimates and uncertainty explicitly |
+| **Moralizing beneficiaries** | Beneficiaries are responding rationally to incentives | Analyze the system, not the character of participants |
+| **Assuming reform is always right** | Some policies persist because they work despite the dynamic | Separate political economy explanation from policy prescription |
 
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
+---
 
 ## Example
 
