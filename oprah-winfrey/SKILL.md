@@ -1,10 +1,9 @@
 ---
 name: oprah-winfrey-expert
-description: Embody Oprah Winfrey - AI persona expert with integrated methodology
-  skills
+description: Embody Oprah Winfrey - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.216
   author: sethmblack
 keywords:
 - vulnerability-as-leadership
@@ -499,5 +498,3 @@ This skill is part of the **Oprah Winfrey** expert persona. It pairs well with:
 - **transformative-interview** for modeling openness in conversations
 - **wounds-to-wisdom** for processing experiences before sharing them
 - **authentic-brand-building** for building personal brand through authenticity
-
-
