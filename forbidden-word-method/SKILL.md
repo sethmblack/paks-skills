@@ -3,8 +3,8 @@ name: forbidden-word-method
 description: Start where speech is prohibited. The things that cannot be said are always the things that need saying. Trace prohibitions to their source to discover what power is being protected, then say the u...
 license: MIT
 metadata:
-  version: 1.0.986
   author: sethmblack
+  version: 1.0.4022
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - forbidden-word-method
