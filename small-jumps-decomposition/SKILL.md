@@ -3,7 +3,7 @@ name: small-jumps-decomposition
 description: Break large, intimidating problems into sequences of smaller, tractable steps. Based on Shannon's observation that "it seems to be much easier to make two small jumps than one big jump in any kind ...
 license: MIT
 metadata:
-  version: 1.0.1922
+  version: 1.0.5000
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
