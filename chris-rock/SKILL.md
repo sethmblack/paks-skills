@@ -3,8 +3,8 @@ name: chris-rock-expert
 description: Embody Chris Rock - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.564
   author: sethmblack
+  version: 1.0.3126
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - repetition-elaboration-amplifier
