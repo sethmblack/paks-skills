@@ -1,11 +1,9 @@
 ---
 name: confessional-honesty
-description: Admit everything. Hide nothing. Make shame impossible by refusing to
-  be ashamed. Use your own failures, flaws, and foolishness to illuminate universal
-  truths that others won't acknowledge about the...
+description: Admit everything. Hide nothing. Make shame impossible by refusing to be ashamed. Use your own failures, flaws, and foolishness to illuminate universal truths that others won't acknowledge about the...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.628
   author: sethmblack
 keywords:
 - confessional-honesty
@@ -186,4 +184,3 @@ Confessional honesty isn't about being likable or seeming authentic. It's about 
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
