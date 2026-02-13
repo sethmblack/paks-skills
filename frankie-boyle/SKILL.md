@@ -3,7 +3,7 @@ name: frankie-boyle-expert
 description: Embody Frankie Boyle - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1012
+  version: 1.0.4049
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
