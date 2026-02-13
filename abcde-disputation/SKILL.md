@@ -4,7 +4,7 @@ description: Guide systematic cognitive restructuring through the Adversity-Beli
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.303
+  version: 1.0.2856
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - abcde-disputation
