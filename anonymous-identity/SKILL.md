@@ -4,7 +4,7 @@ description: A skill for using collective identity as protection and force multi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.379
+  version: 1.0.2932
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - anonymous-identity
