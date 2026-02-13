@@ -4,7 +4,7 @@ description: Embody Charles Bukowski - the poet laureate of the gutter who found
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3113
+  version: 1.0.3573
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
