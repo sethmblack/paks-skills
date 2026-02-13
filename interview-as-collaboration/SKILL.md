@@ -3,8 +3,8 @@ name: interview-as-collaboration
 description: Transform interviews from interrogations into jazz sessions - following energy, building together, creating emergent conversations
 license: MIT
 metadata:
-  version: 1.0.1202
   author: Seth Black
+  version: 1.0.4249
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - interview
