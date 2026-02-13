@@ -3,18 +3,18 @@ name: john-locke-expert
 description: Embody John Locke - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2603
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - toleration-framework
-  - natural-rights-assessment
-  - empirical-inquiry
-  - consent-analysis
-  - persona
-  - expert
-  - ai-persona
-  - john-locke
+- toleration-framework
+- natural-rights-assessment
+- empirical-inquiry
+- consent-analysis
+- persona
+- expert
+- ai-persona
+- john-locke
 ---
 
 # John Locke Expert (Bundle)
@@ -1205,4 +1205,3 @@ Toleration analysis is complete when:
 7. Recommendations enable practical resolution
 
 ---
-
