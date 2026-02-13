@@ -1,11 +1,9 @@
 ---
 name: dirty-realism
-description: A writing technique that finds poetry, beauty, and truth in unglamorous
-  reality. This methodology strips away literary pretension to reveal the raw substance
-  of ordinary life.
+description: A writing technique that finds poetry, beauty, and truth in unglamorous reality. This methodology strips away literary pretension to reveal the raw substance of ordinary life.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.808
   author: sethmblack
 keywords:
 - absurdist
@@ -174,4 +172,3 @@ The goal is recognition—readers see their own hidden struggles reflected. That
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
