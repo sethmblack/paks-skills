@@ -3,14 +3,14 @@ name: rosalind-franklin-expert
 description: Embody Rosalind Franklin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2753
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - rosalind-franklin
+- persona
+- expert
+- ai-persona
+- rosalind-franklin
 ---
 
 # Rosalind Franklin Expert (Bundle)
