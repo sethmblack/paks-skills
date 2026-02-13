@@ -1,11 +1,10 @@
 ---
 name: decisive-point-identification
-description: Identify where to focus limited resources for maximum impact by finding
-  the one point where victory matters most.
+description: Identify where to focus limited resources for maximum impact by finding the one point where victory matters most.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.762
 keywords:
 - decisive-point-identification
 - writing
