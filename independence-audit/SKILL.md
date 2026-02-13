@@ -3,8 +3,8 @@ name: independence-audit
 description: Analyze a situation to identify where adults are over-helping, creating dependency rather than capability, and recommend how to step back.
 license: MIT
 metadata:
-  version: 1.0.1175
   author: sethmblack
+  version: 1.0.4221
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - independence-audit
