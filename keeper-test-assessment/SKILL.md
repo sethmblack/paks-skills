@@ -3,8 +3,8 @@ name: keeper-test-assessment
 description: Evaluate individual team members or teams against the Netflix keeper test to identify talent density issues and make clear retention/separation recommendations.
 license: MIT
 metadata:
-  version: 1.0.1288
   author: sethmblack
+  version: 1.0.4342
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - keeper-test-assessment
