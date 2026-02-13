@@ -4,7 +4,7 @@ description: Embody John Maynard Keynes - AI persona expert with integrated meth
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.167
+  version: 1.0.1253
 keywords:
 - uncertainty-assessment
 - facts-changed-audit
