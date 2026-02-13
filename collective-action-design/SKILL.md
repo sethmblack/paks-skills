@@ -4,7 +4,7 @@ description: A skill for structuring movements and actions to survive arrest, pr
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.599
+  version: 1.0.3163
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - collective-action-design
