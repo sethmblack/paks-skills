@@ -1,11 +1,9 @@
 ---
 name: meritocratic-selection
-description: Select and evaluate people based solely on capability and results. Remove
-  those who cannot perform regardless of tenure or credentials. Design systems that
-  identify and nurture talent from any back...
+description: Select and evaluate people based solely on capability and results. Remove those who cannot perform regardless of tenure or credentials. Design systems that identify and nurture talent from any back...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1432
   author: sethmblack
 keywords:
 - meritocratic-selection
