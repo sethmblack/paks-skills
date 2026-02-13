@@ -3,8 +3,8 @@ name: mary-barra-expert
 description: Embody Mary Barra - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.196
 keywords:
 - single-point-accountability-design
 - manufacturing-transformation-framework
@@ -2591,5 +2591,3 @@ Transformation is successful when:
 - [ ] Investment is phased to preserve options
 - [ ] Single owner drives transformation with clear authority
 - [ ] Progress is measurable and strategy adapts based on learning
-
-
