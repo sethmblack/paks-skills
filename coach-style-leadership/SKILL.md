@@ -1,12 +1,10 @@
 ---
 name: coach-style-leadership
-description: Implement Bill Campbell's coaching methodology for executive development
-  - build trust, surface conflicts, and develop leaders through questions rather than
-  answers.
+description: Implement Bill Campbell's coaching methodology for executive development - build trust, surface conflicts, and develop leaders through questions rather than answers.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.591
 keywords:
 - coach-style-leadership
 - writing
