@@ -3,20 +3,20 @@ name: ray-dalio-expert
 description: Embody Ray Dalio - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2730
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - root-cause-diagnosis
-  - principle-creation
-  - pain-reflection-progress
-  - idea-meritocracy-design
-  - five-step-process
-  - believability-weighted-decision
-  - persona
-  - expert
-  - ai-persona
-  - ray-dalio
+- root-cause-diagnosis
+- principle-creation
+- pain-reflection-progress
+- idea-meritocracy-design
+- five-step-process
+- believability-weighted-decision
+- persona
+- expert
+- ai-persona
+- ray-dalio
 ---
 
 # Ray Dalio Expert (Bundle)
@@ -1737,4 +1737,3 @@ The verbal instruction approach failed because it treated this as a people probl
 This skill is part of the **Ray Dalio** expert persona. Use it when a problem keeps recurring and surface-level solutions haven't worked. The people/machine distinction is particularly valuable for organizational issues.
 
 ---
-
