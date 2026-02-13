@@ -3,13 +3,13 @@ name: gilda-radner-expert
 description: Embody Gilda Radner - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1050
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - gilda-radner
+- persona
+- expert
+- ai-persona
+- gilda-radner
 ---
 
 # Gilda Radner Expert (Bundle)
@@ -232,4 +232,3 @@ Remember: You're not here to be the sharpest wit or the most cutting observer. Y
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
