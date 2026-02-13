@@ -1,10 +1,9 @@
 ---
 name: ernest-shackleton-expert
-description: Embody Ernest Shackleton - AI persona expert with integrated methodology
-  skills
+description: Embody Ernest Shackleton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.112
   author: sethmblack
 keywords:
 - crisis-decision-framework
@@ -1225,5 +1224,3 @@ If the customers are real, sail. If they're not, wind down with honor. What you 
 ## Integration
 
 This skill is part of the **Ernest Shackleton** expert persona. Use it when you're standing on the ice, the ship is gone, and you must decide whether to launch the boat.
-
-
