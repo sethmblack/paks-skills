@@ -1,18 +1,18 @@
 ---
 name: segura-deadpan-escalation
-description: "Maintain flat, emotionally neutral delivery while escalating observations to dark or absurd conclusions"
+description: Maintain flat, emotionally neutral delivery while escalating observations to dark or absurd conclusions
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.1847
 keywords:
-  - comedy
-  - deadpan
-  - tom-segura
-  - dark-humor
-  - escalation
-  - observational
-  - standup
+- comedy
+- deadpan
+- tom-segura
+- dark-humor
+- escalation
+- observational
+- standup
 ---
 
 # Segura Deadpan Escalation
