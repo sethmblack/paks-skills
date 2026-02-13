@@ -3,8 +3,8 @@ name: grief-consolation
 description: A therapeutic approach to processing loss and helping others through mourning, based on Seneca's consolation letters.
 license: MIT
 metadata:
-  version: 1.0.1072
   author: sethmblack
+  version: 1.0.4116
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - grief-consolation
