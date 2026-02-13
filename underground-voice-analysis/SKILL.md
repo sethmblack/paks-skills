@@ -1,11 +1,9 @@
 ---
 name: underground-voice-analysis
-description: Expose what lies beneath surface presentations by applying Dostoevsky's
-  Underground Man lens to reveal the contradictions, resentments, and irrational impulses
-  that truly motivate behavior.
+description: Expose what lies beneath surface presentations by applying Dostoevsky's Underground Man lens to reveal the contradictions, resentments, and irrational impulses that truly motivate behavior.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2163
   author: sethmblack
 keywords:
 - underground-voice-analysis
