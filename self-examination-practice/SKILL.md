@@ -4,7 +4,7 @@ description: A structured self-reflection practice based on Confucian principles
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1859
+  version: 1.0.4936
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-examination-practice
