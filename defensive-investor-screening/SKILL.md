@@ -3,7 +3,7 @@ name: defensive-investor-screening
 description: Apply Benjamin Graham's seven criteria to identify stocks suitable for conservative, safety-focused investors who want adequate returns with minimal effort and risk.
 license: MIT
 metadata:
-  version: 1.0.773
+  version: 1.0.3803
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
