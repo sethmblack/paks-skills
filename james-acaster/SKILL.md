@@ -3,8 +3,8 @@ name: james-acaster-expert
 description: Embody James Acaster - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1220
   author: sethmblack
-  version: 1.0.146
 keywords:
 - callback-architecture
 - persona
