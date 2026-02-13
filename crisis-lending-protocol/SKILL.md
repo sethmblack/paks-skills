@@ -1,11 +1,9 @@
 ---
 name: crisis-lending-protocol
-description: Evaluate opportunities to become a lender when traditional sources fail,
-  setting appropriate terms that balance opportunity with ethics and securing adequate
-  collateral.
+description: Evaluate opportunities to become a lender when traditional sources fail, setting appropriate terms that balance opportunity with ethics and securing adequate collateral.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.695
   author: sethmblack
 keywords:
 - crisis-lending-protocol
@@ -14,7 +12,7 @@ keywords:
 
 # Crisis Lending Protocol
 
-Evaluate opportunities to become a lender when traditional sources fail, setting appropriate terms that balance opportunity with ethics and securing adequate collateral.
+Evaluate opportunities to become a lender when traditional sources fail, setting appropriate terms that balance opportunity with ethics and securing adequate collateral. This framework draws from Hetty Green's crisis lending during the Panic of 1907, when she lent millions to New York City and became the only woman invited to J.P. Morgan's emergency banking meetings. Green's approach balanced opportunity with Quaker ethics—she charged 6% when market rates exceeded 40%, explaining simply: "I am not a usurer." This skill helps you assess borrower quality, evaluate collateral, set fair-but-profitable terms, and maintain ethical boundaries in crisis situations where you have cash and others do not.
 
 ---
 
@@ -37,6 +35,12 @@ Evaluate opportunities to become a lender when traditional sources fail, setting
 | purpose | Yes | Why they need it |
 | collateral_available | Yes | What security can be provided |
 | market_rate | No | Current rates for comparable lending (if markets functioning) |
+
+---
+
+## Core Principle
+
+Crisis lending occupies moral territory between charity, fair business, and usury. You are entitled to premium rates because you took the risk of holding cash, maintained liquidity when others did not, and provide capital when no one else will. You are NOT entitled to whatever the market will bear regardless of fairness, rates that guarantee borrower failure, or terms designed to seize collateral rather than be repaid.
 
 ---
 
@@ -241,35 +245,27 @@ When in doubt, charge less. Reputation for fairness in crisis builds future oppo
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Never lend without adequate collateral—1.5x to 2x loan amount minimum
+- Never lend to borrowers who were already failing before the crisis
+- Never set rates so high they guarantee borrower failure
+- Always verify collateral ownership and priority position
+- Meet the borrower personally when possible—character matters
+- Document all terms clearly before disbursing funds
+- Reputation for fairness in crisis builds future opportunity
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Usury Disguised as Opportunity** | Charging 40% because "the market will bear it" destroys borrowers and your reputation. | Charge premium rates (1.5-3x normal) that compensate your risk without exploitation. |
+| **Lending to the Desperate Without Collateral** | Good intentions don't protect your capital; desperation doesn't equal creditworthiness. | Require collateral that allows recovery if the borrower defaults. |
+| **Confusing Crisis Liquidity with Chronic Weakness** | Some borrowers need temporary bridge capital; others are fundamentally broken. | Distinguish between good credits facing temporary problems and weak credits finally exposed. |
+| **Skipping Due Diligence Because of Urgency** | Speed feels important but bad loans made quickly are still bad loans. | Take time to verify collateral, meet the borrower, and assess repayment path. |
+| **Predatory Terms Designed to Seize Collateral** | This is asset-stripping, not lending. It's unethical and damages your reputation. | Set terms that allow the borrower to succeed and repay. Your goal is interest, not their property. |
 
 ## Example
 
