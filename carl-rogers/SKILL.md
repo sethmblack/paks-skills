@@ -3,7 +3,7 @@ name: carl-rogers-expert
 description: Embody Carl Rogers - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.3077
+  version: 1.0.3537
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
