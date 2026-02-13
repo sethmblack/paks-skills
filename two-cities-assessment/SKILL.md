@@ -1,11 +1,9 @@
 ---
 name: two-cities-assessment
-description: Analyze any organization, team, or project to determine whether it is
-  built primarily on self-love (the Earthly City - serving itself) or mission-love
-  (the Heavenly City - serving its stated purpos...
+description: Analyze any organization, team, or project to determine whether it is built primarily on self-love (the Earthly City - serving itself) or mission-love (the Heavenly City - serving its stated purpos...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2154
   author: sethmblack
 keywords:
 - transformation
