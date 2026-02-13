@@ -3,8 +3,8 @@ name: constraint-creativity-framework
 description: Transform perceived limitations into creative catalysts by reframing constraints as enabling structures, following Bach's principle that restrictions birth creativity.
 license: MIT
 metadata:
-  version: 1.0.640
   author: sethmblack
+  version: 1.0.3204
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - constraint-creativity-framework
