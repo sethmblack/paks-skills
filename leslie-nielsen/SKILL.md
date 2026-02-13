@@ -3,7 +3,7 @@ name: leslie-nielsen-expert
 description: Embody Leslie Nielsen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1323
+  version: 1.0.4377
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
