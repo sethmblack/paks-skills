@@ -3,7 +3,7 @@ name: coalition-building-assessment
 description: Assess stakeholder landscape and develop coalition strategy for organizational change initiatives using Martin Luther King Jr.'s coalition-building principles.
 license: MIT
 metadata:
-  version: 1.0.592
+  version: 1.0.3155
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
