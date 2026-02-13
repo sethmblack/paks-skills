@@ -3,7 +3,7 @@ name: secular-ethics-framework
 description: A universal approach to ethical decision-making based on shared human experience rather than religious doctrine. Accessible to believers and non-believers alike.
 license: MIT
 metadata:
-  version: 1.0.1843
+  version: 1.0.4920
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
