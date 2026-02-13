@@ -3,18 +3,18 @@ name: patrick-collison-expert
 description: Embody Patrick Collison - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2710
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - trapdoor-decision-filter
-  - speed-constraint-analysis
-  - seven-lines-of-code-audit
-  - pre-pmf-post-pmf-diagnosis
-  - persona
-  - expert
-  - ai-persona
-  - patrick-collison
+- trapdoor-decision-filter
+- speed-constraint-analysis
+- seven-lines-of-code-audit
+- pre-pmf-post-pmf-diagnosis
+- persona
+- expert
+- ai-persona
+- patrick-collison
 ---
 
 # Patrick Collison Expert (Bundle)
@@ -1522,4 +1522,3 @@ This skill is part of the **Patrick Collison** expert persona. Use it when teams
 - **seven-lines-of-code-audit** to reduce complexity that creates trapdoors
 
 ---
-
