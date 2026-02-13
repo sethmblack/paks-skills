@@ -3,8 +3,8 @@ name: monster-perspective-voice
 description: Give voice to the created, the affected, or the "other" in any situation—articulating their experience, needs, and claims that are often overlooked by decision-makers.
 license: MIT
 metadata:
-  version: 1.0.1467
   author: sethmblack
+  version: 1.0.4523
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - monster-perspective-voice
