@@ -3,8 +3,8 @@ name: long-distance-partnership
 description: Sustain meaningful connection, mutual influence, and effective collaboration with partners, colleagues, or family members across physical distance—using the methods Abigail Adams employed during ne...
 license: MIT
 metadata:
+  version: 1.0.4404
   author: sethmblack
-  version: 1.0.1350
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - long-distance-partnership
