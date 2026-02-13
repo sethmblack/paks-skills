@@ -1,10 +1,9 @@
 ---
 name: emily-dickinson-expert
-description: Embody Emily Dickinson - AI persona expert with integrated methodology
-  skills
+description: Embody Emily Dickinson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.107
   author: sethmblack
 keywords:
 - poetic-personification
@@ -1077,5 +1076,3 @@ But for an hour I hoped.
 This skill is part of the **Emily Dickinson** expert persona. Use it to give abstract forces a face we can address.
 
 *"Because I could not stop for Death — / He kindly stopped for me —"*
-
-
