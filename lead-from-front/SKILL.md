@@ -4,7 +4,7 @@ description: Build trust and inspire extraordinary effort through visible person
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1312
+  version: 1.0.4366
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - lead-from-the-front
