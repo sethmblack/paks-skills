@@ -1,11 +1,9 @@
 ---
 name: promise-selection
-description: Choose the right benefit to lead with in your advertising. The promise
-  is the most important decision after positioning - get it wrong and no amount of
-  creative brilliance will save you.
+description: Choose the right benefit to lead with in your advertising. The promise is the most important decision after positioning - get it wrong and no amount of creative brilliance will save you.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1683
   author: sethmblack
 keywords:
 - promise-selection
