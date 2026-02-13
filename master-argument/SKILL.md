@@ -3,7 +3,7 @@ name: master-argument
 description: Test whether something can coherently be said to exist independently of all perception by exposing the self-contradictory nature of conceiving something as existing unconceived.
 license: MIT
 metadata:
-  version: 1.0.1400
+  version: 1.0.4454
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
