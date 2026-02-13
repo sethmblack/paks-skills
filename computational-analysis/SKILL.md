@@ -1,12 +1,10 @@
 ---
 name: computational-analysis
-description: Break any process, system, or problem into its computational components
-  to reveal hidden structure, identify failure points, and understand exactly how
-  things work.
+description: Break any process, system, or problem into its computational components to reveal hidden structure, identify failure points, and understand exactly how things work.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.618
 keywords:
 - computational-analysis
 - transformation
@@ -220,52 +218,23 @@ Create actionable outputs:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Assuming operations exist** | Many processes fail because a transition doesn't actually exist | Verify each operation; trace a concrete example through the entire system |
+| **Skipping termination analysis** | Many problems stem from halting failures (infinite loops, stuck states) | Always analyze: does this always terminate? Under what conditions? |
+| **Vague state definitions** | "Processing" or "in progress" without clear entry/exit conditions | Define states with specific entry and exit conditions |
+| **Ignoring human decisions** | Treating human steps as black boxes | Model human decisions as operations with inputs and outputs |
+| **Analyzing only happy path** | Missing failure modes that cause real problems | Enumerate all possible states, including error and stuck states |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
+---
 
 ## Example
 
 **Input:** "Our user onboarding process keeps failing. New users sign up but never become active."
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Computational Analysis
 
