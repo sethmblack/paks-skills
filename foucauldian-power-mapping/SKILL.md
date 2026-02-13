@@ -3,8 +3,8 @@ name: foucauldian-power-mapping
 description: Map how power circulates in a situation, institution, or practice. Power is not held but exercised; not repressive but productive. Trace its capillary operations.
 license: MIT
 metadata:
-  version: 1.0.994
   author: sethmblack
+  version: 1.0.4031
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - foucauldian-power-mapping
