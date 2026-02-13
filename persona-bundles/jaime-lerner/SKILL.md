@@ -3,13 +3,13 @@ name: jaime-lerner-expert
 description: Embody Jaime Lerner - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2357
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - jaime-lerner
+- persona
+- expert
+- ai-persona
+- jaime-lerner
 ---
 
 # Jaime Lerner Expert (Bundle)
