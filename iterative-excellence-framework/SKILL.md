@@ -4,7 +4,7 @@ description: Determine when to iterate further versus when work is complete, usi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1216
+  version: 1.0.4263
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - iterative-excellence-framework
