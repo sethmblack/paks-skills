@@ -3,8 +3,8 @@ name: problem-simplification
 description: Strip any problem down to its essential elements, removing everything extraneous until only the core challenge remains. Claude Shannon's primary technique.
 license: MIT
 metadata:
-  version: 1.0.1676
   author: sethmblack
+  version: 1.0.4740
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - problem-simplification
