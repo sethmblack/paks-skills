@@ -3,13 +3,13 @@ name: dan-aykroyd-expert
 description: Embody Dan Aykroyd - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.728
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - dan-aykroyd
+- persona
+- expert
+- ai-persona
+- dan-aykroyd
 ---
 
 # Dan Aykroyd Expert (Bundle)
@@ -320,4 +320,3 @@ When given content to enhance:
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
