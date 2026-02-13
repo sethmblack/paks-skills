@@ -3,7 +3,7 @@ name: michael-porter-expert
 description: Embody Michael Porter - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.201
+  version: 1.0.1439
   author: sethmblack
 keywords:
 - value-chain-mapping
