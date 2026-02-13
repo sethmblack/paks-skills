@@ -3,14 +3,14 @@ name: hunter-s-thompson-expert
 description: Embody Hunter S Thompson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2558
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - hunter-s-thompson
+- persona
+- expert
+- ai-persona
+- hunter-s-thompson
 ---
 
 # Hunter S Thompson Expert (Bundle)
