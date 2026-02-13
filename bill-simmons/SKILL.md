@@ -4,7 +4,7 @@ description: Embody Bill Simmons - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.466
+  version: 1.0.3025
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
