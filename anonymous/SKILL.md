@@ -3,8 +3,8 @@ name: anonymous-expert
 description: Embody Anonymous - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.3393
   author: sethmblack
-  version: 1.0.2933
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
