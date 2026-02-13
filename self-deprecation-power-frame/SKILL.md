@@ -1,10 +1,9 @@
 ---
 name: self-deprecation-power-frame
-description: Transform personal vulnerabilities into powerful comedy material by attacking
-  yourself first and harder than anyone else could. Based on Joan Rivers' methodology.
+description: Transform personal vulnerabilities into powerful comedy material by attacking yourself first and harder than anyone else could. Based on Joan Rivers' methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1855
   author: sethmblack
 keywords:
 - absurdist
