@@ -3,7 +3,7 @@ name: clayton-christensen-expert
 description: Embody Clayton Christensen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.88
+  version: 1.0.583
   author: sethmblack
 keywords:
 - organizational-capability-assessment
