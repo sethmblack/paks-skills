@@ -1,11 +1,9 @@
 ---
 name: list-escalation-comedy
-description: A comedic writing technique for building sequences that start with recognizable
-  observations and escalate systematically toward absurdity, culminating in a truth
-  that lands harder for being funny.
+description: A comedic writing technique for building sequences that start with recognizable observations and escalate systematically toward absurdity, culminating in a truth that lands harder for being funny.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1342
   author: sethmblack
 keywords:
 - absurdist
@@ -222,4 +220,3 @@ THE LANDING: [What the list reveals about the topic]
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
