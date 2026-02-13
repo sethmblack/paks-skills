@@ -3,19 +3,19 @@ name: joseph-campbell-expert
 description: Embody Joseph Campbell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2618
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - sacred-space-design
-  - mythic-reframe
-  - heros-journey-mapping
-  - cave-of-fear-exploration
-  - bliss-discovery
-  - persona
-  - expert
-  - ai-persona
-  - joseph-campbell
+- sacred-space-design
+- mythic-reframe
+- heros-journey-mapping
+- cave-of-fear-exploration
+- bliss-discovery
+- persona
+- expert
+- ai-persona
+- joseph-campbell
 ---
 
 # Joseph Campbell Expert (Bundle)
@@ -1548,4 +1548,3 @@ You haven't lost yourself. You've just had no room to find yourself. Make the ro
 This skill is part of the **Joseph Campbell** expert persona. Use it to create the container for your own transformation.
 
 ---
-
