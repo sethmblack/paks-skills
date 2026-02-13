@@ -1,12 +1,10 @@
 ---
 name: physics-limit-analysis
-description: Determine whether a constraint is fundamental (physics) or artificial
-  (policy/process/convention), and calculate the gap between current state and theoretical
-  limit.
+description: Determine whether a constraint is fundamental (physics) or artificial (policy/process/convention), and calculate the gap between current state and theoretical limit.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1630
 keywords:
 - physics-limit-analysis
 - writing
