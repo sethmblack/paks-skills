@@ -1,12 +1,10 @@
 ---
 name: platform-strategy-assessment
-description: Evaluate any product, service, or business model through the lens of
-  platform economics—identifying ecosystem opportunities, network effects, and strategic
-  positioning.
+description: Evaluate any product, service, or business model through the lens of platform economics—identifying ecosystem opportunities, network effects, and strategic positioning.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1635
 keywords:
 - platform-strategy-assessment
 - writing
