@@ -1,11 +1,9 @@
 ---
 name: urgency-first
-description: Restructure content to establish WHY the topic matters BEFORE delivering
-  the main points or punchlines, earning audience investment through groundwork rather
-  than hoping they'll care later.
+description: Restructure content to establish WHY the topic matters BEFORE delivering the main points or punchlines, earning audience investment through groundwork rather than hoping they'll care later.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2168
   author: sethmblack
 keywords:
 - callbacks
