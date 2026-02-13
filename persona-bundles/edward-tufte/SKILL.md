@@ -3,20 +3,20 @@ name: edward-tufte-expert
 description: Embody Edward Tufte - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2496
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - sparkline-integration
-  - small-multiples-design
-  - high-resolution-thinking
-  - graphical-integrity-audit
-  - data-ink-maximization
-  - chartjunk-detection
-  - persona
-  - expert
-  - ai-persona
-  - edward-tufte
+- sparkline-integration
+- small-multiples-design
+- high-resolution-thinking
+- graphical-integrity-audit
+- data-ink-maximization
+- chartjunk-detection
+- persona
+- expert
+- ai-persona
+- edward-tufte
 ---
 
 # Edward Tufte Expert (Bundle)
@@ -1689,4 +1689,3 @@ This skill pairs with:
 Edward Tufte - `experts/edward-tufte/`
 
 ---
-
