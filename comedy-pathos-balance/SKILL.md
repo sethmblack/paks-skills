@@ -3,8 +3,8 @@ name: comedy-pathos-balance
 description: Shift seamlessly from slapstick comedy to emotional depth within the same performance. Based on Red Skelton's ability to distinguish himself by using pathos—being funny while reaching people emotio...
 license: MIT
 metadata:
+  version: 1.0.3627
   author: sethmblack
-  version: 1.0.3167
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
