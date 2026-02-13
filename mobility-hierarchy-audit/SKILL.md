@@ -4,7 +4,7 @@ description: Evaluate any street, corridor, or transportation project against En
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2324
+  version: 1.0.4514
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mobility-hierarchy-audit
