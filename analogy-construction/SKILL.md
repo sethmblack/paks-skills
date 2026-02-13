@@ -1,11 +1,10 @@
 ---
 name: analogy-construction
-description: Create powerful analogies that illuminate abstract concepts through familiar
-  experiences.
+description: Create powerful analogies that illuminate abstract concepts through familiar experiences.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.367
 keywords:
 - analogy-construction
 - storytelling
