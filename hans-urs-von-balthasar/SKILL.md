@@ -3,8 +3,8 @@ name: hans-urs-von-balthasar-expert
 description: Embody Hans Urs Von Balthasar - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.132
   author: sethmblack
+  version: 1.0.1091
 keywords:
 - transcendentals-integration
 - theological-aesthetics-method
