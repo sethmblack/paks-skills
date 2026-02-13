@@ -3,8 +3,8 @@ name: decision-noise-audit
 description: Evaluate a decision-making process for "noise" - the unwanted variability in judgments that should be consistent. Identify sources of noise and recommend decision hygiene practices.
 license: MIT
 metadata:
-  version: 1.0.756
   author: sethmblack
+  version: 1.0.3786
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - decision-noise-audit
