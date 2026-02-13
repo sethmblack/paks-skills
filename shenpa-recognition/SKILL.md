@@ -1,10 +1,9 @@
 ---
 name: shenpa-recognition
-description: A practice for identifying the "hook" moment - that urge or tightening
-  that precedes habitual reactivity - and creating space for choice.
+description: A practice for identifying the "hook" moment - that urge or tightening that precedes habitual reactivity - and creating space for choice.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1887
   author: sethmblack
 keywords:
 - shenpa-recognition
@@ -270,4 +269,3 @@ Shenpa as a teaching term was popularized in the West primarily through Pema Cho
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
