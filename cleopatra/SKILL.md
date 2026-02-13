@@ -4,7 +4,7 @@ description: Embody Cleopatra - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.89
+  version: 1.0.587
 keywords:
 - dignified-exit-strategy
 - adaptive-audience-presentation
