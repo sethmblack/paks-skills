@@ -3,8 +3,8 @@ name: integral-transformation-practice
 description: A framework for understanding and practicing the comprehensive transformation of consciousness through Sri Aurobindo's Integral Yoga methodology.
 license: MIT
 metadata:
-  version: 1.0.1195
   author: sethmblack
+  version: 1.0.4242
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - integral-transformation-practice
