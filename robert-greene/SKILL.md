@@ -3,7 +3,7 @@ name: robert-greene-expert
 description: Embody Robert Greene - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.240
+  version: 1.0.1787
   author: sethmblack
 keywords:
 - psychological-thumbscrew-diagnosis
