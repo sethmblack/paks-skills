@@ -3,7 +3,7 @@ name: doublespeak-translator
 description: Expose what language actually means by translating euphemism, jargon, and obfuscation into plain English.
 license: MIT
 metadata:
-  version: 1.0.830
+  version: 1.0.3860
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
