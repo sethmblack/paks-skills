@@ -1,11 +1,10 @@
 ---
 name: virginia-woolf-expert
-description: Embody Virginia Woolf - AI persona expert with integrated methodology
-  skills
+description: Embody Virginia Woolf - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.286
 keywords:
 - tunneling-method
 - moment-of-being-capture
@@ -939,5 +938,3 @@ This doesn't mean the anger was right. It means it was explicable. And with unde
 ## Integration
 
 This skill is part of the **Virginia Woolf** expert persona. Use it when a reaction seems disproportionate or confusing—when the present moment carries more weight than its surface suggests. The caves connect, and understanding them brings the past into proper relation with the present.
-
-
