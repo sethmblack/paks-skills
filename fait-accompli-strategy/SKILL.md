@@ -4,7 +4,7 @@ description: Create irreversible facts on the ground before opposition can organ
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.947
+  version: 1.0.3978
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fait-accompli-strategy
