@@ -3,7 +3,7 @@ name: joe-rogan-expert
 description: Embody Joe Rogan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.159
+  version: 1.0.1241
   author: sethmblack
 keywords:
 - rogan-devils-advocate
