@@ -1,11 +1,9 @@
 ---
 name: phenomenological-stages
-description: A skill for identifying where a person, organization, or idea stands
-  in the development of consciousness and understanding what transformation is required
-  to advance.
+description: A skill for identifying where a person, organization, or idea stands in the development of consciousness and understanding what transformation is required to advance.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1617
   author: sethmblack
 keywords:
 - observational
