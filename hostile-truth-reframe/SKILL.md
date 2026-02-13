@@ -3,8 +3,8 @@ name: hostile-truth-reframe
 description: Transform comfortable lies, euphemistic language, and corporate-speak into direct, uncomfortable truths. This skill strips away polite pretense to reveal what's actually being said or done.
 license: MIT
 metadata:
-  version: 1.0.1134
   author: sethmblack
+  version: 1.0.4179
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hostile-truth-reframe
