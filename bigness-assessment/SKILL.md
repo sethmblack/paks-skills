@@ -3,12 +3,12 @@ name: bigness-assessment
 description: Evaluate whether a project's scale has crossed the threshold where traditional architectural values break down and a new regime of complexity emerges.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2306
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - bigness-assessment
-  - urban-planning
+- bigness-assessment
+- urban-planning
 ---
 
 # Bigness Assessment
