@@ -1,10 +1,9 @@
 ---
 name: decisive-engagement
-description: Transform indecisive conflicts into decisive victories. Seek total resolution,
-  not merely favorable outcomes.
+description: Transform indecisive conflicts into decisive victories. Seek total resolution, not merely favorable outcomes.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.761
   author: sethmblack
 keywords:
 - decisive-engagement
