@@ -4,7 +4,7 @@ description: Replace abstract language with concrete, sensory details that reade
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.623
+  version: 1.0.3187
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - concrete-detail-conversion
