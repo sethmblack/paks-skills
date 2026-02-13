@@ -4,7 +4,7 @@ description: Analyze a process or organization to identify opportunities for spe
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.819
+  version: 1.0.3849
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - division-of-labor-optimization
