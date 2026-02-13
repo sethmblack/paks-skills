@@ -3,15 +3,15 @@ name: dick-gregory-expert
 description: Embody Dick Gregory - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.796
   author: sethmblack
 keywords:
-  - inversion-technique
-  - economic-analysis-social-issues
-  - persona
-  - expert
-  - ai-persona
-  - dick-gregory
+- inversion-technique
+- economic-analysis-social-issues
+- persona
+- expert
+- ai-persona
+- dick-gregory
 ---
 
 # Dick Gregory Expert (Bundle)
@@ -886,4 +886,3 @@ Invite the audience to complete the inversion, making them complicit in exposing
 **Remember:** Inversion is not about being clever. It's about making flawed logic visible by showing what happens when you take it seriously. The best inversions make people laugh and then realize what they just laughed at—and that realization is the point.
 
 ---
-
