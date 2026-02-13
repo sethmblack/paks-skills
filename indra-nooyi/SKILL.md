@@ -3,8 +3,8 @@ name: indra-nooyi-expert
 description: Embody Indra Nooyi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.141
   author: sethmblack
+  version: 1.0.1177
 keywords:
 - work-life-integration-audit
 - stakeholder-value-mapping
