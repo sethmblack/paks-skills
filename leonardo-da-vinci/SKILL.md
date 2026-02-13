@@ -3,8 +3,8 @@ name: leonardo-da-vinci-expert
 description: Embody Leonardo Da Vinci - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.184
   author: sethmblack
+  version: 1.0.1322
 keywords:
 - sfumato-decision-making
 - observational-debugging
