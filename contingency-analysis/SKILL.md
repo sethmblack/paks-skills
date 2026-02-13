@@ -1,11 +1,10 @@
 ---
 name: contingency-analysis
-description: 'Systematically analyze behavior using the three-term contingency (ABC:
-  Antecedent-Behavior-Consequence) to diagnose why behavior occurs or fails to occur.'
+description: 'Systematically analyze behavior using the three-term contingency (ABC: Antecedent-Behavior-Consequence) to diagnose why behavior occurs or fails to occur.'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.651
 keywords:
 - contingency-analysis
 - transformation
