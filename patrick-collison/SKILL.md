@@ -3,7 +3,7 @@ name: patrick-collison-expert
 description: Embody Patrick Collison - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.221
+  version: 1.0.1590
   author: sethmblack
 keywords:
 - trapdoor-decision-filter
