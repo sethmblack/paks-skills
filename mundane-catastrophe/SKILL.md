@@ -1,12 +1,10 @@
 ---
 name: mundane-catastrophe
-description: Take a trivial modern inconvenience and escalate it to reveal disproportionate
-  rage or existential despair, then loop back to highlight the absurdity of the reaction
-  and expose privilege blindness.
+description: Take a trivial modern inconvenience and escalate it to reveal disproportionate rage or existential despair, then loop back to highlight the absurdity of the reaction and expose privilege blindness.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1489
 keywords:
 - absurdist
 - escalation
