@@ -1,12 +1,10 @@
 ---
 name: poetical-science-synthesis
-description: Combine rigorous analytical methods with imaginative exploration - using
-  discipline to test what imagination proposes, as Ada Lovelace did when she fused
-  her father's romantic vision with her mothe...
+description: Combine rigorous analytical methods with imaginative exploration - using discipline to test what imagination proposes, as Ada Lovelace did when she fused her father's romantic vision with her mothe...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1641
 keywords:
 - poetical-science-synthesis
 - structure
