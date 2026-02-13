@@ -3,7 +3,7 @@ name: mental-health-specificity
 description: Replace generic mental health terminology with specific brand names, dosages, institutions, therapeutic concepts, and mundane details that normalize mental illness through radical specificity witho...
 license: MIT
 metadata:
-  version: 1.0.1426
+  version: 1.0.4480
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
