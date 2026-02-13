@@ -4,7 +4,7 @@ description: Embody Bill Burr - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.69
+  version: 1.0.461
 keywords:
 - working-class-translator
 - self-aware-rage
