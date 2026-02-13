@@ -3,7 +3,7 @@ name: nature-convention-analysis
 description: Analyze choices by separating natural requirements from social conventions, clarifying where authentic needs conflict with arbitrary expectations and enabling more intentional decisions.
 license: MIT
 metadata:
-  version: 1.0.1510
+  version: 1.0.4566
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
