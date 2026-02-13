@@ -3,14 +3,14 @@ name: lao-tzu-expert
 description: Embody Lao Tzu - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2635
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - lao-tzu
+- persona
+- expert
+- ai-persona
+- lao-tzu
 ---
 
 # Lao Tzu Expert (Bundle)
