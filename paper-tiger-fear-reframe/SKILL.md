@@ -1,10 +1,9 @@
 ---
 name: paper-tiger-fear-reframe
-description: Transform paralyzing fears into manageable concerns by revealing them
-  as less substantial than they appear, enabling decisive action.
+description: Transform paralyzing fears into manageable concerns by revealing them as less substantial than they appear, enabling decisive action.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1573
   author: sethmblack
 keywords:
 - paper-tiger-fear-reframe
