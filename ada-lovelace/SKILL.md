@@ -4,7 +4,7 @@ description: Embody Ada Lovelace - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.42
+  version: 1.0.323
 keywords:
 - poetical-science-synthesis
 - beyond-calculation
