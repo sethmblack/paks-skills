@@ -3,8 +3,8 @@ name: confessional-honesty
 description: Admit everything. Hide nothing. Make shame impossible by refusing to be ashamed. Use your own failures, flaws, and foolishness to illuminate universal truths that others won't acknowledge about the...
 license: MIT
 metadata:
-  version: 1.0.628
   author: sethmblack
+  version: 1.0.3192
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - confessional-honesty
