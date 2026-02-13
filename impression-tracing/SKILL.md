@@ -3,8 +3,8 @@ name: impression-tracing
 description: Test any abstract idea, concept, or term for legitimate content by tracing it back to the sense impressions from which it derives. Identifies empty concepts that are mere words without experiential...
 license: MIT
 metadata:
-  version: 1.0.1170
   author: sethmblack
+  version: 1.0.4216
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - impression-tracing
