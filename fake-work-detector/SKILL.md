@@ -4,7 +4,7 @@ description: Distinguish between activities that feel productive (motion) and ac
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.951
+  version: 1.0.3982
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
