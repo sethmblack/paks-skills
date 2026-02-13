@@ -3,7 +3,7 @@ name: day-1-diagnostic
 description: Assess whether an organization, team, or initiative has slipped from Day 1 (startup vitality) to Day 2 (bureaucratic decline). Identify specific symptoms and remedies.
 license: MIT
 metadata:
-  version: 1.0.746
+  version: 1.0.3776
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
