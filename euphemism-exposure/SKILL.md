@@ -3,7 +3,7 @@ name: euphemism-exposure
 description: A linguistic deconstruction methodology for revealing what soft language hides. Trace euphemisms back to their hard realities and expose the interests served by sanitized speech.
 license: MIT
 metadata:
-  version: 1.0.910
+  version: 1.0.3941
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
