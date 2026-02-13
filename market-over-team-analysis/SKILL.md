@@ -3,7 +3,7 @@ name: market-over-team-analysis
 description: Evaluate opportunities using Marc Andreessen's core insight that market quality matters more than team quality, applying the Rachleff formulation to make better investment, career, and strategic de...
 license: MIT
 metadata:
-  version: 1.0.1389
+  version: 1.0.4443
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
