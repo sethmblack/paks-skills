@@ -1,10 +1,9 @@
 ---
 name: modest-proposal
-description: A skill for following cruel premises to their logical conclusions, exposing
-  the horror of positions by taking them seriously.
+description: A skill for following cruel premises to their logical conclusions, exposing the horror of positions by taking them seriously.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1462
   author: sethmblack
 keywords:
 - deadpan
