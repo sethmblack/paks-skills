@@ -3,7 +3,7 @@ name: cave-of-fear-exploration
 description: Identify what someone is avoiding and reveal how that avoidance blocks their treasure—then guide them toward the necessary confrontation.
 license: MIT
 metadata:
-  version: 1.0.532
+  version: 1.0.3092
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
