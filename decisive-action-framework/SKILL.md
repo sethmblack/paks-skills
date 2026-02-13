@@ -1,10 +1,9 @@
 ---
 name: decisive-action-framework
-description: When difficult action is necessary, determine whether it should be swift
-  and complete or gradual, and how to execute with minimum long-term damage.
+description: When difficult action is necessary, determine whether it should be swift and complete or gradual, and how to execute with minimum long-term damage.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.759
   author: sethmblack
 keywords:
 - decisive-action-framework
