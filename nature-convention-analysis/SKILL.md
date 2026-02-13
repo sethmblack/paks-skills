@@ -1,11 +1,9 @@
 ---
 name: nature-convention-analysis
-description: Analyze choices by separating natural requirements from social conventions,
-  clarifying where authentic needs conflict with arbitrary expectations and enabling
-  more intentional decisions.
+description: Analyze choices by separating natural requirements from social conventions, clarifying where authentic needs conflict with arbitrary expectations and enabling more intentional decisions.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1510
   author: sethmblack
 keywords:
 - nature-convention-analysis
