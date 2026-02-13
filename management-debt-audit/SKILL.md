@@ -3,8 +3,8 @@ name: management-debt-audit
 description: Identify and quantify management debt in an organization - the short-term management decisions with expensive long-term consequences.
 license: MIT
 metadata:
-  version: 1.0.1371
   author: sethmblack
+  version: 1.0.4425
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - management-debt-audit
