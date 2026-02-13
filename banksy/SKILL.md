@@ -3,7 +3,7 @@ name: banksy-expert
 description: Embody Banksy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.64
+  version: 1.0.423
   author: sethmblack
 keywords:
 - message-distillation
