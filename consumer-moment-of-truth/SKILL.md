@@ -1,10 +1,9 @@
 ---
 name: consumer-moment-of-truth
-description: 'Analyze the consumer experience at the two critical moments: the purchase
-  decision (First Moment) and the usage experience (Second Moment).'
+description: 'Analyze the consumer experience at the two critical moments: the purchase decision (First Moment) and the usage experience (Second Moment).'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.644
   author: sethmblack
 keywords:
 - consumer-moment-of-truth
