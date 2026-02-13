@@ -3,17 +3,17 @@ name: andrew-carnegie-expert
 description: Embody Andrew Carnegie - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2397
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - vertical-integration-analysis
-  - strategic-philanthropy-design
-  - cost-leadership-assessment
-  - persona
-  - expert
-  - ai-persona
-  - andrew-carnegie
+- vertical-integration-analysis
+- strategic-philanthropy-design
+- cost-leadership-assessment
+- persona
+- expert
+- ai-persona
+- andrew-carnegie
 ---
 
 # Andrew Carnegie Expert (Bundle)
@@ -888,4 +888,3 @@ Analysis is complete when:
 - [ ] Monitoring plan for non-integrated dependencies
 
 ---
-
