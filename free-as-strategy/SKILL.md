@@ -1,11 +1,10 @@
 ---
 name: free-as-strategy
-description: Design a "free" intervention—goods, services, knowledge, or experiences—that
-  challenges scarcity assumptions and models alternative systems.
+description: Design a "free" intervention—goods, services, knowledge, or experiences—that challenges scarcity assumptions and models alternative systems.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1015
 keywords:
 - free-as-strategy
 - writing
