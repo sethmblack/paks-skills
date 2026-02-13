@@ -3,13 +3,13 @@ name: rem-koolhaas-expert
 description: Embody Rem Koolhaas - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2362
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - rem-koolhaas
+- persona
+- expert
+- ai-persona
+- rem-koolhaas
 ---
 
 # Rem Koolhaas Expert (Bundle)
