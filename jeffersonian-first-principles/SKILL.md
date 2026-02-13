@@ -3,8 +3,8 @@ name: jeffersonian-first-principles
 description: Evaluate policies, decisions, or institutions by tracing reasoning back to natural rights, social contract theory, and self-evident truths using Thomas Jefferson's methodology.
 license: MIT
 metadata:
-  version: 1.0.1228
   author: sethmblack
+  version: 1.0.4279
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
