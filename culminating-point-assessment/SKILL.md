@@ -3,8 +3,8 @@ name: culminating-point-assessment
 description: '**Expert Origin:** Carl von Clausewitz **Skill Type:** Strategic Diagnostic Framework **Trigger:** "Are we overextending?" / "Should we keep pushing?" / "How far should we go?'
 license: MIT
 metadata:
-  version: 1.0.3270
   author: sethmblack
+  version: 1.0.3730
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - culminating-point-assessment
