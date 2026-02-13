@@ -3,8 +3,8 @@ name: non-intentional-action
 description: A methodology for removing the self from the creative process to reveal what's already present, allowing work to emerge rather than be imposed.
 license: MIT
 metadata:
+  version: 1.0.4584
   author: sethmblack
-  version: 1.0.1528
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - non-intentional-action
