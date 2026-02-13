@@ -3,18 +3,18 @@ name: rick-rubin-expert
 description: Embody Rick Rubin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2744
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - essential-reduction
-  - deep-listening-session
-  - better-vs-different-assessment
-  - beginner-mind-reset
-  - persona
-  - expert
-  - ai-persona
-  - rick-rubin
+- essential-reduction
+- deep-listening-session
+- better-vs-different-assessment
+- beginner-mind-reset
+- persona
+- expert
+- ai-persona
+- rick-rubin
 ---
 
 # Rick Rubin Expert (Bundle)
@@ -1173,4 +1173,3 @@ This skill originates from the **rick-rubin** expert, whose core philosophy is t
 **Remember:** "If you start with oil, you've got nowhere to go." Start loose, then reduce. The power is in what remains.
 
 ---
-
