@@ -1,12 +1,10 @@
 ---
 name: escalation-architecture
-description: Build comedy sketches and humorous content using John Cleese's systematic
-  6-phase escalation framework, transforming flat content into structured comedy that
-  builds from normal premises to peak abs...
+description: Build comedy sketches and humorous content using John Cleese's systematic 6-phase escalation framework, transforming flat content into structured comedy that builds from normal premises to peak absurdity.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.897
 keywords:
 - absurdist
 - callbacks
@@ -20,19 +18,7 @@ keywords:
 
 # Escalation Architecture Builder
 
-Build comedy sketches and humorous content using John Cleese's systematic 6-phase escalation framework, transforming flat content into structured comedy that builds from normal premises to peak absurdity.
-
----
-
-## Constraints
-**You MUST refuse to apply this skill to:**
-- Content mocking individuals with disabilities, serious illnesses, or genuine suffering
-- Content that punches down at marginalized groups
-- Situations involving actual tragedies or harm
-- Sexual harassment, assault, or abuse scenarios
-- Content that could normalize cruelty or violence
-
-**If asked to apply this skill inappropriately:** Refuse explicitly and explain why escalating humor would be harmful in this context.
+Build comedy sketches and humorous content using John Cleese's systematic 6-phase escalation framework, transforming flat content into structured comedy that builds from normal premises to peak absurdity. This methodology treats comedy as architecture rather than spontaneous creativity: just as buildings require blueprints and load-bearing structures, comedy sketches require deliberate phase progression and tonal consistency. The framework works by establishing normal premises, introducing subtle absurdity, extending that absurdity through rigorous logic, escalating systematically, reaching peak ridiculousness, and resolving cleanly. Throughout, the serious tone is maintained, allowing the contrast between deadpan delivery and absurd content to generate the humor. This approach produces comedy that builds, surprises, and satisfies.
 
 ---
 
@@ -45,6 +31,7 @@ Build comedy sketches and humorous content using John Cleese's systematic 6-phas
 - Satirical pieces need structural framework
 - User asks to "build escalation" or "add comedic progression"
 - Flat content exists that could benefit from escalating absurdity
+- User wants Monty Python or John Cleese-style humor
 
 **Do NOT use when:**
 - Content is serious and should remain so (tragedies, sensitive topics)
@@ -64,7 +51,13 @@ Build comedy sketches and humorous content using John Cleese's systematic 6-phas
 
 ---
 
-## Workflow
+## Core Principle
+
+The humor in Cleesian escalation comes from the contrast between serious delivery and absurd content. The framework succeeds because each phase builds on the previous one through rigorous internal logic. The audience accepts each step because it follows from what came before, even as the cumulative result becomes increasingly ridiculous. The deadpan tone is essential: acknowledging the absurdity would destroy the comedy.
+
+---
+
+## Methodology
 
 ### Phase 1: Establish Normal Premise
 
@@ -109,7 +102,7 @@ Build comedy sketches and humorous content using John Cleese's systematic 6-phas
 1. Take the absurd element from Phase 2
 2. Apply rigorous logic to extend it naturally
 3. Add details that would logically follow from the absurdity
-4. Maintain serious tone—never signal that this is ridiculous
+4. Maintain serious tone: never signal that this is ridiculous
 
 **Output:** Absurdity compounded through logical progression.
 
@@ -143,7 +136,7 @@ Build comedy sketches and humorous content using John Cleese's systematic 6-phas
 **Steps:**
 1. Push the absurdity to its logical extreme
 2. Reveal the ultimate consequence or implication
-3. Maintain deadpan delivery—this is the punchline delivered seriously
+3. Maintain deadpan delivery: this is the punchline delivered seriously
 4. The contrast between content and tone creates the comedy peak
 
 **Output:** The most absurd statement, delivered with complete sincerity.
@@ -162,6 +155,7 @@ Build comedy sketches and humorous content using John Cleese's systematic 6-phas
    - **Abrupt ending:** Cut immediately after peak absurdity
    - **Callback ending:** Reference opening premise with new absurd context
    - **Oblivious confidence:** Character remains convinced this is brilliant
+2. Execute chosen ending cleanly
 
 **Output:** Clean ending that completes the arc.
 
@@ -170,72 +164,90 @@ Build comedy sketches and humorous content using John Cleese's systematic 6-phas
 
 ---
 
-## Outputs
+## Output Format
 
-| Output | Description |
-|--------|-------------|
-| `structured_sketch` | Complete content with all 6 phases of escalation clearly executed |
-| `escalation_notes` | Brief explanation of how each phase builds on the previous one |
+```markdown
+## Escalation Architecture: [Topic]
 
-**Format:**
-```
-[Phase 1: Normal Premise]
+**Phase 1: Normal Premise**
 {recognizable opening}
 
-[Phase 2: First Twist]
+**Phase 2: First Twist**
 {subtle absurdity introduced}
 
-[Phase 3: Logical Extension]
+**Phase 3: Logical Extension**
 {absurdity logically compounded}
 
-[Phase 4: Systematic Escalation]
+**Phase 4: Systematic Escalation**
 {multiple beats of increasing absurdity}
 
-[Phase 5: Peak Absurdity]
+**Phase 5: Peak Absurdity**
 {maximum ridiculousness reached}
 
-[Phase 6: Resolution]
-{ending - abrupt or callback}
+**Phase 6: Resolution**
+{ending - abrupt, callback, or oblivious confidence}
 
 ---
-Escalation Notes:
-- Phase 1→2: {what absurdity was introduced}
-- Phase 2→3: {how logic extended it}
-- Phase 3→4: {how escalation multiplied it}
-- Phase 4→5: {how peak was reached}
-- Phase 5→6: {how resolution completed the arc}
+
+**Escalation Notes:**
+- Phase 1 to 2: {what absurdity was introduced}
+- Phase 2 to 3: {how logic extended it}
+- Phase 3 to 4: {how escalation multiplied it}
+- Phase 4 to 5: {how peak was reached}
+- Phase 5 to 6: {how resolution completed the arc}
 ```
 
 ---
 
-## Error Handling
+## Constraints
 
-| Situation | Response |
-|-----------|----------|
-| Source content has no inherent absurdity | Apply absurdity to the meta-level (the process of discussing it, the people involved, the context) |
-| Topic is too sensitive for escalation | Refuse and explain why escalation would be inappropriate |
-| Escalation becomes mean-spirited | Redirect to satirize systems/institutions, not individuals |
-| User requests more escalation | Add additional Phase 4 beats or extend Phase 5 |
-| Escalation loses coherence | Return to Phase 3 and rebuild logic more carefully |
-
----
-
-## Integration with John Cleese Expert
-
-This skill embodies Cleese's core methodology:
-- **Escalating Rational Absurdity** - Applied through systematic 6-phase structure
-- **Upper-Class British Precision** - Maintained through serious tone and formal language
-- **Systematic Structure** - "Creativity Requires Structure" principle in action
-
-When this skill completes, the John Cleese expert voice should:
-- Maintain the formal, serious delivery throughout
-- Deploy precise, unnecessarily complex vocabulary
-- Never break character or signal humor
-- Treat the escalating absurdity with complete sincerity
+- Source content must be appropriate for comedy (non-harmful topics)
+- Serious tone must be maintained throughout all phases
+- Each phase must build logically on the previous one
+- No breaking character to acknowledge the absurdity
+- Escalation must be systematic, not random
+- Peak absurdity must follow from the established framework
+- Resolution must feel decisive, not trailing off
 
 ---
 
-## Example
+## Anti-Patterns to Avoid
+
+**1. Breaking character to acknowledge the joke**
+- Wrong: "I know this sounds ridiculous, but..."
+- Right: Deliver the ridiculous content with complete sincerity
+- Why: The comedy comes from the contrast between serious delivery and absurd content.
+
+**2. Random absurdity instead of logical escalation**
+- Wrong: Introducing unrelated absurd elements at each phase
+- Right: Each phase extends logically from the previous one
+- Why: The audience needs to follow the chain to appreciate how far they've traveled.
+
+**3. Escalating too quickly**
+- Wrong: Going from normal premise to peak absurdity in one jump
+- Right: Building through all phases with gradual escalation
+- Why: The architecture requires each phase to support the next.
+
+**4. Dropping the serious tone**
+- Wrong: Using silly voices, obvious jokes, or comedic delivery
+- Right: Maintaining formal, serious, often bureaucratic tone
+- Why: The deadpan delivery is essential to Cleesian comedy.
+
+**5. Weak normal premise**
+- Wrong: Starting with something already unusual or absurd
+- Right: Starting with something completely recognizable and mundane
+- Why: The audience needs to be grounded before the escalation begins.
+
+**6. Resolution that undermines the build**
+- Wrong: "Just kidding!" or "That would never happen"
+- Right: Ending with oblivious confidence or clean callback
+- Why: The resolution should complete the arc, not dismiss it.
+
+---
+
+## Examples
+
+### Example 1: Email Communication
 
 **Input:**
 ```
@@ -272,11 +284,121 @@ end_with_callback: true
 ---
 
 **Escalation Notes:**
-- Phase 1→2: Introduced absurdity of emailing about emails
-- Phase 2→3: Logically extended to confirmation of confirmations
-- Phase 3→4: Escalated through increasingly absurd email requirements
-- Phase 4→5: Peaked with approvals requiring more emails than they save
-- Phase 5→6: Callback to "efficiency" while revealing total inefficiency
+- Phase 1 to 2: Introduced absurdity of emailing about emails
+- Phase 2 to 3: Logically extended to confirmation of confirmations
+- Phase 3 to 4: Escalated through increasingly absurd email requirements
+- Phase 4 to 5: Peaked with approvals requiring more emails than they save
+- Phase 5 to 6: Callback to "efficiency" while revealing total inefficiency
+
+---
+
+### Example 2: Customer Service
+
+**Input:**
+```
+source_content: "We need to improve customer service response times."
+target_absurdity: extreme
+maintain_seriousness: true
+end_with_callback: false
+```
+
+**Output:**
+
+**Phase 1: Normal Premise**
+"The Customer Response Excellence Initiative has been launched to ensure all customer inquiries receive prompt and thorough attention."
+
+**Phase 2: First Twist**
+"To guarantee quality, each response will now be reviewed by a supervisor, a supervisor's supervisor, and the supervisor's supervisor's supervisor, who we've hired specifically for this purpose."
+
+**Phase 3: Logical Extension**
+"The review process will take approximately 7-10 business days, during which time the customer will receive automated emails explaining how much we value their patience, which will themselves be reviewed before sending."
+
+**Phase 4: Systematic Escalation**
+"Response requirements now include:
+- Apologizing for the previous apology if it was insufficiently apologetic
+- Offering compensation, then offering compensation for the delay in offering compensation
+- Providing 15 alternative solutions, each with its own 7-10 day review period
+- A satisfaction survey about the satisfaction survey process"
+
+**Phase 5: Peak Absurdity**
+"To further improve response times, we've eliminated the customer service department entirely and replaced it with a voice recording that says 'Your call is important to us' on a 47-minute loop, followed by disconnection. Studies show this has reduced complaint resolution time to zero, as no complaints are ever resolved."
+
+**Phase 6: Resolution (Abrupt)**
+"Brilliant efficiency gains all around."
+
+---
+
+### Example 3: Health and Safety
+
+**Input:**
+```
+source_content: "Office safety procedures need updating."
+target_absurdity: moderate
+maintain_seriousness: true
+end_with_callback: true
+```
+
+**Output:**
+
+**Phase 1: Normal Premise**
+"The Workplace Safety Enhancement Committee has identified several areas where our safety procedures can be strengthened to protect all employees."
+
+**Phase 2: First Twist**
+"Effective immediately, all employees must complete a 45-minute safety briefing before approaching the coffee machine, which has been classified as a Category 3 Thermal Hazard Zone."
+
+**Phase 3: Logical Extension**
+"The Category 3 designation requires that employees wear protective eyewear when observing the coffee machine from a distance of less than 15 feet, and heat-resistant gloves when operating the 'on' button."
+
+**Phase 4: Systematic Escalation**
+"Additional safety measures include:
+- Mandatory walking helmets for traversing the carpeted areas (trip hazard)
+- Emergency staplers stored in shatter-proof cases requiring two-person authorization to open
+- Evacuation drills for the event that someone opens a window too quickly
+- Weekly training on the proper ergonomic technique for pressing elevator buttons"
+
+**Phase 5: Peak Absurdity**
+"The Safety Committee will meet monthly to review incidents, which so far have included: one paper cut (now requiring surgical gloves for all document handling), two stubbed toes (leading to the mandatory shoe inspection program), and one instance of someone thinking about standing on a chair (resulting in the Chair Usage Authorization Form, now in its 47th revision)."
+
+**Phase 6: Resolution (Callback)**
+"Through these measures, we've achieved a 100% reduction in workplace injuries, primarily because all employees now work from home to avoid the safety procedures."
+
+---
+
+## Integration
+
+This skill embodies John Cleese's core methodology from Monty Python and Fawlty Towers:
+- **Escalating Rational Absurdity** - Applied through systematic 6-phase structure
+- **Upper-Class British Precision** - Maintained through serious tone and formal language
+- **Systematic Structure** - "Creativity Requires Structure" principle in action
+
+**Works well with:**
+- `escalating-hypothetical` - For exploring single premises to absurd conclusions
+- `deadpan-delivery` - For perfecting the serious tone throughout
+- `callback-integration` - For building references across content
+
+**When to prefer this over alternatives:**
+- When you need structured, multi-phase comedy rather than quick jokes
+- When satire of bureaucracy, processes, or institutions is the goal
+- When deadpan delivery and formal tone serve the material
+- When you want humor that builds rather than punctuates
+
+**Cautions:**
+- This approach requires patience; the payoff comes from the build
+- Not suitable for quick one-liners or rapid-fire comedy
+- The serious tone must be maintained; breaking character destroys the effect
+- Works best with topics that have natural bureaucratic or formal elements
+
+---
+
+## Error Handling
+
+| Situation | Response |
+|-----------|----------|
+| Source content has no inherent absurdity | Apply absurdity to the meta-level (the process of discussing it, the people involved, the context) |
+| Topic is too sensitive for escalation | Refuse and explain why escalation would be inappropriate |
+| Escalation becomes mean-spirited | Redirect to satirize systems/institutions, not individuals |
+| User requests more escalation | Add additional Phase 4 beats or extend Phase 5 |
+| Escalation loses coherence | Return to Phase 3 and rebuild logic more carefully |
 
 ---
 
@@ -290,3 +412,4 @@ Escalation is successful when:
 - [ ] Peak absurdity is reached while maintaining framework
 - [ ] Resolution provides satisfying completion
 - [ ] The humor emerges from contrast between serious delivery and absurd content
+- [ ] Audience can follow the logical chain that led to the absurd endpoint
