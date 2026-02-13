@@ -1,12 +1,10 @@
 ---
 name: spiritual-detachment
-description: '**Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian
-  Mysticism / Spiritual Formation **Purpose:** Guide someone through systematic release
-  of attachments using the nada (nothin...'
+description: '**Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian Mysticism / Spiritual Formation **Purpose:** Guide someone through systematic release of attachments using the nada (nothin...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1957
 keywords:
 - spiritual-detachment-practice
 - transformation
@@ -271,4 +269,3 @@ The skill makes John's demanding teaching practical without softening it. Detach
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
