@@ -3,8 +3,8 @@ name: partner-investment-analysis
 description: Evaluate employee benefit investments through the lens of brand strength and customer experience returns, reframing HR costs as strategic investments in the people who ARE your brand.
 license: MIT
 metadata:
-  version: 1.0.1584
   author: sethmblack
+  version: 1.0.4642
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - partner-investment-analysis
