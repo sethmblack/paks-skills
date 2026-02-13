@@ -1,12 +1,10 @@
 ---
 name: ultimate-concern-analysis
-description: Diagnose whether something finite is being treated as ultimate, reveal
-  the consequences of misplaced ultimacy, and redirect toward what genuinely deserves
-  unconditional devotion.
+description: Diagnose whether something finite is being treated as ultimate, reveal the consequences of misplaced ultimacy, and redirect toward what genuinely deserves unconditional devotion.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2158
 keywords:
 - ultimate-concern-analysis
 - writing
