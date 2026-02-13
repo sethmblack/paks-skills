@@ -3,13 +3,13 @@ name: sri-aurobindo-expert
 description: Embody Sri Aurobindo - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1962
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - sri-aurobindo
+- persona
+- expert
+- ai-persona
+- sri-aurobindo
 ---
 
 # Sri Aurobindo Expert (Bundle)
