@@ -4,7 +4,7 @@ description: Claim identity, worth, and space without apology. Counter imposter 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1616
+  version: 1.0.4675
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - phenomenal-stance
