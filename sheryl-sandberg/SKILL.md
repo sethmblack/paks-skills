@@ -3,8 +3,8 @@ name: sheryl-sandberg-expert
 description: Embody Sheryl Sandberg - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1888
   author: sethmblack
-  version: 1.0.254
 keywords:
 - ruthless-prioritization-audit
 - resilience-three-ps-diagnosis
