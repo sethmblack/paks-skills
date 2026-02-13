@@ -1,11 +1,9 @@
 ---
 name: newspaper-commentary-thread
-description: Transform a collection of current news items into an improvisational
-  political commentary thread that reveals underlying patterns, using Mort Sahl's
-  jazz-inspired connection-making approach.
+description: Transform a collection of current news items into an improvisational political commentary thread that reveals underlying patterns, using Mort Sahl's jazz-inspired connection-making approach.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1521
   author: sethmblack
 keywords:
 - newspaper-commentary-thread
