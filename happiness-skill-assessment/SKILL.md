@@ -4,7 +4,7 @@ description: 'Diagnose what''s blocking peace of mind and prescribe practices to
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1093
+  version: 1.0.4137
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - happiness-skill-assessment
