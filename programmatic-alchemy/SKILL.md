@@ -3,8 +3,8 @@ name: programmatic-alchemy
 description: Combine programs that don't normally coexist to create added value that neither could achieve alone.
 license: MIT
 metadata:
-  version: 1.0.2329
   author: sethmblack
+  version: 1.0.4745
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - programmatic-alchemy
