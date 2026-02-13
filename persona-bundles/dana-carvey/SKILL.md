@@ -3,14 +3,14 @@ name: dana-carvey-expert
 description: Embody Dana Carvey - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2469
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - dana-carvey
+- persona
+- expert
+- ai-persona
+- dana-carvey
 ---
 
 # Dana Carvey Expert (Bundle)
