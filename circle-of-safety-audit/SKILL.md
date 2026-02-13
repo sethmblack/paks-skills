@@ -1,11 +1,10 @@
 ---
 name: circle-of-safety-audit
-description: Assess whether an organization or team has created psychological safety
-  for its members and identify opportunities for building greater trust.
+description: Assess whether an organization or team has created psychological safety for its members and identify opportunities for building greater trust.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.574
 keywords:
 - circle-of-safety-audit
 - writing
