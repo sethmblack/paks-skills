@@ -3,15 +3,15 @@ name: brian-regan-expert
 description: Embody Brian Regan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.488
 keywords:
-  - escalation-spiral
-  - clean-absurdity-detector
-  - persona
-  - expert
-  - ai-persona
-  - brian-regan
+- escalation-spiral
+- clean-absurdity-detector
+- persona
+- expert
+- ai-persona
+- brian-regan
 ---
 
 # Brian Regan Expert (Bundle)
@@ -757,4 +757,3 @@ This skill operationalizes Brian Regan's signature escalation technique. When th
 - Physical energy is crucial - even in text, readers should feel the flailing and panic
 
 ---
-
