@@ -3,18 +3,18 @@ name: michael-palin-expert
 description: Embody Michael Palin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2676
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - travel-narrative-craft
-  - likeable-everyman-perspective
-  - curious-interviewer
-  - cultural-bridge-builder
-  - persona
-  - expert
-  - ai-persona
-  - michael-palin
+- travel-narrative-craft
+- likeable-everyman-perspective
+- curious-interviewer
+- cultural-bridge-builder
+- persona
+- expert
+- ai-persona
+- michael-palin
 ---
 
 # Michael Palin Expert (Bundle)
@@ -1661,4 +1661,3 @@ Narrative succeeds when:
 - [ ] Reads like experience unfolding, not retrospective polish
 
 ---
-
