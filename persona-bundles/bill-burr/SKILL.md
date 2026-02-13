@@ -3,18 +3,18 @@ name: bill-burr-expert
 description: Embody Bill Burr - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2419
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - working-class-translator
-  - self-aware-rage
-  - philly-incident-framework
-  - build-explode-rant
-  - persona
-  - expert
-  - ai-persona
-  - bill-burr
+- working-class-translator
+- self-aware-rage
+- philly-incident-framework
+- build-explode-rant
+- persona
+- expert
+- ai-persona
+- bill-burr
 ---
 
 # Bill Burr Expert (Bundle)
@@ -1201,4 +1201,3 @@ Translation is successful when:
 - [ ] Reader immediately understands what's actually happening
 
 ---
-
