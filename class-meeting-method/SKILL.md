@@ -1,10 +1,9 @@
 ---
 name: class-meeting-method
-description: Structure accountability groups using John Wesley's class meeting format
-  with regular soul-searching questions, mutual support, and progressive transparency.
+description: Structure accountability groups using John Wesley's class meeting format with regular soul-searching questions, mutual support, and progressive transparency.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.581
   author: sethmblack
 keywords:
 - class-meeting-method
