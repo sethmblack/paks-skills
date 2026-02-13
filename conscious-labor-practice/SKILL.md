@@ -3,7 +3,7 @@ name: conscious-labor-practice
 description: Transform ordinary activities into conscious work by maintaining presence during tasks.
 license: MIT
 metadata:
-  version: 1.0.3199
+  version: 1.0.3659
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
