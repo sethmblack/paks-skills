@@ -3,8 +3,8 @@ name: feedback-loop-mapping
 description: Identify and map the reinforcing and balancing feedback loops that drive system behavior. Reveal why interventions succeed or fail by understanding the loops that amplify or resist change.
 license: MIT
 metadata:
-  version: 1.0.960
   author: sethmblack
+  version: 1.0.3991
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - feedback-loop-mapping
