@@ -3,8 +3,8 @@ name: life-affirmation-assessment
 description: Evaluate any value, action, or belief by whether it enhances life, power, and growth - or diminishes, weakens, and promotes decay.
 license: MIT
 metadata:
-  version: 1.0.1332
   author: sethmblack
+  version: 1.0.4386
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - life-affirmation-assessment
