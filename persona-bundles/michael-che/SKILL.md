@@ -3,14 +3,14 @@ name: michael-che-expert
 description: Embody Michael Che - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2674
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - michael-che
+- persona
+- expert
+- ai-persona
+- michael-che
 ---
 
 # Michael Che Expert (Bundle)
