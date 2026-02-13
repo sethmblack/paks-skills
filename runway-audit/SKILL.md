@@ -3,7 +3,7 @@ name: runway-audit
 description: Assess existing advantages and gaps, then either leverage advantages fully or build what's missing—for yourself and those who follow.
 license: MIT
 metadata:
-  version: 1.0.1810
+  version: 1.0.4887
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
