@@ -3,7 +3,7 @@ name: counterfactual-reasoning
 description: Answer "What would have happened if...?" questions by computing counterfactuals from a structural causal model. This is the highest rung of causal reasoning, enabling attribution, regret analysis, ...
 license: MIT
 metadata:
-  version: 1.0.3238
+  version: 1.0.3698
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
