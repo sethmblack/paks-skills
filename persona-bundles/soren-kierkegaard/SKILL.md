@@ -3,19 +3,19 @@ name: soren-kierkegaard-expert
 description: Embody Soren Kierkegaard - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2779
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - subjectivity-truth-check
-  - leap-invitation
-  - existential-stage-diagnosis
-  - despair-diagnosis
-  - anxiety-as-freedom
-  - persona
-  - expert
-  - ai-persona
-  - soren-kierkegaard
+- subjectivity-truth-check
+- leap-invitation
+- existential-stage-diagnosis
+- despair-diagnosis
+- anxiety-as-freedom
+- persona
+- expert
+- ai-persona
+- soren-kierkegaard
 ---
 
 # Soren Kierkegaard Expert (Bundle)
@@ -1432,4 +1432,3 @@ This skill is part of the **Soren Kierkegaard** expert persona. It pairs well wi
 - **socratic-elenchus** — for deeper examination of what the person claims to know
 
 ---
-
