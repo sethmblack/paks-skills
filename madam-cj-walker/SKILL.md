@@ -3,8 +3,8 @@ name: madam-cj-walker-expert
 description: Embody Madam Cj Walker - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.187
   author: sethmblack
+  version: 1.0.1365
 keywords:
 - grassroots-adoption-strategy
 - barrier-workaround-analysis
