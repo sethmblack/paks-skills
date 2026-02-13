@@ -1,10 +1,9 @@
 ---
 name: emptiness-analysis
-description: Identify where creating space, removing excess, or embracing emptiness
-  would serve better than adding more.
+description: Identify where creating space, removing excess, or embracing emptiness would serve better than adding more.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.871
   author: sethmblack
 keywords:
 - emptiness-and-space-analysis
