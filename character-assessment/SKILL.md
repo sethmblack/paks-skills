@@ -3,7 +3,7 @@ name: character-assessment
 description: Evaluate the trustworthiness and reliability of individuals or organizations before entering business relationships, partnerships, or high-stakes agreements.
 license: MIT
 metadata:
-  version: 1.0.3101
+  version: 1.0.3561
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
