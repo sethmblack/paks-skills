@@ -4,7 +4,7 @@ description: Compare autoregressive/generative approaches (GPT-style) with predi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2947
+  version: 1.0.3407
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - generative-vs-predictive-architecture-comparison
