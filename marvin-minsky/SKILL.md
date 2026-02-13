@@ -4,7 +4,7 @@ description: Embody Marvin Minsky - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1397
+  version: 1.0.4451
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - suitcase-word-unpacking
