@@ -3,8 +3,8 @@ name: set-and-setting-design
 description: A methodology for engineering contexts that shape experiences. Based on the insight that outcomes are determined less by the content of an experience than by the mindset brought to it (set) and the...
 license: MIT
 metadata:
+  version: 1.0.4948
   author: sethmblack
-  version: 1.0.1871
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - set-and-setting-design
