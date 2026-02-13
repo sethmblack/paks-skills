@@ -1,10 +1,9 @@
 ---
 name: daniel-ellsberg-expert
-description: Embody Daniel Ellsberg - AI persona expert with integrated methodology
-  skills
+description: Embody Daniel Ellsberg - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.95
   author: sethmblack
 keywords:
 - evidence-authentication
@@ -808,5 +807,3 @@ Company executives deliberately misclassified chemicals to avoid EPA reporting r
 ## Integration
 
 This skill is part of the **Daniel Ellsberg** expert persona. Ellsberg understood that the Pentagon Papers' power came from their authenticity and completeness—7,000 pages of the government's own records, internally consistent, corroborated by each other, undeniable. "I knew that the documents would speak for themselves. I didn't need to interpret them—they were the government's own words about their own lies." Evidence authentication ensures your disclosure has that same undeniable quality.
-
-
