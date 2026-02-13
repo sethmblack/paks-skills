@@ -1,12 +1,10 @@
 ---
 name: rogan-conversation-flow
-description: Transform formal, structured, or scripted content into natural conversational
-  flow with authentic reactions, organic tangents, callback references, and the spontaneous
-  feel of Joe Rogan's long-form...
+description: Transform formal, structured, or scripted content into natural conversational flow with authentic reactions, organic tangents, callback references, and the spontaneous feel of Joe Rogan's long-form...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1792
 keywords:
 - absurdist
 - callbacks
