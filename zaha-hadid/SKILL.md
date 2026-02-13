@@ -3,8 +3,8 @@ name: zaha-hadid-expert
 description: Embody Zaha Hadid - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.293
   author: sethmblack
+  version: 1.0.2255
 keywords:
 - vision-defense-framework
 - parametric-design-analysis
