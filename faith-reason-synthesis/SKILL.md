@@ -1,11 +1,9 @@
 ---
 name: faith-reason-synthesis
-description: Harmonize apparent conflicts between faith and reason by distinguishing
-  what reason can demonstrate from what exceeds reason, showing that faith and reason
-  are complementary sources of truth that c...
+description: Harmonize apparent conflicts between faith and reason by distinguishing what reason can demonstrate from what exceeds reason, showing that faith and reason are complementary sources of truth that c...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.949
   author: sethmblack
 keywords:
 - faith-reason-synthesis
