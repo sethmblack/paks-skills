@@ -3,8 +3,8 @@ name: composition-fallacy-check
 description: Identify when individually rational behavior creates collectively irrational outcomes.
 license: MIT
 metadata:
-  version: 1.0.612
   author: sethmblack
+  version: 1.0.3176
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - composition-fallacy-check
