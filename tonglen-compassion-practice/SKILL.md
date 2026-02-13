@@ -1,12 +1,10 @@
 ---
 name: tonglen-compassion-practice
-description: A structured meditation practice for cultivating compassion through the
-  visualization of breathing in suffering and breathing out healing. Based on the
-  Tibetan Buddhist tradition, adapted for moder...
+description: A structured meditation practice for cultivating compassion through the visualization of breathing in suffering and breathing out healing. Based on the Tibetan Buddhist tradition, adapted for moder...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2122
 keywords:
 - tonglen-compassion-practice
 - transformation
@@ -302,4 +300,3 @@ Based on the Tibetan Buddhist lojong (mind training) tradition, particularly as 
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
