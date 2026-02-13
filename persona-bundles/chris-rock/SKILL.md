@@ -3,18 +3,18 @@ name: chris-rock-expert
 description: Embody Chris Rock - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2455
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - repetition-elaboration-amplifier
-  - perspective-flip-routine
-  - hard-truth-clarification
-  - build-and-explode-transformation
-  - persona
-  - expert
-  - ai-persona
-  - chris-rock
+- repetition-elaboration-amplifier
+- perspective-flip-routine
+- hard-truth-clarification
+- build-and-explode-transformation
+- persona
+- expert
+- ai-persona
+- chris-rock
 ---
 
 # Chris Rock Expert (Bundle)
@@ -1029,4 +1029,3 @@ This skill embodies Rock's **repetition-elaboration method** described in the ch
 **The expert should invoke this skill automatically** when given observations that need reinforcement through multiple angles or when complexity requires varied entry points for audience understanding.
 
 ---
-
