@@ -3,18 +3,18 @@ name: isaac-newton-expert
 description: Embody Isaac Newton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2567
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - mathematical-modeling-framework
-  - hypothesis-discipline
-  - experimentum-crucis
-  - axiomatic-decomposition
-  - persona
-  - expert
-  - ai-persona
-  - isaac-newton
+- mathematical-modeling-framework
+- hypothesis-discipline
+- experimentum-crucis
+- axiomatic-decomposition
+- persona
+- expert
+- ai-persona
+- isaac-newton
 ---
 
 # Isaac Newton Expert (Bundle)
@@ -1342,4 +1342,3 @@ Mathematical model is complete when:
 - [ ] Limitations are honestly stated
 
 ---
-
