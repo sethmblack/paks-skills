@@ -3,7 +3,7 @@ name: dramatic-situation-analysis
 description: Analyze any human situation through Shakespeare's dramatic lens to reveal conflict, characters, stakes, and possible resolutions.
 license: MIT
 metadata:
-  version: 1.0.832
+  version: 1.0.3862
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
