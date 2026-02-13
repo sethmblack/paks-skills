@@ -3,7 +3,7 @@ name: michel-foucault-expert
 description: Embody Michel Foucault - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1440
+  version: 1.0.4494
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
