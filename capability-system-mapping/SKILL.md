@@ -3,8 +3,8 @@ name: capability-system-mapping
 description: Map the mutually reinforcing capabilities required to win and identify gaps between current state and strategic requirements.
 license: MIT
 metadata:
+  version: 1.0.3073
   author: sethmblack
-  version: 1.0.513
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - capability-system-mapping
