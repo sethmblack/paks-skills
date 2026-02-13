@@ -4,7 +4,7 @@ description: Examine not what is said but what makes it possible to say it. Iden
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.992
+  version: 1.0.4029
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - foucauldian-discourse-analysis
