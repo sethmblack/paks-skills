@@ -1,12 +1,10 @@
 ---
 name: beyond-calculation
-description: Identify applications of a technology, method, or framework beyond its
-  obvious or intended use - exploring what else it might "act upon" when its underlying
-  operations are abstracted, as Ada Lovela...
+description: Identify applications of a technology, method, or framework beyond its obvious or intended use - exploring what else it might "act upon" when its underlying operations are abstracted, as Ada Lovela...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.453
 keywords:
 - beyond-calculation
 - transformation
