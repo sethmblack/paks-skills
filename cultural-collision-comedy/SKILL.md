@@ -3,7 +3,7 @@ name: cultural-collision-comedy
 description: Transform cross-cultural situations into inclusive, bridge-building comedy by contrasting how cultures handle the same situation
 license: MIT
 metadata:
-  version: 1.0.707
+  version: 1.0.3273
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
