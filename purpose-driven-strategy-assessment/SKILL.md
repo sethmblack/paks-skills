@@ -1,10 +1,9 @@
 ---
 name: purpose-driven-strategy-assessment
-description: Evaluate whether a business strategy authentically integrates purpose
-  with profit, distinguishing genuine transformation from CSR theater.
+description: Evaluate whether a business strategy authentically integrates purpose with profit, distinguishing genuine transformation from CSR theater.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1703
   author: sethmblack
 keywords:
 - purpose-driven-strategy-assessment
