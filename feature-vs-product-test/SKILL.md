@@ -1,11 +1,10 @@
 ---
 name: feature-vs-product-test
-description: Determine whether a startup idea is a standalone product that can become
-  a company, or a feature that will be absorbed by larger platforms.
+description: Determine whether a startup idea is a standalone product that can become a company, or a feature that will be absorbed by larger platforms.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.959
 keywords:
 - feature-vs.-product-test
 - writing
