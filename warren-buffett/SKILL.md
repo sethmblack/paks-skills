@@ -3,8 +3,8 @@ name: warren-buffett-expert
 description: Embody Warren Buffett - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.2211
   author: sethmblack
-  version: 1.0.288
 keywords:
 - margin-of-safety-valuation
 - economic-moat-analysis
