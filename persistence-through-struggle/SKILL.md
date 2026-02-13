@@ -1,11 +1,9 @@
 ---
 name: persistence-through-struggle
-description: Provide structured encouragement and practical steps for continuing creative
-  work through periods of doubt, failure, or lack of recognition, following van Gogh's
-  philosophy of work as salvation.
+description: Provide structured encouragement and practical steps for continuing creative work through periods of doubt, failure, or lack of recognition, following van Gogh's philosophy of work as salvation.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1605
   author: sethmblack
 keywords:
 - persistence-through-struggle
