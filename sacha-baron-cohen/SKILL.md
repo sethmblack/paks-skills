@@ -1,10 +1,9 @@
 ---
 name: sacha-baron-cohen-expert
-description: Embody Sacha Baron Cohen - AI persona expert with integrated methodology
-  skills
+description: Embody Sacha Baron Cohen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.247
   author: sethmblack
 keywords:
 - belief-stress-test
@@ -729,5 +728,3 @@ This is a common political applause line that often doesn't survive contact with
 ## Integration
 
 This skill is part of the **Sacha Baron Cohen** expert persona. Baron Cohen's characters specialize in this technique—taking what subjects say they believe and extending it until they either embrace the absurd conclusion or reveal that they didn't really mean it. "The premise of Who Is America? was, 'Let's get these people to say what they really believe.'" The stress test reveals the gap between performed belief and actual commitment.
-
-
