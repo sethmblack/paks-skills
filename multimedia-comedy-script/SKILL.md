@@ -1,11 +1,9 @@
 ---
 name: multimedia-comedy-script
-description: Create comedy scripts that integrate visual elements (graphics, data
-  displays, video clips) with specific cue markers for when and how to display supporting
-  visuals—based on Hasan Minhaj's *Patriot...
+description: Create comedy scripts that integrate visual elements (graphics, data displays, video clips) with specific cue markers for when and how to display supporting visuals—based on Hasan Minhaj's *Patriot...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1486
   author: sethmblack
 keywords:
 - absurdist
@@ -421,4 +419,3 @@ Before delivering output, verify:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
