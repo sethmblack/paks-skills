@@ -1,12 +1,10 @@
 ---
 name: grace-before-effort
-description: Reframe "try harder" advice by identifying enabling conditions (grace)
-  required before willpower can succeed, based on Augustine's insight that the will
-  must be enabled before it can act rightly - ...
+description: Reframe "try harder" advice by identifying enabling conditions (grace) required before willpower can succeed, based on Augustine's insight that the will must be enabled before it can act rightly - ...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1061
 keywords:
 - grace-before-effort
 - transformation
