@@ -1,11 +1,10 @@
 ---
 name: preparation-audit
-description: Assess readiness for a venture against Earhart's two-thirds standard,
-  identifying preparation gaps before commitment.
+description: Assess readiness for a venture against Earhart's two-thirds standard, identifying preparation gaps before commitment.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1666
 keywords:
 - preparation-audit
 - transformation
