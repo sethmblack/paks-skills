@@ -3,8 +3,8 @@ name: thomas-jefferson-expert
 description: Embody Thomas Jefferson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.2096
   author: sethmblack
-  version: 1.0.277
 keywords:
 - jeffersonian-first-principles
 - educational-architecture
