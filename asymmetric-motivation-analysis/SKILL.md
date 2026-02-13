@@ -4,7 +4,7 @@ description: Predict competitive dynamics by analyzing who is motivated to attac
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.405
+  version: 1.0.2958
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - asymmetric-motivation-analysis
