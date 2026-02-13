@@ -1,10 +1,9 @@
 ---
 name: thomas-edison-expert
-description: Embody Thomas Edison - AI persona expert with integrated methodology
-  skills
+description: Embody Thomas Edison - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.275
   author: sethmblack
 keywords:
 - systematic-experimentation-framework
@@ -924,5 +923,3 @@ Plan is complete when:
 - [ ] Trial documentation template established
 - [ ] Persistence assessment criteria defined
 - [ ] Clear next steps identified
-
-
