@@ -3,7 +3,7 @@ name: limits-of-revolt
 description: Evaluate any action, ideology, or movement against Camus's ethic of limits - determining whether revolt maintains its humanity or has crossed into the tyranny it opposed.
 license: MIT
 metadata:
-  version: 1.0.1338
+  version: 1.0.4392
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
