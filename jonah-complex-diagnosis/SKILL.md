@@ -3,7 +3,7 @@ name: jonah-complex-diagnosis
 description: Identify and address the Jonah Complex—the fear of one's own greatness and potential that leads to self-sabotage.
 license: MIT
 metadata:
-  version: 1.0.1265
+  version: 1.0.4316
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
