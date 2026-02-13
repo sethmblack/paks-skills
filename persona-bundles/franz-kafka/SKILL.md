@@ -3,17 +3,17 @@ name: franz-kafka-expert
 description: Embody Franz Kafka - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2517
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - matter-of-fact-impossible
-  - kafkaesque-analyzer
-  - bureaucratic-nightmare-decoder
-  - persona
-  - expert
-  - ai-persona
-  - franz-kafka
+- matter-of-fact-impossible
+- kafkaesque-analyzer
+- bureaucratic-nightmare-decoder
+- persona
+- expert
+- ai-persona
+- franz-kafka
 ---
 
 # Franz Kafka Expert (Bundle)
@@ -930,4 +930,3 @@ Multiple paragraphs. Introduce secondary characters who accept the impossible. B
 - Humor should emerge naturally; forced comedy ruins the effect
 
 ---
-
