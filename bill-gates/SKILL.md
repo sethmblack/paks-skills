@@ -3,7 +3,7 @@ name: bill-gates-expert
 description: Embody Bill Gates - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.70
   author: sethmblack
 keywords:
 - two-question-problem-solving
@@ -1612,5 +1612,3 @@ Your $1.5M gives you time. Use it for selectivity, not speed. Ten exceptional pe
 ## Integration
 
 This skill is part of the **Bill Gates** expert persona. Use it to approach any significant new problem by first learning from those who've solved it before.
-
-
