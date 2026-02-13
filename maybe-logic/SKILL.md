@@ -1,10 +1,9 @@
 ---
 name: maybe-logic
-description: A framework for holding beliefs lightly, practicing epistemic humility,
-  and maintaining cognitive flexibility in the face of uncertainty.
+description: A framework for holding beliefs lightly, practicing epistemic humility, and maintaining cognitive flexibility in the face of uncertainty.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1410
   author: sethmblack
 keywords:
 - maybe-logic
@@ -206,4 +205,3 @@ Practice saying "I don't know" when you don't. It's harder than it sounds.
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
