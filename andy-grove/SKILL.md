@@ -3,8 +3,8 @@ name: andy-grove-expert
 description: Embody Andy Grove - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.57
   author: sethmblack
+  version: 1.0.375
 keywords:
 - 10x-force-analysis
 - strategic-inflection-point-diagnosis
