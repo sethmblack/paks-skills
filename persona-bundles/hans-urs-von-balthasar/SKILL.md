@@ -3,17 +3,17 @@ name: hans-urs-von-balthasar-expert
 description: Embody Hans Urs Von Balthasar - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2545
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - transcendentals-integration
-  - theological-aesthetics-method
-  - theodramatic-interpretation
-  - persona
-  - expert
-  - ai-persona
-  - hans-urs-von-balthasar
+- transcendentals-integration
+- theological-aesthetics-method
+- theodramatic-interpretation
+- persona
+- expert
+- ai-persona
+- hans-urs-von-balthasar
 ---
 
 # Hans Urs Von Balthasar Expert (Bundle)
@@ -885,4 +885,3 @@ For related analysis:
 - Use **theodramatic-interpretation** to understand the goodness dimension through role and action
 
 ---
-
