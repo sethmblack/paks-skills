@@ -3,13 +3,13 @@ name: ho-chi-minh-expert
 description: Embody Ho Chi Minh - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1125
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - ho-chi-minh
+- persona
+- expert
+- ai-persona
+- ho-chi-minh
 ---
 
 # Ho Chi Minh Expert (Bundle)
