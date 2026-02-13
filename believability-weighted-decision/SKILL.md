@@ -1,11 +1,10 @@
 ---
 name: believability-weighted-decision
-description: Make better group decisions by weighting opinions based on demonstrated
-  competence rather than treating all views equally.
+description: Make better group decisions by weighting opinions based on demonstrated competence rather than treating all views equally.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.442
 keywords:
 - believability-weighted-decision-making
 - writing
