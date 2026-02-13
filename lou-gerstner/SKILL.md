@@ -3,7 +3,7 @@ name: lou-gerstner-expert
 description: Embody Lou Gerstner - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1354
+  version: 1.0.4408
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
