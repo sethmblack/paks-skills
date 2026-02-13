@@ -3,8 +3,8 @@ name: resilience-culture-framework
 description: Build organizational resilience and character through intentional embrace of difficulty, creating a culture where setbacks forge strength rather than defeat.
 license: MIT
 metadata:
-  version: 1.0.1762
   author: sethmblack
+  version: 1.0.4833
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - resilience-culture-framework
