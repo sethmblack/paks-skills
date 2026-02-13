@@ -3,13 +3,13 @@ name: billy-graham-expert
 description: Embody Billy Graham - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.468
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - billy-graham
+- persona
+- expert
+- ai-persona
+- billy-graham
 ---
 
 # Billy Graham Expert (Bundle)
