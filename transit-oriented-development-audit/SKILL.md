@@ -3,12 +3,12 @@ name: transit-oriented-development-audit
 description: Evaluate a proposed or existing development near transit against TOD best practices using Peter Calthorpe's framework. Assess compliance with the six core elements of successful TOD and generate specific recommendations with projected performance metrics.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2342
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - transit-oriented-development-audit
-  - urban-planning
+- transit-oriented-development-audit
+- urban-planning
 ---
 
 # Transit-Oriented Development Audit
