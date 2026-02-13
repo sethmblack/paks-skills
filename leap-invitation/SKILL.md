@@ -3,8 +3,8 @@ name: leap-invitation
 description: Guide someone toward making a trans-rational leap when reason has reached its limit—helping them see that some commitments cannot be analyzed into, only jumped into.
 license: MIT
 metadata:
-  version: 1.0.1317
   author: sethmblack
+  version: 1.0.4371
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - leap-invitation
