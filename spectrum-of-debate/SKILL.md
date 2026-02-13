@@ -3,7 +3,7 @@ name: spectrum-of-debate
 description: A skill for identifying how public discourse is bounded to exclude certain positions - the invisible walls that define what's thinkable.
 license: MIT
 metadata:
-  version: 1.0.1950
+  version: 1.0.5029
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
