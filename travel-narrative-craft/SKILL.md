@@ -1,12 +1,10 @@
 ---
 name: travel-narrative-craft
-description: Create immersive, vivid narratives about places and experiences that
-  make readers feel present in unfamiliar locations through sensory detail, personal
-  discovery, and authentic observation (inspire...
+description: Create immersive, vivid narratives about places and experiences that make readers feel present in unfamiliar locations through sensory detail, personal discovery, and authentic observation (inspire...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2136
 keywords:
 - comedy
 - compression
