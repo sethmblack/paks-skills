@@ -3,7 +3,7 @@ name: physical-comedy-punctuation
 description: Add [physical action] annotations (tie adjustment, eye bulge, brow wipe) between punchlines to create rhythm, timing, and visual reinforcement of Rodney Dangerfield's defeated character.
 license: MIT
 metadata:
-  version: 1.0.1628
+  version: 1.0.4687
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
