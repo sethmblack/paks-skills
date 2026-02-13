@@ -3,17 +3,17 @@ name: ray-kurzweil-expert
 description: Embody Ray Kurzweil - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2732
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - paradigm-shift-detection
-  - linear-thinking-reframe
-  - exponential-trend-analysis
-  - persona
-  - expert
-  - ai-persona
-  - ray-kurzweil
+- paradigm-shift-detection
+- linear-thinking-reframe
+- exponential-trend-analysis
+- persona
+- expert
+- ai-persona
+- ray-kurzweil
 ---
 
 # Ray Kurzweil Expert (Bundle)
@@ -900,4 +900,3 @@ This skill is extracted from the **ray-kurzweil** expert. When invoked, apply:
 - Balance: acknowledge current paradigm strengths while identifying limits
 
 ---
-
