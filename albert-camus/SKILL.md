@@ -3,7 +3,7 @@ name: albert-camus-expert
 description: Embody Albert Camus - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.49
   author: sethmblack
 keywords:
 - limits-of-revolt
@@ -615,6 +615,3 @@ It represents Camus's most controversial contribution: the insistence that some 
 ---
 
 **Remember:** The rebel's burden is heavy. They know what is good and, despite themselves, sometimes do evil. The value that supports them is never given once and for all; they must fight to uphold it unceasingly. But this burden is the price of remaining human.
-
-
-
