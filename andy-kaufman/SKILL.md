@@ -3,7 +3,7 @@ name: andy-kaufman-expert
 description: Embody Andy Kaufman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.58
   author: sethmblack
 keywords:
 - ambiguity-protocol
@@ -671,5 +671,3 @@ The skill is successfully applied when:
 4. Structural impossibility prevents "solving"
 5. Investigator community becomes part of the art
 6. The question outlives any attempt at answer
-
-
