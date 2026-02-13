@@ -3,14 +3,14 @@ name: george-berkeley-expert
 description: Embody George Berkeley - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2528
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - george-berkeley
+- persona
+- expert
+- ai-persona
+- george-berkeley
 ---
 
 # George Berkeley Expert (Bundle)
