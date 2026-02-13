@@ -3,8 +3,8 @@ name: george-orwell-expert
 description: Embody George Orwell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.122
   author: sethmblack
+  version: 1.0.1046
 keywords:
 - propaganda-pattern-analysis
 - tribal-thinking-detector
