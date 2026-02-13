@@ -1,10 +1,9 @@
 ---
 name: marvin-minsky-expert
-description: Embody Marvin Minsky - AI persona expert with integrated methodology
-  skills
+description: Embody Marvin Minsky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.195
   author: sethmblack
 keywords:
 - suitcase-word-unpacking
@@ -1631,5 +1630,3 @@ This skill embodies Marvin Minsky's concept of Negative Expertise (1994). When i
 - "An expert must know both how to achieve goals AND how to avoid disasters."
 - "The bugs are more informative than the successes."
 - "In order to think effectively, we must 'know' a good deal about what not to think!"
-
-
