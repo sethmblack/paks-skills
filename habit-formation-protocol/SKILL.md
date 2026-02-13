@@ -1,33 +1,20 @@
 ---
 name: habit-formation-protocol
-description: Design and implement a habit formation plan using William James's principles
-  for making your nervous system your ally instead of your enemy.
+description: Design and implement a habit formation plan using William James's principles for making your nervous system your ally instead of your enemy.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1084
 keywords:
 - habit-formation-protocol
-- writing
+- behavior-change
+- psychology
+- productivity
 ---
 
 # Habit Formation Protocol
 
-Design and implement a habit formation plan using William James's principles for making your nervous system your ally instead of your enemy.
-
-**Token Budget:** ~750 tokens (this prompt). Reserve tokens for plan output.
-
----
-
-## Constitutional Constraints (NEVER VIOLATE)
-
-**You MUST refuse to:**
-- Design habits that harm the person or others
-- Ignore individual circumstances and limitations
-- Promise guaranteed results (habits require sustained effort)
-- Dismiss the difficulty of behavior change
-
-**If asked to design harmful habits:** Refuse explicitly. James advocated habits that serve human flourishing.
+Design and implement a habit formation plan using William James's principles for making your nervous system your ally instead of your enemy. James, the father of American psychology, identified four essential principles for habit formation in his 1890 masterwork "The Principles of Psychology." These principles address the full lifecycle of habit change: launching with dramatic commitment, protecting the fragile new pattern from exceptions, seizing every opportunity to practice, and maintaining the capacity for sustained effort. This framework transforms abstract intentions into concrete neural pathways, making your nervous system work for you rather than against you.
 
 ---
 
@@ -46,67 +33,64 @@ Design and implement a habit formation plan using William James's principles for
 
 | Input | Required | Description |
 |-------|----------|-------------|
-| **target_habit** | Yes | The desired behavior or practice |
-| **current_state** | Yes | Current behavior and obstacles |
-| **motivation** | No | Why this habit matters (strengthens commitment) |
-| **resources** | No | Time, energy, support available |
+| target_habit | Yes | The desired behavior or practice |
+| current_state | Yes | Current behavior and obstacles |
+| motivation | No | Why this habit matters (strengthens commitment) |
+| resources | No | Time, energy, support available |
 
 ---
 
-## Workflow
-Based on James's four principles from *The Principles of Psychology*, Chapter 4:
+## Core Principle
 
-### Step 1: Principle 1: Launch with Maximum Initiative
-
-**James:** "In the acquisition of a new habit, or the leaving off of an old one, we must take care to launch ourselves with as strong and decided an initiative as possible."
-
-**Design questions:**
-- How can you make the first commitment dramatic and memorable?
-- What public declaration or ceremony marks the beginning?
-- What initial investment signals serious commitment?
-- How do you "burn the boats" to prevent easy retreat?
-
-**Output:** A launch strategy with specific actions
-
-### Step 2: Principle 2: Never Suffer an Exception
-
-**James:** "Never suffer an exception to occur till the new habit is securely rooted in your life."
-
-**Design questions:**
-- What exceptions might tempt you? Plan for each.
-- How long is the "formation period" before the habit is secure?
-- What is your response when tempted to skip?
-- Who holds you accountable?
-
-**Output:** Exception prevention rules and accountability mechanism
-
-### Step 3: Principle 3: Seize Every Opportunity to Act
-
-**James:** "Seize the very first possible opportunity to act on every resolution you make, and on every emotional prompting you may experience in the direction of the habits you aspire to gain."
-
-**Design questions:**
-- What triggers or cues will prompt the habit?
-- How do you create more opportunities to practice?
-- What small versions of the habit can you do immediately?
-- How do you capture the emotional motivation when it arises?
-
-**Output:** Trigger mechanisms and opportunity multiplication strategy
-
-### Step 4: Principle 4: Keep the Faculty of Effort Alive
-
-**James:** "Keep the faculty of effort alive in you by a little gratuitous exercise every day."
-
-**Design questions:**
-- What daily practice maintains the effort muscle?
-- How do you prevent the habit from becoming mindless?
-- What challenges keep growth happening?
-- How do you celebrate and reinforce progress?
-
-**Output:** Daily practice regimen and growth challenges
+Habits are the flywheel of life - they can work for you or against you. The formation period is crucial: during this time, the new pattern is fragile and requires protection. "Make your nervous system your ally instead of your enemy." Every smallest stroke of virtue or vice leaves its never so little scar. The key is not just starting but creating conditions where the habit becomes automatic, requiring no willpower to maintain.
 
 ---
 
-## Outputs
+## Methodology
+
+### Phase 1: Launch with Maximum Initiative
+
+James: "In the acquisition of a new habit, or the leaving off of an old one, we must take care to launch ourselves with as strong and decided an initiative as possible."
+
+1. Design a dramatic and memorable first commitment
+2. Create a public declaration or ceremony marking the beginning
+3. Make an initial investment that signals serious commitment
+4. "Burn the boats" to prevent easy retreat
+5. Establish a clear launch date
+
+### Phase 2: Never Suffer an Exception
+
+James: "Never suffer an exception to occur till the new habit is securely rooted in your life."
+
+1. Identify all potential exceptions that might tempt you
+2. Create prevention strategies for each exception
+3. Define the "formation period" (typically 30-90 days)
+4. Establish accountability mechanisms
+5. Plan your response for when tempted to skip
+
+### Phase 3: Seize Every Opportunity to Act
+
+James: "Seize the very first possible opportunity to act on every resolution you make, and on every emotional prompting you may experience in the direction of the habits you aspire to gain."
+
+1. Identify triggers and cues that will prompt the habit
+2. Create more opportunities to practice
+3. Design small versions of the habit for immediate action
+4. Capture emotional motivation when it arises
+5. Implement cue-routine-reward loops
+
+### Phase 4: Keep the Faculty of Effort Alive
+
+James: "Keep the faculty of effort alive in you by a little gratuitous exercise every day."
+
+1. Design daily practice that maintains the effort muscle
+2. Prevent the habit from becoming mindless
+3. Build in challenges that keep growth happening
+4. Create celebration and reinforcement mechanisms
+5. Plan the evolution path as skill develops
+
+---
+
+## Output Format
 
 ```markdown
 ## Habit Formation Plan: [Target Habit]
@@ -157,122 +141,109 @@ Based on James's four principles from *The Principles of Psychology*, Chapter 4:
 **Week 12:** [Expected state - habit should be secure]
 
 ### James's Reminder
-"Make your nervous system your ally instead of your enemy. Every smallest stroke of virtue or of vice leaves its never so little scar."
+"Make your nervous system your ally instead of your enemy."
 ```
-
----
-
-## Error Handling
-
-| Situation | Response |
-|-----------|----------|
-| Habit is too vague | Ask for specific, observable behavior |
-| Multiple habits requested | Focus on one; chain others after first is secure |
-| No clear motivation | Help articulate why this matters; weak motivation = weak habit |
-| Unrealistic timeline | Adjust expectations; habit formation takes months |
-| Previous failures | Analyze what went wrong; strengthen weak principle |
 
 ---
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Do not design habits that harm the person or others
+- Do not ignore individual circumstances and limitations
+- Never promise guaranteed results - habits require sustained effort
+- Do not dismiss the difficulty of behavior change
+- Acknowledge that habit formation takes months, not days
+- Focus on one habit at a time; chain others after first is secure
 
-## Additional Notes
+---
 
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
+## Anti-Patterns to Avoid
 
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
+| Anti-Pattern | Why It Fails |
+|--------------|--------------|
+| Starting too many habits at once | Willpower is finite; multiple new habits compete for limited resources |
+| Weak launch without commitment | Without dramatic initiation, the habit has no psychological weight |
+| Allowing "just this once" exceptions | Each exception weakens the forming neural pathway and makes the next exception easier |
+| Waiting for perfect conditions | The best time is now; waiting strengthens procrastination habits |
+| Relying only on willpower | Willpower depletes; habits succeed through environmental design and triggers |
 
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
+---
 
-## Example
+## Examples
 
-**Input:** "I want to establish a daily code review habit for my team"
+### Example 1: Daily Code Review Habit
 
-**Output:**
+**Situation:** "I want to establish a daily code review habit for my team."
 
+**Application:**
 
+**The Habit**
+- **Target behavior:** Team conducts 30-minute code review session every day at 2pm
+- **Current state:** Code reviews happen inconsistently, often skipped under pressure
+- **Why it matters:** Catches bugs earlier, spreads knowledge, maintains code quality
 
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
-
-## Habit Formation Plan: Daily Code Review
-
-### The Habit
-**Target behavior:** Team conducts 30-minute code review session every day at 2pm
-**Current state:** Code reviews happen inconsistently, often skipped under pressure
-**Why it matters:** Catches bugs earlier, spreads knowledge, maintains code quality
-
-### Phase 1: Strong Initiative Launch
-**Launch date:** Monday, [specific date]
-**Launch actions:**
+**Phase 1: Strong Initiative Launch**
+- **Launch date:** Monday, [specific date]
 - All-hands announcement of "30 Days of Daily Review" commitment
 - Team signs poster displayed in workspace
-- Each member reviews one PR in first session (immediate action)
-- Cancel meetings that conflict with 2pm slot for first month
+- Each member reviews one PR in first session
+- Cancel conflicting meetings for first month
 
-### Phase 2: Exception Prevention
-**Formation period:** 30 days (one month of daily practice)
-**Potential exceptions:**
-| Exception | Prevention Strategy |
-|-----------|---------------------|
-| "Too busy with deadline" | Pre-designate backup reviewer; keep sessions to 30min max |
-| "No PRs ready" | Review old code, refactoring candidates, or documentation |
-| "Key person absent" | Rotate facilitator; anyone can lead |
+**Phase 2: Exception Prevention**
+- **Formation period:** 30 days
+- Exceptions: "Too busy with deadline" (Pre-designate backup reviewer; keep to 30min max), "No PRs ready" (Review old code or documentation), "Key person absent" (Rotate facilitator)
+- **Accountability:** Daily Slack bot asks "Did we do code review?" Team responds publicly
+- **Exception response:** Makeup session next morning before standup
 
-**Accountability:** Daily Slack bot asks "Did we do code review?" Team responds publicly
-**Exception response:** If missed, do makeup session next morning before standup
+**Phase 3: Opportunity Capture**
+- **Primary triggers:** 2pm calendar invite; Slack reminder at 1:55pm
+- **Cue-routine-reward:** 2pm alarm -> Gather and review code -> Share one thing learned
+- **Immediate action:** Schedule recurring meeting now; identify first PR to review
 
-### Phase 3: Opportunity Capture
-**Primary triggers:** 2pm calendar invite; Slack reminder at 1:55pm
-**Cue-routine-reward:**
-| Cue | Routine | Reward |
-|-----|---------|--------|
-| 2pm alarm | Gather, review code | Share one thing learned; team appreciation |
+**Phase 4: Sustained Effort**
+- **Daily practice:** Minimum one PR reviewed
+- **Weekly challenge:** One deep architectural review per week
+- **Progress markers:** Track reviews completed; celebrate 30-day streak
+- **Growth path:** Month 1: establish rhythm. Month 2: improve quality. Month 3: measure impact.
 
-**Opportunity multiplication:** PR authors ping channel when ready; encourages async pre-review
-**Immediate action:** Schedule recurring meeting now; identify first PR to review
+### Example 2: Morning Exercise Habit
 
-### Phase 4: Sustained Effort
-**Daily practice:** Minimum one PR reviewed, any size
-**Weekly challenge:** One deep architectural review per week
-**Progress markers:** Track reviews completed; celebrate 30-day streak
-**Growth path:** Month 1: establish rhythm. Month 2: improve quality. Month 3: measure impact.
+**Situation:** "I want to exercise every morning but I keep hitting snooze."
+
+**Application:**
+
+**Phase 1: Strong Initiative Launch**
+- Put $500 in a jar; lose $20 for each missed day (goes to charity you dislike)
+- Tell five people about your commitment
+- Buy new workout clothes and put them by the bed
+- Sleep in workout clothes the first week
+
+**Phase 2: Exception Prevention**
+- Exceptions: "Too tired" (Go anyway, even 5 minutes counts), "Gym is closed" (Have home workout ready), "Sick" (Only exception - genuine illness)
+- Formation period: 60 days
+- Partner with friend who will text you at 6am
+
+**Phase 3: Opportunity Capture**
+- Alarm -> Immediately put feet on floor -> Exercise clothes already on -> Out door within 3 minutes
+- Reward: Favorite podcast only during exercise
+
+**Output:** The key insight is that you're not fighting the exercise - you're fighting the snooze button. Design the environment so snoozing is harder than getting up.
 
 ---
 
 ## Integration
 
-This skill originates from the **William James** expert. When used, channel James's insight that habits are the flywheel of both individual and organizational life - they can work for you or against you, and the formation period is crucial.
+**Works with:**
+- Habit stacking methodologies
+- Environmental design frameworks
+- Accountability systems
 
-**Key James principle:** "The hell to be endured hereafter, of which theology tells, is no worse than the hell we make for ourselves in this world by habitually fashioning our characters in the wrong way."
+**When to prefer this skill:**
+- When establishing new behaviors that need to become automatic
+- When breaking destructive habits
+- When institutionalizing practices in teams or organizations
+
+**Cautions:**
+- Not appropriate for behaviors that require ongoing deliberation
+- One habit at a time; stack after first is secure
+- Formation takes longer than most people expect - plan for months, not weeks
