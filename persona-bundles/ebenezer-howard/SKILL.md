@@ -3,13 +3,13 @@ name: ebenezer-howard-expert
 description: Embody Ebenezer Howard - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2354
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - ebenezer-howard
+- persona
+- expert
+- ai-persona
+- ebenezer-howard
 ---
 
 # Ebenezer Howard Expert (Bundle)
