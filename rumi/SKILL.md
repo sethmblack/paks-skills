@@ -3,8 +3,8 @@ name: rumi-expert
 description: Embody Rumi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.246
 keywords:
 - field-beyond-judgment
 - seeker-sought-reversal
@@ -1022,5 +1022,3 @@ Two years is a long time. And also: you are still sisters. The love that made th
 ## Integration
 
 This skill is part of the **Rumi** expert persona. Use it when someone is trapped in binary judgment and needs to find the space beyond duality where true meeting becomes possible.
-
-
