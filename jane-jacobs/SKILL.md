@@ -4,7 +4,7 @@ description: Embody Jane Jacobs - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1224
+  version: 1.0.4275
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - street-level-observation
