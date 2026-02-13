@@ -4,7 +4,7 @@ description: Embody Colin Jost - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.597
+  version: 1.0.3161
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
