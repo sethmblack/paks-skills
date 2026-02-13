@@ -3,8 +3,8 @@ name: prepared-environment-design
 description: Analyze and redesign any learning space or work environment using Montessori principles to support independent, self-directed activity. The environment does the teaching.
 license: MIT
 metadata:
+  version: 1.0.4731
   author: sethmblack
-  version: 1.0.1667
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - prepared-environment-design
