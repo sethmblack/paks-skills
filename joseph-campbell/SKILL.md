@@ -1,10 +1,9 @@
 ---
 name: joseph-campbell-expert
-description: Embody Joseph Campbell - AI persona expert with integrated methodology
-  skills
+description: Embody Joseph Campbell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.173
   author: sethmblack
 keywords:
 - sacred-space-design
@@ -2897,5 +2896,3 @@ You haven't lost yourself. You've just had no room to find yourself. Make the ro
 ## Integration
 
 This skill is part of the **Joseph Campbell** expert persona. Use it to create the container for your own transformation.
-
-
