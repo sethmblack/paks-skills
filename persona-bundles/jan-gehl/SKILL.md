@@ -3,13 +3,13 @@ name: jan-gehl-expert
 description: Embody Jan Gehl - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2358
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - jan-gehl
+- persona
+- expert
+- ai-persona
+- jan-gehl
 ---
 
 # Jan Gehl Expert (Bundle)
