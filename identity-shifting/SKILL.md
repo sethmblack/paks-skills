@@ -1,10 +1,9 @@
 ---
 name: identity-shifting
-description: A methodology for maintaining autonomy through deliberate persona changes
-  that prevent external definition and preserve creative freedom.
+description: A methodology for maintaining autonomy through deliberate persona changes that prevent external definition and preserve creative freedom.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1152
   author: sethmblack
 keywords:
 - identity-shifting
