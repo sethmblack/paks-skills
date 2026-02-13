@@ -1,11 +1,9 @@
 ---
 name: image-construction
-description: Construct and control your public image as a strategic asset. Create
-  a persona that transcends the personal, making opposition to you feel like opposition
-  to something greater - an institution, an ...
+description: Construct and control your public image as a strategic asset. Create a persona that transcends the personal, making opposition to you feel like opposition to something greater - an institution, an ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1160
   author: sethmblack
 keywords:
 - image-construction-(the-gloriana-method)
