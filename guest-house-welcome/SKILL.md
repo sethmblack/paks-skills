@@ -3,8 +3,8 @@ name: guest-house-welcome
 description: Transform resistance to difficult emotions into acceptance and learning by treating each emotion as a guest bringing guidance from beyond.
 license: MIT
 metadata:
-  version: 1.0.1081
   author: sethmblack
+  version: 1.0.4125
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - guest-house-welcome
