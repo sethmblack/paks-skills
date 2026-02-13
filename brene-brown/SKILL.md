@@ -3,8 +3,8 @@ name: brene-brown-expert
 description: Embody Brene Brown - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.76
 keywords:
 - trust-assessment-braving
 - shame-resilience-check
@@ -2442,5 +2442,3 @@ This skill is part of the **Brene Brown** expert persona. It pairs well with:
 - **rumble-conversation** for the actual trust repair conversation
 - **shame-resilience-check** when broken trust triggers shame
 - **strategic-inflection-point-diagnosis** for deciding whether to stay or go
-
-
