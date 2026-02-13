@@ -3,7 +3,7 @@ name: john-belushi-expert
 description: Embody John Belushi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1244
+  version: 1.0.4295
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
