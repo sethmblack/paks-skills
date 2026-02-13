@@ -1,10 +1,9 @@
 ---
 name: forgiveness-over-permission
-description: Drive innovation in bureaucratic environments by building working prototypes
-  first and seeking approval after demonstrating results.
+description: Drive innovation in bureaucratic environments by building working prototypes first and seeking approval after demonstrating results.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.988
   author: sethmblack
 keywords:
 - forgiveness-over-permission
