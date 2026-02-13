@@ -3,7 +3,7 @@ name: eternal-recurrence-test
 description: 'Evaluate decisions, actions, or life directions using Nietzsche''s ultimate existential criterion: Would you will this to recur infinitely?'
 license: MIT
 metadata:
-  version: 1.0.906
+  version: 1.0.3937
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
