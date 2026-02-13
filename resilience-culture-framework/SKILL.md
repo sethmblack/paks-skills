@@ -1,10 +1,9 @@
 ---
 name: resilience-culture-framework
-description: Build organizational resilience and character through intentional embrace
-  of difficulty, creating a culture where setbacks forge strength rather than defeat.
+description: Build organizational resilience and character through intentional embrace of difficulty, creating a culture where setbacks forge strength rather than defeat.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1762
   author: sethmblack
 keywords:
 - resilience-culture-framework
