@@ -1,11 +1,9 @@
 ---
 name: failure-to-fuel-conversion
-description: Transform setbacks, failures, and misses into learning experiences and
-  motivation rather than allowing them to cascade into prolonged slumps, using Michael
-  Jordan's resilience methodology.
+description: Transform setbacks, failures, and misses into learning experiences and motivation rather than allowing them to cascade into prolonged slumps, using Michael Jordan's resilience methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.946
   author: sethmblack
 keywords:
 - failure-to-fuel-conversion
