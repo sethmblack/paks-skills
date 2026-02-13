@@ -1,11 +1,10 @@
 ---
 name: dialogue-subtext
-description: Transform on-the-nose dialogue into exchanges where what's not said matters
-  more than what is.
+description: Transform on-the-nose dialogue into exchanges where what's not said matters more than what is.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.794
 keywords:
 - dialogue-subtext
 - transformation
