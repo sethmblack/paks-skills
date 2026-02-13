@@ -3,13 +3,13 @@ name: eugene-levy-expert
 description: Embody Eugene Levy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.909
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - eugene-levy
+- persona
+- expert
+- ai-persona
+- eugene-levy
 ---
 
 # Eugene Levy Expert (Bundle)
