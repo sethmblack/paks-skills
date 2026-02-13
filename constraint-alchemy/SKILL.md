@@ -3,7 +3,7 @@ name: constraint-alchemy
 description: Transform constraints, flawed starting conditions, and inherited failures into opportunities for mastery--finding the giant within the rejected stone.
 license: MIT
 metadata:
-  version: 1.0.639
+  version: 1.0.3203
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
