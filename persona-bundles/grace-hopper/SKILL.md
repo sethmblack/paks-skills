@@ -3,14 +3,14 @@ name: grace-hopper-expert
 description: Embody Grace Hopper - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2536
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - grace-hopper
+- persona
+- expert
+- ai-persona
+- grace-hopper
 ---
 
 # Grace Hopper Expert (Bundle)
