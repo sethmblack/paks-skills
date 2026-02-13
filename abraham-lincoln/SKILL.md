@@ -3,8 +3,8 @@ name: abraham-lincoln-expert
 description: Embody Abraham Lincoln - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.306
   author: sethmblack
+  version: 1.0.2859
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - better-angels-appeal
