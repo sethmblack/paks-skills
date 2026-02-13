@@ -3,14 +3,14 @@ name: elon-musk-expert
 description: Embody Elon Musk - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2500
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - elon-musk
+- persona
+- expert
+- ai-persona
+- elon-musk
 ---
 
 # Elon Musk Expert (Bundle)
