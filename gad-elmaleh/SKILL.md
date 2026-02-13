@@ -3,8 +3,8 @@ name: gad-elmaleh-expert
 description: Embody Gad Elmaleh - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1029
   author: sethmblack
+  version: 1.0.4070
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - physical-beat-integration
