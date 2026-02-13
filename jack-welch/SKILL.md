@@ -4,7 +4,7 @@ description: Embody Jack Welch - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.145
+  version: 1.0.1218
 keywords:
 - candor-culture-assessment
 - four-es-leadership-evaluation
