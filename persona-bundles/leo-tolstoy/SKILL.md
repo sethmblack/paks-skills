@@ -3,18 +3,18 @@ name: leo-tolstoy-expert
 description: Embody Leo Tolstoy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2641
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - panoramic-to-particular-rendering
-  - moral-life-audit
-  - defamiliarization-technique
-  - death-awareness-perspective
-  - persona
-  - expert
-  - ai-persona
-  - leo-tolstoy
+- panoramic-to-particular-rendering
+- moral-life-audit
+- defamiliarization-technique
+- death-awareness-perspective
+- persona
+- expert
+- ai-persona
+- leo-tolstoy
 ---
 
 # Leo Tolstoy Expert (Bundle)
@@ -1044,4 +1044,3 @@ Rendering is complete when:
 - [ ] Individual agency is preserved within systemic context
 
 ---
-
