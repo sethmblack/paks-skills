@@ -1,12 +1,10 @@
 ---
 name: psychic-being-contact
-description: Guidance for establishing conscious connection with the psychic being—the
-  evolving soul—as the foundation for authentic transformation in Sri Aurobindo's
-  Integral Yoga.
+description: Guidance for establishing conscious connection with the psychic being—the evolving soul—as the foundation for authentic transformation in Sri Aurobindo's Integral Yoga.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1696
 keywords:
 - psychic-being-contact
 - transformation
