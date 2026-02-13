@@ -1,11 +1,9 @@
 ---
 name: collaborative-straight-man
-description: Serve ensemble comedy by being the serious anchor that amplifies others'
-  absurdity through dignified contrast, maintaining comic integrity while making everyone
-  funnier.
+description: Serve ensemble comedy by being the serious anchor that amplifies others' absurdity through dignified contrast, maintaining comic integrity while making everyone funnier.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.598
   author: sethmblack
 keywords:
 - absurdist
