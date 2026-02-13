@@ -4,7 +4,7 @@ description: Apply the Symposium's Ladder of Love to transform surface-level int
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2280
+  version: 1.0.4697
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - eros-ascent-(ladder-of-love)
