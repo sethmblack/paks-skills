@@ -3,19 +3,19 @@ name: alan-mulally-expert
 description: Embody Alan Mulally - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2382
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - values-first-evaluation
-  - transparency-culture-launch
-  - expected-behaviors-design
-  - business-plan-review-design
-  - alignment-check
-  - persona
-  - expert
-  - ai-persona
-  - alan-mulally
+- values-first-evaluation
+- transparency-culture-launch
+- expected-behaviors-design
+- business-plan-review-design
+- alignment-check
+- persona
+- expert
+- ai-persona
+- alan-mulally
 ---
 
 # Alan Mulally Expert (Bundle)
@@ -1363,4 +1363,3 @@ This skill integrates with:
 **Source Expert:** Alan Mulally - Based on his principle that he tolerated skill gaps indefinitely but had zero tolerance for values violations.
 
 ---
-
