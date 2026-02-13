@@ -3,8 +3,8 @@ name: crisis-communication-design
 description: Design compassionate, human crisis communications - especially layoffs - that maintain dignity, provide meaningful support, and preserve organizational trust. Speak from the heart, not from corpora...
 license: MIT
 metadata:
-  version: 1.0.3258
   author: sethmblack
+  version: 1.0.3718
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - crisis-communication-design
