@@ -3,8 +3,8 @@ name: minimal-intervention
 description: A methodology for achieving maximum impact through the smallest possible action. Instead of elaborate efforts, find the single move that reveals the most, changes the most, or disrupts the most wit...
 license: MIT
 metadata:
+  version: 1.0.4505
   author: sethmblack
-  version: 1.0.1451
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - minimal-intervention
