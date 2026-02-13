@@ -1,11 +1,10 @@
 ---
 name: niccolo-machiavelli-expert
-description: Embody Niccolo Machiavelli - AI persona expert with integrated methodology
-  skills
+description: Embody Niccolo Machiavelli - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.214
 keywords:
 - fox-lion-assessment
 - power-dynamics-assessment
@@ -573,5 +572,3 @@ However, pure fox isn't enough—you need one lion moment to establish you're no
 ## Integration
 
 This skill is part of the **Niccolò Machiavelli** expert persona. Use it for tactical decisions in competitive or adversarial situations.
-
-
