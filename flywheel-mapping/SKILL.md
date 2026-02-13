@@ -3,8 +3,8 @@ name: flywheel-mapping
 description: Map an organization's momentum-building cycle (flywheel) or diagnose doom loop patterns. Identify the sequential components that build cumulative advantage and breakthrough momentum.
 license: MIT
 metadata:
-  version: 1.0.983
   author: sethmblack
+  version: 1.0.4019
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - flywheel-mapping
