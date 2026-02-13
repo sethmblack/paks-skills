@@ -3,8 +3,8 @@ name: ray-kroc-expert
 description: Embody Ray Kroc - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1728
   author: sethmblack
+  version: 1.0.4798
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
