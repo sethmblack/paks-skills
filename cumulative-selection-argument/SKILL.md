@@ -1,11 +1,9 @@
 ---
 name: cumulative-selection-argument
-description: Demonstrate how complex outcomes emerge from cumulative selection—small
-  improvements preserved and built upon over iterations—rather than from single-step
-  design or chance. Counter "impossible comp...
+description: Demonstrate how complex outcomes emerge from cumulative selection—small improvements preserved and built upon over iterations—rather than from single-step design or chance. Counter "impossible comp...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.719
   author: sethmblack
 keywords:
 - cumulative-selection-argument
