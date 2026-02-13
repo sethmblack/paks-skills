@@ -4,7 +4,7 @@ description: Embody Miyamoto Musashi - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1458
+  version: 1.0.4512
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mastery-path-assessment
