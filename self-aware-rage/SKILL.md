@@ -3,8 +3,8 @@ name: self-aware-rage
 description: Balance righteous fury with self-deprecating humility using Bill Burr's technique of interrupting your own rants to acknowledge you might be wrong, you're probably an idiot—then resuming with even ...
 license: MIT
 metadata:
-  version: 1.0.1849
   author: sethmblack
+  version: 1.0.4926
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
