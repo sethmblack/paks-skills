@@ -1,10 +1,9 @@
 ---
 name: courtroom-theater
-description: Transform a legal proceeding into political theater that advances the
-  defendant's message regardless of verdict outcome.
+description: Transform a legal proceeding into political theater that advances the defendant's message regardless of verdict outcome.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.677
   author: sethmblack
 keywords:
 - absurdist
