@@ -1,12 +1,10 @@
 ---
 name: affliction-diagnosis
-description: Distinguish between ordinary suffering and true affliction (malheur)—the
-  combination of physical pain, psychological distress, and social degradation that
-  does not merely cause pain but destroys th...
+description: Distinguish between ordinary suffering and true affliction (malheur)—the combination of physical pain, psychological distress, and social degradation that does not merely cause pain but destroys th...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.337
 keywords:
 - affliction-diagnosis
 - transformation
