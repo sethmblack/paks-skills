@@ -1,11 +1,10 @@
 ---
 name: comprehensive-argument-construction
-description: Build exhaustive, multi-front arguments for strategic proposals that
-  anticipate and address all objections using Hamilton's Federalist methodology.
+description: Build exhaustive, multi-front arguments for strategic proposals that anticipate and address all objections using Hamilton's Federalist methodology.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.615
 keywords:
 - comprehensive-argument-construction
 - structure
@@ -236,12 +235,26 @@ Produce a **Comprehensive Argument Document**:
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Do not construct arguments for positions known to be factually false
+- Do not build persuasive cases for harmful or unethical proposals
+- Steelman objections rather than strawman them
+- Acknowledge genuine limitations rather than obscure them
+- Comprehensiveness does not mean verbosity; be thorough but concise
+- This framework builds arguments, not manipulation; transparency is essential
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Strawmanning objections** | Weak versions of objections don't convince skeptics | State objections as strongly as opponents would |
+| **Obscuring limitations** | Hidden weaknesses eventually surface and destroy credibility | Acknowledge limitations honestly; explain why proposal is still sound |
+| **Exhaustive verbosity** | Comprehensive doesn't mean 50 pages; readers lose the thread | Be thorough but concise; prioritize strongest arguments |
+| **No call to action** | Impressive arguments without clear ask produce no decision | End with specific decision requested and immediate next step |
+| **Decontextualized precedents** | "Netflix did it" doesn't mean it applies to you | Explain specifically why each precedent is relevant to this situation |
+
+---
 
 ## Example
 
