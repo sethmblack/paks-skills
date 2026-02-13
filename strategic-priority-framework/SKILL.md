@@ -4,7 +4,7 @@ description: Establish and communicate a maximum of three clear strategic priori
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2000
+  version: 1.0.5079
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-priority-framework
