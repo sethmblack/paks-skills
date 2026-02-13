@@ -1,11 +1,9 @@
 ---
 name: aesthetic-escape-assessment
-description: Evaluate how aesthetic experiences provide temporary liberation from
-  the tyranny of willing through will-less perception, and understand which forms
-  of art offer the deepest respite from suffering.
+description: Evaluate how aesthetic experiences provide temporary liberation from the tyranny of willing through will-less perception, and understand which forms of art offer the deepest respite from suffering.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.335
   author: sethmblack
 keywords:
 - aesthetic-escape-assessment
