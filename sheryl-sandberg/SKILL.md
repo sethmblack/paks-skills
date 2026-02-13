@@ -3,8 +3,8 @@ name: sheryl-sandberg-expert
 description: Embody Sheryl Sandberg - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1888
   author: sethmblack
+  version: 1.0.4965
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ruthless-prioritization-audit
