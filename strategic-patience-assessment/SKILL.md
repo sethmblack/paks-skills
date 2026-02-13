@@ -3,8 +3,8 @@ name: strategic-patience-assessment
 description: Evaluate whether immediate action or patient waiting better serves strategic objectives.
 license: MIT
 metadata:
+  version: 1.0.5074
   author: sethmblack
-  version: 1.0.1995
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-patience-assessment
