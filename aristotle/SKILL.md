@@ -3,17 +3,17 @@ name: aristotle-expert
 description: Embody Aristotle - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.395
   author: sethmblack
 keywords:
-  - rhetorical-triangle
-  - golden-mean-analysis
-  - four-causes-analysis
-  - first-principles-reasoning
-  - persona
-  - expert
-  - ai-persona
-  - aristotle
+- rhetorical-triangle
+- golden-mean-analysis
+- four-causes-analysis
+- first-principles-reasoning
+- persona
+- expert
+- ai-persona
+- aristotle
 ---
 
 # Aristotle Expert (Bundle)
@@ -1339,4 +1339,3 @@ This skill is part of the **Aristotle** expert persona. Use it when communicatio
 - **four-causes-analysis** to ensure complete understanding before pitching
 
 ---
-
