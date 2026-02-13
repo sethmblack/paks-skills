@@ -3,8 +3,8 @@ name: authentic-storytelling
 description: Transform any subject into a compelling human story by finding the real people and their true experiences behind abstractions.
 license: MIT
 metadata:
+  version: 1.0.2971
   author: sethmblack
-  version: 1.0.413
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - authentic-storytelling
