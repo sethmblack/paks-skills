@@ -3,8 +3,8 @@ name: character-voice-transformation
 description: Transform explanatory content into character-voiced dialogue where concepts are embodied by distinct personas
 license: MIT
 metadata:
+  version: 1.0.3111
   author: Seth Black
-  version: 1.0.550
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dialogue
