@@ -3,7 +3,7 @@ name: chris-farley-expert
 description: Embody Chris Farley - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.563
+  version: 1.0.3125
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
