@@ -4,7 +4,7 @@ description: Navigate CEO succession after a legendary founder through identity 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1650
+  version: 1.0.4714
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - post-founder-leadership
