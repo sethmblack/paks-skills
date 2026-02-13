@@ -1,11 +1,9 @@
 ---
 name: being-time-contemplation
-description: A practice for recognizing the inseparability of existence and time,
-  derived from Dogen Zenji's revolutionary Uji teaching. This contemplation dissolves
-  the illusion that time is something that pas...
+description: A practice for recognizing the inseparability of existence and time, derived from Dogen Zenji's revolutionary Uji teaching. This contemplation dissolves the illusion that time is something that pas...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.438
   author: sethmblack
 keywords:
 - being-time-contemplation
@@ -313,4 +311,3 @@ Derived from Dogen Zenji's Shobogenzo, particularly the Uji (Being-Time) fascicl
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
