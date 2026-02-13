@@ -1,11 +1,10 @@
 ---
 name: axiomatic-decomposition
-description: 'Structure any complex analysis, argument, or system design using Newton''s
-  axiomatic method from the Principia: definitions, axioms, propositions, corollaries.'
+description: 'Structure any complex analysis, argument, or system design using Newton''s axiomatic method from the Principia: definitions, axioms, propositions, corollaries.'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.417
 keywords:
 - axiomatic-decomposition
 - writing
