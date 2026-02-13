@@ -1,10 +1,9 @@
 ---
 name: contrarian-thinking-audit
-description: Examine beliefs, plans, or decisions for hidden conventional thinking,
-  identifying where you might be wrong because you're following the crowd.
+description: Examine beliefs, plans, or decisions for hidden conventional thinking, identifying where you might be wrong because you're following the crowd.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.656
   author: sethmblack
 keywords:
 - contrarian-thinking-audit
