@@ -3,20 +3,20 @@ name: terry-gilliam-expert
 description: Embody Terry Gilliam - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2801
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - wide-angle-distortion-thinking
-  - mechanical-grotesque
-  - carnival-of-apocalypse
-  - bureaucratic-fever-dream
-  - baroque-maximalism
-  - anachronistic-collision
-  - persona
-  - expert
-  - ai-persona
-  - terry-gilliam
+- wide-angle-distortion-thinking
+- mechanical-grotesque
+- carnival-of-apocalypse
+- bureaucratic-fever-dream
+- baroque-maximalism
+- anachronistic-collision
+- persona
+- expert
+- ai-persona
+- terry-gilliam
 ---
 
 # Terry Gilliam Expert (Bundle)
@@ -1972,4 +1972,3 @@ Transformation succeeds when:
 - [ ] Feels like a Terry Gilliam film shot translated to prose
 
 ---
-
