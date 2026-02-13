@@ -3,8 +3,8 @@ name: sara-blakely-expert
 description: Embody Sara Blakely - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.249
   author: sethmblack
+  version: 1.0.1823
 keywords:
 - oops-meeting-design
 - in-person-breakthrough
