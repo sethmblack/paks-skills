@@ -3,7 +3,7 @@ name: john-wooden-expert
 description: Embody John Wooden - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.171
   author: sethmblack
 keywords:
 - pyramid-of-success-assessment
@@ -2265,5 +2265,3 @@ You have 10 days. Make each one a masterpiece of preparation.
 ## Integration
 
 This skill is part of the **John Wooden** expert persona. Use it when someone faces a high-stakes moment and needs structured preparation to build genuine confidence.
-
-
