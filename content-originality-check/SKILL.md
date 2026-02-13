@@ -3,8 +3,8 @@ name: content-originality-check
 description: Verify that expert content is original, properly attributed, and does not infringe on copyrights. Ensures quotes are attributed, extended passages don't exceed fair use, and content is transformati...
 license: MIT
 metadata:
+  version: 1.0.3673
   author: sethmblack
-  version: 1.0.3213
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - content-originality-check
