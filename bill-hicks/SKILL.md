@@ -3,7 +3,7 @@ name: bill-hicks-expert
 description: Embody Bill Hicks - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.463
+  version: 1.0.3022
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
