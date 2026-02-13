@@ -4,7 +4,7 @@ description: Break down any problem to its fundamental truths and reason up from
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.968
+  version: 1.0.4003
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
