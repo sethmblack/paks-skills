@@ -1,12 +1,10 @@
 ---
 name: assistance-game-reframe
-description: Redesign a fixed-objective system as a cooperative assistance game where
-  the system maintains uncertainty about human preferences and learns through interaction,
-  following Stuart Russell's CIRL fra...
+description: Redesign a fixed-objective system as a cooperative assistance game where the system maintains uncertainty about human preferences and learns through interaction, following Stuart Russell's CIRL fra...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.401
 keywords:
 - assistance-game-reframe
 - escalation
