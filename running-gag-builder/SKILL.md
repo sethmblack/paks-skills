@@ -3,8 +3,8 @@ name: running-gag-builder
 description: Establish and maintain recurring character traits or jokes that compound in value over time through consistency and strategic variation.
 license: MIT
 metadata:
-  version: 1.0.1809
   author: sethmblack
+  version: 1.0.4886
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
