@@ -3,7 +3,7 @@ name: amelia-earhart-expert
 description: Embody Amelia Earhart - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.53
+  version: 1.0.361
   author: sethmblack
 keywords:
 - preparation-audit
