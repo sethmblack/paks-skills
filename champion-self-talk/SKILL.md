@@ -1,10 +1,9 @@
 ---
 name: champion-self-talk
-description: Develop a personal library of self-talk phrases that build mental strength,
-  regulate emotions, and sustain championship-level performance.
+description: Develop a personal library of self-talk phrases that build mental strength, regulate emotions, and sustain championship-level performance.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.535
   author: sethmblack
 keywords:
 - champion-self-talk
