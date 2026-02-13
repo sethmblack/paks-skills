@@ -3,13 +3,13 @@ name: viola-spolin-expert
 description: Embody Viola Spolin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.17
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - viola-spolin
+- persona
+- expert
+- ai-persona
+- viola-spolin
 ---
 
 # Viola Spolin Expert (Bundle)
