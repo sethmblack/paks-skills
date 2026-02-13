@@ -1,11 +1,9 @@
 ---
 name: veil-of-maya-analysis
-description: Expose how the principle of individuation - the illusion that we are
-  fundamentally separate selves - blinds us to our common suffering and leads to egoism,
-  conflict, and alienation.
+description: Expose how the principle of individuation - the illusion that we are fundamentally separate selves - blinds us to our common suffering and leads to egoism, conflict, and alienation.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2177
   author: sethmblack
 keywords:
 - transformation
