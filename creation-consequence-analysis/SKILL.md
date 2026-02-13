@@ -3,7 +3,7 @@ name: creation-consequence-analysis
 description: Analyze any act of creation through Mary Shelley's framework to surface unexamined responsibilities, overlooked consequences, and the obligations that creation entails.
 license: MIT
 metadata:
-  version: 1.0.680
+  version: 1.0.3246
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
