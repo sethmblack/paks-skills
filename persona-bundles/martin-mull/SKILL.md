@@ -3,14 +3,14 @@ name: martin-mull-expert
 description: Embody Martin Mull - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2665
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - martin-mull
+- persona
+- expert
+- ai-persona
+- martin-mull
 ---
 
 # Martin Mull Expert (Bundle)
