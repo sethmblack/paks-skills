@@ -1,11 +1,9 @@
 ---
 name: confounding-diagnosis
-description: Given a causal diagram, identify all backdoor paths creating confounding
-  between treatment and outcome, explain why they produce spurious associations, and
-  determine what variables must be controll...
+description: Given a causal diagram, identify all backdoor paths creating confounding between treatment and outcome, explain why they produce spurious associations, and determine what variables must be controll...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.630
   author: sethmblack
 keywords:
 - confounding-diagnosis
@@ -288,26 +286,17 @@ X -> M -> Y
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Control for everything** | Some variables should NOT be controlled (colliders, mediators) | Identify path role of each variable before deciding to control |
+| **Conditioning on colliders** | Opens blocked paths, creating spurious associations | Identify colliders explicitly; never condition on them |
+| **Controlling for mediators** | Removes part of the causal effect you're trying to estimate | Control only for confounders, not variables on causal path |
+| **Assuming diagram is complete** | Unmeasured confounders invalidate adjustment strategy | Explicitly note unmeasured variables; acknowledge limitations |
+| **Table 2 fallacy** | Interpreting all regression coefficients as causal effects | Each causal question requires its own diagram and analysis |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
+---
 
 ## Example
 
