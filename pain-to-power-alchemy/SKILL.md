@@ -4,7 +4,7 @@ description: Transform suffering into creative or productive output through Frid
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1570
+  version: 1.0.4626
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - pain-to-power-alchemy
