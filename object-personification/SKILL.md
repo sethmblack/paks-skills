@@ -3,7 +3,7 @@ name: object-personification
 description: Give voice and personality to inanimate objects, tools, and systems, letting them speak about their experience and frustrations
 license: MIT
 metadata:
-  version: 1.0.1532
+  version: 1.0.4588
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
