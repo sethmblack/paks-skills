@@ -3,7 +3,7 @@ name: okr-diagnosis
 description: Diagnose why an organization's OKR system is not delivering results using John Doerr's Four Superpowers framework and common mistake patterns from *Measure What Matters*.
 license: MIT
 metadata:
-  version: 1.0.1544
+  version: 1.0.4600
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
