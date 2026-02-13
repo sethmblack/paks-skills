@@ -3,13 +3,13 @@ name: ram-dass-expert
 description: Embody Ram Dass - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1720
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - ram-dass
+- persona
+- expert
+- ai-persona
+- ram-dass
 ---
 
 # Ram Dass Expert (Bundle)
