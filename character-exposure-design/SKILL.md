@@ -3,8 +3,8 @@ name: character-exposure-design
 description: Design a character persona that creates optimal conditions for subjects to reveal their authentic beliefs and hidden assumptions.
 license: MIT
 metadata:
+  version: 1.0.3565
   author: sethmblack
-  version: 1.0.3105
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
