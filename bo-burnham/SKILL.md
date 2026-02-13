@@ -3,7 +3,7 @@ name: bo-burnham-expert
 description: Embody Bo Burnham - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.73
   author: sethmblack
 keywords:
 - sincerity-irony-collapse
@@ -2000,5 +2000,3 @@ This skill is one of Burnham's most recognizable techniques. When using:
 - Can be combined with sincerity-irony-collapse for even more complex emotional impact
 - The mismatch should feel wrong but right—initially jarring, ultimately revealing
 - Most important: commit fully to the music. The power comes from playing it straight.
-
-
