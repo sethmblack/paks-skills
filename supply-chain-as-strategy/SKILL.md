@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2027
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - supply-chain-as-strategy
 - transformation

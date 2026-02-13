@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2066
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structure
 - temperament-bridge

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1796
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - confrontational-reframe
 - persona

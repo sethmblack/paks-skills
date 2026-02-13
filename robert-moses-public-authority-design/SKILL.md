@@ -3,6 +3,7 @@ name: robert-moses-public-authority-design
 description: Analyze the structure and mechanisms of self-funding public authorities that generate independent revenue and operate outside normal democratic oversight, examining how they achieve autonomy, accumulate surplus, and entrench their positions.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [public-authority-design, structure, transformation, writing]
 ---
 

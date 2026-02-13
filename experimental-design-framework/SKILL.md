@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.926
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - a-b-testing
 - experimental-design-framework

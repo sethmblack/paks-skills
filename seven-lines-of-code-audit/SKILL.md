@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1875
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - seven-lines-of-code-audit
 - writing

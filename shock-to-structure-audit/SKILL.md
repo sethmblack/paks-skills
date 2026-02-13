@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1892
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - shock-to-structure-audit

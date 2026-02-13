@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: Seth Black
   version: 1.0.1960
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sports
 - analysis

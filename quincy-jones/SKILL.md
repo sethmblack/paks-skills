@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1711
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cross-genre-synthesis
 - bringing-out-artist-best

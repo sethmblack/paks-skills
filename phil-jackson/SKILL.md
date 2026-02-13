@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1618
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mindful-performance-protocol
 - triangle-system-design

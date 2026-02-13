@@ -3,6 +3,7 @@ name: jane-jacobs-eyes-on-the-street
 description: Analyze natural surveillance and street life as the primary source of urban safety, and design for conditions that create continuous watching.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [eyes-on-the-street, structure, writing]
 ---
 

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.905
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persistence-protocol
 - word-of-mouth-engine

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1419
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - medieval-economic-explainer
 - writing

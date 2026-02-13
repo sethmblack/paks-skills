@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.836
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sophisticated-bumbling
 - piano-as-partner

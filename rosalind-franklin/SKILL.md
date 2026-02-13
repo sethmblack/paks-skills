@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1801
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - variable-control-analysis
 - data-first-analysis

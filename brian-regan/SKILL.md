@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.488
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation-spiral
 - clean-absurdity-detector

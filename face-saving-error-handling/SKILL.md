@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.939
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - face-saving-error-handling
 - writing

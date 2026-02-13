@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1789
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - free-association-ideation
 - emotional-pivot-technique

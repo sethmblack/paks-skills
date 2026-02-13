@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.704
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - culminating-point-assessment
 - writing

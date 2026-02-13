@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1243
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - theme-and-variations-analysis
 - foundation-first-methodology

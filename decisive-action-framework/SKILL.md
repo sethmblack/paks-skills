@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.759
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - decisive-action-framework
 - escalation

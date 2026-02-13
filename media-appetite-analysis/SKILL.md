@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1417
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - media-appetite-analysis
 - storytelling

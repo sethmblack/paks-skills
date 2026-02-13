@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1042
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - geometric-analysis
 - transformation

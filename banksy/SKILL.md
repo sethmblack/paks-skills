@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.423
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - message-distillation
 - context-hijack

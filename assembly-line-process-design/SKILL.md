@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.400
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - assembly-line-process-design
 - transformation

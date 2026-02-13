@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2180
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - via-negativa-reduction
 - writing

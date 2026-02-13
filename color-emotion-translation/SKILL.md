@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.600
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - color-emotion-translation
 - writing

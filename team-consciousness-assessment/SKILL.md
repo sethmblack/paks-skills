@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2058
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structure
 - team-consciousness-assessment

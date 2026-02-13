@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1891
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ship-it-intervention
 - transformation

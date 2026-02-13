@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.0
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
   - vita-activa-assessment
   - totalitarian-pattern-recognition

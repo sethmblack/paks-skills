@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1398
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - single-point-accountability-design
 - manufacturing-transformation-framework

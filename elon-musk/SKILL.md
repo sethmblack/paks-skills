@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.860
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - physics-limit-analysis
 - idiot-index-analysis

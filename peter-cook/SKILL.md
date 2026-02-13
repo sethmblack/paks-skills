@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1613
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - taboo-transgression
 - satirical-interview-format

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2117
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - to-be-or-to-do-assessment
 - writing

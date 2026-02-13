@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1384
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sensitive-period-recognition
 - prepared-environment-design

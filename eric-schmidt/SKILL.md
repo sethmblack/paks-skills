@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.889
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - smart-creatives-hiring
 - scale-ready-organization-audit

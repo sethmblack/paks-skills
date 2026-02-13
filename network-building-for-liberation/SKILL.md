@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1519
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - network-building-for-liberation
 - writing

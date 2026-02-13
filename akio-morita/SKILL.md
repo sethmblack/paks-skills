@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.343
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - market-creation-analysis
 - global-first-design-review

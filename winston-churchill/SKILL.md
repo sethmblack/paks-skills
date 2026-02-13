@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2232
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - scaffolding-of-rhetoric
 - crisis-rhetoric

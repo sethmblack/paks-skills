@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.305
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sabbath-time-sanctification
 - radical-amazement-practice

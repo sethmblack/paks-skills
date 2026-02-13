@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.437
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - behavioral-experiment-design
 - writing

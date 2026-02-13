@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1559
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - vulnerability-as-leadership
 - persona

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1048
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - color-emotion-translation
 - creative-solitude-design

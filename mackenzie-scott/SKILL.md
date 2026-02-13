@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1363
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - trust-based-resource-allocation
 - seeding-by-ceding-assessment

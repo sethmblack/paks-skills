@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1769
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - revelation-through-comfort
 - writing

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2225
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - will-to-believe-assessment
 - writing

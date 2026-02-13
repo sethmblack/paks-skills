@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.700
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cross-genre-synthesis
 - storytelling

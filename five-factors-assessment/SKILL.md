@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.974
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - five-factors-strategic-assessment
 - writing

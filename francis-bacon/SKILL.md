@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1010
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tables-of-investigation
 - light-vs-fruit-classification

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2163
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - underground-voice-analysis
 - writing

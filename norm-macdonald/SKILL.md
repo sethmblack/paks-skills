@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1529
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - shaggy-dog-story
 - meta-comedy-layer

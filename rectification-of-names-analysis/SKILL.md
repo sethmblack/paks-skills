@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1739
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rectification-of-names-analysis
 - storytelling

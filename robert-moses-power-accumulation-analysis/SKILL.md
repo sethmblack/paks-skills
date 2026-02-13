@@ -3,6 +3,7 @@ name: robert-moses-power-accumulation-analysis
 description: Analyze how unelected power accumulates within institutions through authorities, covenants, expertise monopolies, and structural dependencies that outlast elected officials.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [power-accumulation-analysis, writing]
 ---
 

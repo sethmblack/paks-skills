@@ -3,6 +3,7 @@ name: daniel-burnham-civic-center-design
 description: Apply principles of civic center design to create public spaces that express collective identity, inspire civic pride, and serve as the symbolic heart of a community.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [civic-center-design, writing]
 ---
 

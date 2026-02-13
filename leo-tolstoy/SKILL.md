@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1321
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - panoramic-to-particular-rendering
 - moral-life-audit

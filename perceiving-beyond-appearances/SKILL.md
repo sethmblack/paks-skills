@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1598
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - perceiving-beyond-appearances
 - storytelling

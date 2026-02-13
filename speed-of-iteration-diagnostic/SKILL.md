@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1954
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - speed-of-iteration-diagnostic
 - writing

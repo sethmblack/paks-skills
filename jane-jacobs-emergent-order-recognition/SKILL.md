@@ -3,6 +3,7 @@ name: jane-jacobs-emergent-order-recognition
 description: See the hidden systems and self-organizing patterns in apparent urban disorder, rather than imposing order from above.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [emergent-order-recognition, writing]
 ---
 

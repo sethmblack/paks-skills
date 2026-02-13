@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1091
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transcendentals-integration
 - theological-aesthetics-method

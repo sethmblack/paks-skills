@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1429
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mentor-sponsor-gap-analysis
 - transformation

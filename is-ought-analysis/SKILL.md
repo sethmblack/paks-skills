@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1212
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - is-ought-analysis
 - writing

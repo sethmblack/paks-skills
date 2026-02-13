@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1671
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - principle-creation
 - decision-making

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1808
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - field-beyond-judgment
 - seeker-sought-reversal

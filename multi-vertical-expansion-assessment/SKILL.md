@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1485
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - multi-vertical-expansion-assessment
 - writing

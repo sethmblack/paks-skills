@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1277
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - perichoretic-community-design
 - eschatological-hope-analysis

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.863
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - radical-oratory
 - structural-critique

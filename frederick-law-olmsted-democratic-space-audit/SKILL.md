@@ -3,6 +3,7 @@ name: frederick-law-olmsted-democratic-space-audit
 description: Evaluate whether public spaces genuinely serve all members of the community or subtly exclude through design, examining access, intimidation factors, programming, and amenities through the principle that parks must serve the working poor as fully as the wealthy.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [democratic-space-audit, transformation, writing]
 ---
 

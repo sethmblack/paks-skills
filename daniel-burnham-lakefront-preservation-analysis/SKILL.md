@@ -3,6 +3,7 @@ name: daniel-burnham-lakefront-preservation-analysis
 description: Analyze tensions between development and public access to natural amenities - waterfronts, hillsides, forests, shorelines - and build the case for preservation of public access in perpetuity.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [lakefront-preservation-analysis, writing]
 ---
 

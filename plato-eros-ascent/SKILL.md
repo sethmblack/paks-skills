@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2280
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - eros-ascent-(ladder-of-love)
 - transformation

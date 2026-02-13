@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1405
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - maternal-god-meditation
 - transformation

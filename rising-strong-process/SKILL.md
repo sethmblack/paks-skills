@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1782
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rising-strong-process
 - storytelling

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1003
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - four-reasons-for-hope
 - writing

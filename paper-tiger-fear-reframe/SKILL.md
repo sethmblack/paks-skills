@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1573
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - paper-tiger-fear-reframe
 - transformation

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1649
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - possible-worlds-reasoning
 - writing

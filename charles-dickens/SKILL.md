@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.554
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - social-reform-narrative
 - serial-momentum

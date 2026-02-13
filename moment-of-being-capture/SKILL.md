@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1465
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - moment-of-being-capture
 - writing

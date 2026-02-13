@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1294
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tap-water-philosophy
 - sunao-mind-practice

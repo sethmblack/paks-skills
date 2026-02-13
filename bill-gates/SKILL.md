@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.462
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - two-question-problem-solving
 - leverage-point-analysis

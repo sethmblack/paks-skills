@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2146
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structure
 - trust-assessment:-braving

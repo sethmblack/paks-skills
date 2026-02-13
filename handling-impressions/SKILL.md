@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1086
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - handling-impressions
 - stoicism

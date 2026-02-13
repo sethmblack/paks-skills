@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.517
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - growth-facilitation
 - congruence-check

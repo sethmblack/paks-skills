@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.829
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - double-standard-exposure
 - writing

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2069
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - 10x-thinking
 - compression

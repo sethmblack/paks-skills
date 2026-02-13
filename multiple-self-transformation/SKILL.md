@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1488
   author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character-transformation
 - embodiment

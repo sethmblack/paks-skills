@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.341
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ai-safety-risk-assessment
 - transformation

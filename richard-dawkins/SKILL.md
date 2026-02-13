@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1777
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - meme-propagation-analysis
 - genes-eye-view-analysis

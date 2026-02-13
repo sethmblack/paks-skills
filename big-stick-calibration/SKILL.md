@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.460
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - big-stick-calibration
 - escalation

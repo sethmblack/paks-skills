@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1024
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hammer-test
 - ressentiment-diagnosis

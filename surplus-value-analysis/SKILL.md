@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2028
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - surplus-value-analysis
 - writing

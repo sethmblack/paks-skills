@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1821
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - swim-upstream-analysis
 - sundown-rule

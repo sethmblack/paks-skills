@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.350
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - imagination-knowledge-integration
 - problem-deepening

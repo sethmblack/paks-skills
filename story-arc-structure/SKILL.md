@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1986
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - callbacks
 - story-arc-structure

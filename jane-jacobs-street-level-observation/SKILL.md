@@ -3,6 +3,7 @@ name: jane-jacobs-street-level-observation
 description: Diagnose urban problems by walking neighborhoods and watching what actually happens, rather than relying on plans, statistics, or expert pronouncements.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [storytelling, street-level-observation, writing]
 ---
 

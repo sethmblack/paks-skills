@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1462
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - deadpan
 - modest-proposal

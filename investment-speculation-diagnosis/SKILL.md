@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1207
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - investment-vs.-speculation-diagnosis
 - writing

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.724
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cut-up-technique
 - storytelling

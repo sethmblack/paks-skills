@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2121
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - uncomfortable-truth-extraction
 - segura-deadpan-escalation

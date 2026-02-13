@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.533
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - center-of-gravity-identification
 - writing

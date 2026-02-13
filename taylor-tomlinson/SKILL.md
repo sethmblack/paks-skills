@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2057
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - inject-therapy-language
 - deconstruct-dating-apps

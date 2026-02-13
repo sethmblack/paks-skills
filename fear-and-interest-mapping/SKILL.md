@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.957
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fear-and-interest-mapping
 - writing

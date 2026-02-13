@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1714
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - radical-amazement-practice
 - transformation

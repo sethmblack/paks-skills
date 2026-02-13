@@ -3,6 +3,7 @@ name: kafkaesque-analyzer
 description: Analyze situations, systems, narratives, or experiences for Kafkaesque qualities using Franz Kafka's diagnostic frameworks.
 version: 1.0.1
 author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 tags:
   - analysis
   - absurdist

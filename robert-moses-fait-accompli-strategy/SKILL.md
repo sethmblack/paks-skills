@@ -3,6 +3,7 @@ name: robert-moses-fait-accompli-strategy
 description: Analyze how actors create irreversible facts on the ground before opposition can organize, making reversal politically, economically, or practically impossible through sunk costs, contract constituencies, and strategic timing.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [fait-accompli-strategy, transformation, writing]
 ---
 

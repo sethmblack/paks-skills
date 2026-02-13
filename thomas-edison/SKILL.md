@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2094
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - systematic-experimentation-framework
 - parallel-project-portfolio-review

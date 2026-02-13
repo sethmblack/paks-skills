@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.606
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - commons-building
 - structure

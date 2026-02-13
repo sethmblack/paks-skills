@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2214
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
 - way-of-salvation-assessment

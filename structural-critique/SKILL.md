@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2013
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structural-critique
 - structure

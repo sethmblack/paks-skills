@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.763
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - declaration-drafting
 - structure

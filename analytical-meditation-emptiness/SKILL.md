@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.369
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - analytical-meditation-on-emptiness-and-interdependence
 - transformation

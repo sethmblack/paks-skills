@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.326
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - adaptive-audience-presentation
 - structure

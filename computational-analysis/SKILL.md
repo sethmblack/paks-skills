@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.618
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - computational-analysis
 - transformation

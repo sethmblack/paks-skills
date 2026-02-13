@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.746
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - day-1-diagnostic
 - writing

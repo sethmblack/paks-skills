@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1797
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - room-of-one's-own-audit
 - writing

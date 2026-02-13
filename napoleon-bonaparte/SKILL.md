@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1499
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - corps-system-design
 - troop-inspiration

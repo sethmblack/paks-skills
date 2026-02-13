@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.998
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - founder-ceo-partnership

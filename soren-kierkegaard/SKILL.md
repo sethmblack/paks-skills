@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1940
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - subjectivity-truth-check
 - leap-invitation

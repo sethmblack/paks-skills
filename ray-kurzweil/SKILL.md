@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1729
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - paradigm-shift-detection
 - linear-thinking-reframe

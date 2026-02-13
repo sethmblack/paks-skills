@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1131
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - honesty-audit
 - writing

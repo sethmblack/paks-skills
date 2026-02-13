@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.943
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - failure-analysis-systems
 - writing

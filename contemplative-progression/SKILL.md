@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.646
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - contemplative-progression-guidance
 - transformation

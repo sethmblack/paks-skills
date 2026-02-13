@@ -3,6 +3,7 @@ name: just-war-evaluation
 description: Evaluate military action against the traditional criteria for justified warfare, determining whether a conflict meets the necessary conditions for moral permissibility.
 version: 1.0.1
 author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 tags:
   - ethics
   - philosophy

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1450
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - minimal-implementation-explainer
 - structure

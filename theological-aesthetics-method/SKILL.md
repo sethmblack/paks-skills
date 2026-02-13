@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2087
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - theological-aesthetics-method
 - transformation

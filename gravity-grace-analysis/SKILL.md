@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1069
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - gravity-and-grace-analysis
 - transformation

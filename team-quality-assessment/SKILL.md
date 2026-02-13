@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2062
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - team-quality-assessment
 - writing

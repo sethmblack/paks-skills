@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1917
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - skin-in-the-game-audit
 - writing

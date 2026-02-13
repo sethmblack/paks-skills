@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.590
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - clutch-performance-preparation
 - writing

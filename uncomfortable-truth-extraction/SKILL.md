@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2160
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
 - uncomfortable-truth-extraction

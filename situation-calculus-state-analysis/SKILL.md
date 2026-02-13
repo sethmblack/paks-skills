@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1914
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - situation-calculus-state-analysis
 - transformation

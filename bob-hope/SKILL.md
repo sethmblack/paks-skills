@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.476
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - topical-monologue-builder
 - self-deprecation-first-strike

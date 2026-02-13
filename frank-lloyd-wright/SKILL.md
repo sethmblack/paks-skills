@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1011
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - design-integrity-check
 - space-flow-design

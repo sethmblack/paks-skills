@@ -3,6 +3,7 @@ name: joyful-resistance
 description: Audit causes, movements, or organizations for joylessness and integrate beauty, celebration, and joy into resistance to prevent burnout and sustain long-term engagement.
 version: 1.0.1
 author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 tags:
   - activism
   - organizational-health

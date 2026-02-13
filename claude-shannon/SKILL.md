@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.582
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - small-jumps-decomposition
 - channel-capacity-analysis

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.891
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dialogue-subtext
 - concrete-detail-conversion

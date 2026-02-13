@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1381
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - margin-of-safety-analysis
 - writing

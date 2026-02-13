@@ -3,6 +3,7 @@ name: just-cause-development
 description: Help organizations articulate a Just Cause - a vision of a future state so appealing that people will make sacrifices to advance toward it.
 version: 1.0.1
 author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 tags:
   - transformation
   - leadership

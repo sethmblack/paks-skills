@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1032
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - gedankenexperiment-method
 - transformation

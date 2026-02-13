@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2124
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ancestor-wisdom-invocation
 - language-as-power-analysis

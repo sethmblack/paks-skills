@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.662
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - copy-diagnosis
 - writing

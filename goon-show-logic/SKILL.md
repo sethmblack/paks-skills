@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1058
   author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - absurdist

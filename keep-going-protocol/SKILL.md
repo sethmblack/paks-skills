@@ -3,6 +3,7 @@ name: keep-going-protocol
 description: Provide the courage and resolve to continue when facing obstacles, fear, or temptation to turn back, using Harriet Tubman's philosophy of relentless forward motion.
 version: 1.0.1
 author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 tags:
   - motivation
   - resilience

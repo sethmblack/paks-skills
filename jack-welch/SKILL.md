@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1218
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - candor-culture-assessment
 - four-es-leadership-evaluation

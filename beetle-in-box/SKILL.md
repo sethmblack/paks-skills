@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.434
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - beetle-in-box-critique-(private-language-critique)
 - writing

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.912
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - evening-reflection-(self-examination)
 - transformation

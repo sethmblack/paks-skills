@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1902
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-other-dialectic
 - becoming-analysis

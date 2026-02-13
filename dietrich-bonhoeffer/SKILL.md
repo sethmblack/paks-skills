@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.798
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ethical-discernment-in-crisis
 - costly-discipleship-audit

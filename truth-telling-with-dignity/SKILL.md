@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2151
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - truth-telling-with-dignity
 - writing

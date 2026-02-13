@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1924
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - small-nation-strategy
 - transformation

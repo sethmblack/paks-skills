@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.526
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cash-value-test
 - structure

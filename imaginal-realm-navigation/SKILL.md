@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1161
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - imaginal-realm-navigation
 - transformation

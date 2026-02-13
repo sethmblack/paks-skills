@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.532
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cave-of-fear-exploration
 - transformation

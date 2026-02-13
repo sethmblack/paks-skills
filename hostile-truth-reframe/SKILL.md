@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1134
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hostile-truth-reframe
 - storytelling

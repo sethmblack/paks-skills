@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2068
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - 10x-transformation-test
 - compression

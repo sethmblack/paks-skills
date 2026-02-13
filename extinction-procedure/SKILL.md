@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.934
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - extinction-procedure
 - writing

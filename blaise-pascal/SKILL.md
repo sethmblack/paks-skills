@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.471
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - three-orders-assessment
 - pensee-craft

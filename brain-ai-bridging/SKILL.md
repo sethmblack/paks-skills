@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.482
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - brain-ai-bridging
 - transformation

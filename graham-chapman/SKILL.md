@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1064
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - matter-of-fact-revolutionary
 - dignified-chaos-navigation

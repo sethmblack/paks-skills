@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.961
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fei-fei-li--human-centered-ai-assessment
 - fei-fei-li--dataset-quality-audit

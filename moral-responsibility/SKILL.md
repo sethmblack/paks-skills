@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1473
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - moral-responsibility
 - writing

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.956
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fate-acceptance-practice-(proto-amor-fati)
 - transformation

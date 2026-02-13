@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.803
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - dignity-preservation-under-pressure

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.953
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fantasy-reality-diagnosis
 - storytelling

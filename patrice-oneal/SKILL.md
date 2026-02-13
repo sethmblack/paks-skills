@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1589
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - uncomfortable-truth-extraction
 - relationship-honesty-audit

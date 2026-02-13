@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1376
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tech-optimism-reframe
 - tam-expansion-analysis

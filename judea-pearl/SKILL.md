@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1273
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ladder-classification
 - causal-diagram-construction

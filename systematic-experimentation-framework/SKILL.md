@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2042
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - systematic-experimentation-framework

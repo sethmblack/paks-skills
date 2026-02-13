@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1447
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - monetary-diagnosis
 - incentive-inversion-analysis

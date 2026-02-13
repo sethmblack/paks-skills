@@ -3,6 +3,7 @@ name: frederick-law-olmsted-restorative-landscape-assessment
 description: Evaluate landscapes for genuine restorative potential versus mere decoration, applying the distinction between pastoral and picturesque modes to diagnose whether a space provides true psychological relief from urban intensity.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [restorative-landscape-assessment, transformation, writing]
 ---
 

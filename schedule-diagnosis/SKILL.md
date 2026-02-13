@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1838
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - schedule-diagnosis
 - writing

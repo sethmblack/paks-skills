@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.497
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - bureaucratic-fever-dream

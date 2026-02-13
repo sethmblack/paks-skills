@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1216
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - iterative-excellence-framework
 - writing

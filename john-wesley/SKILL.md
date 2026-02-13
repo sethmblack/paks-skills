@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1259
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - way-of-salvation-assessment
 - means-of-grace-practice

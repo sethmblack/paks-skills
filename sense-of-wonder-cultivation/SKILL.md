@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1865
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sense-of-wonder-cultivation
 - nature

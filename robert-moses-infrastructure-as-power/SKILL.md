@@ -3,6 +3,7 @@ name: robert-moses-infrastructure-as-power
 description: Analyze how physical infrastructure encodes political choices, benefits specific groups, shapes communities for generations, and creates facts on the ground that outlast the officials who created them.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [infrastructure-as-power, transformation, writing]
 ---
 

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.489
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - bringing-out-the-artist's-best
 - writing

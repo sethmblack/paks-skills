@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1047
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - succession-planning
 - strategic-patience-assessment

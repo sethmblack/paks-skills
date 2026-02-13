@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1523
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sex-positive-reframe
 - roast-precision-generator

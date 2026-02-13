@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1754
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - relationship-honesty-audit
 - transformation

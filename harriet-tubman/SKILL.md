@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1102
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-timing-assessment
 - network-building-for-liberation

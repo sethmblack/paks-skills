@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1401
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - masterwork-preparation
 - storytelling

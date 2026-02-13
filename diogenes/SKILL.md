@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.804
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - definition-stress-test
 - lantern-audit

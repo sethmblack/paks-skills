@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1046
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - propaganda-pattern-analysis
 - tribal-thinking-detector

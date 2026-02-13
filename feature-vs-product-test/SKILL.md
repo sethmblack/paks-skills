@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.959
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - feature-vs.-product-test
 - writing

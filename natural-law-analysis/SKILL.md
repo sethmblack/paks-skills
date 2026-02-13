@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1507
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - natural-law-analysis
 - writing

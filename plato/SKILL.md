@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1636
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - plato--tripartite-soul
 - plato--eros-ascent

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1522
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fox-lion-assessment
 - power-dynamics-assessment

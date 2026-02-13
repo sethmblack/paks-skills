@@ -3,6 +3,7 @@ name: frederick-law-olmsted-park-system-design
 description: Design connected networks of green spaces rather than isolated parks, applying systems thinking to multiply the restorative and democratic benefits of urban landscapes.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [park-system-design, transformation, writing]
 ---
 

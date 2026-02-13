@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2033
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - swarm-operations
 - writing

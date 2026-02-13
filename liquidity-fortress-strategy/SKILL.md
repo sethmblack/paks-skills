@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1341
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - liquidity-fortress-strategy
 - writing

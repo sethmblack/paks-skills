@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1972
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - state-of-nature-analysis
 - writing

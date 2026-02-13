@@ -3,6 +3,7 @@ name: daniel-burnham-comprehensive-plan-framework
 description: Guide the creation of comprehensive plans that address interconnected systems as a unified whole rather than solving problems in isolation. Make no little plans.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [comprehensive-plan-framework, transformation, writing]
 ---
 

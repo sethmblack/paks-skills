@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.570
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - church-hurt-healing
 - storytelling

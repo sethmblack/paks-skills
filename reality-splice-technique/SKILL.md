@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1733
   author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - anachronism

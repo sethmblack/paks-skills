@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2077
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dependent-origination-analysis
 - mindfulness-anchor

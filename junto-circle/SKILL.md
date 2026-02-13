@@ -3,6 +3,7 @@ name: junto-circle
 description: Design and facilitate mutual improvement groups using Benjamin Franklin's structured inquiry approach - the model that spawned America's first lending library, the American Philosophical Society, and the University of Pennsylvania.
 version: 1.0.1
 author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 tags:
   - community
   - networking

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1196
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - integration-vs-breakup-analysis
 - structure

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2131
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tragic-optimism-assessment
 - transformation

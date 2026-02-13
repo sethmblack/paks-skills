@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2148
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - trust-battery-assessment
 - writing

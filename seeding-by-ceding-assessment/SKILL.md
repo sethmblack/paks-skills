@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1844
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - seeding-by-ceding-assessment
 - transformation

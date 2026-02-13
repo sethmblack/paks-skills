@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.995
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - foucauldian-problematization
 - transformation

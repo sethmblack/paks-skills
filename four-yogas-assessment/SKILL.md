@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1004
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - four-yogas-assessment
 - transformation

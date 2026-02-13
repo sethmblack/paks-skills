@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.723
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - customer-back-transformation
 - escalation

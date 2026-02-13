@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.384
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - anti-orthogonal-challenge
 - transformation

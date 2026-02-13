@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.442
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - believability-weighted-decision-making
 - writing

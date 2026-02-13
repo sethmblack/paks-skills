@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1397
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - suitcase-word-unpacking
 - society-decomposition

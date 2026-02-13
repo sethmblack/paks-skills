@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.325
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - natural-liberty-policy-test
 - market-dynamics-assessment

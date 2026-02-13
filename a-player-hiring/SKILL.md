@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.299
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hiring
 - talent

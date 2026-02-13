@@ -3,6 +3,7 @@ name: jane-jacobs-mixed-use-analysis
 description: Evaluate how the separation or combination of uses (residential, commercial, industrial, civic) affects street life and neighborhood vitality.
 version: 1.0.0
 author: AI-Personas
+repository: https://github.com/sethmblack/paks-skills
 tags: [mixed-use-analysis, writing]
 ---
 

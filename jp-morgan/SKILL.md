@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1272
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - morganization-framework
 - crisis-command-protocol

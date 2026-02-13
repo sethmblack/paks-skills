@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.942
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - facts-changed-audit
 - transformation

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.839
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ecological-web-analysis
 - writing

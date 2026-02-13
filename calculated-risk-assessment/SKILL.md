@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.502
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - calculated-risk-assessment
 - writing

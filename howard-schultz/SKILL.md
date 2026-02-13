@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1138
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - values-based-transformation
 - third-place-design

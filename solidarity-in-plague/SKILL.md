@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1936
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - solidarity-in-plague

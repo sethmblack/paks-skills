@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2097
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - true-self-inquiry
 - contemplation-introduction

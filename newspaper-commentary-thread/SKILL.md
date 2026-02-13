@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1521
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - newspaper-commentary-thread
 - transformation

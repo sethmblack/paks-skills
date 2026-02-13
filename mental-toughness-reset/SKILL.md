@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1428
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mental-toughness-reset
 - writing

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1028
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - underground-voice-analysis
 - polyphonic-reframing

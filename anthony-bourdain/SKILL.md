@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.381
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - travel-philosophy-assessment
 - honest-feedback-framework

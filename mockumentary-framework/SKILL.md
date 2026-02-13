@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1460
   author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mockumentary
 - documentary

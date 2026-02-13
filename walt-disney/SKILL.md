@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2208
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - weenie-design
 - storyboard-experience

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.767
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - deep-listening-session
 - writing

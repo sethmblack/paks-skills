@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.623
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - concrete-detail-conversion
 - transformation

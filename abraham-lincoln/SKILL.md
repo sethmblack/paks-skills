@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.306
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - better-angels-appeal
 - hot-letter-method

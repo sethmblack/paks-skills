@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1414
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - measurement-verification-method
 - writing

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1477
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - morning-preparation-(premeditatio-malorum)
 - transformation

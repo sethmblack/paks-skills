@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.738
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - data-driven-decision-culture
 - transformation

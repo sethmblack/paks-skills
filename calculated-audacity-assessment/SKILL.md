@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.501
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - calculated-audacity-assessment
 - writing

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2096
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - jeffersonian-first-principles
 - educational-architecture

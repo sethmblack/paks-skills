@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.796
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - inversion-technique
 - economic-analysis-social-issues

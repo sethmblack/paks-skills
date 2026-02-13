@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.2211
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - margin-of-safety-valuation
 - economic-moat-analysis

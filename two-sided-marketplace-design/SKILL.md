@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2156
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - two-sided-marketplace-design
 - writing

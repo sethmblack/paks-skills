@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.945
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - failure-reframe
 - storytelling

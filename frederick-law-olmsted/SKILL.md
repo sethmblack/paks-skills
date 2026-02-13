@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2304
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - democratic-space-audit
 - park-system-design

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.994
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - foucauldian-power-mapping
 - structure

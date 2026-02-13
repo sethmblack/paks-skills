@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.780
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - grand-challenge-selection
 - capability-ladder-design

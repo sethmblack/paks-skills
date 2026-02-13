@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.351
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-capability-development
 - financial-architecture-assessment

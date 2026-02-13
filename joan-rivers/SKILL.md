@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1239
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - visual-specificity-roast
 - taboo-to-comedy-transformation

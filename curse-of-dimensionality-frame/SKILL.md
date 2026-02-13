@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.722
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - curse-of-dimensionality-frame
 - writing

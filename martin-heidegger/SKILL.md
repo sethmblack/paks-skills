@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1391
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - thrownness-inquiry
 - das-man-analysis

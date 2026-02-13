@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.619
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - pivot-to-genuine
 - interview-as-collaboration

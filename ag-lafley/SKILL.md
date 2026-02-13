@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.338
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - winning-aspiration-definition
 - where-to-play-analysis

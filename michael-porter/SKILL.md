@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1439
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - value-chain-mapping
 - strategic-position-diagnosis

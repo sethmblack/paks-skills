@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1213
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mathematical-modeling-framework
 - hypothesis-discipline

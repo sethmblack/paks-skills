@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1331
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - liberty-of-thought-defense
 - writing

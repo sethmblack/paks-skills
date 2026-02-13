@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.835
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dreamer-realist-critic
 - transformation

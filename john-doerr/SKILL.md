@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1250
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - team-quality-assessment
 - startup-investment-evaluation

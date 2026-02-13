@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1177
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - work-life-integration-audit
 - stakeholder-value-mapping

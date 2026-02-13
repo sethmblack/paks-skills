@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1392
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - moral-urgency-argument
 - constructive-tension-creation

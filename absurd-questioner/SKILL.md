@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.311
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurd-questioner
 - absurdist

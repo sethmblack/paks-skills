@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.304
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - long-distance-partnership
 - remember-the-ladies

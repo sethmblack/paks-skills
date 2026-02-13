@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1629
   author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - physical-comedy
 - choreography

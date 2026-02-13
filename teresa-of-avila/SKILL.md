@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2070
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - spiritual-discernment
 - prayer-stage-diagnosis

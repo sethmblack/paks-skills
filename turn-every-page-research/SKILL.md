@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.2153
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - turn-every-page-research
 - writing

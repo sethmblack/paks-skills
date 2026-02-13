@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.461
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - working-class-translator
 - self-aware-rage

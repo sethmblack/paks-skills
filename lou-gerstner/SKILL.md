@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1354
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cultural-transformation-framework
 - integration-vs-breakup-analysis

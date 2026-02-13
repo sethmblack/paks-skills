@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.310
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurd-escalation
 - absurdist

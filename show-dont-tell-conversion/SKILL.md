@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1893
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - show-don't-tell-conversion
 - transformation

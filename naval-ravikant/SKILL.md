@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1511
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - wealth-vs-status-diagnosis
 - specific-knowledge-discovery

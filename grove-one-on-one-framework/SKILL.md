@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1076
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - grove-one-on-one-framework
 - structure

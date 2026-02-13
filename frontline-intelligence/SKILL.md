@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1025
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - frontline-intelligence
 - writing

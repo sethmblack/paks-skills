@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: sethmblack
   version: 1.0.1805
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - royal-speechcraft-(crisis-rhetoric)
 - structure

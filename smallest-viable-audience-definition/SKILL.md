@@ -5,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.1925
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - smallest-viable-audience-definition
 - transformation
