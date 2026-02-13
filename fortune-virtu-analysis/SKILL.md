@@ -4,7 +4,7 @@ description: Separate what's within your control (virtù) from what's circumstan
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.991
+  version: 1.0.4028
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fortune-virtù-analysis
