@@ -4,7 +4,7 @@ description: Build and deploy reputation as a strategic asset that works while y
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1761
+  version: 1.0.4832
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - reputation-warfare
