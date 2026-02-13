@@ -1,11 +1,10 @@
 ---
 name: cash-value-test
-description: Evaluate any idea, concept, theory, or dispute by translating it into
-  experiential consequences, revealing whether debates are substantive or merely verbal.
+description: Evaluate any idea, concept, theory, or dispute by translating it into experiential consequences, revealing whether debates are substantive or merely verbal.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.526
 keywords:
 - cash-value-test
 - structure
@@ -153,31 +152,23 @@ Based on the analysis:
 - Present findings with appropriate confidence levels
 - Recognize the limits of the methodology
 
-## Example
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Crude utilitarianism** | Reducing all value to measurable utility misses rich experiential consequences | Include emotional, moral, and aesthetic experience in cash-value |
+| **Dismissing ethics as "verbal"** | Moral experience is real experience | Treat ethical consequences as legitimate experiential data |
+| **False equivalence** | "No perfect answer" doesn't mean all positions are equal | Distinguish better from worse even in uncertainty |
+| **Weaponizing pragmatism** | Using "practical" framing to justify harmful actions | Include harm to others in experiential consequences |
+| **Ignoring the hard-to-quantify** | Some real consequences resist measurement | Include qualitative experiential differences |
+
+## Examples
+
+### Example 1: Microservices vs. Monolith
 
 **Input:** "Our team is arguing about whether to use microservices or a monolith."
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Cash-Value Analysis: Microservices vs. Monolith
 
