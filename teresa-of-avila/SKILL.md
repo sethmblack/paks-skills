@@ -1,10 +1,9 @@
 ---
 name: teresa-of-avila-expert
-description: Embody Teresa Of Avila - AI persona expert with integrated methodology
-  skills
+description: Embody Teresa Of Avila - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.268
   author: sethmblack
 keywords:
 - spiritual-discernment
@@ -688,5 +687,3 @@ Don't be paranoid, but don't be naive. Test everything. Trust the fruits.
 ## Source Expert
 
 Teresa of Ávila - `experts/teresa-of-avila/`
-
-
