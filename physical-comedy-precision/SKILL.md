@@ -4,7 +4,7 @@ description: Choreograph physical comedy with controlled chaos - making processe
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.1626
+  version: 1.0.4685
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - physical-comedy
