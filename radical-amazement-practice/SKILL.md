@@ -1,12 +1,10 @@
 ---
 name: radical-amazement-practice
-description: 'Recover and cultivate the capacity for radical amazement—the foundational
-  spiritual stance of wonder at existence itself. Based on Abraham Joshua Heschel''s
-  insight: "Our goal should be to live life...'
+description: 'Recover and cultivate the capacity for radical amazement—the foundational spiritual stance of wonder at existence itself. Based on Abraham Joshua Heschel''s insight: "Our goal should be to live life...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1714
 keywords:
 - radical-amazement-practice
 - transformation
