@@ -1,11 +1,10 @@
 ---
 name: reciprocal-determinism-analysis
-description: Map the three-way interaction between person (cognitive/affective states),
-  behavior, and environment to identify feedback loops and leverage points for intervention.
+description: Map the three-way interaction between person (cognitive/affective states), behavior, and environment to identify feedback loops and leverage points for intervention.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1735
 keywords:
 - reciprocal-determinism-analysis
 - transformation
