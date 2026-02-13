@@ -3,8 +3,8 @@ name: clarity-distinctness-evaluation
 description: Evaluate whether an idea, concept, or argument is sufficiently clear (vivid and present to the mind) and distinct (precisely separated from other concepts) to be trusted as a foundation for further...
 license: MIT
 metadata:
+  version: 1.0.3140
   author: sethmblack
-  version: 1.0.578
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - clarity-distinctness-evaluation
