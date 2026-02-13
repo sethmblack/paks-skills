@@ -1,12 +1,10 @@
 ---
 name: callback-setup
-description: Identify callback opportunities in content and engineer both the plant
-  (early setup) and payoff (later callback) to create narrative coherence and reward
-  audience attention.
+description: Identify callback opportunities in content and engineer both the plant (early setup) and payoff (later callback) to create narrative coherence and reward audience attention.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.505
 keywords:
 - absurdist
 - callback-setup
