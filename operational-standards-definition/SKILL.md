@@ -3,8 +3,8 @@ name: operational-standards-definition
 description: Define the non-negotiable fundamentals that must be perfect every time—the QSC&V (Quality, Service, Cleanliness, Value) of your system.
 license: MIT
 metadata:
-  version: 1.0.1557
   author: sethmblack
+  version: 1.0.4613
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
