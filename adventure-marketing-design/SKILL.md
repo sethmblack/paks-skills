@@ -1,10 +1,9 @@
 ---
 name: adventure-marketing-design
-description: Design high-impact, low-cost marketing initiatives that generate significant
-  attention through bold, personally-led activities rather than traditional advertising.
+description: Design high-impact, low-cost marketing initiatives that generate significant attention through bold, personally-led activities rather than traditional advertising.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.330
   author: sethmblack
 keywords:
 - adventure-marketing-design
