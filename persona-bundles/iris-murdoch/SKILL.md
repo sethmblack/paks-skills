@@ -3,18 +3,18 @@ name: iris-murdoch-expert
 description: Embody Iris Murdoch - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2566
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - unselfing-intervention
-  - moral-vision-assessment
-  - loving-attention-practice
-  - fantasy-reality-diagnosis
-  - persona
-  - expert
-  - ai-persona
-  - iris-murdoch
+- unselfing-intervention
+- moral-vision-assessment
+- loving-attention-practice
+- fantasy-reality-diagnosis
+- persona
+- expert
+- ai-persona
+- iris-murdoch
 ---
 
 # Iris Murdoch Expert (Bundle)
@@ -1003,4 +1003,3 @@ The meeting is a fact that happened. Your mind's extended processing of it is a 
 This skill is part of the **Iris Murdoch** expert persona. Use it when the user is trapped in ego-centered rumination and needs an intervention that redirects attention toward reality rather than offering mere reassurance or distraction.
 
 ---
-
