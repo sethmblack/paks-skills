@@ -1,11 +1,9 @@
 ---
 name: natality-reframe
-description: Recover the possibility of new beginnings in situations that seem hopeless,
-  determined, or locked-in. Based on Hannah Arendt's concept of natality—the human
-  capacity to begin something new.
+description: Recover the possibility of new beginnings in situations that seem hopeless, determined, or locked-in. Based on Hannah Arendt's concept of natality—the human capacity to begin something new.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1502
   author: sethmblack
 keywords:
 - natality-reframe
