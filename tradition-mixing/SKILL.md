@@ -1,10 +1,9 @@
 ---
 name: tradition-mixing
-description: A methodology for combining disparate cultural, artistic, and intellectual
-  sources into new forms where the origins blur and something genuinely new emerges.
+description: A methodology for combining disparate cultural, artistic, and intellectual sources into new forms where the origins blur and something genuinely new emerges.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2130
   author: sethmblack
 keywords:
 - compression
