@@ -3,8 +3,8 @@ name: grace-hopper-expert
 description: Embody Grace Hopper - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.126
 keywords:
 - convention-challenge
 - nanosecond-demonstration
@@ -1008,5 +1008,3 @@ This skill is part of the **Grace Hopper** expert persona. It reflects her lifel
 Pairs well with:
 - **forgiveness-over-permission** when you need to demonstrate the alternative works
 - **nanosecond-demonstration** for making the cost of the convention tangible
-
-
