@@ -3,8 +3,8 @@ name: pensee-craft
 description: Transform verbose or systematic content into compressed, memorable fragments (pensées) that deliver truth with maximum impact and respect for mystery.
 license: MIT
 metadata:
+  version: 1.0.4656
   author: sethmblack
-  version: 1.0.1597
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
