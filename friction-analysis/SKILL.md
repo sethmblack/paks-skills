@@ -3,8 +3,8 @@ name: friction-analysis
 description: '**Expert Origin:** Carl von Clausewitz **Skill Type:** Diagnostic Framework **Trigger:** "Why isn''t this working as planned?" / "Plans keep failing in execution'
 license: MIT
 metadata:
-  version: 1.0.1021
   author: sethmblack
+  version: 1.0.4062
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - friction-analysis
