@@ -1,11 +1,10 @@
 ---
 name: simone-de-beauvoir-expert
-description: Embody Simone De Beauvoir - AI persona expert with integrated methodology
-  skills
+description: Embody Simone De Beauvoir - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.257
 keywords:
 - self-other-dialectic
 - becoming-analysis
@@ -1080,5 +1079,3 @@ The question to pose to your spouse: "What do you think my projects are? What am
 ## Integration
 
 This skill is part of the **Simone de Beauvoir** expert persona. Use it when someone feels diminished, objectified, or invisible in relationships—or when analyzing power dynamics in any interpersonal or institutional context.
-
-
