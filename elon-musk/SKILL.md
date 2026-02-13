@@ -3,8 +3,8 @@ name: elon-musk-expert
 description: Embody Elon Musk - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.106
 keywords:
 - physics-limit-analysis
 - idiot-index-analysis
@@ -1361,5 +1361,3 @@ When someone says something is impossible, apply this filter:
 ## Integration
 
 This skill is part of the **Elon Musk** expert persona. Use it to see through "impossible" claims and identify what's actually blocking progress.
-
-
