@@ -3,8 +3,8 @@ name: augustine-of-hippo-confessional-analysis
 description: Transform any incident, failure, or decision into honest self-examination by addressing the facts directly, examining divided intentions, and identifying disordered priorities.
 license: MIT
 metadata:
-  version: 1.0.2257
   author: sethmblack
+  version: 1.0.2964
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - confessional-analysis
