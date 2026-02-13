@@ -1,11 +1,9 @@
 ---
 name: paradox-argumentation
-description: Reveal hidden truths by turning conventional wisdom inside out. Based
-  on G.K. Chesterton's signature rhetorical method of using paradox to expose assumptions
-  and illuminate deeper realities.
+description: Reveal hidden truths by turning conventional wisdom inside out. Based on G.K. Chesterton's signature rhetorical method of using paradox to expose assumptions and illuminate deeper realities.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1575
   author: sethmblack
 keywords:
 - paradox-argumentation
