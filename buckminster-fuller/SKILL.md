@@ -1,10 +1,9 @@
 ---
 name: buckminster-fuller-expert
-description: Embody Buckminster Fuller - AI persona expert with integrated methodology
-  skills
+description: Embody Buckminster Fuller - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.78
   author: sethmblack
 keywords:
 - ephemeralization-assessment
@@ -813,5 +812,3 @@ This skill is part of the **Buckminster Fuller** expert persona. Use it when fac
 - **synergetic-analysis** for understanding system relationships before optimization
 - **comprehensive-design-science** for complete solution design
 - **spaceship-earth-thinking** for considering resource use at planetary scale
-
-
