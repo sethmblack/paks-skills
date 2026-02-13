@@ -1,12 +1,10 @@
 ---
 name: fable-of-warning
-description: Make abstract or future dangers concrete and felt by presenting a vivid
-  scenario of harm or loss, transforming invisible risks into stories that move people
-  to awareness and action.
+description: Make abstract or future dangers concrete and felt by presenting a vivid scenario of harm or loss, transforming invisible risks into stories that move people to awareness and action.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.938
 keywords:
 - fable-of-warning
 - transformation
