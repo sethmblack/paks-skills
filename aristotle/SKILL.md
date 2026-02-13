@@ -3,7 +3,7 @@ name: aristotle-expert
 description: Embody Aristotle - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.395
+  version: 1.0.2948
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
