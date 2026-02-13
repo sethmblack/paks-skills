@@ -4,7 +4,7 @@ description: Create definitions with absurd specificity or juxtapose competing d
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.777
+  version: 1.0.3807
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
