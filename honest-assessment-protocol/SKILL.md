@@ -4,7 +4,7 @@ description: Strip confirmation bias from analysis by forcing data to inform con
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1129
+  version: 1.0.4174
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - honest-assessment-protocol
