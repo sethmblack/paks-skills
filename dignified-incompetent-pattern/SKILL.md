@@ -1,16 +1,16 @@
 ---
 name: dignified-incompetent-pattern
-description: "Create characters with absolute confidence despite catastrophic incompetence - the Clouseau formula"
+description: Create characters with absolute confidence despite catastrophic incompetence - the Clouseau formula
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.802
 keywords:
-  - character
-  - comedy
-  - incompetence
-  - confidence
-  - satire
+- character
+- comedy
+- incompetence
+- confidence
+- satire
 ---
 
 # Dignified Incompetent Pattern
