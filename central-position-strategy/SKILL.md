@@ -4,7 +4,7 @@ description: When facing multiple competitors or threats, identify how to positi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3095
+  version: 1.0.3555
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - central-position-strategy
