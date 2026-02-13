@@ -3,12 +3,12 @@ name: sittable-space-audit
 description: Evaluate seating design against William H. Whyte's empirical criteria—ledge depth, step height, sun orientation, movability, and street relationship.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2338
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - sittable-space-audit
-  - urban-planning
+- sittable-space-audit
+- urban-planning
 ---
 
 # Sittable Space Audit
