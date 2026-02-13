@@ -4,7 +4,7 @@ description: '**Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Ch
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3212
+  version: 1.0.3672
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - contemplative-progression-guidance
