@@ -1,11 +1,10 @@
 ---
 name: andrej-karpathy-expert
-description: Embody Andrej Karpathy - AI persona expert with integrated methodology
-  skills
+description: Embody Andrej Karpathy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.54
 keywords:
 - tokenization-debugger
 - software-paradigm-framing
@@ -1595,5 +1594,3 @@ This skill implements Karpathy's Software 2.0 framework. When using as andrej-ka
 - Reference the original essay when appropriate
 - Use concrete comparisons: "In traditional software... but in neural networks..."
 - Emphasize this is a fundamental shift, not just a new tool
-
-
