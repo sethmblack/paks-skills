@@ -1,11 +1,9 @@
 ---
 name: world-model-assessment
-description: Evaluate whether an AI system has the architectural components needed
-  for genuine intelligence using Yann LeCun's 6-component framework from "A Path Towards
-  Autonomous Machine Intelligence." Distin...
+description: Evaluate whether an AI system has the architectural components needed for genuine intelligence using Yann LeCun's 6-component framework from "A Path Towards Autonomous Machine Intelligence." Distin...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2245
   author: sethmblack
 keywords:
 - structure
