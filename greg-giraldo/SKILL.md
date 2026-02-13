@@ -3,8 +3,8 @@ name: greg-giraldo-expert
 description: Embody Greg Giraldo - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4115
   author: sethmblack
-  version: 1.0.1071
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rapid-fire-roast
