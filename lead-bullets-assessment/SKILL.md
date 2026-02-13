@@ -1,12 +1,10 @@
 ---
 name: lead-bullets-assessment
-description: Diagnose whether an organization is seeking magic solutions (silver bullets)
-  vs. doing the hard work of product improvement (lead bullets), and prescribe the
-  appropriate competitive response.
+description: Diagnose whether an organization is seeking magic solutions (silver bullets) vs. doing the hard work of product improvement (lead bullets), and prescribe the appropriate competitive response.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1311
 keywords:
 - lead-bullets-assessment
 - writing
