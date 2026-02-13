@@ -4,7 +4,7 @@ description: Diagnose whether a business challenge represents a strategic inflec
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1994
+  version: 1.0.5073
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
