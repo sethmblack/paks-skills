@@ -3,8 +3,8 @@ name: conan-obrien-expert
 description: Embody Conan Obrien - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.3643
   author: sethmblack
-  version: 1.0.3183
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - pivot-to-genuine
