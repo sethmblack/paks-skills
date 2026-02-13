@@ -4,7 +4,7 @@ description: Redesign a fixed-objective system as a cooperative assistance game 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.401
+  version: 1.0.2954
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - assistance-game-reframe
