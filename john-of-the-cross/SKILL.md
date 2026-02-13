@@ -3,7 +3,7 @@ name: john-of-the-cross-expert
 description: Embody John Of The Cross - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.169
+  version: 1.0.1256
   author: sethmblack
 keywords:
 - dark-night-navigation
