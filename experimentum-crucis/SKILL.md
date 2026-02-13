@@ -3,8 +3,8 @@ name: experimentum-crucis
 description: Design crucial experiments that definitively test hypotheses by isolating variables, verifying intrinsic properties, and producing unambiguous results.
 license: MIT
 metadata:
-  version: 1.0.928
   author: sethmblack
+  version: 1.0.3959
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - experimentum-crucis
