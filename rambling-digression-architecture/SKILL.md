@@ -4,7 +4,7 @@ description: Create apparently chaotic tangential journeys that ultimately arriv
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.1722
+  version: 1.0.4791
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - stream-of-consciousness
