@@ -1,10 +1,9 @@
 ---
 name: crisis-rhetoric
-description: Transform difficult situations into compelling, morale-boosting communications
-  using Winston Churchill's proven wartime speech techniques.
+description: Transform difficult situations into compelling, morale-boosting communications using Winston Churchill's proven wartime speech techniques.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.697
   author: sethmblack
 keywords:
 - crisis-rhetoric
@@ -14,7 +13,7 @@ keywords:
 
 # Crisis Rhetoric
 
-Transform difficult situations into compelling, morale-boosting communications using Winston Churchill's proven wartime speech techniques.
+Transform difficult situations into compelling, morale-boosting communications using Winston Churchill's proven wartime speech techniques. Churchill mastered the art of delivering terrible news while building resolve rather than despair. His speeches during Britain's darkest hours—when invasion seemed imminent and allies had fallen—created the conditions for resistance by combining unflinching honesty with absolute determination. "I have nothing to offer but blood, toil, tears, and sweat" acknowledges the truth; "We shall never surrender" transforms that truth into fuel for action. This skill teaches five core techniques: honest assessment, anaphoric build, stark choice, defiant close, and concrete language—patterns that move audiences from fear to resolve.
 
 ---
 
@@ -37,6 +36,12 @@ Transform difficult situations into compelling, morale-boosting communications u
 | audience | Yes | Who will receive this message |
 | desired_action | No | What you want the audience to do or feel after |
 | tone | No | Level of gravity (default: match the stakes) |
+
+---
+
+## Core Principle
+
+Morale is not maintained by hiding truth but by meeting it with unconquerable will. Audiences respect honesty—minimizing the crisis insults their intelligence and destroys trust. The power of crisis rhetoric lies in combining complete candor about the situation with absolute resolve about the response.
 
 ---
 
@@ -182,26 +187,17 @@ Create actionable outputs:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Corporate Euphemism** | "Rightsizing," "resource actions," "strategic realignment"—audiences know when they're being lied to. | Use plain, Anglo-Saxon words: "We are cutting jobs." "We are in trouble." |
+| **Minimizing the Crisis** | "This is a minor setback" when everyone knows it's catastrophic. Destroys credibility instantly. | State the situation directly: "This is a crisis. I will not dress it up." |
+| **Hedged Endings** | "We hope things will improve" or "We're cautiously optimistic"—weak closings create weak responses. | End with absolute resolve: "We will prevail." "We shall never surrender." |
+| **False Dichotomies** | Manufacturing binary choices that don't exist to manipulate audience into preferred action. | Stark choices must be genuinely binary—honest assessment of real options. |
+| **Blame Distribution** | Using crisis communication to assign blame rather than build resolve. | Take responsibility where appropriate; focus on the path forward, not recrimination. |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
+---
 
 ## Example
 
