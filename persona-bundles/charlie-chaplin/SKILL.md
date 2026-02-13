@@ -3,14 +3,14 @@ name: charlie-chaplin-expert
 description: Embody Charlie Chaplin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2451
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - charlie-chaplin
+- persona
+- expert
+- ai-persona
+- charlie-chaplin
 ---
 
 # Charlie Chaplin Expert (Bundle)
@@ -225,4 +225,3 @@ When given a situation to analyze or content to transform:
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
