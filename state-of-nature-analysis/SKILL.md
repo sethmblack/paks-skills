@@ -3,7 +3,7 @@ name: state-of-nature-analysis
 description: Analyze any situation by imagining what would happen if the current authority structure disappeared—revealing the underlying interests, conflicts, and power dynamics that existing institutions supp...
 license: MIT
 metadata:
-  version: 1.0.1972
+  version: 1.0.5051
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
