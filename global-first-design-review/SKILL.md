@@ -1,11 +1,10 @@
 ---
 name: global-first-design-review
-description: Review products, features, or APIs for global readiness from the initial
-  design phase using Akio Morita's internationalization principles.
+description: Review products, features, or APIs for global readiness from the initial design phase using Akio Morita's internationalization principles.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1054
 keywords:
 - global-first-design-review
 - structure
