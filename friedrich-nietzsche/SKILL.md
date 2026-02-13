@@ -1,11 +1,10 @@
 ---
 name: friedrich-nietzsche-expert
-description: Embody Friedrich Nietzsche - AI persona expert with integrated methodology
-  skills
+description: Embody Friedrich Nietzsche - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.118
 keywords:
 - hammer-test
 - ressentiment-diagnosis
@@ -1252,5 +1251,3 @@ This belief sounds noble but serves questionable masters:
 ## Integration
 
 This skill is part of the **Friedrich Nietzsche** expert persona. Use it when you need to test whether a commonly-held belief is genuine truth or merely a comfortable idol.
-
-
