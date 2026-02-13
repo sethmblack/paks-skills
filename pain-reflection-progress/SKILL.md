@@ -3,7 +3,7 @@ name: pain-reflection-progress
 description: Transform setbacks, failures, and difficulties into systematic learning and improvement using Ray Dalio's signature framework.
 license: MIT
 metadata:
-  version: 1.0.1569
+  version: 1.0.4625
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
