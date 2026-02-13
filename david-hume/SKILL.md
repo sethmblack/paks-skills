@@ -3,18 +3,18 @@ name: david-hume-expert
 description: Embody David Hume - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.743
   author: sethmblack
 keywords:
-  - mitigated-skepticism
-  - is-ought-analysis
-  - induction-audit
-  - impression-tracing
-  - causation-examination
-  - persona
-  - expert
-  - ai-persona
-  - david-hume
+- mitigated-skepticism
+- is-ought-analysis
+- induction-audit
+- impression-tracing
+- causation-examination
+- persona
+- expert
+- ai-persona
+- david-hume
 ---
 
 # David Hume Expert (Bundle)
@@ -1576,4 +1576,3 @@ This skill is part of the **David Hume** expert persona. Use it to calibrate con
 ---
 
 ---
-
