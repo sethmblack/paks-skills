@@ -4,7 +4,7 @@ description: Identify where to focus limited resources for maximum impact by fin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.762
+  version: 1.0.3792
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - decisive-point-identification
