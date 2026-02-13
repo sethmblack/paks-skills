@@ -3,7 +3,7 @@ name: clarity-audit
 description: Apply George Orwell's writing rules to diagnose and improve prose clarity.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.577
   author: sethmblack
 keywords:
 - clarity-audit
@@ -215,45 +215,19 @@ Reduction: [Z]%
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Over-simplifying technical content** | Some precision IS necessary; removing all jargon can destroy meaning | Keep technical terms when they're genuinely precise; add brief clarification if needed |
+| **Mechanical rule-following** | Applying rules rigidly makes prose robotic and loses voice | Remember Rule 6: break any rule rather than say anything barbarous |
+| **Style-stripping** | Removing all personality in pursuit of clarity creates bland writing | Preserve voice and character while cutting fat; clarity and style can coexist |
+| **Meaning drift** | Changing so much that the author's intent is lost | Always check: "Does my revision say what the original meant to say?" |
+| **False precision** | Replacing vague claims with equally vague "specific" language | If you can't be truly specific, acknowledge the vagueness rather than disguising it |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+---
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
-## Additional Notes
-
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
-
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
-
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
-
-## Example
+## Example 1: Business Writing Bloat
 
 **Input:** "At this point in time, it is our considered opinion that the implementation of the proposed solution would be facilitative of achieving the desired outcomes in terms of operational efficiency gains."
 
@@ -308,6 +282,66 @@ Or, if specificity is possible:
 Original: 29 words
 Revised: 9 words
 Reduction: 69%
+
+---
+
+## Example 2: Academic Abstract Bloat
+
+**Input:** "This paper interrogates the problematic discourse surrounding contemporary manifestations of neoliberal hegemony within educational contexts, with particular attention to the ways in which market-driven logics have come to be naturalized within institutional frameworks."
+
+**Output:**
+
+## Clarity Audit Results
+
+### Original Text
+> "This paper interrogates the problematic discourse surrounding contemporary manifestations of neoliberal hegemony within educational contexts, with particular attention to the ways in which market-driven logics have come to be naturalized within institutional frameworks."
+
+### Diagnosis
+
+**Maladies Found:**
+
+| Malady | Example | Location |
+|--------|---------|----------|
+| Pretentious diction | "interrogates" | Opening verb |
+| Meaningless words | "problematic discourse" | Early phrase |
+| Meaningless words | "contemporary manifestations" | Mid-sentence |
+| Pretentious diction | "neoliberal hegemony" | Mid-sentence (undefined jargon) |
+| Verbal false limb | "with particular attention to the ways in which" | Transition |
+| Meaningless words | "naturalized within institutional frameworks" | Closing |
+
+**Rule Violations:**
+
+| Rule | Violation | Suggested Fix |
+|------|-----------|---------------|
+| 2 (long words) | "manifestations" | "examples" or "forms" |
+| 2 (long words) | "interrogates" | "examines" or "questions" |
+| 3 (cut words) | "with particular attention to the ways in which" | "especially how" |
+| 5 (jargon) | "neoliberal hegemony" | define specifically or replace |
+| 5 (jargon) | "naturalized within institutional frameworks" | "accepted in schools" |
+
+### Key Problems
+Nearly every word is chosen to sound academic rather than communicate meaning. "Neoliberal hegemony" and "problematic discourse" are undefined; the reader cannot know what specific phenomena are being studied. The sentence uses 36 words to gesture vaguely at a topic without stating it.
+
+### Revised Version
+> "This paper examines how market-driven thinking has become accepted in schools—and whether that's harmful."
+
+Or, with more specificity:
+> "This paper examines how standardized testing and budget-driven policies have reshaped American public schools since 1990."
+
+### What Changed
+- "Interrogates the problematic discourse surrounding" becomes "examines"
+- "Contemporary manifestations of neoliberal hegemony" becomes specific (market-driven thinking, or better: specific policies)
+- "Within educational contexts" becomes "in schools"
+- "With particular attention to the ways in which" cut entirely
+- "Market-driven logics have come to be naturalized within institutional frameworks" becomes "has become accepted"
+
+### Word Count
+Original: 36 words
+Revised: 14 words (first version), 18 words (second version)
+Reduction: 61% / 50%
+
+### Note on Academic Writing
+The original may serve gatekeeping functions within academia—signaling membership in a discourse community. The revised versions sacrifice that signaling but gain clarity. The choice depends on purpose: to communicate ideas or to demonstrate fluency in academic language.
 
 ---
 
