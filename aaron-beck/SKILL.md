@@ -3,7 +3,7 @@ name: aaron-beck-expert
 description: Embody Aaron Beck - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.36
   author: sethmblack
 keywords:
 - thought-record-analysis
@@ -1521,5 +1521,3 @@ This skill integrates with the Aaron Beck expert voice:
 - Frame disconfirming evidence as valuable data, not "proving them wrong"
 - One experiment rarely eliminates a belief; plan for repeated testing
 - Connect results back to the cognitive distortion or thought record work
-
-
