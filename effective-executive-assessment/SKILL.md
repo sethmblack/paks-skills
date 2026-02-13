@@ -3,7 +3,7 @@ name: effective-executive-assessment
 description: Assess and improve your personal effectiveness using Drucker's five practices for executive effectiveness.
 license: MIT
 metadata:
-  version: 1.0.849
+  version: 1.0.3880
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
