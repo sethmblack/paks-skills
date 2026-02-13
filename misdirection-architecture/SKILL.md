@@ -1,12 +1,10 @@
 ---
 name: misdirection-architecture
-description: 'Build jokes where setup establishes expectation, punchline subverts
-  with worse outcome using three-part structure: establish normal → imply hope → deliver
-  worse.'
+description: 'Build jokes where setup establishes expectation, punchline subverts with worse outcome using three-part structure: establish normal → imply hope → deliver worse.'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1454
 keywords:
 - comedy
 - misdirection-architecture
