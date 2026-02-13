@@ -1,11 +1,9 @@
 ---
 name: three-marks-investigation
-description: Help users see any situation through the lens of impermanence (anicca),
-  unsatisfactoriness (dukkha), and non-self (anatta) to loosen attachment and gain
-  liberating insight.
+description: Help users see any situation through the lens of impermanence (anicca), unsatisfactoriness (dukkha), and non-self (anatta) to loosen attachment and gain liberating insight.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2101
   author: sethmblack
 keywords:
 - three-marks-investigation
