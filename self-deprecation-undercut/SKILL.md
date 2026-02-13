@@ -3,7 +3,7 @@ name: self-deprecation-undercut
 description: Add self-deprecating undercutting to deflate moments of competence, expertise, or achievement. Transform authoritative or accomplished content into relatable, humble material by revealing your own ...
 license: MIT
 metadata:
-  version: 1.0.1856
+  version: 1.0.4933
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
