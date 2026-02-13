@@ -1,11 +1,9 @@
 ---
 name: room-of-ones-own-audit
-description: Assess the material conditions required for sustained creative or intellectual
-  work, identifying what's present, what's missing, and what structural changes are
-  needed.
+description: Assess the material conditions required for sustained creative or intellectual work, identifying what's present, what's missing, and what structural changes are needed.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1797
   author: sethmblack
 keywords:
 - room-of-one's-own-audit
