@@ -3,7 +3,7 @@ name: consumer-moment-of-truth
 description: 'Analyze the consumer experience at the two critical moments: the purchase decision (First Moment) and the usage experience (Second Moment).'
 license: MIT
 metadata:
-  version: 1.0.644
+  version: 1.0.3210
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
