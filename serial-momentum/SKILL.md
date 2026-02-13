@@ -4,7 +4,7 @@ description: Structure content with strategic hooks, cliff-hangers, and alternat
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1869
+  version: 1.0.4946
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - callbacks
