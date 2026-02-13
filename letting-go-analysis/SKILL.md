@@ -3,8 +3,8 @@ name: letting-go-analysis
 description: Create a "Grasping Inventory" to identify what you're holding onto and find freedom through release.
 license: MIT
 metadata:
-  version: 1.0.1324
   author: sethmblack
+  version: 1.0.4378
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - letting-go-analysis
