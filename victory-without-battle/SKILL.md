@@ -1,12 +1,10 @@
 ---
 name: victory-without-battle
-description: Identify paths to achieving objectives without direct confrontation -
-  the supreme excellence of strategy. Find ways to make opponents concede, withdraw,
-  or become irrelevant.
+description: Identify paths to achieving objectives without direct confrontation - the supreme excellence of strategy. Find ways to make opponents concede, withdraw, or become irrelevant.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2181
 keywords:
 - storytelling
 - transformation
