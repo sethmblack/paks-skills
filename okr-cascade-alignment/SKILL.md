@@ -1,12 +1,10 @@
 ---
 name: okr-cascade-alignment
-description: Create aligned OKR cascades from company to team to individual level,
-  ensuring vertical and horizontal alignment following John Doerr's methodology from
-  *Measure What Matters*.
+description: Create aligned OKR cascades from company to team to individual level, ensuring vertical and horizontal alignment following John Doerr's methodology from *Measure What Matters*.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1542
 keywords:
 - okr-cascade-alignment
 - writing
