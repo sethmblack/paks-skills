@@ -3,7 +3,7 @@ name: respectful-institutional-critique
 description: Expose institutional absurdity through sincere engagement rather than mockery, revealing dysfunction while preserving individual dignity
 license: MIT
 metadata:
-  version: 1.0.1766
+  version: 1.0.4837
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
