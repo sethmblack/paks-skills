@@ -4,7 +4,7 @@ description: A skill for designing open infrastructure that makes paywalls and a
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3170
+  version: 1.0.3630
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - commons-building
