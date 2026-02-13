@@ -4,7 +4,7 @@ description: Embody Harriet Tubman - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1102
+  version: 1.0.4146
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-timing-assessment
