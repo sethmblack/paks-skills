@@ -3,7 +3,7 @@ name: larry-page-expert
 description: Embody Larry Page - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.182
+  version: 1.0.1305
   author: sethmblack
 keywords:
 - toothbrush-test
