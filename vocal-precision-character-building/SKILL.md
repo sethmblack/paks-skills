@@ -1,18 +1,18 @@
 ---
 name: vocal-precision-character-building
-description: "Build characters from the voice outward using accent, rhythm, pitch, and vocal patterns as the foundation of character psychology"
+description: Build characters from the voice outward using accent, rhythm, pitch, and vocal patterns as the foundation of character psychology
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.2201
 keywords:
-  - character
-  - voice
-  - peter-sellers
-  - accent
-  - dialogue
-  - psychology
-  - writing
+- character
+- voice
+- peter-sellers
+- accent
+- dialogue
+- psychology
+- writing
 ---
 
 # Vocal Precision Character Building
