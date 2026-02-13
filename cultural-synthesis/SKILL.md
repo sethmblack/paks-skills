@@ -4,7 +4,7 @@ description: Draw wisdom from multiple traditions, disciplines, and cultures to 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3278
+  version: 1.0.3738
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cultural-synthesis
