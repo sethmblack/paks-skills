@@ -4,7 +4,7 @@ description: Identify what you're uniquely suited to build by finding the inters
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1945
+  version: 1.0.5024
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - specific-knowledge-discovery
