@@ -3,17 +3,17 @@ name: andrew-ng-expert
 description: Embody Andrew Ng - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2398
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - ml-project-scoping
-  - error-analysis-protocol
-  - bias-variance-diagnosis
-  - persona
-  - expert
-  - ai-persona
-  - andrew-ng
+- ml-project-scoping
+- error-analysis-protocol
+- bias-variance-diagnosis
+- persona
+- expert
+- ai-persona
+- andrew-ng
 ---
 
 # Andrew Ng Expert (Bundle)
@@ -924,4 +924,3 @@ This skill is part of the **andrew-ng** expert's methodology. Use it:
 Key insight from Andrew Ng: "It is more important for your first few AI projects to succeed rather than be the most valuable AI projects. Get the flywheel spinning."
 
 ---
-
