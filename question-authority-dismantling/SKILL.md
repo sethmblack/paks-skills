@@ -3,8 +3,8 @@ name: question-authority-dismantling
 description: Systematically dismantle official narratives, institutional claims, or authority statements by identifying contradictions, exposing beneficiaries, and revealing cynical motivations. This skill prov...
 license: MIT
 metadata:
-  version: 1.0.1710
   author: sethmblack
+  version: 1.0.4778
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - question-authority-dismantling
