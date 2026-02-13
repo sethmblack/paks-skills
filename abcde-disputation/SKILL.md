@@ -3,8 +3,8 @@ name: abcde-disputation
 description: Guide systematic cognitive restructuring through the Adversity-Belief-Consequence-Disputation-Energization framework, transforming pessimistic beliefs about setbacks into constructive responses.
 license: MIT
 metadata:
+  version: 1.0.3316
   author: sethmblack
-  version: 1.0.3301
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - abcde-disputation
