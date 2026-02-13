@@ -1,12 +1,10 @@
 ---
 name: definition-stress-test
-description: Test whether definitions, categories, or criteria are robust by finding
-  absurd edge cases that technically satisfy the definition but violate its intent—exposing
-  weaknesses before they cause problems.
+description: Test whether definitions, categories, or criteria are robust by finding absurd edge cases that technically satisfy the definition but violate its intent—exposing weaknesses before they cause problems.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.776
 keywords:
 - absurdist
 - definition-stress-test
