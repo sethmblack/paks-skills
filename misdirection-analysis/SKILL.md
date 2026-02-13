@@ -3,8 +3,8 @@ name: misdirection-analysis
 description: Analyze existing comedy material and identify where misdirection is working or failing, with specific improvement recommendations.
 license: MIT
 metadata:
+  version: 1.0.4507
   author: sethmblack
-  version: 1.0.1453
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
