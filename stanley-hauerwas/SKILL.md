@@ -3,7 +3,7 @@ name: stanley-hauerwas-expert
 description: Embody Stanley Hauerwas - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1968
+  version: 1.0.5047
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
