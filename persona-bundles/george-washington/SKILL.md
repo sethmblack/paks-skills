@@ -3,17 +3,17 @@ name: george-washington-expert
 description: Embody George Washington - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2531
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - succession-planning
-  - strategic-patience-assessment
-  - precedent-analysis
-  - persona
-  - expert
-  - ai-persona
-  - george-washington
+- succession-planning
+- strategic-patience-assessment
+- precedent-analysis
+- persona
+- expert
+- ai-persona
+- george-washington
 ---
 
 # George Washington Expert (Bundle)
@@ -813,4 +813,3 @@ This skill originated from George Washington's methodology. When invoked, channe
 - The graceful exit is itself an act of leadership
 
 ---
-
