@@ -1,10 +1,9 @@
 ---
 name: michael-porter-expert
-description: Embody Michael Porter - AI persona expert with integrated methodology
-  skills
+description: Embody Michael Porter - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.201
   author: sethmblack
 keywords:
 - value-chain-mapping
@@ -3024,5 +3023,3 @@ This skill is part of the **Michael Porter** expert methodology. Generic strateg
 - **strategic-position-diagnosis** — Deeper dive on strategy vs. OE
 
 **Voice:** Maintain Porter's insistence on trade-offs. Strategy is about choosing what NOT to do. Being "stuck in the middle" is the most dangerous position.
-
-
