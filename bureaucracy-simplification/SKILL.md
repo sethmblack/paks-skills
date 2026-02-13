@@ -1,11 +1,10 @@
 ---
 name: bureaucracy-simplification
-description: Identify and eliminate organizational complexity that impedes action,
-  replacing prescriptive policies with principles that empower managers to lead.
+description: Identify and eliminate organizational complexity that impedes action, replacing prescriptive policies with principles that empower managers to lead.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.495
 keywords:
 - bureaucracy-simplification
 - escalation
@@ -178,29 +177,24 @@ When someone says "we need more detail":
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Never simplify away legitimate regulatory or compliance requirements
+- Never eliminate accountability structures that prevent harm
+- Recognize that some managers will need development to handle simplified policies
+- Acknowledge that perfect consistency is bureaucracy's goal, not leadership's
+- Present simplification as empowerment, not abandonment
+- Some inconsistency in judgment is acceptable and expected
 
-## Additional Notes
+---
 
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
+## Anti-Patterns to Avoid
 
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
-
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Simplification as abandonment** | Removing policy without replacing with principle leaves a vacuum | Replace prescription with principle and manager guidance |
+| **One-size-fits-all elimination** | Some policies exist for good reason (safety, compliance, equity) | Evaluate each policy's original purpose before simplifying |
+| **Ignoring capability gaps** | Managers accustomed to following rules may struggle with judgment | Provide coaching and support during transition |
+| **Declaring victory too early** | Announcing simplification without follow-through | Measure outcomes, not just policy page counts |
+| **Dismissing all pushback** | Some concerns about edge cases are legitimate | Localize solutions for real edge cases; trust managers to handle |
 
 ## Example
 
@@ -245,6 +239,108 @@ Manager feedback: "I just route everything to my VP to avoid delays"
 - Approval time: 2 weeks -> 2 days (for most expenses)
 - Manager development: Forced to exercise judgment instead of route to VP
 - Actual fraud prevention: Finance pattern analysis catches more than individual approvals
+
+---
+
+## Output Format
+
+```markdown
+## Simplification Analysis: [Policy/Process Name]
+
+### Before State
+- **Policy length:** [Pages/words]
+- **Approval layers:** [Number]
+- **Average cycle time:** [Duration]
+- **Manager behavior:** [How they currently handle it]
+
+### After State
+
+**Core Principle (2-10 words):** [The essence]
+
+**Guardrails:**
+- [Threshold 1 with action]
+- [Threshold 2 with action]
+- [Default: Manager judgment]
+
+**Manager Guidance:**
+- [How to think about edge cases]
+- [When to escalate]
+- [What good judgment looks like]
+
+### Measurement Shift
+| Old Metric | New Metric |
+|------------|------------|
+| [Compliance measure] | [Outcome measure] |
+
+### Expected Outcomes
+- [Time saved]
+- [Capability revealed]
+- [Decision speed improved]
+
+### Development Needs
+- [Capabilities managers may need to develop]
+```
+
+---
+
+## Examples
+
+### Example 1: Travel Policy (from above)
+
+See the detailed expense policy example in the Example section.
+
+### Example 2: Work-From-Home Policy
+
+**Input:**
+```
+Policy: Remote work approval process (8-page document)
+Original purpose: Ensure productivity, maintain culture, manage security
+Current state: Requires VP approval, IT audit, HR review, and 30-day notice
+Manager feedback: "Everyone just asks for exceptions; we approve them all anyway"
+```
+
+**Output:**
+
+## Simplification Analysis: Work-From-Home Policy
+
+### Before State
+- **Policy length:** 8 pages with flowcharts
+- **Approval layers:** 3 (manager, HR, VP) + IT audit
+- **Average cycle time:** 2-3 weeks
+- **Manager behavior:** Everyone routes to VP for blanket approval
+
+### After State
+
+**Core Principle (4 words):** "Get your work done."
+
+**Guardrails:**
+- Roles requiring physical presence: Defined by function head, listed explicitly
+- Security-sensitive roles: IT defines requirements, employee certifies compliance
+- New employees: First 90 days primarily on-site for onboarding
+
+**Manager Guidance:**
+- If the work is getting done, the location doesn't matter
+- If the work isn't getting done, address performance—not location
+- Team coordination is your responsibility; solve it locally
+
+### Measurement Shift
+| Old Metric | New Metric |
+|------------|------------|
+| WFH approval rate | Work output quality |
+| Days in office | Team goals achieved |
+| Policy exceptions granted | Manager development conversations |
+
+### Expected Outcomes
+- **Approval time:** 3 weeks → immediate (manager decision)
+- **HR/VP time recovered:** ~40 hours/month
+- **Manager capability revealed:** Who can manage outcomes vs. who manages attendance
+
+### Development Needs
+- Training managers on outcome-based management
+- Clear guidance on what "work getting done" means for each role
+- Support for managers who struggle with non-visible teams
+
+**Why this example works:** It transforms an 8-page approval gauntlet into a 4-word principle with minimal guardrails. The measurement shift from compliance (WFH approval rate) to outcomes (work output quality) reorients the entire system toward what actually matters.
 
 ---
 
