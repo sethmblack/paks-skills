@@ -1,16 +1,16 @@
 ---
 name: el-wisty-monologue
-description: "Create meandering monologues that start banal and drift into absurdity while maintaining complete earnestness"
+description: Create meandering monologues that start banal and drift into absurdity while maintaining complete earnestness
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.854
+  author: Seth Black
 keywords:
-  - comedy
-  - monologue
-  - rambling
-  - satire
-  - character
+- comedy
+- monologue
+- rambling
+- satire
+- character
 ---
 
 # E.L. Wisty Monologue
