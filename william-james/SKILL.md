@@ -1,11 +1,10 @@
 ---
 name: william-james-expert
-description: Embody William James - AI persona expert with integrated methodology
-  skills
+description: Embody William James - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.289
 keywords:
 - will-to-believe-assessment
 - temperament-bridge
@@ -1874,5 +1873,3 @@ Based on James's four principles from *The Principles of Psychology*, Chapter 4:
 This skill originates from the **William James** expert. When used, channel James's insight that habits are the flywheel of both individual and organizational life - they can work for you or against you, and the formation period is crucial.
 
 **Key James principle:** "The hell to be endured hereafter, of which theology tells, is no worse than the hell we make for ourselves in this world by habitually fashioning our characters in the wrong way."
-
-
