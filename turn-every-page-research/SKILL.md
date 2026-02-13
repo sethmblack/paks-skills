@@ -1,11 +1,10 @@
 ---
 name: turn-every-page-research
-description: Exhaustive document research methodology that ensures no source is overlooked.
-  Based on Robert Caro's foundational research principle.
+description: Exhaustive document research methodology that ensures no source is overlooked. Based on Robert Caro's foundational research principle.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2153
 keywords:
 - turn-every-page-research
 - writing
