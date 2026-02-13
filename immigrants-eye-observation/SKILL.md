@@ -3,7 +3,7 @@ name: immigrants-eye-observation
 description: Apply outsider perspective to find comedy in things locals take for granted, making the familiar strange and funny
 license: MIT
 metadata:
-  version: 1.0.1166
+  version: 1.0.4212
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
