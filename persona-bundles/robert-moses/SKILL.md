@@ -3,17 +3,17 @@ name: robert-moses-expert
 description: Embody Robert Moses - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2363
   author: sethmblack
 keywords:
-  - public-authority-design
-  - power-accumulation-analysis
-  - infrastructure-as-power
-  - fait-accompli-strategy
-  - persona
-  - expert
-  - ai-persona
-  - robert-moses
+- public-authority-design
+- power-accumulation-analysis
+- infrastructure-as-power
+- fait-accompli-strategy
+- persona
+- expert
+- ai-persona
+- robert-moses
 ---
 
 # Robert Moses Expert (Bundle)
@@ -1324,4 +1324,3 @@ Moses showed both the power and the danger of independent authorities.
 Robert Moses - `experts/robert-moses/`
 
 ---
-
