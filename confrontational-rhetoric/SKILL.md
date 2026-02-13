@@ -3,8 +3,8 @@ name: confrontational-rhetoric
 description: A methodology for speaking uncomfortable truths plainly, stripping away euphemism to make reality undeniable. This skill transforms diplomatic vagueness into direct naming that forces engagement wi...
 license: MIT
 metadata:
+  version: 1.0.3196
   author: sethmblack
-  version: 1.0.632
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - confrontational-rhetoric
