@@ -3,8 +3,8 @@ name: okr-framework
 description: 'Implement Objectives and Key Results for goal-setting, alignment, and execution tracking. Based on Andy Grove''s methodology developed at Intel: "If you don''t know where you''re going, you won''t get ...'
 license: MIT
 metadata:
+  version: 1.0.4601
   author: sethmblack
-  version: 1.0.1545
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - okr-framework
