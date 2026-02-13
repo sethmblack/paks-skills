@@ -1,11 +1,9 @@
 ---
 name: recovery-of-wonder
-description: Restore astonishment at ordinary things. Based on G.K. Chesterton's philosophy
-  that the world has not become less wonderful - we have merely become too jaded to
-  notice.
+description: Restore astonishment at ordinary things. Based on G.K. Chesterton's philosophy that the world has not become less wonderful - we have merely become too jaded to notice.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1738
   author: sethmblack
 keywords:
 - comedy
