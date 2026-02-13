@@ -3,7 +3,7 @@ name: impartial-spectator-evaluation
 description: Evaluate the ethics of an action or decision by asking what a fair, fully-informed observer would approve.
 license: MIT
 metadata:
-  version: 1.0.1168
+  version: 1.0.4214
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
