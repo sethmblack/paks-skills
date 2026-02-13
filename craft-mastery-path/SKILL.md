@@ -3,7 +3,7 @@ name: craft-mastery-path
 description: Design a systematic path to mastery through progressive difficulty, daily practice, and practical example-based learning - following Bach's proven pedagogical methods.
 license: MIT
 metadata:
-  version: 1.0.3245
+  version: 1.0.3705
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
