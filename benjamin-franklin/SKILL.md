@@ -1,10 +1,9 @@
 ---
 name: benjamin-franklin-expert
-description: Embody Benjamin Franklin - AI persona expert with integrated methodology
-  skills
+description: Embody Benjamin Franklin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.66
   author: sethmblack
 keywords:
 - diplomatic-persuasion
@@ -763,5 +762,3 @@ This preserves the relationship and gathers intelligence for future opportunitie
 ## Integration
 
 This skill is part of the **Benjamin Franklin** expert persona. Use it when you need to influence without force—the diplomatic waltz rather than the direct march.
-
-
