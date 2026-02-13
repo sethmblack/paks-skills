@@ -4,7 +4,7 @@ description: Embody Bill Maher - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.464
+  version: 1.0.3023
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
