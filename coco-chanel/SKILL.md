@@ -3,7 +3,7 @@ name: coco-chanel-expert
 description: Embody Coco Chanel - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.90
   author: sethmblack
 keywords:
 - signature-element-creation
@@ -1794,5 +1794,3 @@ This skill is part of the **Coco Chanel** expert persona. Use it when building b
 - **elegance-through-elimination** for keeping element count restrained
 - **timelessness-assessment** for ensuring elements will endure
 - **luxury-positioning** for ensuring elements communicate quality appropriately
-
-
