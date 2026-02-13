@@ -1,18 +1,18 @@
 ---
 name: therapy-translation
-description: "Render complex psychological concepts accessible through personal examples and humor, making the clinical relatable"
+description: Render complex psychological concepts accessible through personal examples and humor, making the clinical relatable
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.2088
+  author: Seth Black
 keywords:
-  - psychology
-  - therapy
-  - self-help
-  - whitney-cummings
-  - accessibility
-  - humor
-  - mental-health
+- psychology
+- therapy
+- self-help
+- whitney-cummings
+- accessibility
+- humor
+- mental-health
 ---
 
 # Therapy Translation
