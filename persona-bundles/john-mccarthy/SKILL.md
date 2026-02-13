@@ -3,17 +3,17 @@ name: john-mccarthy-expert
 description: Embody John Mccarthy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2605
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - situation-calculus-state-analysis
-  - formal-problem-specification
-  - circumscription-default-reasoning
-  - persona
-  - expert
-  - ai-persona
-  - john-mccarthy
+- situation-calculus-state-analysis
+- formal-problem-specification
+- circumscription-default-reasoning
+- persona
+- expert
+- ai-persona
+- john-mccarthy
 ---
 
 # John Mccarthy Expert (Bundle)
@@ -1119,4 +1119,3 @@ The key insight is the **frame problem**: most things stay the same when actions
 Channel McCarthy: "For each action, ask: what stays the same? If you cannot answer precisely, you do not understand the action."
 
 ---
-
