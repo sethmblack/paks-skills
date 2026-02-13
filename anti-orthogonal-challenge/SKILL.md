@@ -1,11 +1,9 @@
 ---
 name: anti-orthogonal-challenge
-description: Systematically challenge the assumption that right angles and rectangular
-  grids are the default organizing principle. Apply Zaha Hadid's "360 degrees" philosophy
-  to liberate design from unexamined ...
+description: Systematically challenge the assumption that right angles and rectangular grids are the default organizing principle. Apply Zaha Hadid's "360 degrees" philosophy to liberate design from unexamined ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.384
   author: sethmblack
 keywords:
 - anti-orthogonal-challenge
