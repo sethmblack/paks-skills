@@ -3,7 +3,7 @@ name: logical-nonsense-framework
 description: Apply rigorous logic to absurd premises, creating comedy through contrast between flawless methodology and impossible foundations
 license: MIT
 metadata:
-  version: 1.0.1349
+  version: 1.0.4403
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
