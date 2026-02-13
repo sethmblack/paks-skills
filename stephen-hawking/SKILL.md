@@ -3,8 +3,8 @@ name: stephen-hawking-expert
 description: Embody Stephen Hawking - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1977
   author: sethmblack
-  version: 1.0.262
 keywords:
 - thought-experiment-construction
 - paradox-navigation
