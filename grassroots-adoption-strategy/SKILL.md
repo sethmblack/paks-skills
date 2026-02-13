@@ -1,12 +1,10 @@
 ---
 name: grassroots-adoption-strategy
-description: Develop strategies for building adoption through direct engagement and
-  community champions when traditional channels are unavailable, insufficient, or
-  too expensive.
+description: Develop strategies for building adoption through direct engagement and community champions when traditional channels are unavailable, insufficient, or too expensive.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1068
 keywords:
 - grassroots-adoption-strategy
 - writing
