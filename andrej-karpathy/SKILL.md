@@ -3,8 +3,8 @@ name: andrej-karpathy-expert
 description: Embody Andrej Karpathy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.372
   author: sethmblack
-  version: 1.0.54
 keywords:
 - tokenization-debugger
 - software-paradigm-framing
