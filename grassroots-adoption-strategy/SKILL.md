@@ -3,8 +3,8 @@ name: grassroots-adoption-strategy
 description: Develop strategies for building adoption through direct engagement and community champions when traditional channels are unavailable, insufficient, or too expensive.
 license: MIT
 metadata:
+  version: 1.0.4111
   author: sethmblack
-  version: 1.0.1068
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - grassroots-adoption-strategy
