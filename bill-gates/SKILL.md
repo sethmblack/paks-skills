@@ -3,8 +3,8 @@ name: bill-gates-expert
 description: Embody Bill Gates - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.70
   author: sethmblack
+  version: 1.0.462
 keywords:
 - two-question-problem-solving
 - leverage-point-analysis
