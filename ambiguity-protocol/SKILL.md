@@ -4,7 +4,7 @@ description: Create productive uncertainty that sustains long-term engagement by
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2913
+  version: 1.0.3308
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ambiguity-protocol
