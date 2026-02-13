@@ -3,8 +3,8 @@ name: defamiliarization
 description: A skill for showing familiar practices from outside perspectives that reveal their absurdity or injustice.
 license: MIT
 metadata:
+  version: 1.0.3801
   author: sethmblack
-  version: 1.0.771
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
