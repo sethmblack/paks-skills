@@ -1,11 +1,9 @@
 ---
 name: asymmetric-bet-sizing
-description: 'Evaluate a portfolio of initiatives using moonshot math: fund projects
-  with low probability but massive potential returns, accepting that most will fail
-  while optimizing for total value created.'
+description: 'Evaluate a portfolio of initiatives using moonshot math: fund projects with low probability but massive potential returns, accepting that most will fail while optimizing for total value created.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.404
   author: sethmblack
 keywords:
 - asymmetric-bet-sizing
