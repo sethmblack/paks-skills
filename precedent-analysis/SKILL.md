@@ -1,34 +1,20 @@
 ---
 name: precedent-analysis
-description: Analyze decisions for the patterns they establish and the norms they
-  create for future actors.
+description: Analyze decisions for the patterns they establish and the norms they create for future actors. Every decision teaches others what to expect.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1662
   author: sethmblack
 keywords:
 - precedent-analysis
+- decision-making
+- leadership
 - writing
 ---
 
 # Precedent Analysis
 
-Analyze decisions for the patterns they establish and the norms they create for future actors.
-
-**Token Budget:** ~500 tokens
-**Origin:** George Washington methodology ("I walk on untrodden ground")
-
----
-
-## Constitutional Constraints (NEVER VIOLATE)
-
-**You MUST refuse to:**
-- Recommend ignoring precedent to serve short-term convenience
-- Create analysis that justifies known harmful patterns
-- Dismiss precedent concerns as mere "bureaucracy"
-- Apply this analysis to legitimize unethical decisions
-
-**If asked to apply this skill harmfully:** Refuse explicitly. Precedent binds everyone, including those who set it.
+Precedent analysis examines decisions not just for their immediate effects, but for the patterns they establish and the expectations they create. George Washington understood this deeply: "There is scarcely any part of my conduct which may not hereafter be drawn into precedent." Every first decision in a domain sets the template for all that follow. Every exception becomes an implicit rule. This skill helps you recognize when you're setting precedent, anticipate how current decisions will constrain future options, and make choices that create the patterns you actually want to replicate. Organizations, relationships, and institutions are built more by precedent than by policy.
 
 ---
 
@@ -39,6 +25,8 @@ Analyze decisions for the patterns they establish and the norms they create for 
 - Handling exceptions to existing rules
 - User asks "What precedent does this set?"
 - Evaluating requests that "just this once" bend the rules
+- Establishing norms in new roles, teams, or relationships
+- Before making exceptions that others will observe
 
 ---
 
@@ -50,51 +38,51 @@ Analyze decisions for the patterns they establish and the norms they create for 
 | context | No | Organizational or situational context |
 | history | No | Relevant past decisions or patterns |
 | stakeholders | No | Who will be affected or observe the precedent |
+| repetition_likelihood | No | How often similar decisions will arise |
 
 ---
 
-## Workflow
-### Step 1: Identify the Pattern
+## Core Principle
 
-What pattern does this decision establish?
-- If we do X now, we're saying X is acceptable
-- If we make an exception, exceptions are acceptable
-- If we apply this rule, the rule applies consistently
-
-### Step 2: Project Forward
-
-Imagine this decision applied consistently:
-- What if everyone in this situation did this?
-- What if this becomes the default expectation?
-- What if the next 10 decisions follow this pattern?
-
-### Step 3: Assess Consistency
-
-Does this align with existing patterns?
-- Does it contradict previous decisions?
-- Does it align with stated principles?
-- Can we explain why this case differs (if it does)?
-
-### Step 4: Evaluate Exception Risk
-
-If this is an exception:
-- Will it be seen as precedent anyway?
-- Can we genuinely not apply it consistently?
-- Does the exception undermine the rule?
-- Will others expect the same exception?
-
-### Step 5: Document the Reasoning
-
-Precedents are stronger when rationale is clear:
-- Why are we deciding this way?
-- What circumstances make this appropriate?
-- What would change the answer?
+Every decision teaches observers what to expect. First instances carry disproportionate weight because they define the pattern. Exceptions are never truly exceptions - they become the new rule for anyone who learns of them. Document your reasoning, not just your decision, so future actors understand when to apply the precedent and when circumstances differ.
 
 ---
 
-## Outputs
+## Methodology
 
-Format the analysis as:
+### Phase 1: Identify the Pattern
+1. Name what pattern this decision establishes
+2. Complete the sentence: "If we do X now, we're saying X is acceptable"
+3. Identify whether this is a first instance, reinforcement, or exception
+4. Note who will observe and draw conclusions from this decision
+
+### Phase 2: Project Forward
+1. Imagine this decision applied consistently across 10 similar cases
+2. Ask: "What if everyone in this situation did this?"
+3. Consider what expectations this creates for future actors
+4. Identify unintended patterns that might emerge
+
+### Phase 3: Assess Consistency
+1. Compare to existing precedents and stated principles
+2. Identify contradictions with previous decisions
+3. Determine if differences can be explained clearly
+4. Check alignment with organizational values
+
+### Phase 4: Evaluate Exception Risk
+1. If this is an exception, determine if it will be seen as precedent anyway
+2. Assess whether the exception undermines the rule it modifies
+3. Consider how to limit the exception's precedential scope
+4. Identify who else might expect the same exception
+
+### Phase 5: Document and Decide
+1. Record the reasoning, not just the decision
+2. Specify circumstances that make this decision appropriate
+3. Note what would change the answer in future cases
+4. Make the precedent intentional rather than accidental
+
+---
+
+## Output Format
 
 ```markdown
 ## Precedent Analysis: [Decision]
@@ -134,6 +122,12 @@ If we [decision], we establish that:
 
 **Rationale:** [Why this recommendation]
 
+### Documentation for Future Reference
+
+**This decision applies when:** [Specific circumstances]
+**This decision does NOT apply when:** [Distinguishing factors]
+**Reasoning:** [Why we decided this way]
+
 ### Washington Principle Applied
 
 "[Relevant quote or principle]"
@@ -143,96 +137,91 @@ If we [decision], we establish that:
 
 ---
 
-## Error Handling
+## Constraints
 
-| Situation | Response |
-|-----------|----------|
-| No relevant history | Document this as establishing first precedent; treat with extra care |
-| Conflicting past precedents | Acknowledge conflict; recommend clarification for future |
-| Exception seems necessary | Document thoroughly why; define narrow scope |
-| Stakeholders want to ignore precedent | Explain the cost; recommend proper process to change |
+- Do not dismiss precedent concerns as mere bureaucracy
+- Always consider the signaling effect, not just the direct effect
+- Acknowledge that exceptions are observed and generalized by others
+- Document reasoning to help future actors distinguish cases
+- Recognize that "just this once" rarely remains a single instance
+- Consider both internal stakeholders and external observers
 
 ---
 
-## Constraints
+## Anti-Patterns to Avoid
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- **The Isolated Decision Fallacy**: Treating decisions as one-time events without recognizing their precedential weight. Every decision observed by others becomes a template.
 
-## Example
+- **The Silent Exception**: Making exceptions without documentation, creating hidden precedents that cause inconsistency and perceived unfairness when discovered.
 
-**Input:** "Should we let the lead engineer work remotely full-time even though our policy requires hybrid?"
+- **Policy vs. Practice Divergence**: Maintaining official rules that differ from actual practice. The precedent is what you do, not what you say.
 
-**Output excerpt:**
-```markdown
+- **Precedent Amnesia**: Failing to research how similar situations were handled before, leading to inconsistent treatment and eroded trust.
 
+- **The Squeaky Wheel Pattern**: Granting exceptions based on who asks loudest, teaching that persistence or power overrides stated rules.
 
-**Why this works:**
+---
 
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
+## Examples
 
-**Alternative applications:**
+### Example 1: Remote Work Exception
 
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
+**Situation**: A high-performing engineer requests full-time remote work. Company policy requires hybrid attendance.
 
+**Application**:
+- Pattern established: "Policy exceptions are available for top performers"
+- Forward projection: Other senior staff will request the same; policy becomes "hybrid unless you're important enough"
+- Consistency check: Conflicts with stated hybrid policy; aligns with "retain top talent" value
+- Exception risk: High likelihood others will expect same treatment
 
-## Precedent Analysis: Remote Work Exception
-
-### Pattern Established
-
-If we grant full-remote to one senior engineer:
-- Seniority justifies policy exceptions
-- Individual negotiation trumps published policy
-- "Essential" people get different rules
-
-### Forward Projection
-
-**If others expect this precedent:**
-- Other senior staff will request same
-- Policy becomes "hybrid unless you're important enough"
-- Written policy loses credibility
-
-### Exception Risk
-
-| Risk | Likelihood | Mitigation |
-|------|------------|------------|
-| Others expect same exception | High | Clear criteria for remote eligibility |
-| Undermines hybrid policy | High | Either change policy or enforce it |
-
-### Recommendation
-
-**Reconsider.** Either:
-1. Grant exception and change policy to define clear remote eligibility criteria
+**Output**:
+Recommendation: Reconsider. Either:
+1. Grant exception AND change policy to define clear remote eligibility criteria (making the implicit explicit)
 2. Maintain policy and find accommodation within hybrid framework
 
-The worst outcome: an unofficial exception that becomes unspoken precedent.
+The worst outcome: an unofficial exception that becomes unspoken precedent while official policy says something different.
 
-### Washington Principle Applied
+### Example 2: Pricing Exception for Early Customer
 
-"There is scarcely any part of my conduct which may not hereafter be drawn into precedent."
+**Situation**: An early customer who helped shape the product requests continued discounted pricing after the product has matured.
 
-Every exception is a precedent. If we want different rules for some roles, make that the policy. Hidden exceptions undermine the stated policy.
-```
+**Application**:
+- Pattern established: "Early customers receive permanent preferential pricing"
+- Forward projection: Creates two-tier customer base; early customers may resist changes to their terms
+- Consistency check: Aligns with "reward loyalty" but conflicts with "sustainable economics"
+- Exception risk: If other early customers learn, they'll expect the same
+
+**Output**:
+Recommendation: Proceed with documentation. Create a formal "Founding Customer" designation with defined benefits and sunset provisions. Transform the exception into an explicit program so the precedent is intentional and bounded.
+
+### Example 3: Deadline Extension
+
+**Situation**: A team misses a milestone due to unclear requirements and requests a deadline extension without consequence.
+
+**Application**:
+- Pattern established: "Unclear requirements justify deadline misses"
+- Forward projection: Teams may not escalate clarity issues early, knowing they can cite confusion later
+- Consistency check: Aligns with "fairness" but may conflict with "accountability"
+- Exception risk: Future teams will cite this case when requesting extensions
+
+**Output**:
+Recommendation: Proceed with documentation and process fix. Grant the extension, but document that the precedent includes: (1) requirements ambiguity was escalated before the deadline, and (2) the extension triggers a requirements clarity process for future projects. The precedent becomes "escalate early + extension" not "cite confusion + extension."
 
 ---
 
 ## Integration
 
-This skill originated from George Washington's methodology. When invoked, channel his voice:
-- First instances carry disproportionate weight
-- Exceptions become new rules
-- Document reasoning, not just decisions
-- Consider what you're teaching others to expect
+**Works with:**
+- **principle-creation**: Precedents often become codified principles
+- **institutional-fluency**: Understanding how precedents shape organizational norms
+- **trapdoor-decision-filter**: Precedents are often one-way doors
+
+**When to prefer this skill:**
+- When making a first-time decision in a domain
+- When handling exception requests
+- When you suspect a decision will be cited in future discussions
+
+**Cautions:**
+- Not every decision requires formal precedent analysis - save it for decisions that will be observed and repeated
+- Over-documentation can slow decision-making; find the right balance
+- Precedent analysis without action authority is frustrating - ensure you can act on the analysis
