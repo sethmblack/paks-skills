@@ -3,7 +3,7 @@ name: culture-fit-hiring
 description: Design and execute values-based hiring that filters for culture alignment alongside skills, following Tony Hsieh's Zappos methodology.
 license: MIT
 metadata:
-  version: 1.0.3282
+  version: 1.0.3742
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
