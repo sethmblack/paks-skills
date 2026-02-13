@@ -3,7 +3,7 @@ name: orientation-audit
 description: Examine the mental models, assumptions, and biases shaping how you or your organization perceives situations. Identify outdated orientations that lead to poor decisions regardless of processing speed.
 license: MIT
 metadata:
-  version: 1.0.1564
+  version: 1.0.4620
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
