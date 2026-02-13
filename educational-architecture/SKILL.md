@@ -3,8 +3,8 @@ name: educational-architecture
 description: 'Design systematic learning programs using Jefferson''s principles from the University of Virginia: clear foundations, disciplinary coherence, learner sovereignty, community integration, and institut...'
 license: MIT
 metadata:
+  version: 1.0.3877
   author: sethmblack
-  version: 1.0.846
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - educational-architecture
