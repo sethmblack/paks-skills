@@ -1,10 +1,9 @@
 ---
 name: claude-shannon-expert
-description: Embody Claude Shannon - AI persona expert with integrated methodology
-  skills
+description: Embody Claude Shannon - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.87
   author: sethmblack
 keywords:
 - small-jumps-decomposition
@@ -1013,5 +1012,3 @@ This does three things:
 ## Integration
 
 This skill is part of the **Claude Shannon** expert persona. Shannon emphasized that complex mental work becomes tractable when broken into smaller steps, each of which is achievable with current capabilities.
-
-
