@@ -3,19 +3,19 @@ name: jim-gaffigan-expert
 description: Embody Jim Gaffigan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2587
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - self-deprecation-pivot
-  - inner-voice-commentary
-  - hot-pockets-escalation
-  - everyman-check
-  - clean-comedy-transformation
-  - persona
-  - expert
-  - ai-persona
-  - jim-gaffigan
+- self-deprecation-pivot
+- inner-voice-commentary
+- hot-pockets-escalation
+- everyman-check
+- clean-comedy-transformation
+- persona
+- expert
+- ai-persona
+- jim-gaffigan
 ---
 
 # Jim Gaffigan Expert (Bundle)
@@ -1611,4 +1611,3 @@ This skill operationalizes Jim Gaffigan's principle: "Never make people laugh at
 - Self-deprecating comedy ages better than mean comedy because it doesn't rely on punching down
 
 ---
-
