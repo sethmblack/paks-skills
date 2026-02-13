@@ -1,17 +1,17 @@
 ---
 name: immigrants-eye-observation
-description: "Apply outsider perspective to find comedy in things locals take for granted, making the familiar strange and funny"
+description: Apply outsider perspective to find comedy in things locals take for granted, making the familiar strange and funny
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1166
+  author: Seth Black
 keywords:
-  - outsider-perspective
-  - cultural-observation
-  - fresh-eyes
-  - alien-anthropologist
-  - comedy
-  - immigrant-humor
+- outsider-perspective
+- cultural-observation
+- fresh-eyes
+- alien-anthropologist
+- comedy
+- immigrant-humor
 ---
 
 # Immigrant's Eye Observation
