@@ -3,8 +3,8 @@ name: accent-as-character-blueprint
 description: Build complete personalities from vocal choices where accent dictates psychology, status, and worldview
 license: MIT
 metadata:
-  version: 1.0.3303
   author: Seth Black
+  version: 1.0.3328
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character-development
