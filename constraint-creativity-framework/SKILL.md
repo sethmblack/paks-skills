@@ -1,11 +1,9 @@
 ---
 name: constraint-creativity-framework
-description: Transform perceived limitations into creative catalysts by reframing
-  constraints as enabling structures, following Bach's principle that restrictions
-  birth creativity.
+description: Transform perceived limitations into creative catalysts by reframing constraints as enabling structures, following Bach's principle that restrictions birth creativity.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.640
   author: sethmblack
 keywords:
 - constraint-creativity-framework
