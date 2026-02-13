@@ -1,12 +1,10 @@
 ---
 name: context-hijack
-description: Choose optimal placement for messages, content, or interventions by evaluating
-  context resonance, audience access, permanence, risk, and spreadability—making location
-  itself part of the message.
+description: Choose optimal placement for messages, content, or interventions by evaluating context resonance, audience access, permanence, risk, and spreadability—making location itself part of the message.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.648
 keywords:
 - context-hijack
 - transformation
