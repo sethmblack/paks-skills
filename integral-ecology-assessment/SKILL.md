@@ -3,8 +3,8 @@ name: integral-ecology-assessment
 description: A multi-dimensional framework for analyzing environmental and sustainability decisions through the interconnected lens of ecological, economic, social, cultural, and spiritual dimensions - hearing ...
 license: MIT
 metadata:
-  version: 1.0.1194
   author: sethmblack
+  version: 1.0.4241
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - integral-ecology-assessment
