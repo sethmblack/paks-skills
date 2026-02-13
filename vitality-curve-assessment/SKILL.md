@@ -1,11 +1,9 @@
 ---
 name: vitality-curve-assessment
-description: 'Assess and categorize team members into performance tiers (top 20%,
-  vital 70%, bottom 10%) with clear actions for each tier. Based on Jack Welch''s
-  differentiation principle: "Differentiation is the...'
+description: 'Assess and categorize team members into performance tiers (top 20%, vital 70%, bottom 10%) with clear actions for each tier. Based on Jack Welch''s differentiation principle: "Differentiation is the...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2200
   author: sethmblack
 keywords:
 - structure
