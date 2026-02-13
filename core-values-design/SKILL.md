@@ -3,8 +3,8 @@ name: core-values-design
 description: Create committable organizational core values through employee input and systematic implementation, following Tony Hsieh's Zappos methodology.
 license: MIT
 metadata:
-  version: 1.0.663
   author: sethmblack
+  version: 1.0.3229
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - core-values-design
