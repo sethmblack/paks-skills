@@ -3,8 +3,8 @@ name: contrapuntal-problem-solving
 description: Analyze complex situations as multiple independent voices that must work together while maintaining their own integrity, using Bach's counterpoint principles.
 license: MIT
 metadata:
-  version: 1.0.654
   author: sethmblack
+  version: 1.0.3220
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - contrapuntal-problem-solving
