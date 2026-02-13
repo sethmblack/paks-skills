@@ -3,8 +3,8 @@ name: ronny-chieng-expert
 description: Embody Ronny Chieng - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1796
   author: sethmblack
-  version: 1.0.244
 keywords:
 - confrontational-reframe
 - persona
