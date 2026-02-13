@@ -4,7 +4,7 @@ description: Embody Martin Luther King Jr - AI persona expert with integrated me
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.193
+  version: 1.0.1392
 keywords:
 - moral-urgency-argument
 - constructive-tension-creation
