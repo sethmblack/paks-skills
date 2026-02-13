@@ -1,12 +1,10 @@
 ---
 name: long-term-planning
-description: Plan across decades, not quarters or election cycles. Consider second
-  and third-order consequences. Build institutions and foundations that outlast individuals.
-  Accept short-term costs for long-ter...
+description: Plan across decades, not quarters or election cycles. Consider second and third-order consequences. Build institutions and foundations that outlast individuals. Accept short-term costs for long-ter...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1352
 keywords:
 - long-term-planning
 - transformation
