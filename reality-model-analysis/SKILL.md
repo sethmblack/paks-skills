@@ -4,7 +4,7 @@ description: A methodology for treating experience as constructed rather than gi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1732
+  version: 1.0.4802
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - reality-model-analysis
