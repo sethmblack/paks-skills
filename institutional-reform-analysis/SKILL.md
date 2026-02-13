@@ -3,7 +3,7 @@ name: institutional-reform-analysis
 description: Evaluate whether organizational structures serve or obstruct their stated purposes, and design reform that preserves essential continuity while enabling necessary change. Based on Hans Kung's princ...
 license: MIT
 metadata:
-  version: 1.0.1192
+  version: 1.0.4239
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
