@@ -3,7 +3,7 @@ name: marie-curie-expert
 description: Embody Marie Curie - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1385
+  version: 1.0.4439
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
