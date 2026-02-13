@@ -3,14 +3,14 @@ name: pablo-picasso-expert
 description: Embody Pablo Picasso - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2707
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - pablo-picasso
+- persona
+- expert
+- ai-persona
+- pablo-picasso
 ---
 
 # Pablo Picasso Expert (Bundle)
