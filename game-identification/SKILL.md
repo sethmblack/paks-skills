@@ -1,12 +1,10 @@
 ---
 name: game-identification
-description: A methodology for recognizing the unspoken rules, roles, and reward structures
-  that govern social situations. Based on the insight that most human interaction
-  follows game-like patterns—complete wi...
+description: A methodology for recognizing the unspoken rules, roles, and reward structures that govern social situations. Based on the insight that most human interaction follows game-like patterns—complete wi...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1031
 keywords:
 - game-identification
 - transformation
