@@ -3,8 +3,8 @@ name: induction-audit
 description: Systematically examine any inference from observed data to unobserved cases. Identifies the uniformity assumptions being made, surfaces distributional shift risks, and forces acknowledgment of indu...
 license: MIT
 metadata:
-  version: 1.0.1178
   author: sethmblack
+  version: 1.0.4225
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - induction-audit
