@@ -4,7 +4,7 @@ description: Design a community development financial model where community land
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2318
+  version: 1.0.4073
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - garden-city-economics
