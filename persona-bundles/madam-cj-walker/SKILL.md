@@ -3,16 +3,16 @@ name: madam-cj-walker-expert
 description: Embody Madam Cj Walker - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2649
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - grassroots-adoption-strategy
-  - barrier-workaround-analysis
-  - persona
-  - expert
-  - ai-persona
-  - madam-cj-walker
+- grassroots-adoption-strategy
+- barrier-workaround-analysis
+- persona
+- expert
+- ai-persona
+- madam-cj-walker
 ---
 
 # Madam Cj Walker Expert (Bundle)
@@ -618,4 +618,3 @@ This skill originated from Madam C.J. Walker's methodology. When invoked, channe
 - Success should multiply through others
 
 ---
-
