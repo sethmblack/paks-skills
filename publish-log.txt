@@ -1,0 +1,1885 @@
+Paks Skill Publisher
+===================
+Started: Thu Feb 12 12:21:44 CST 2026
+
+[1;33m[SKIP] 10x-force-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] 4a-feedback-delivery - repo exists (resume mode)[0m
+[1;33m[SKIP] a-player-hiring - repo exists (resume mode)[0m
+[1;33m[SKIP] abcde-disputation - repo exists (resume mode)[0m
+[1;33m[SKIP] abstraction-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] absurd-confrontation - repo exists (resume mode)[0m
+[1;33m[SKIP] absurd-escalation - repo exists (resume mode)[0m
+[1;33m[SKIP] absurd-questioner - repo exists (resume mode)[0m
+[1;33m[SKIP] absurdist-escalation - repo exists (resume mode)[0m
+[1;33m[SKIP] absurdity-processing-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] accelerated-computing-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] accent-as-character-blueprint - repo exists (resume mode)[0m
+[1;33m[SKIP] accessibility-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] accountability-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] accumulating-catalogue - repo exists (resume mode)[0m
+[1;33m[SKIP] acquisition-evaluation-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] acquisition-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] action-bias-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] active-imagination - repo exists (resume mode)[0m
+[1;33m[SKIP] adaptive-audience-presentation - repo exists (resume mode)[0m
+[1;33m[SKIP] add-anxious-precision - repo exists (resume mode)[0m
+[1;33m[SKIP] adequate-idea-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] adventure-marketing-design - repo exists (resume mode)[0m
+[1;33m[SKIP] adversarial-robustness-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] adversary-understanding - repo exists (resume mode)[0m
+[1;33m[SKIP] advocacy-communication - repo exists (resume mode)[0m
+[1;33m[SKIP] aesthetic-critique - repo exists (resume mode)[0m
+[1;33m[SKIP] aesthetic-escape-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] affect-transformation - repo exists (resume mode)[0m
+[1;33m[SKIP] affliction-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] ai-capability-safety-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] ai-hype-deflation - repo exists (resume mode)[0m
+[1;33m[SKIP] ai-safety-risk-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] algorithmic-decomposition - repo exists (resume mode)[0m
+[1;33m[SKIP] alignment-check - repo exists (resume mode)[0m
+[1;33m[SKIP] alignment-impact-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] all-shall-be-well-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] alphabet-structure-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] ambiguity-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] amour-propre-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] anachronistic-collision - repo exists (resume mode)[0m
+[1;33m[SKIP] analogical-bridge - repo exists (resume mode)[0m
+[1;33m[SKIP] analogical-reasoning - repo exists (resume mode)[0m
+[1;33m[SKIP] analogy-construction - repo exists (resume mode)[0m
+[1;33m[SKIP] analysis-synthesis-method - repo exists (resume mode)[0m
+[1;33m[SKIP] analytical-meditation-emptiness - repo exists (resume mode)[0m
+[1;33m[SKIP] analyze-references - repo exists (resume mode)[0m
+[1;33m[SKIP] ancestor-wisdom-invocation - repo exists (resume mode)[0m
+[1;33m[SKIP] anger-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] anomaly-driven-discovery - repo exists (resume mode)[0m
+[1;33m[SKIP] anonymous-identity - repo exists (resume mode)[0m
+[1;33m[SKIP] anti-corruption-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] anti-orthogonal-challenge - repo exists (resume mode)[0m
+[1;33m[SKIP] anti-pretension - repo exists (resume mode)[0m
+[1;33m[SKIP] anticipation-vs-interpretation - repo exists (resume mode)[0m
+[1;33m[SKIP] antifragility-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] anxiety-as-freedom - repo exists (resume mode)[0m
+[1;33m[SKIP] apophatic-inquiry - repo exists (resume mode)[0m
+[1;33m[SKIP] aporia-navigation - repo exists (resume mode)[0m
+[1;33m[SKIP] apply-dark-turn - repo exists (resume mode)[0m
+[1;33m[SKIP] apply-generational-contradiction - repo exists (resume mode)[0m
+[1;33m[SKIP] archetype-identification - repo exists (resume mode)[0m
+[1;33m[SKIP] architecture-comparison - repo exists (resume mode)[0m
+[1;33m[SKIP] arms-race-dynamics-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] aspiration-rejection-surrender - repo exists (resume mode)[0m
+[1;33m[SKIP] assembly-line-process-design - repo exists (resume mode)[0m
+[1;33m[SKIP] assistance-game-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] assumption-auditor - repo exists (resume mode)[0m
+[1;33m[SKIP] assumption-excavation - repo exists (resume mode)[0m
+[1;33m[SKIP] asymmetric-bet-sizing - repo exists (resume mode)[0m
+[1;33m[SKIP] asymmetric-motivation-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] asymmetric-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] attention-mechanism-explainer - repo exists (resume mode)[0m
+[1;33m[SKIP] attention-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] aufhebung-synthesis - repo exists (resume mode)[0m
+[1;33m[SKIP] augustine-of-hippo--confessional-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] augustine-of-hippo--distentio-focus-recovery - repo exists (resume mode)[0m
+[1;33m[SKIP] augustine-of-hippo--grace-before-effort - repo exists (resume mode)[0m
+[1;33m[SKIP] augustine-of-hippo--ordo-amoris-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] augustine-of-hippo--two-cities-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] authentic-brand-building - repo exists (resume mode)[0m
+[1;33m[SKIP] authentic-storytelling - repo exists (resume mode)[0m
+[1;33m[SKIP] authenticity-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] authenticity-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] authenticity-brand-test - repo exists (resume mode)[0m
+[1;33m[SKIP] axiomatic-decomposition - repo exists (resume mode)[0m
+[1;33m[SKIP] bad-faith-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] bad-faith-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] baloney-detection-kit - repo exists (resume mode)[0m
+[1;33m[SKIP] banality-of-evil-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] barbell-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] baroque-maximalism - repo exists (resume mode)[0m
+[1;33m[SKIP] barrel-reduction - repo exists (resume mode)[0m
+[1;33m[SKIP] barrier-breaking-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] barrier-workaround-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] base-superstructure-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] basil-fawlty-character - repo exists (resume mode)[0m
+[1;33m[SKIP] becoming-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] beetle-in-box - repo exists (resume mode)[0m
+[1;33m[SKIP] beginner-mind-reset - repo exists (resume mode)[0m
+[1;33m[SKIP] beginning-anew-ceremony - repo exists (resume mode)[0m
+[1;33m[SKIP] behavioral-experiment-design - repo exists (resume mode)[0m
+[1;33m[SKIP] being-time-contemplation - repo exists (resume mode)[0m
+[1;33m[SKIP] being-toward-death-reflection - repo exists (resume mode)[0m
+[1;33m[SKIP] belief-deprogramming - repo exists (resume mode)[0m
+[1;33m[SKIP] belief-stress-test - repo exists (resume mode)[0m
+[1;33m[SKIP] believability-weighted-decision - repo exists (resume mode)[0m
+[1;33m[SKIP] beloved-community-culture-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] benign-violation-check - repo exists (resume mode)[0m
+[1;33m[SKIP] better-angels-appeal - repo exists (resume mode)[0m
+[1;33m[SKIP] better-than-piracy-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] better-vs-different-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] beyond-calculation - repo exists (resume mode)[0m
+[1;33m[SKIP] bhag-creation - repo exists (resume mode)[0m
+[1;33m[SKIP] bias-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] bias-variance-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] biblical-interpretation-for-questioners - repo exists (resume mode)[0m
+[1;33m[SKIP] big-idea-test - repo exists (resume mode)[0m
+[1;33m[SKIP] big-stick-calibration - repo exists (resume mode)[0m
+[1;33m[SKIP] bipartisan-political-frame - repo exists (resume mode)[0m
+[1;33m[SKIP] bitter-lesson-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] bliss-discovery - repo exists (resume mode)[0m
+[1;33m[SKIP] blue-material-craft - repo exists (resume mode)[0m
+[1;33m[SKIP] bootstrapping-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] brain-ai-bridging - repo exists (resume mode)[0m
+[1;33m[SKIP] brand-extension-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] brand-stewardship-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] breaking-the-line - repo exists (resume mode)[0m
+[1;33m[SKIP] bringing-out-artist-best - repo exists (resume mode)[0m
+[1;33m[SKIP] build-and-explode-transformation - repo exists (resume mode)[0m
+[1;33m[SKIP] build-explode-rant - repo exists (resume mode)[0m
+[1;33m[SKIP] bullshit-detection - repo exists (resume mode)[0m
+[1;33m[SKIP] bureaucracy-busting-workout - repo exists (resume mode)[0m
+[1;33m[SKIP] bureaucracy-simplification - repo exists (resume mode)[0m
+[1;33m[SKIP] bureaucratic-absurdity-exposer - repo exists (resume mode)[0m
+[1;33m[SKIP] bureaucratic-fever-dream - repo exists (resume mode)[0m
+[1;33m[SKIP] bureaucratic-nightmare-decoder - repo exists (resume mode)[0m
+[1;33m[SKIP] business-plan-review-design - repo exists (resume mode)[0m
+[1;33m[SKIP] calculated-audacity-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] calculated-risk-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] calculemus-formalization - repo exists (resume mode)[0m
+[1;33m[SKIP] callback-architecture - repo exists (resume mode)[0m
+[1;33m[SKIP] callback-setup - repo exists (resume mode)[0m
+[1;33m[SKIP] callback-web-architecture - repo exists (resume mode)[0m
+[1;33m[SKIP] callback-web-constructor - repo exists (resume mode)[0m
+[1;33m[SKIP] can-we-talk-intimacy-bridge - repo exists (resume mode)[0m
+[1;33m[SKIP] candor-culture-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] capability-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] capability-ladder-design - repo exists (resume mode)[0m
+[1;33m[SKIP] capability-safety-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] capability-system-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] career-jungle-gym-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] carnival-of-apocalypse - repo exists (resume mode)[0m
+[1;33m[SKIP] carson-interview-architecture - repo exists (resume mode)[0m
+[1;33m[SKIP] carson-monologue-structure - repo exists (resume mode)[0m
+[1;33m[SKIP] carson-save-technique - repo exists (resume mode)[0m
+[1;33m[SKIP] case-based-writing - repo exists (resume mode)[0m
+[1;33m[SKIP] cash-value-test - repo exists (resume mode)[0m
+[1;33m[SKIP] casual-escalation-builder - repo exists (resume mode)[0m
+[1;33m[SKIP] causal-diagram-construction - repo exists (resume mode)[0m
+[1;33m[SKIP] causal-reasoning-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] causation-examination - repo exists (resume mode)[0m
+[1;33m[SKIP] cave-of-fear-exploration - repo exists (resume mode)[0m
+[1;33m[SKIP] center-of-gravity-identification - repo exists (resume mode)[0m
+[1;33m[SKIP] central-position-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] champion-self-talk - repo exists (resume mode)[0m
+[1;33m[SKIP] chance-operations - repo exists (resume mode)[0m
+[1;33m[SKIP] channel-capacity-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] chaos-monkey-test - repo exists (resume mode)[0m
+[1;33m[SKIP] chapel-perilous-navigation - repo exists (resume mode)[0m
+[1;33m[SKIP] character-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] character-bit-construction - repo exists (resume mode)[0m
+[1;33m[SKIP] character-explosion - repo exists (resume mode)[0m
+[1;33m[SKIP] character-exposure-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] character-exposure-design - repo exists (resume mode)[0m
+[1;33m[SKIP] character-foil-construction - repo exists (resume mode)[0m
+[1;33m[SKIP] character-full-inhabitation - repo exists (resume mode)[0m
+[1;33m[SKIP] character-immersion - repo exists (resume mode)[0m
+[1;33m[SKIP] character-impersonation-satire - repo exists (resume mode)[0m
+[1;33m[SKIP] character-voice-cascade - repo exists (resume mode)[0m
+[1;33m[SKIP] character-voice-transformation - repo exists (resume mode)[0m
+[1;33m[SKIP] character-voice - repo exists (resume mode)[0m
+[1;33m[SKIP] chartjunk-detection - repo exists (resume mode)[0m
+[1;33m[SKIP] checklist-design - repo exists (resume mode)[0m
+[1;33m[SKIP] cheerful-subversion - repo exists (resume mode)[0m
+[1;33m[SKIP] chestertons-fence-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] choiceless-awareness-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] christ-in-the-poor - repo exists (resume mode)[0m
+[1;33m[SKIP] christian-community-formation - repo exists (resume mode)[0m
+[1;33m[SKIP] christian-realist-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] christocentric-interpretation - repo exists (resume mode)[0m
+[1;33m[SKIP] church-hurt-healing - repo exists (resume mode)[0m
+[1;33m[SKIP] circle-of-competence-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] circle-of-competence-check - repo exists (resume mode)[0m
+[1;33m[SKIP] circle-of-influence - repo exists (resume mode)[0m
+[1;33m[SKIP] circle-of-safety-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] circumscription-default-reasoning - repo exists (resume mode)[0m
+[1;33m[SKIP] civilization-critique - repo exists (resume mode)[0m
+[1;33m[SKIP] clarity-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] clarity-distinctness-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] clarity-rewrite - repo exists (resume mode)[0m
+[1;33m[SKIP] class-archaeology - repo exists (resume mode)[0m
+[1;33m[SKIP] class-meeting-method - repo exists (resume mode)[0m
+[1;33m[SKIP] clean-absurdity-detector - repo exists (resume mode)[0m
+[1;33m[SKIP] clean-comedy-rewrite - repo exists (resume mode)[0m
+[1;33m[SKIP] clean-comedy-transformation - repo exists (resume mode)[0m
+[1;33m[SKIP] climate-action-okr - repo exists (resume mode)[0m
+[1;33m[SKIP] clinical-absurdist - repo exists (resume mode)[0m
+[1;33m[SKIP] clutch-performance-preparation - repo exists (resume mode)[0m
+[1;33m[SKIP] coach-style-leadership - repo exists (resume mode)[0m
+[1;33m[SKIP] coalition-building-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] cognitive-bias-detection - repo exists (resume mode)[0m
+[1;33m[SKIP] cognitive-distortion-identification - repo exists (resume mode)[0m
+[1;33m[SKIP] cognitive-triad-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] collaborative-straight-man - repo exists (resume mode)[0m
+[1;33m[SKIP] collective-action-design - repo exists (resume mode)[0m
+[1;33m[SKIP] color-emotion-translation - repo exists (resume mode)[0m
+[1;33m[SKIP] combat-stance-everyday-stance - repo exists (resume mode)[0m
+[1;33m[SKIP] comeback-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] comedy-pathos-balance - repo exists (resume mode)[0m
+[1;33m[SKIP] comic-deflation - repo exists (resume mode)[0m
+[1;33m[SKIP] commitment-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] commons-building - repo exists (resume mode)[0m
+[1;33m[SKIP] compassion-test - repo exists (resume mode)[0m
+[1;33m[SKIP] compassionate-challenge - repo exists (resume mode)[0m
+[1;33m[SKIP] competitive-greatness-preparation - repo exists (resume mode)[0m
+[1;33m[SKIP] competitive-intelligence-walk - repo exists (resume mode)[0m
+[1;33m[SKIP] competitive-position-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] composition-fallacy-check - repo exists (resume mode)[0m
+[1;33m[SKIP] compound-insult-builder - repo exists (resume mode)[0m
+[1;33m[SKIP] compounding-activity-prioritization - repo exists (resume mode)[0m
+[1;33m[SKIP] comprehensive-argument-construction - repo exists (resume mode)[0m
+[1;33m[SKIP] compression-intelligence-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] compression-to-essence - repo exists (resume mode)[0m
+[1;33m[SKIP] computational-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] conatus-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] concentrated-benefits-dispersed-costs-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] concrete-abstraction - repo exists (resume mode)[0m
+[1;33m[SKIP] concrete-detail-conversion - repo exists (resume mode)[0m
+[1;33m[SKIP] concrete-victim-defense - repo exists (resume mode)[0m
+[1;33m[SKIP] conditioning-inquiry - repo exists (resume mode)[0m
+[1;33m[SKIP] confessional-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] confessional-comedy-transform - repo exists (resume mode)[0m
+[1;33m[SKIP] confessional-honesty - repo exists (resume mode)[0m
+[1;33m[SKIP] confessional-transform - repo exists (resume mode)[0m
+[1;33m[SKIP] confounding-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] confrontational-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] confrontational-rhetoric - repo exists (resume mode)[0m
+[1;33m[SKIP] congruence-check - repo exists (resume mode)[0m
+[1;33m[SKIP] conscious-labor-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] consent-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] consolidation-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] constitutional-constraints-design - repo exists (resume mode)[0m
+[1;33m[SKIP] constraint-alchemy - repo exists (resume mode)[0m
+[1;33m[SKIP] constraint-creativity-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] constraint-innovation - repo exists (resume mode)[0m
+[1;33m[SKIP] constructive-confrontation-culture - repo exists (resume mode)[0m
+[1;33m[SKIP] constructive-tension-creation - repo exists (resume mode)[0m
+[1;33m[SKIP] consumer-moment-of-truth - repo exists (resume mode)[0m
+[1;33m[SKIP] contemplation-introduction - repo exists (resume mode)[0m
+[1;33m[SKIP] contemplative-progression - repo exists (resume mode)[0m
+[1;33m[SKIP] content-originality-check - repo exists (resume mode)[0m
+[1;33m[SKIP] context-hijack - repo exists (resume mode)[0m
+[1;33m[SKIP] context-not-control-setup - repo exists (resume mode)[0m
+[1;33m[SKIP] continental-vision - repo exists (resume mode)[0m
+[1;33m[SKIP] contingency-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] continuous-planning-method - repo exists (resume mode)[0m
+[1;33m[SKIP] contradiction-attack - repo exists (resume mode)[0m
+[1;33m[SKIP] contrapuntal-problem-solving - repo exists (resume mode)[0m
+[1;33m[SKIP] contrarian-accumulation - repo exists (resume mode)[0m
+[1;33m[SKIP] contrarian-thinking-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] contrarian-value-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] control-machine-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] convention-challenge - repo exists (resume mode)[0m
+[1;33m[SKIP] conversational-vulnerability - repo exists (resume mode)[0m
+[1;33m[SKIP] conviction-under-doubt - repo exists (resume mode)[0m
+[1;33m[SKIP] copy-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] core-values-design - repo exists (resume mode)[0m
+[1;33m[SKIP] corps-system-design - repo exists (resume mode)[0m
+[1;33m[SKIP] correlation-method-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] corruption-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] cosmic-perspective - repo exists (resume mode)[0m
+[1;33m[SKIP] cosmic-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] cost-first-design - repo exists (resume mode)[0m
+[1;33m[SKIP] cost-leadership-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] costly-discipleship-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] counterfactual-reasoning - repo exists (resume mode)[0m
+[1;33m[SKIP] courage-anxiety-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] courage-cultivation - repo exists (resume mode)[0m
+[1;33m[SKIP] courage-development-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] courage-through-action - repo exists (resume mode)[0m
+[1;33m[SKIP] courtroom-theater - repo exists (resume mode)[0m
+[1;33m[SKIP] covenant-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] craft-mastery-path - repo exists (resume mode)[0m
+[1;33m[SKIP] creation-consequence-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] creation-contemplation - repo exists (resume mode)[0m
+[1;33m[SKIP] creative-collaboration-facilitation - repo exists (resume mode)[0m
+[1;33m[SKIP] creative-destruction-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] creative-embodiment-process - repo exists (resume mode)[0m
+[1;33m[SKIP] creative-solitude-design - repo exists (resume mode)[0m
+[1;33m[SKIP] creative-team-assembly - repo exists (resume mode)[0m
+[1;33m[SKIP] creativity-space-architect - repo exists (resume mode)[0m
+[1;33m[SKIP] creator-tools-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] cringe-comedy-architect - repo exists (resume mode)[0m
+[1;33m[SKIP] crisis-acquisition-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] crisis-command-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] crisis-communication-design - repo exists (resume mode)[0m
+[1;33m[SKIP] crisis-decision-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] crisis-leadership - repo exists (resume mode)[0m
+[1;33m[SKIP] crisis-lending-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] crisis-mission-pivot - repo exists (resume mode)[0m
+[1;33m[SKIP] crisis-rhetoric - repo exists (resume mode)[0m
+[1;33m[SKIP] crisis-to-culture-change - repo exists (resume mode)[0m
+[1;33m[SKIP] cross-domain-synthesis - repo exists (resume mode)[0m
+[1;33m[SKIP] cross-genre-synthesis - repo exists (resume mode)[0m
+[1;33m[SKIP] cross-party-system-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] cruciform-solidarity-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] culminating-point-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] cultural-bridge-builder - repo exists (resume mode)[0m
+[1;33m[SKIP] cultural-code-switch-dialogue - repo exists (resume mode)[0m
+[1;33m[SKIP] cultural-collision-comedy - repo exists (resume mode)[0m
+[1;33m[SKIP] cultural-contradiction-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] cultural-immersion-method - repo exists (resume mode)[0m
+[1;33m[SKIP] cultural-integration-guide - repo exists (resume mode)[0m
+[1;33m[SKIP] cultural-integration - repo exists (resume mode)[0m
+[1;33m[SKIP] cultural-synthesis - repo exists (resume mode)[0m
+[1;33m[SKIP] cultural-transformation-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] culture-action-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] culture-first-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] culture-fit-hiring - repo exists (resume mode)[0m
+[1;33m[SKIP] culture-of-encounter - repo exists (resume mode)[0m
+[1;33m[SKIP] culture-through-behavior - repo exists (resume mode)[0m
+[1;33m[SKIP] cumulative-selection-argument - repo exists (resume mode)[0m
+[1;33m[SKIP] curiosity-driven-interview - repo exists (resume mode)[0m
+[1;33m[SKIP] curious-interviewer - repo exists (resume mode)[0m
+[1;33m[SKIP] curse-of-dimensionality-frame - repo exists (resume mode)[0m
+[1;33m[SKIP] customer-back-transformation - repo exists (resume mode)[0m
+[1;33m[SKIP] cut-up-technique - repo exists (resume mode)[0m
+[1;33m[SKIP] daily-masterpiece-method - repo exists (resume mode)[0m
+[1;33m[SKIP] dark-material-handler - repo exists (resume mode)[0m
+[1;33m[SKIP] dark-night-navigation - repo exists (resume mode)[0m
+[1;33m[SKIP] dark-one-liner - repo exists (resume mode)[0m
+[1;33m[SKIP] das-man-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] data-driven-decision-culture - repo exists (resume mode)[0m
+[1;33m[SKIP] data-first-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] data-ink-maximization - repo exists (resume mode)[0m
+[1;33m[SKIP] day-1-diagnostic - repo exists (resume mode)[0m
+[1;33m[SKIP] dead-parrot-technique - repo exists (resume mode)[0m
+[1;33m[SKIP] deadpan-authority - repo exists (resume mode)[0m
+[1;33m[SKIP] deadpan-chaos-navigation - repo exists (resume mode)[0m
+[1;33m[SKIP] deadpan-one-liner-constructor - repo exists (resume mode)[0m
+[1;33m[SKIP] deadpan-rewrite - repo exists (resume mode)[0m
+[1;33m[SKIP] deadpan-subversion - repo exists (resume mode)[0m
+[1;33m[SKIP] death-awareness-perspective - repo exists (resume mode)[0m
+[1;33m[SKIP] decimal-organization - repo exists (resume mode)[0m
+[1;33m[SKIP] decision-counseling-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] decision-noise-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] decision-type-classifier - repo exists (resume mode)[0m
+[1;33m[SKIP] decision-velocity-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] decisive-action-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] decisive-action-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] decisive-engagement - repo exists (resume mode)[0m
+[1;33m[SKIP] decisive-point-identification - repo exists (resume mode)[0m
+[1;33m[SKIP] declaration-drafting - repo exists (resume mode)[0m
+[1;33m[SKIP] deconstruct-dating-apps - repo exists (resume mode)[0m
+[1;33m[SKIP] decorum-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] deep-listening-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] deep-listening-session - repo exists (resume mode)[0m
+[1;33m[SKIP] deep-listening-validation - repo exists (resume mode)[0m
+[1;33m[SKIP] deep-seeing-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] defamiliarization-technique - repo exists (resume mode)[0m
+[1;33m[SKIP] defamiliarization - repo exists (resume mode)[0m
+[1;33m[SKIP] defense-mechanism-identification - repo exists (resume mode)[0m
+[1;33m[SKIP] defensive-investor-screening - repo exists (resume mode)[0m
+[1;33m[SKIP] defiant-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] definition-inquiry - repo exists (resume mode)[0m
+[1;33m[SKIP] definition-stress-test - repo exists (resume mode)[0m
+[1;33m[SKIP] definitional-precision - repo exists (resume mode)[0m
+[1;33m[SKIP] democratic-design-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] dependent-origination-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] dereflection - repo exists (resume mode)[0m
+[1;33m[SKIP] design-integrity-check - repo exists (resume mode)[0m
+[1;33m[SKIP] despair-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] detachment-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] detournement - repo exists (resume mode)[0m
+[1;33m[SKIP] development-of-doctrine-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] devotional-meditation - repo exists (resume mode)[0m
+[1;33m[SKIP] dialectical-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] dialectical-contradiction-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] dialogue-subtext - repo exists (resume mode)[0m
+[1;33m[SKIP] dichotomy-of-control - repo exists (resume mode)[0m
+[1;33m[SKIP] difficult-conversation-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] dignified-chaos-navigation - repo exists (resume mode)[0m
+[1;33m[SKIP] dignified-exit-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] dignified-incompetent-pattern - repo exists (resume mode)[0m
+[1;33m[SKIP] dignity-under-pressure - repo exists (resume mode)[0m
+[1;33m[SKIP] dip-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] diplomatic-consensus-building - repo exists (resume mode)[0m
+[1;33m[SKIP] diplomatic-persuasion - repo exists (resume mode)[0m
+[1;33m[SKIP] dirty-realism - repo exists (resume mode)[0m
+[1;33m[SKIP] discipline-of-desire - repo exists (resume mode)[0m
+[1;33m[SKIP] disclosure-calculus - repo exists (resume mode)[0m
+[1;33m[SKIP] disproportionate-response - repo exists (resume mode)[0m
+[1;33m[SKIP] disruption-detection - repo exists (resume mode)[0m
+[1;33m[SKIP] disruption-response-design - repo exists (resume mode)[0m
+[1;33m[SKIP] distentio-focus-recovery - repo exists (resume mode)[0m
+[1;33m[SKIP] diversion-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] divided-attention-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] divine-perceiver-resolution - repo exists (resume mode)[0m
+[1;33m[SKIP] division-healing-communication - repo exists (resume mode)[0m
+[1;33m[SKIP] division-of-labor-optimization - repo exists (resume mode)[0m
+[1;33m[SKIP] diy-patent-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] documentary-evidence - repo exists (resume mode)[0m
+[1;33m[SKIP] documentation-as-resistance - repo exists (resume mode)[0m
+[1;33m[SKIP] dogmatic-method - repo exists (resume mode)[0m
+[1;33m[SKIP] double-effect-reasoning - repo exists (resume mode)[0m
+[1;33m[SKIP] double-standard-expose - repo exists (resume mode)[0m
+[1;33m[SKIP] double-standard-exposure - repo exists (resume mode)[0m
+[1;33m[SKIP] doublespeak-translator - repo exists (resume mode)[0m
+[1;33m[SKIP] drag-wisdom-commentary - repo exists (resume mode)[0m
+[1;33m[SKIP] dramatic-situation-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] dream-autopsy - repo exists (resume mode)[0m
+[1;33m[SKIP] dream-interpretation - repo exists (resume mode)[0m
+[1;33m[SKIP] dreamer-realist-critic - repo exists (resume mode)[0m
+[1;33m[SKIP] dysfunction-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] ecclesial-ethics-reframing - repo exists (resume mode)[0m
+[1;33m[SKIP] ecological-web-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] economic-analysis-social-issues - repo exists (resume mode)[0m
+[1;33m[SKIP] economic-machine-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] economic-moat-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] ecumenical-dialogue-method - repo exists (resume mode)[0m
+[1;33m[SKIP] educational-architecture - repo exists (resume mode)[0m
+[1;33m[SKIP] effective-decision-making - repo exists (resume mode)[0m
+[1;33m[SKIP] effective-executive-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] efficiency-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] effortless-action-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] ego-check-integration - repo exists (resume mode)[0m
+[1;33m[SKIP] ego-transcendence-coaching - repo exists (resume mode)[0m
+[1;33m[SKIP] el-wisty-monologue - repo exists (resume mode)[0m
+[1;33m[SKIP] elegance-through-elimination - repo exists (resume mode)[0m
+[1;33m[SKIP] eleven-star-experience - repo exists (resume mode)[0m
+[1;33m[SKIP] emergent-order-recognition - repo exists (resume mode)[0m
+[1;33m[SKIP] emotional-amplification - repo exists (resume mode)[0m
+[1;33m[SKIP] emotional-bank-account - repo exists (resume mode)[0m
+[1;33m[SKIP] emotional-pivot-technique - repo exists (resume mode)[0m
+[1;33m[SKIP] empathic-listening - repo exists (resume mode)[0m
+[1;33m[SKIP] empathy-driven-innovation - repo exists (resume mode)[0m
+[1;33m[SKIP] empirical-inquiry - repo exists (resume mode)[0m
+[1;33m[SKIP] employee-first-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] emptiness-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] energization-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] energy-amplifier - repo exists (resume mode)[0m
+[1;33m[SKIP] energy-landscape-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] enframing-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] engaged-decision-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] enterprise-services-pivot - repo exists (resume mode)[0m
+[1;33m[SKIP] enterprise-turnaround-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] enthusiastic-academic-lecture - repo exists (resume mode)[0m
+[1;33m[SKIP] ephemeralization-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] epigram-forge - repo exists (resume mode)[0m
+[1;33m[SKIP] epigrammatic-compression - repo exists (resume mode)[0m
+[1;33m[SKIP] epistolary-creative-reflection - repo exists (resume mode)[0m
+[1;33m[SKIP] epistolary-influence - repo exists (resume mode)[0m
+[1;33m[SKIP] epistolary-persuasion - repo exists (resume mode)[0m
+[1;33m[SKIP] error-analysis-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] escalating-absurdity-build - repo exists (resume mode)[0m
+[1;33m[SKIP] escalating-anxiety-monologue - repo exists (resume mode)[0m
+[1;33m[SKIP] escalating-hypothetical - repo exists (resume mode)[0m
+[1;33m[SKIP] escalation-architecture - repo exists (resume mode)[0m
+[1;33m[SKIP] escalation-ladder - repo exists (resume mode)[0m
+[1;33m[SKIP] escalation-spiral - repo exists (resume mode)[0m
+[1;33m[SKIP] eschatological-hope-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] essay-clarity-rewrite - repo exists (resume mode)[0m
+[1;33m[SKIP] essence-extraction - repo exists (resume mode)[0m
+[1;33m[SKIP] essential-reduction - repo exists (resume mode)[0m
+[1;33m[SKIP] essential-signal-extraction - repo exists (resume mode)[0m
+[1;33m[SKIP] eternal-recurrence-test - repo exists (resume mode)[0m
+[1;33m[SKIP] ethical-discernment-in-crisis - repo exists (resume mode)[0m
+[1;33m[SKIP] ethos-construction - repo exists (resume mode)[0m
+[1;33m[SKIP] euphemism-exposure - repo exists (resume mode)[0m
+[1;33m[SKIP] ev-transformation-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] evening-reflection - repo exists (resume mode)[0m
+[1;33m[SKIP] everyday-observation-finder - repo exists (resume mode)[0m
+[1;33m[SKIP] everyman-check - repo exists (resume mode)[0m
+[1;33m[SKIP] evidence-authentication - repo exists (resume mode)[0m
+[1;33m[SKIP] evidence-sufficiency-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] excellence-standard-setting - repo exists (resume mode)[0m
+[1;33m[SKIP] execution-gap-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] executive-recognition-letters - repo exists (resume mode)[0m
+[1;33m[SKIP] exhaustive-research-methodology - repo exists (resume mode)[0m
+[1;33m[SKIP] existence-essence-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] existential-stage-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] expectations-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] expected-behaviors-design - repo exists (resume mode)[0m
+[1;33m[SKIP] experience-economy-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] experimental-design-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] experiments-in-living-defense - repo exists (resume mode)[0m
+[1;33m[SKIP] experimentum-crucis - repo exists (resume mode)[0m
+[1;33m[SKIP] explanatory-style-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] explicit-function-translation - repo exists (resume mode)[0m
+[1;33m[SKIP] exponential-trend-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] expressive-color-translation - repo exists (resume mode)[0m
+[1;33m[SKIP] extended-phenotype-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] extinction-procedure - repo exists (resume mode)[0m
+[1;33m[SKIP] extraordinary-man-critique - repo exists (resume mode)[0m
+[1;33m[SKIP] extreme-testing-design - repo exists (resume mode)[0m
+[1;33m[SKIP] eyes-on-the-street - repo exists (resume mode)[0m
+[1;33m[SKIP] fable-of-warning - repo exists (resume mode)[0m
+[1;33m[SKIP] face-saving-error-handling - repo exists (resume mode)[0m
+[1;33m[SKIP] fact-check-expert - repo exists (resume mode)[0m
+[1;33m[SKIP] faction-balancing - repo exists (resume mode)[0m
+[1;33m[SKIP] facts-changed-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] failure-analysis-systems - repo exists (resume mode)[0m
+[1;33m[SKIP] failure-learning-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] failure-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] failure-to-fuel-conversion - repo exists (resume mode)[0m
+[1;33m[SKIP] fait-accompli-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] faith-deconstruction-companionship - repo exists (resume mode)[0m
+[1;33m[SKIP] faith-reason-synthesis - repo exists (resume mode)[0m
+[1;33m[SKIP] faith-works-integration - repo exists (resume mode)[0m
+[1;33m[SKIP] fake-work-detector - repo exists (resume mode)[0m
+[1;33m[SKIP] family-resemblance - repo exists (resume mode)[0m
+[1;33m[SKIP] fantasy-reality-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] fasting-of-the-mind - repo exists (resume mode)[0m
+[1;33m[SKIP] fatal-conceit-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] fate-acceptance - repo exists (resume mode)[0m
+[1;33m[SKIP] fear-and-interest-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] fearless-truth-bomb - repo exists (resume mode)[0m
+[1;33m[SKIP] feature-vs-product-test - repo exists (resume mode)[0m
+[1;33m[SKIP] feedback-loop-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] fei-fei-li--data-cascade-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] fei-fei-li--dataset-quality-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] fei-fei-li--human-centered-ai-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] feminist-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] feynman-technique - repo exists (resume mode)[0m
+[1;33m[SKIP] fictional-target-creator - repo exists (resume mode)[0m
+[1;33m[SKIP] field-beyond-judgment - repo exists (resume mode)[0m
+[1;33m[SKIP] fierce-grace-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] financial-architecture-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] first-principles-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] first-principles-breakdown - repo exists (resume mode)[0m
+[1;33m[SKIP] first-principles-reasoning - repo exists (resume mode)[0m
+[1;33m[SKIP] first-who-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] five-canons-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] five-essential-questions - repo exists (resume mode)[0m
+[1;33m[SKIP] five-factors-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] five-forces-industry-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] five-relationships-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] five-step-algorithm - repo exists (resume mode)[0m
+[1;33m[SKIP] five-step-process - repo exists (resume mode)[0m
+[1;33m[SKIP] five-ways-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] fluid-space-design - repo exists (resume mode)[0m
+[1;33m[SKIP] fly-bottle-method - repo exists (resume mode)[0m
+[1;33m[SKIP] flywheel-design - repo exists (resume mode)[0m
+[1;33m[SKIP] flywheel-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] fog-of-war-decision - repo exists (resume mode)[0m
+[1;33m[SKIP] follow-the-child-observation - repo exists (resume mode)[0m
+[1;33m[SKIP] forbidden-word-method - repo exists (resume mode)[0m
+[1;33m[SKIP] force-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] forgiveness-over-permission - repo exists (resume mode)[0m
+[1;33m[SKIP] formal-problem-specification - repo exists (resume mode)[0m
+[1;33m[SKIP] fortress-balance-sheet-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] fortune-virtu-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] foucauldian-discourse-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] foucauldian-genealogy - repo exists (resume mode)[0m
+[1;33m[SKIP] foucauldian-power-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] foucauldian-problematization - repo exists (resume mode)[0m
+[1;33m[SKIP] foundation-first-methodology - repo exists (resume mode)[0m
+[1;33m[SKIP] foundational-certainty-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] founder-ceo-partnership - repo exists (resume mode)[0m
+[1;33m[SKIP] founder-mode-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] four-causes-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] four-es-leadership-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] four-noble-truths-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] four-reasons-for-hope - repo exists (resume mode)[0m
+[1;33m[SKIP] four-yogas-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] fourfold-forgiveness-path - repo exists (resume mode)[0m
+[1;33m[SKIP] fourth-wall-demolition - repo exists (resume mode)[0m
+[1;33m[SKIP] fox-lion-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] frame-creation - repo exists (resume mode)[0m
+[1;33m[SKIP] franchise-system-design - repo exists (resume mode)[0m
+[1;33m[SKIP] free-as-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] free-association-ideation - repo exists (resume mode)[0m
+[1;33m[SKIP] free-indirect-voice - repo exists (resume mode)[0m
+[1;33m[SKIP] free-to-choose-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] freedom-responsibility-calibration - repo exists (resume mode)[0m
+[1;33m[SKIP] freemium-model-design - repo exists (resume mode)[0m
+[1;33m[SKIP] friction-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] frontline-intelligence - repo exists (resume mode)[0m
+[1;33m[SKIP] full-stack-integration - repo exists (resume mode)[0m
+[1;33m[SKIP] fundamentals-first-diagnostic - repo exists (resume mode)[0m
+[1;33m[SKIP] gambling-stakes-test - repo exists (resume mode)[0m
+[1;33m[SKIP] game-identification - repo exists (resume mode)[0m
+[1;33m[SKIP] gedankenexperiment-method - repo exists (resume mode)[0m
+[1;33m[SKIP] genba-diagnostic - repo exists (resume mode)[0m
+[1;33m[SKIP] genealogical-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] general-will-inquiry - repo exists (resume mode)[0m
+[1;33m[SKIP] generic-strategy-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] generosity-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] genes-eye-view-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] genre-transmutation-method - repo exists (resume mode)[0m
+[1;33m[SKIP] geometric-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] gift-with-purchase-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] glamorous-takedown - repo exists (resume mode)[0m
+[1;33m[SKIP] global-ethic-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] global-first-design-review - repo exists (resume mode)[0m
+[1;33m[SKIP] golden-circle-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] golden-mean-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] gonzo-immersion - repo exists (resume mode)[0m
+[1;33m[SKIP] goon-show-logic - repo exists (resume mode)[0m
+[1;33m[SKIP] gordian-knot-solution - repo exists (resume mode)[0m
+[1;33m[SKIP] grace-before-effort - repo exists (resume mode)[0m
+[1;33m[SKIP] grace-centered-pastoral-care - repo exists (resume mode)[0m
+[1;33m[SKIP] grand-challenge-selection - repo exists (resume mode)[0m
+[1;33m[SKIP] grand-inquisitor-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] graphical-integrity-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] grassroots-adoption-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] gravity-grace-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] greatness-wretchedness-paradox - repo exists (resume mode)[0m
+[1;33m[SKIP] grief-consolation - repo exists (resume mode)[0m
+[1;33m[SKIP] grotesque-portrait - repo exists (resume mode)[0m
+[1;33m[SKIP] ground-of-soul-meditation - repo exists (resume mode)[0m
+[1;33m[SKIP] groundlessness-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] grove-one-on-one-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] growth-choice-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] growth-facilitation - repo exists (resume mode)[0m
+[1;33m[SKIP] growth-mindset-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] guerrilla-ontology - repo exists (resume mode)[0m
+[1;33m[SKIP] guest-house-welcome - repo exists (resume mode)[0m
+[1;33m[SKIP] habit-formation-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] hammer-test - repo exists (resume mode)[0m
+[1;33m[SKIP] handling-impressions - repo exists (resume mode)[0m
+[1;33m[SKIP] happiness-framework-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] happiness-skill-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] hard-conversation-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] hard-decision-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] hard-truth-clarification - repo exists (resume mode)[0m
+[1;33m[SKIP] hardware-to-services-pivot - repo exists (resume mode)[0m
+[1;33m[SKIP] harm-principle-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] harmony-synthesis - repo exists (resume mode)[0m
+[1;33m[SKIP] hazelnut-contemplation - repo exists (resume mode)[0m
+[1;33m[SKIP] headline-optimization - repo exists (resume mode)[0m
+[1;33m[SKIP] heart-polishing-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] hedgehog-concept-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] heros-journey-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] hidden-blessing-hunt - repo exists (resume mode)[0m
+[1;33m[SKIP] hidden-form-revelation - repo exists (resume mode)[0m
+[1;33m[SKIP] high-output-management-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] high-resolution-thinking - repo exists (resume mode)[0m
+[1;33m[SKIP] high-stakes-decision-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] higher-pleasures-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] historical-case-study-method - repo exists (resume mode)[0m
+[1;33m[SKIP] historical-connection - repo exists (resume mode)[0m
+[1;33m[SKIP] historical-parallel-finder - repo exists (resume mode)[0m
+[1;33m[SKIP] historical-parallel-pattern - repo exists (resume mode)[0m
+[1;33m[SKIP] historical-parallel - repo exists (resume mode)[0m
+[1;33m[SKIP] historical-reason - repo exists (resume mode)[0m
+[1;33m[SKIP] hoax-infrastructure - repo exists (resume mode)[0m
+[1;33m[SKIP] holistic-healing-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] hollow-reed-preparation - repo exists (resume mode)[0m
+[1;33m[SKIP] honest-assessment-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] honest-feedback-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] honesty-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] hostile-performance - repo exists (resume mode)[0m
+[1;33m[SKIP] hostile-truth-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] hot-letter-method - repo exists (resume mode)[0m
+[1;33m[SKIP] hot-pockets-escalation - repo exists (resume mode)[0m
+[1;33m[SKIP] how-to-win-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] human-development-focus - repo exists (resume mode)[0m
+[1;33m[SKIP] human-rights-localization - repo exists (resume mode)[0m
+[1;33m[SKIP] hypocrisy-detection - repo exists (resume mode)[0m
+[1;33m[SKIP] hypocrisy-exposure - repo exists (resume mode)[0m
+[1;33m[SKIP] hypothesis-discipline - repo exists (resume mode)[0m
+[1;33m[SKIP] i-am-stabilization - repo exists (resume mode)[0m
+[1;33m[SKIP] iceberg-method - repo exists (resume mode)[0m
+[1;33m[SKIP] idea-meritocracy-design - repo exists (resume mode)[0m
+[1;33m[SKIP] identity-correction - repo exists (resume mode)[0m
+[1;33m[SKIP] identity-shifting - repo exists (resume mode)[0m
+[1;33m[SKIP] ideology-critique - repo exists (resume mode)[0m
+[1;33m[SKIP] idiot-index-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] idol-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] ignatian-discernment-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] illative-sense-reasoning - repo exists (resume mode)[0m
+[1;33m[SKIP] image-bomb - repo exists (resume mode)[0m
+[1;33m[SKIP] image-construction - repo exists (resume mode)[0m
+[1;33m[SKIP] imaginal-realm-navigation - repo exists (resume mode)[0m
+[1;33m[SKIP] imagination-knowledge-integration - repo exists (resume mode)[0m
+[1;33m[SKIP] imaginative-theology - repo exists (resume mode)[0m
+[1;33m[SKIP] imitation-game-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] immigrants-eye-observation - repo exists (resume mode)[0m
+[1;33m[SKIP] impartial-spectator-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] impossible-march - repo exists (resume mode)[0m
+[1;33m[SKIP] impression-tracing - repo exists (resume mode)[0m
+[1;33m[SKIP] in-person-breakthrough - repo exists (resume mode)[0m
+[1;33m[SKIP] incentive-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] incentive-inversion-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] incremental-improvement-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] independence-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] individual-lens-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] induction-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] infinite-game-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] influence-without-authority - repo exists (resume mode)[0m
+[1;33m[SKIP] infrastructure-as-power - repo exists (resume mode)[0m
+[1;33m[SKIP] inject-therapy-language - repo exists (resume mode)[0m
+[1;33m[SKIP] inner-voice-commentary - repo exists (resume mode)[0m
+[1;33m[SKIP] innovation-opportunity-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] innovation-resource-allocation - repo exists (resume mode)[0m
+[1;33m[SKIP] inoculation-reveal - repo exists (resume mode)[0m
+[1;33m[SKIP] insider-ceo-succession - repo exists (resume mode)[0m
+[1;33m[SKIP] institutional-fluency - repo exists (resume mode)[0m
+[1;33m[SKIP] institutional-incentive-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] institutional-jiu-jitsu - repo exists (resume mode)[0m
+[1;33m[SKIP] institutional-reform-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] institutional-satire - repo exists (resume mode)[0m
+[1;33m[SKIP] integral-ecology-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] integral-transformation-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] integration-vs-breakup-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] intellectual-roast-amplifier - repo exists (resume mode)[0m
+[1;33m[SKIP] intelligence-network-design - repo exists (resume mode)[0m
+[1;33m[SKIP] interior-castle-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] internal-channel-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] internal-compass-development - repo exists (resume mode)[0m
+[1;33m[START] interview-as-collaboration[0m
+  Creating repo skill-interview-as-collaboration...
+  Publishing to paks registry...
+Publishing skill: interview-as-collaboration
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] interview-as-collaboration published![0m
+[1;33m[SKIP] interview-deflection - repo exists (resume mode)[0m
+[1;33m[SKIP] intrinsic-value-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] inversion-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] inversion-technique - repo exists (resume mode)[0m
+[1;33m[SKIP] investment-speculation-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] ironic-praise - repo exists (resume mode)[0m
+[1;33m[SKIP] ironic-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] ironic-voice - repo exists (resume mode)[0m
+[1;33m[SKIP] is-ought-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] isolation-connection-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] iterative-creative-development - repo exists (resume mode)[0m
+[1;33m[SKIP] iterative-excellence-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] jeffersonian-first-principles - repo exists (resume mode)[0m
+[1;33m[SKIP] jeselnik-reversal-transform - repo exists (resume mode)[0m
+[1;33m[SKIP] jobs-to-be-done-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] joke-cascade-builder - repo exists (resume mode)[0m
+[1;33m[SKIP] joke-construction-polish - repo exists (resume mode)[0m
+[1;33m[SKIP] jonah-complex-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] jonathan-edwards--aesthetic-theology-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] jonathan-edwards--religious-affections-discernment - repo exists (resume mode)[0m
+[1;33m[SKIP] jonathan-edwards--revival-assessment-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] joyful-resistance - repo exists (resume mode)[0m
+[1;33m[SKIP] junto-circle - repo exists (resume mode)[0m
+[1;33m[SKIP] just-cause-development - repo exists (resume mode)[0m
+[1;33m[SKIP] just-war-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] kafkaesque-analyzer - repo exists (resume mode)[0m
+[1;33m[SKIP] kbo-resilience - repo exists (resume mode)[0m
+[1;33m[SKIP] keep-going-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] keeper-test-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] keynote-storytelling - repo exists (resume mode)[0m
+[1;33m[SKIP] khalwa-retreat-stages - repo exists (resume mode)[0m
+[1;33m[SKIP] know-your-enemy - repo exists (resume mode)[0m
+[1;33m[SKIP] knowledge-problem-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] ladder-classification - repo exists (resume mode)[0m
+[1;33m[SKIP] landscape-integration-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] language-as-power-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] language-game-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] lantern-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] latticework-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] laughtivist-action - repo exists (resume mode)[0m
+[1;33m[SKIP] law-framework-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] lawyer-argument-roast - repo exists (resume mode)[0m
+[1;33m[SKIP] lead-bullets-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] lead-from-front - repo exists (resume mode)[0m
+[1;33m[SKIP] leaderless-coordination - repo exists (resume mode)[0m
+[1;33m[SKIP] leadership-quality-filter - repo exists (resume mode)[0m
+[1;33m[SKIP] leading-through-adversity - repo exists (resume mode)[0m
+[1;33m[SKIP] lean-in-career-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] leap-invitation - repo exists (resume mode)[0m
+[1;33m[SKIP] legal-theater - repo exists (resume mode)[0m
+[1;33m[SKIP] letting-go-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] level-5-leadership-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] leverage-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] leverage-point-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] liberal-education-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] liberation-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] liberation-planning - repo exists (resume mode)[0m
+[1;33m[SKIP] liberty-of-thought-defense - repo exists (resume mode)[0m
+[1;33m[SKIP] life-affirmation-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] lifes-question-reversal - repo exists (resume mode)[0m
+[1;33m[SKIP] light-vs-fruit-classification - repo exists (resume mode)[0m
+[1;33m[SKIP] lightning-campaign - repo exists (resume mode)[0m
+[1;33m[SKIP] lightning-word-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] likeable-everyman-perspective - repo exists (resume mode)[0m
+[1;33m[SKIP] limits-of-revolt - repo exists (resume mode)[0m
+[1;33m[SKIP] lindy-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] linear-thinking-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] liquidity-fortress-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] list-escalation-comedy - repo exists (resume mode)[0m
+[1;33m[SKIP] literalist-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] living-in-truth - repo exists (resume mode)[0m
+[1;33m[SKIP] llm-architecture-explainer - repo exists (resume mode)[0m
+[1;33m[SKIP] llm-capability-check - repo exists (resume mode)[0m
+[1;33m[START] logical-absurdity-extension[0m
+  Creating repo skill-logical-absurdity-extension...
+  Publishing to paks registry...
+Publishing skill: logical-absurdity-extension
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] logical-absurdity-extension published![0m
+[1;33m[SKIP] logical-analysis - repo exists (resume mode)[0m
+[1;33m[START] logical-nonsense-framework[0m
+  Creating repo skill-logical-nonsense-framework...
+  Publishing to paks registry...
+Publishing skill: logical-nonsense-framework
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] logical-nonsense-framework published![0m
+[1;33m[SKIP] long-distance-partnership - repo exists (resume mode)[0m
+[1;33m[SKIP] long-term-investment-defense - repo exists (resume mode)[0m
+[1;33m[SKIP] long-term-planning - repo exists (resume mode)[0m
+[1;33m[SKIP] longevity-assessment - repo exists (resume mode)[0m
+[1;33m[START] lovable-incompetent-character[0m
+  Creating repo skill-lovable-incompetent-character...
+  Publishing to paks registry...
+Publishing skill: lovable-incompetent-character
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] lovable-incompetent-character published![0m
+[1;33m[SKIP] loving-attention-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] loving-awareness-meditation - repo exists (resume mode)[0m
+[1;33m[SKIP] luxury-positioning - repo exists (resume mode)[0m
+[1;33m[SKIP] macguffin-identification - repo exists (resume mode)[0m
+[1;33m[SKIP] macrocosm-microcosm-reflection - repo exists (resume mode)[0m
+[1;33m[SKIP] maieutic-dialogue - repo exists (resume mode)[0m
+[1;33m[SKIP] maker-schedule-defense - repo exists (resume mode)[0m
+[1;33m[SKIP] man-in-the-arena-defense - repo exists (resume mode)[0m
+[1;33m[SKIP] management-debt-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] maneuver-vs-attrition-assessment - repo exists (resume mode)[0m
+[1;33m[START] manic-depression-oscillation[0m
+  Creating repo skill-manic-depression-oscillation...
+  Publishing to paks registry...
+Publishing skill: manic-depression-oscillation
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] manic-depression-oscillation published![0m
+[1;33m[SKIP] manipulation-detection - repo exists (resume mode)[0m
+[1;33m[SKIP] manufacturing-transformation-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] margin-of-safety-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] margin-of-safety-valuation - repo exists (resume mode)[0m
+[1;33m[SKIP] market-creation-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] market-dynamics-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] market-over-team-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] master-argument - repo exists (resume mode)[0m
+[1;33m[SKIP] masterwork-preparation - repo exists (resume mode)[0m
+[1;33m[SKIP] mastery-path-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] mastery-to-innocence - repo exists (resume mode)[0m
+[1;33m[SKIP] material-honesty-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] maternal-god-meditation - repo exists (resume mode)[0m
+[1;33m[SKIP] mathematical-modeling-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] matter-of-fact-impossible - repo exists (resume mode)[0m
+[1;33m[SKIP] matter-of-fact-revolutionary - repo exists (resume mode)[0m
+[1;33m[SKIP] maybe-logic - repo exists (resume mode)[0m
+[1;33m[SKIP] meaning-discovery - repo exists (resume mode)[0m
+[1;33m[SKIP] meaning-multiplication - repo exists (resume mode)[0m
+[1;33m[SKIP] means-of-grace-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] measurement-verification-method - repo exists (resume mode)[0m
+[1;33m[SKIP] mechanical-grotesque - repo exists (resume mode)[0m
+[1;33m[SKIP] mechanicalness-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] media-appetite-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] media-hoax-design - repo exists (resume mode)[0m
+[1;33m[SKIP] medieval-economic-explainer - repo exists (resume mode)[0m
+[1;33m[SKIP] meeting-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] meme-propagation-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] memetic-warfare - repo exists (resume mode)[0m
+[1;33m[SKIP] memorial-design - repo exists (resume mode)[0m
+[1;33m[SKIP] mental-health-specificity - repo exists (resume mode)[0m
+[1;33m[SKIP] mental-prototype-visualization - repo exists (resume mode)[0m
+[1;33m[SKIP] mental-toughness-reset - repo exists (resume mode)[0m
+[1;33m[SKIP] mentor-sponsor-gap-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] merchant-obsession-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] merit-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] meritocratic-selection - repo exists (resume mode)[0m
+[1;33m[SKIP] message-distillation - repo exists (resume mode)[0m
+[1;33m[SKIP] meta-comedy-layer - repo exists (resume mode)[0m
+[1;33m[SKIP] methodical-doubt-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] middle-way-guidance - repo exists (resume mode)[0m
+[1;33m[SKIP] mindful-performance-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] mindfulness-anchor - repo exists (resume mode)[0m
+[1;33m[SKIP] minimal-implementation-explainer - repo exists (resume mode)[0m
+[1;33m[SKIP] minimal-intervention - repo exists (resume mode)[0m
+[1;33m[SKIP] minimax-game-frame - repo exists (resume mode)[0m
+[1;33m[SKIP] misdirection-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] misdirection-architecture - repo exists (resume mode)[0m
+[1;33m[SKIP] mitigated-skepticism - repo exists (resume mode)[0m
+[1;33m[SKIP] mixed-use-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] ml-project-scoping - repo exists (resume mode)[0m
+[1;33m[START] mockumentary-framework[0m
+  Creating repo skill-mockumentary-framework...
+  Publishing to paks registry...
+Publishing skill: mockumentary-framework
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] mockumentary-framework published![0m
+[1;33m[SKIP] modeling-influence-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] modest-proposal - repo exists (resume mode)[0m
+[1;33m[SKIP] modesto-manifesto-integrity - repo exists (resume mode)[0m
+[1;33m[SKIP] modular-integration-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] moment-of-being-capture - repo exists (resume mode)[0m
+[1;33m[SKIP] monetary-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] monster-perspective-voice - repo exists (resume mode)[0m
+[1;33m[SKIP] moonshot-evaluator - repo exists (resume mode)[0m
+[1;33m[SKIP] moral-ambiguity-navigation - repo exists (resume mode)[0m
+[1;33m[SKIP] moral-argument-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] moral-disengagement-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] moral-life-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] moral-responsibility - repo exists (resume mode)[0m
+[1;33m[SKIP] moral-urgency-argument - repo exists (resume mode)[0m
+[1;33m[SKIP] moral-vision-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] morganization-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] morning-preparation - repo exists (resume mode)[0m
+[1;33m[SKIP] motivation-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] motivation-manufacturing - repo exists (resume mode)[0m
+[1;33m[SKIP] mr-market-interpretation - repo exists (resume mode)[0m
+[1;33m[SKIP] multi-character-scene - repo exists (resume mode)[0m
+[1;33m[SKIP] multi-source-deep-dive - repo exists (resume mode)[0m
+[1;33m[SKIP] multi-vertical-expansion-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] multimedia-comedy-script - repo exists (resume mode)[0m
+[1;33m[START] multiple-character-integrity[0m
+  Creating repo skill-multiple-character-integrity...
+  Publishing to paks registry...
+Publishing skill: multiple-character-integrity
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] multiple-character-integrity published![0m
+[1;33m[START] multiple-self-transformation[0m
+  Creating repo skill-multiple-self-transformation...
+  Publishing to paks registry...
+Publishing skill: multiple-self-transformation
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] multiple-self-transformation published![0m
+[1;33m[SKIP] mundane-catastrophe - repo exists (resume mode)[0m
+[1;33m[SKIP] mundane-to-dramatic - repo exists (resume mode)[0m
+[1;33m[SKIP] murphy-dialogue-naturalizer - repo exists (resume mode)[0m
+[1;33m[START] musical-comedy-fusion[0m
+  Creating repo skill-musical-comedy-fusion...
+  Publishing to paks registry...
+Publishing skill: musical-comedy-fusion
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] musical-comedy-fusion published![0m
+[1;33m[SKIP] musical-comedy-transform - repo exists (resume mode)[0m
+[1;33m[SKIP] musical-emotional-bait-and-switch - repo exists (resume mode)[0m
+[1;33m[SKIP] mutual-benefit-negotiation - repo exists (resume mode)[0m
+[1;33m[SKIP] mythic-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] name-and-interest-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] nanosecond-demonstration - repo exists (resume mode)[0m
+[1;33m[SKIP] narrative-control - repo exists (resume mode)[0m
+[1;33m[SKIP] natality-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] natural-education-design - repo exists (resume mode)[0m
+[1;33m[SKIP] natural-law-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] natural-liberty-policy-test - repo exists (resume mode)[0m
+[1;33m[SKIP] natural-rights-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] nature-convention-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] navigating-spiritual-darkness - repo exists (resume mode)[0m
+[1;33m[SKIP] needs-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] negative-expertise-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] nelson-touch-command - repo exists (resume mode)[0m
+[1;33m[SKIP] neti-neti-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] network-building-for-liberation - repo exists (resume mode)[0m
+[1;33m[SKIP] neural-network-intuition-builder - repo exists (resume mode)[0m
+[1;33m[SKIP] newspaper-commentary-thread - repo exists (resume mode)[0m
+[1;33m[SKIP] no-respect-frame - repo exists (resume mode)[0m
+[1;33m[SKIP] non-intentional-action - repo exists (resume mode)[0m
+[1;33m[SKIP] notebook-knowledge-capture - repo exists (resume mode)[0m
+[1;33m[SKIP] number-one-or-two-analysis - repo exists (resume mode)[0m
+[1;33m[START] object-personification[0m
+  Creating repo skill-object-personification...
+  Publishing to paks registry...
+Publishing skill: object-personification
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] object-personification published![0m
+[1;33m[SKIP] objective-misspecification-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] observational-comedy-breakdown - repo exists (resume mode)[0m
+[1;33m[SKIP] observational-debugging - repo exists (resume mode)[0m
+[1;33m[SKIP] observational-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] observer-observed-investigation - repo exists (resume mode)[0m
+[1;33m[SKIP] obstacle-to-opportunity - repo exists (resume mode)[0m
+[1;33m[SKIP] ocean-drop-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] of-course-but-maybe - repo exists (resume mode)[0m
+[1;33m[SKIP] off-switch-test - repo exists (resume mode)[0m
+[1;33m[SKIP] okr-cascade-alignment - repo exists (resume mode)[0m
+[1;33m[SKIP] okr-creation - repo exists (resume mode)[0m
+[1;33m[SKIP] okr-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] okr-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] one-liner-compression - repo exists (resume mode)[0m
+[1;33m[SKIP] one-on-one-meeting - repo exists (resume mode)[0m
+[1;33m[SKIP] one-point-focus - repo exists (resume mode)[0m
+[1;33m[START] one-sided-dialogue-builder[0m
+  Creating repo skill-one-sided-dialogue-builder...
+  Publishing to paks registry...
+Publishing skill: one-sided-dialogue-builder
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] one-sided-dialogue-builder published![0m
+Progress: 940 skills processed (11 success, 0 failed, 929 skipped)
+[1;33m[SKIP] one-true-sentence - repo exists (resume mode)[0m
+[1;33m[SKIP] only-you-strategic-test - repo exists (resume mode)[0m
+[1;33m[SKIP] ooda-loop-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] oops-meeting-design - repo exists (resume mode)[0m
+[1;33m[SKIP] open-access-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] operational-excellence-culture - repo exists (resume mode)[0m
+[1;33m[SKIP] operational-standards-definition - repo exists (resume mode)[0m
+[1;33m[SKIP] operational-trench-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] ordo-amoris-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] organic-design-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] organizational-capability-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] organizational-psychodynamics-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] orientation-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] overlooked-beauty-discovery - repo exists (resume mode)[0m
+[1;33m[SKIP] pain-reflection-progress - repo exists (resume mode)[0m
+[1;33m[SKIP] pain-to-power-alchemy - repo exists (resume mode)[0m
+[1;33m[SKIP] panoramic-to-particular-rendering - repo exists (resume mode)[0m
+[1;33m[SKIP] pantomime-story-structure - repo exists (resume mode)[0m
+[1;33m[SKIP] paper-tiger-fear-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] paradigm-shift-detection - repo exists (resume mode)[0m
+[1;33m[SKIP] paradox-argumentation - repo exists (resume mode)[0m
+[1;33m[SKIP] paradox-craft - repo exists (resume mode)[0m
+[1;33m[SKIP] paradox-detection - repo exists (resume mode)[0m
+[1;33m[SKIP] paradox-navigation - repo exists (resume mode)[0m
+[1;33m[SKIP] paradoxical-intention - repo exists (resume mode)[0m
+[1;33m[SKIP] parallel-polis - repo exists (resume mode)[0m
+[1;33m[SKIP] parallel-project-portfolio-review - repo exists (resume mode)[0m
+[1;33m[SKIP] parametric-design-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] partner-investment-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] partnership-ecosystem-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] pascalian-wager-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] patient-accumulation-method - repo exists (resume mode)[0m
+[1;33m[SKIP] patient-observation-method - repo exists (resume mode)[0m
+[1;33m[SKIP] pause-timing-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] pendulum-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] pensee-craft - repo exists (resume mode)[0m
+[1;33m[SKIP] perceiving-beyond-appearances - repo exists (resume mode)[0m
+[1;33m[SKIP] perceptual-relativity - repo exists (resume mode)[0m
+[1;33m[SKIP] perfect-joy-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] perichoretic-community-design - repo exists (resume mode)[0m
+[1;33m[SKIP] perma-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] permission-interruption-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] persistence-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] persistence-through-struggle - repo exists (resume mode)[0m
+[1;33m[SKIP] persistent-process-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] personal-demonstration-selling - repo exists (resume mode)[0m
+[1;33m[SKIP] personal-mission-statement - repo exists (resume mode)[0m
+[1;33m[SKIP] personal-to-political-bridge - repo exists (resume mode)[0m
+[1;33m[SKIP] personal-to-political-story - repo exists (resume mode)[0m
+[1;33m[SKIP] personal-to-universal - repo exists (resume mode)[0m
+[1;33m[SKIP] perspective-flip-routine - repo exists (resume mode)[0m
+[1;33m[SKIP] phenomenal-stance - repo exists (resume mode)[0m
+[1;33m[SKIP] phenomenological-stages - repo exists (resume mode)[0m
+[1;33m[SKIP] philly-incident-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] philosophical-pivot - repo exists (resume mode)[0m
+[1;33m[START] philosophical-vulgarity-blend[0m
+  Creating repo skill-philosophical-vulgarity-blend...
+  Publishing to paks registry...
+Publishing skill: philosophical-vulgarity-blend
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] philosophical-vulgarity-blend published![0m
+[1;33m[SKIP] phoenix-narrative - repo exists (resume mode)[0m
+[1;33m[START] physical-beat-integration[0m
+  Creating repo skill-physical-beat-integration...
+  Publishing to paks registry...
+Publishing skill: physical-beat-integration
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] physical-beat-integration published![0m
+[1;33m[SKIP] physical-character-blueprint - repo exists (resume mode)[0m
+[1;33m[START] physical-comedy-precision[0m
+  Creating repo skill-physical-comedy-precision...
+  Publishing to paks registry...
+Publishing skill: physical-comedy-precision
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] physical-comedy-precision published![0m
+Progress: 1000 skills processed (14 success, 0 failed, 986 skipped)
+[1;33m[START] physical-comedy-psychology[0m
+  Creating repo skill-physical-comedy-psychology...
+  Publishing to paks registry...
+Publishing skill: physical-comedy-psychology
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] physical-comedy-psychology published![0m
+[1;33m[SKIP] physical-comedy-punctuation - repo exists (resume mode)[0m
+[1;33m[START] physical-consequence-choreography[0m
+  Creating repo skill-physical-consequence-choreography...
+  Publishing to paks registry...
+Publishing skill: physical-consequence-choreography
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] physical-consequence-choreography published![0m
+[1;33m[SKIP] physics-limit-analysis - repo exists (resume mode)[0m
+[1;33m[START] piano-as-partner[0m
+  Creating repo skill-piano-as-partner...
+  Publishing to paks registry...
+Publishing skill: piano-as-partner
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] piano-as-partner published![0m
+[1;33m[START] pivot-to-genuine[0m
+  Creating repo skill-pivot-to-genuine...
+  Publishing to paks registry...
+Publishing skill: pivot-to-genuine
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] pivot-to-genuine published![0m
+[1;33m[SKIP] place-immersion-research - repo exists (resume mode)[0m
+[1;33m[SKIP] platform-ecosystem-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] platform-strategy-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] plato--cave-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] plato--divided-line - repo exists (resume mode)[0m
+[1;33m[SKIP] plato--eros-ascent - repo exists (resume mode)[0m
+[1;33m[SKIP] plato--tripartite-soul - repo exists (resume mode)[0m
+[1;33m[SKIP] play-vs-work-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] plussing-review - repo exists (resume mode)[0m
+[1;33m[SKIP] poet-scientist-communication - repo exists (resume mode)[0m
+[1;33m[SKIP] poetic-personification - repo exists (resume mode)[0m
+[1;33m[SKIP] poetical-science-synthesis - repo exists (resume mode)[0m
+[1;33m[SKIP] polyphonic-reframing - repo exists (resume mode)[0m
+[1;33m[SKIP] polyphonic-voice - repo exists (resume mode)[0m
+[1;33m[START] pop-culture-sports-translation[0m
+  Creating repo skill-pop-culture-sports-translation...
+  Publishing to paks registry...
+Publishing skill: pop-culture-sports-translation
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] pop-culture-sports-translation published![0m
+[1;33m[SKIP] popular-mobilization - repo exists (resume mode)[0m
+[1;33m[SKIP] portfolio-transformation-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] positive-deviance-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] possible-worlds-reasoning - repo exists (resume mode)[0m
+[1;33m[SKIP] post-founder-leadership - repo exists (resume mode)[0m
+[1;33m[SKIP] power-accumulation-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] power-analysis-lens - repo exists (resume mode)[0m
+[1;33m[SKIP] power-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] power-dynamic-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] power-dynamics-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] power-of-powerless - repo exists (resume mode)[0m
+[1;33m[SKIP] power-violence-distinction - repo exists (resume mode)[0m
+[1;33m[SKIP] practical-experiment - repo exists (resume mode)[0m
+[1;33m[SKIP] pragmatic-governance - repo exists (resume mode)[0m
+[1;33m[SKIP] prayer-stage-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] pre-pmf-post-pmf-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] precedent-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] prefigurative-media - repo exists (resume mode)[0m
+[1;33m[SKIP] premeditatio-malorum - repo exists (resume mode)[0m
+[1;33m[SKIP] premortem-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] preparation-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] prepared-environment-design - repo exists (resume mode)[0m
+[1;33m[SKIP] present-moment-return - repo exists (resume mode)[0m
+[1;33m[SKIP] pressure-practice-design - repo exists (resume mode)[0m
+[1;33m[SKIP] price-signal-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] principle-creation - repo exists (resume mode)[0m
+[1;33m[SKIP] principled-negotiation - repo exists (resume mode)[0m
+[1;33m[SKIP] prior-to-consciousness-pointing - repo exists (resume mode)[0m
+[1;33m[SKIP] problem-deepening - repo exists (resume mode)[0m
+[1;33m[SKIP] problem-inversion - repo exists (resume mode)[0m
+[1;33m[SKIP] problem-simplification - repo exists (resume mode)[0m
+[1;33m[SKIP] product-market-fit-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] product-positioning - repo exists (resume mode)[0m
+[1;33m[SKIP] product-vision-frame - repo exists (resume mode)[0m
+[1;33m[SKIP] productive-discomfort - repo exists (resume mode)[0m
+[1;33m[SKIP] prolific-output-system - repo exists (resume mode)[0m
+[1;33m[SKIP] promethean-risk-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] promise-selection - repo exists (resume mode)[0m
+[1;33m[SKIP] prompt-review - repo exists (resume mode)[0m
+[1;33m[SKIP] propaganda-model-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] propaganda-pattern-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] prophetic-consciousness-activation - repo exists (resume mode)[0m
+[1;33m[SKIP] prophetic-critique-method - repo exists (resume mode)[0m
+[1;33m[SKIP] prophetic-imagination-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] prophetic-theological-critique - repo exists (resume mode)[0m
+[1;33m[SKIP] prophetic-witness-method - repo exists (resume mode)[0m
+[1;33m[SKIP] proportioned-belief - repo exists (resume mode)[0m
+[1;33m[SKIP] proximity-expertise-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] psalms-spirituality-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] psychic-being-contact - repo exists (resume mode)[0m
+[1;33m[SKIP] psychogeographic-derive - repo exists (resume mode)[0m
+[1;33m[SKIP] psychological-safety-creation - repo exists (resume mode)[0m
+[1;33m[SKIP] psychological-thumbscrew-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] psychological-type-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] public-authority-design - repo exists (resume mode)[0m
+[1;33m[SKIP] punk-accessibility - repo exists (resume mode)[0m
+[1;33m[SKIP] purpose-driven-strategy-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] put-on-design - repo exists (resume mode)[0m
+[1;33m[SKIP] pyramid-of-success-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] pythonesque-non-sequitur - repo exists (resume mode)[0m
+[1;33m[SKIP] quadrant-ii-time-management - repo exists (resume mode)[0m
+[1;33m[SKIP] quality-dissolution - repo exists (resume mode)[0m
+[1;33m[SKIP] question-authority-dismantling - repo exists (resume mode)[0m
+[1;33m[SKIP] radical-amazement-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] radical-freedom-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] radical-frugality-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] radical-honesty-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] radical-oratory - repo exists (resume mode)[0m
+[1;33m[SKIP] radical-simplicity-practice - repo exists (resume mode)[0m
+[1;33m[START] rambling-digression-architecture[0m
+  Creating repo skill-rambling-digression-architecture...
+  Publishing to paks registry...
+Publishing skill: rambling-digression-architecture
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] rambling-digression-architecture published![0m
+[1;33m[SKIP] rapid-fire-one-liner-builder - repo exists (resume mode)[0m
+[1;33m[SKIP] rapid-fire-roast - repo exists (resume mode)[0m
+[1;33m[SKIP] rapid-tempo-execution - repo exists (resume mode)[0m
+[1;33m[SKIP] rational-apologetics-method - repo exists (resume mode)[0m
+[1;33m[SKIP] reactive-ensemble-setup - repo exists (resume mode)[0m
+[1;33m[SKIP] readymade-designation - repo exists (resume mode)[0m
+[1;33m[SKIP] reality-model-analysis - repo exists (resume mode)[0m
+[1;33m[START] reality-splice-technique[0m
+  Creating repo skill-reality-splice-technique...
+  Publishing to paks registry...
+Publishing skill: reality-splice-technique
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] reality-splice-technique published![0m
+[1;33m[SKIP] reality-tunnel-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] reciprocal-determinism-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] reconciliation-framework - repo exists (resume mode)[0m
+[1;33m[START] recovery-framework-application[0m
+  Creating repo skill-recovery-framework-application...
+  Publishing to paks registry...
+Publishing skill: recovery-framework-application
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] recovery-framework-application published![0m
+[1;33m[SKIP] recovery-of-wonder - repo exists (resume mode)[0m
+[1;33m[SKIP] rectification-of-names-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] recuperation-audit - repo exists (resume mode)[0m
+[1;33m[START] recursive-absurdity-loop[0m
+  Creating repo skill-recursive-absurdity-loop...
+  Publishing to paks registry...
+Publishing skill: recursive-absurdity-loop
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] recursive-absurdity-loop published![0m
+[1;33m[SKIP] recursive-meta-commentary - repo exists (resume mode)[0m
+[1;33m[SKIP] reduction-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] reference-class-forecasting - repo exists (resume mode)[0m
+[1;33m[SKIP] reformed-church-governance - repo exists (resume mode)[0m
+[1;33m[SKIP] regret-minimization-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] regulative-worship-design - repo exists (resume mode)[0m
+[1;33m[SKIP] reinvention-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] relationship-honesty-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] remarkable-product-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] remember-the-ladies - repo exists (resume mode)[0m
+[1;33m[SKIP] rememory-narrative - repo exists (resume mode)[0m
+[1;33m[SKIP] repetition-elaboration-amplifier - repo exists (resume mode)[0m
+[1;33m[SKIP] representation-learning-explanation - repo exists (resume mode)[0m
+[1;33m[SKIP] reputation-warfare - repo exists (resume mode)[0m
+[1;33m[SKIP] resilience-culture-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] resilience-three-ps-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] resilience-through-defeat - repo exists (resume mode)[0m
+[1;33m[SKIP] resistance-analysis - repo exists (resume mode)[0m
+[1;33m[START] respectful-institutional-critique[0m
+  Creating repo skill-respectful-institutional-critique...
+  Publishing to paks registry...
+Publishing skill: respectful-institutional-critique
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] respectful-institutional-critique published![0m
+[1;33m[SKIP] responsible-scaling-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] ressentiment-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] revelation-through-comfort - repo exists (resume mode)[0m
+[1;33m[SKIP] reverse-engineering-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] reversibility-classification - repo exists (resume mode)[0m
+[1;33m[SKIP] revisionist-history-reveal - repo exists (resume mode)[0m
+[1;33m[SKIP] revolutionary-rhetoric - repo exists (resume mode)[0m
+[1;33m[SKIP] rhetorical-question-cascade - repo exists (resume mode)[0m
+[1;33m[SKIP] rhetorical-triangle - repo exists (resume mode)[0m
+[1;33m[SKIP] rising-strong-process - repo exists (resume mode)[0m
+[1;33m[SKIP] roast-feedback-transform - repo exists (resume mode)[0m
+[1;33m[SKIP] roast-precision-generator - repo exists (resume mode)[0m
+[1;33m[SKIP] rogan-accessibility-translation - repo exists (resume mode)[0m
+[1;33m[SKIP] rogan-conversation-flow - repo exists (resume mode)[0m
+[1;33m[SKIP] rogan-curiosity-questions - repo exists (resume mode)[0m
+[1;33m[SKIP] rogan-devils-advocate - repo exists (resume mode)[0m
+[1;33m[SKIP] role-check - repo exists (resume mode)[0m
+[1;33m[SKIP] room-of-ones-own-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] root-cause-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] rooted-authenticity-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] roots-shoots-action-planning - repo exists (resume mode)[0m
+[1;33m[SKIP] rotating-field-reframing - repo exists (resume mode)[0m
+[1;33m[SKIP] routine-disruption - repo exists (resume mode)[0m
+[1;33m[SKIP] royal-speechcraft - repo exists (resume mode)[0m
+[1;33m[SKIP] rubicon-decision-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] rumble-conversation - repo exists (resume mode)[0m
+[1;33m[SKIP] running-gag-builder - repo exists (resume mode)[0m
+[1;33m[SKIP] runway-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] ruthless-cut - repo exists (resume mode)[0m
+[1;33m[SKIP] ruthless-prioritization-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] sabbath-time-sanctification - repo exists (resume mode)[0m
+[1;33m[SKIP] sacred-space-design - repo exists (resume mode)[0m
+[1;33m[SKIP] sacred-urgency - repo exists (resume mode)[0m
+[1;33m[SKIP] sage-leadership-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] satirical-demolition - repo exists (resume mode)[0m
+[1;33m[START] satirical-interview-format[0m
+  Creating repo skill-satirical-interview-format...
+  Publishing to paks registry...
+Publishing skill: satirical-interview-format
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] satirical-interview-format published![0m
+[1;33m[SKIP] satirical-reclamation - repo exists (resume mode)[0m
+[1;33m[SKIP] satirical-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] savage-precision - repo exists (resume mode)[0m
+[1;33m[SKIP] savage-truth - repo exists (resume mode)[0m
+[1;33m[SKIP] scaffolding-of-rhetoric - repo exists (resume mode)[0m
+[1;33m[SKIP] scalability-decision-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] scale-as-meaning - repo exists (resume mode)[0m
+[1;33m[SKIP] scale-hypothesis-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] scale-ready-organization-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] scene-over-summary - repo exists (resume mode)[0m
+[1;33m[SKIP] schedule-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] scholarly-footnote-subversion - repo exists (resume mode)[0m
+[1;33m[SKIP] scholastic-method - repo exists (resume mode)[0m
+[1;33m[SKIP] scientific-honesty-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] secrecy-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] secular-ethics-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] seeding-by-ceding-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] seek-first-to-understand - repo exists (resume mode)[0m
+[1;33m[SKIP] seeker-sought-reversal - repo exists (resume mode)[0m
+[1;33m[START] segura-deadpan-escalation[0m
+  Creating repo skill-segura-deadpan-escalation...
+  Publishing to paks registry...
+Publishing skill: segura-deadpan-escalation
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] segura-deadpan-escalation published![0m
+[1;33m[SKIP] selection-pressure-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] self-aware-rage - repo exists (resume mode)[0m
+[1;33m[SKIP] self-deception-diagnosis - repo exists (resume mode)[0m
+[1;33m[START] self-deprecation-as-armor[0m
+  Creating repo skill-self-deprecation-as-armor...
+  Publishing to paks registry...
+Publishing skill: self-deprecation-as-armor
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] self-deprecation-as-armor published![0m
+[1;33m[SKIP] self-deprecation-first-strike - repo exists (resume mode)[0m
+[1;33m[SKIP] self-deprecation-formula - repo exists (resume mode)[0m
+[1;33m[SKIP] self-deprecation-pivot - repo exists (resume mode)[0m
+[1;33m[SKIP] self-deprecation-power-frame - repo exists (resume mode)[0m
+[1;33m[SKIP] self-deprecation-undercut - repo exists (resume mode)[0m
+[1;33m[SKIP] self-determination-framing - repo exists (resume mode)[0m
+[1;33m[SKIP] self-efficacy-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] self-examination-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] self-inquiry-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] self-observation-method - repo exists (resume mode)[0m
+[1;33m[SKIP] self-other-dialectic - repo exists (resume mode)[0m
+[1;33m[SKIP] self-remembering-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] sense-of-wonder-cultivation - repo exists (resume mode)[0m
+[1;33m[SKIP] sensing-the-body - repo exists (resume mode)[0m
+[1;33m[SKIP] sensitive-period-recognition - repo exists (resume mode)[0m
+[1;33m[SKIP] serial-momentum - repo exists (resume mode)[0m
+[1;33m[START] serious-incompetent-embodiment[0m
+  Creating repo skill-serious-incompetent-embodiment...
+  Publishing to paks registry...
+Publishing skill: serious-incompetent-embodiment
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] serious-incompetent-embodiment published![0m
+[1;33m[SKIP] set-and-setting-design - repo exists (resume mode)[0m
+[1;33m[SKIP] setup-misdirect-reveal - repo exists (resume mode)[0m
+[1;33m[SKIP] seven-lines-of-code-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] severe-test-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] sex-positive-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] sfumato-decision-making - repo exists (resume mode)[0m
+[1;33m[SKIP] shadow-work - repo exists (resume mode)[0m
+[1;33m[SKIP] shaggy-dog-story - repo exists (resume mode)[0m
+[1;33m[SKIP] shame-resilience-check - repo exists (resume mode)[0m
+[1;33m[SKIP] shame-spiral - repo exists (resume mode)[0m
+[1;33m[SKIP] shaping-plan - repo exists (resume mode)[0m
+[1;33m[SKIP] shared-value-opportunity-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] sharpen-the-saw - repo exists (resume mode)[0m
+[1;33m[SKIP] shenpa-recognition - repo exists (resume mode)[0m
+[1;33m[SKIP] shih-momentum-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] shikantaza-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] ship-it-intervention - repo exists (resume mode)[0m
+[1;33m[SKIP] shock-to-structure-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] show-dont-tell-conversion - repo exists (resume mode)[0m
+[1;33m[SKIP] sideways-angle-finder - repo exists (resume mode)[0m
+[1;33m[SKIP] signature-element-creation - repo exists (resume mode)[0m
+[1;33m[SKIP] silence-as-material - repo exists (resume mode)[0m
+[1;33m[SKIP] silence-interview-technique - repo exists (resume mode)[0m
+[1;33m[SKIP] simplicity-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] simplicity-synthesis - repo exists (resume mode)[0m
+[1;33m[SKIP] simplification-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] simplification-engine - repo exists (resume mode)[0m
+[1;33m[SKIP] sincere-appreciation-feedback - repo exists (resume mode)[0m
+[1;33m[SKIP] sincerity-irony-collapse - repo exists (resume mode)[0m
+[1;33m[SKIP] single-point-accountability-design - repo exists (resume mode)[0m
+[1;33m[SKIP] sisyphean-affirmation - repo exists (resume mode)[0m
+[1;33m[SKIP] site-integration-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] situated-freedom-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] situation-calculus-state-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] six-page-memo - repo exists (resume mode)[0m
+[1;33m[SKIP] six-stations-discipline - repo exists (resume mode)[0m
+[1;33m[SKIP] skin-in-the-game-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] slant-truth-delivery - repo exists (resume mode)[0m
+[1;33m[SKIP] slow-burn-story - repo exists (resume mode)[0m
+[1;33m[SKIP] smaland-simplification - repo exists (resume mode)[0m
+[1;33m[SKIP] small-acts-great-love - repo exists (resume mode)[0m
+[1;33m[SKIP] small-jumps-decomposition - repo exists (resume mode)[0m
+[1;33m[SKIP] small-multiples-design - repo exists (resume mode)[0m
+[1;33m[SKIP] small-nation-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] smallest-viable-audience-definition - repo exists (resume mode)[0m
+[1;33m[SKIP] smart-creatives-hiring - repo exists (resume mode)[0m
+[1;33m[SKIP] social-contract-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] social-reform-narrative - repo exists (resume mode)[0m
+[1;33m[SKIP] society-decomposition - repo exists (resume mode)[0m
+[1;33m[SKIP] socratic-elenchus - repo exists (resume mode)[0m
+[1;33m[SKIP] soft-language-translation - repo exists (resume mode)[0m
+[1;33m[SKIP] software-disruption-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] software-paradigm-framing - repo exists (resume mode)[0m
+[1;33m[SKIP] solidarity-in-plague - repo exists (resume mode)[0m
+[1;33m[SKIP] soliloquy-construction - repo exists (resume mode)[0m
+[1;33m[START] sophisticated-bumbling[0m
+  Creating repo skill-sophisticated-bumbling...
+  Publishing to paks registry...
+Publishing skill: sophisticated-bumbling
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] sophisticated-bumbling published![0m
+[1;33m[SKIP] sophisticated-naivete-frame - repo exists (resume mode)[0m
+[1;33m[START] sound-effect-comedy[0m
+  Creating repo skill-sound-effect-comedy...
+  Publishing to paks registry...
+Publishing skill: sound-effect-comedy
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] sound-effect-comedy published![0m
+[1;33m[SKIP] sovereign-design - repo exists (resume mode)[0m
+[1;33m[SKIP] space-flow-design - repo exists (resume mode)[0m
+[1;33m[SKIP] sparkline-integration - repo exists (resume mode)[0m
+[1;33m[SKIP] specific-knowledge-discovery - repo exists (resume mode)[0m
+[1;33m[SKIP] specific-universal-transform - repo exists (resume mode)[0m
+[1;33m[SKIP] specificity-injector - repo exists (resume mode)[0m
+[1;33m[SKIP] spectacle-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] spectacular-transgression - repo exists (resume mode)[0m
+[1;33m[SKIP] spectrum-of-debate - repo exists (resume mode)[0m
+[1;33m[SKIP] speech-architecture - repo exists (resume mode)[0m
+[1;33m[SKIP] speed-and-audacity - repo exists (resume mode)[0m
+[1;33m[SKIP] speed-constraint-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] speed-of-iteration-diagnostic - repo exists (resume mode)[0m
+[1;33m[SKIP] spiral-confession - repo exists (resume mode)[0m
+[1;33m[SKIP] spiritual-detachment - repo exists (resume mode)[0m
+[1;33m[SKIP] spiritual-discernment - repo exists (resume mode)[0m
+[1;33m[SKIP] spontaneous-order-assessment - repo exists (resume mode)[0m
+[1;33m[START] sports-trade-analysis[0m
+  Creating repo skill-sports-trade-analysis...
+  Publishing to paks registry...
+Publishing skill: sports-trade-analysis
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] sports-trade-analysis published![0m
+[1;33m[SKIP] square-deal-arbitration - repo exists (resume mode)[0m
+[1;33m[SKIP] stakeholder-value-mapping - repo exists (resume mode)[0m
+[1;33m[START] stammering-rhythm-framework[0m
+  Creating repo skill-stammering-rhythm-framework...
+  Publishing to paks registry...
+Publishing skill: stammering-rhythm-framework
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] stammering-rhythm-framework published![0m
+[1;33m[SKIP] startup-idea-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] startup-investment-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] state-of-nature-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] steal-like-an-artist - repo exists (resume mode)[0m
+[1;33m[SKIP] steps-to-peace-gospel-presentation - repo exists (resume mode)[0m
+[1;33m[SKIP] stock-flow-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] stockdale-paradox-application - repo exists (resume mode)[0m
+[1;33m[SKIP] stoic-relationship-guidance - repo exists (resume mode)[0m
+[1;33m[SKIP] story-arc-structure - repo exists (resume mode)[0m
+[1;33m[SKIP] storyboard-experience - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-ambiguity - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-capability-development - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-clemency - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-entrance-design - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-incompetence-frame - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-indifference - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-inflection-point-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-patience-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-patience - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-philanthropy-design - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-pivot-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-position-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-priority-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-reinvention - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-retreat-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-silence-placement - repo exists (resume mode)[0m
+[1;33m[SKIP] strategic-timing-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] strategy-choice-cascade - repo exists (resume mode)[0m
+[1;33m[SKIP] stream-experience-audit - repo exists (resume mode)[0m
+[1;33m[START] stream-of-consciousness-cascade[0m
+  Creating repo skill-stream-of-consciousness-cascade...
+  Publishing to paks registry...
+Publishing skill: stream-of-consciousness-cascade
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] stream-of-consciousness-cascade published![0m
+[1;33m[SKIP] stream-of-consciousness-writing - repo exists (resume mode)[0m
+[1;33m[SKIP] street-level-observation - repo exists (resume mode)[0m
+[1;33m[SKIP] strength-awakening-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] strengths-deployment - repo exists (resume mode)[0m
+[1;33m[SKIP] strenuous-life-challenge - repo exists (resume mode)[0m
+[1;33m[SKIP] structural-critique - repo exists (resume mode)[0m
+[1;33m[SKIP] struggle-navigation - repo exists (resume mode)[0m
+[1;33m[SKIP] sub-specie-aeternitatis - repo exists (resume mode)[0m
+[1;33m[SKIP] subjectivity-truth-check - repo exists (resume mode)[0m
+[1;33m[SKIP] succession-development - repo exists (resume mode)[0m
+[1;33m[SKIP] succession-planning - repo exists (resume mode)[0m
+[1;33m[SKIP] suffering-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] sufficient-reason-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] suitcase-word-unpacking - repo exists (resume mode)[0m
+[1;33m[SKIP] sunao-mind-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] sundown-rule - repo exists (resume mode)[0m
+[1;33m[SKIP] sunshining-session - repo exists (resume mode)[0m
+[1;33m[SKIP] supply-chain-as-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] surplus-value-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] surveillance-inversion - repo exists (resume mode)[0m
+[1;33m[SKIP] survival-narrative - repo exists (resume mode)[0m
+[1;33m[SKIP] suspense-architecture - repo exists (resume mode)[0m
+[1;33m[SKIP] swarm-operations - repo exists (resume mode)[0m
+[1;33m[SKIP] swim-upstream-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] symbolic-action-design - repo exists (resume mode)[0m
+[1;33m[SKIP] symbolic-self-portrait - repo exists (resume mode)[0m
+[1;33m[SKIP] synergetic-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] synergy-creation - repo exists (resume mode)[0m
+[1;33m[SKIP] system-infiltration - repo exists (resume mode)[0m
+[1;33m[SKIP] systematic-abandonment - repo exists (resume mode)[0m
+[1;33m[SKIP] systematic-biblical-exposition - repo exists (resume mode)[0m
+[1;33m[SKIP] systematic-experimentation-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] systematic-investigation-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] systemic-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] systems-archetype-recognition - repo exists (resume mode)[0m
+[1;33m[SKIP] systems-integration-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] tables-of-investigation - repo exists (resume mode)[0m
+[1;33m[SKIP] taboo-to-comedy-transformation - repo exists (resume mode)[0m
+[1;33m[START] taboo-transgression[0m
+  Creating repo skill-taboo-transgression...
+  Publishing to paks registry...
+Publishing skill: taboo-transgression
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] taboo-transgression published![0m
+[1;33m[SKIP] tactical-design - repo exists (resume mode)[0m
+[1;33m[SKIP] talent-absorption - repo exists (resume mode)[0m
+[1;33m[SKIP] talent-density-diagnostic - repo exists (resume mode)[0m
+[1;33m[SKIP] talent-development-mentorship - repo exists (resume mode)[0m
+[1;33m[SKIP] tam-expansion-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] tap-water-philosophy - repo exists (resume mode)[0m
+[1;33m[SKIP] team-consciousness-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] team-morale-crisis - repo exists (resume mode)[0m
+[1;33m[SKIP] team-not-family-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] team-of-rivals-assembly - repo exists (resume mode)[0m
+[1;33m[SKIP] team-quality-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] tech-optimism-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] technical-civil-disobedience - repo exists (resume mode)[0m
+[1;33m[START] telephone-routine-construction[0m
+  Creating repo skill-telephone-routine-construction...
+  Publishing to paks registry...
+Publishing skill: telephone-routine-construction
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] telephone-routine-construction published![0m
+[1;33m[SKIP] temperament-bridge - repo exists (resume mode)[0m
+[1;33m[SKIP] ten-principles-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] ten-x-transformation-test - repo exists (resume mode)[0m
+[1;33m[SKIP] tenx-thinking - repo exists (resume mode)[0m
+[1;33m[SKIP] terrain-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] terribilita-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] test-prompt - repo exists (resume mode)[0m
+[1;33m[SKIP] the-look-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] theatrical-voice - repo exists (resume mode)[0m
+[1;33m[SKIP] theme-and-variations-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] theodramatic-interpretation - repo exists (resume mode)[0m
+[1;33m[SKIP] theological-aesthetics-method - repo exists (resume mode)[0m
+[1;33m[START] therapy-translation[0m
+  Creating repo skill-therapy-translation...
+  Publishing to paks registry...
+Publishing skill: therapy-translation
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] therapy-translation published![0m
+[1;33m[SKIP] think-week-design - repo exists (resume mode)[0m
+[1;33m[SKIP] thinking-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] third-place-design - repo exists (resume mode)[0m
+[1;33m[SKIP] thought-experiment-construction - repo exists (resume mode)[0m
+[1;33m[SKIP] thought-record-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] three-good-things-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] three-marks-investigation - repo exists (resume mode)[0m
+[1;33m[SKIP] three-orders-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] three-states-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] thrownness-inquiry - repo exists (resume mode)[0m
+[1;33m[START] tiered-ranking-system[0m
+  Creating repo skill-tiered-ranking-system...
+  Publishing to paks registry...
+Publishing skill: tiered-ranking-system
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] tiered-ranking-system published![0m
+[1;33m[SKIP] time-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] time-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] timelessness-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] timing-and-rhythm-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] timing-architecture - repo exists (resume mode)[0m
+[1;33m[SKIP] to-be-or-to-do-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] tokenization-debugger - repo exists (resume mode)[0m
+[1;33m[SKIP] toleration-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] tonglen-compassion-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] tonglen-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] toothbrush-test - repo exists (resume mode)[0m
+[1;33m[SKIP] topical-monologue-builder - repo exists (resume mode)[0m
+[1;33m[SKIP] total-control-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] totalitarian-pattern-recognition - repo exists (resume mode)[0m
+[1;33m[SKIP] tradition-mixing - repo exists (resume mode)[0m
+[1;33m[SKIP] tragic-optimism - repo exists (resume mode)[0m
+[1;33m[SKIP] transcendentals-integration - repo exists (resume mode)[0m
+[1;33m[SKIP] transformative-interview - repo exists (resume mode)[0m
+[1;33m[SKIP] transparency-culture-launch - repo exists (resume mode)[0m
+[1;33m[SKIP] trapdoor-decision-filter - repo exists (resume mode)[0m
+[1;33m[SKIP] travel-narrative-craft - repo exists (resume mode)[0m
+[1;33m[SKIP] travel-philosophy-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] trial-defense - repo exists (resume mode)[0m
+[1;33m[SKIP] triangle-system-design - repo exists (resume mode)[0m
+[1;33m[SKIP] tribal-thinking-detector - repo exists (resume mode)[0m
+[1;33m[SKIP] tribe-building-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] troop-inspiration - repo exists (resume mode)[0m
+[1;33m[SKIP] troublemaker-management - repo exists (resume mode)[0m
+[1;33m[SKIP] true-self-inquiry - repo exists (resume mode)[0m
+[1;33m[SKIP] trust-assessment-braving - repo exists (resume mode)[0m
+[1;33m[SKIP] trust-based-resource-allocation - repo exists (resume mode)[0m
+[1;33m[SKIP] trust-battery-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] trust-building-assessment - repo exists (resume mode)[0m
+[1;33m[START] truth-reconciliation-process[0m
+  Creating repo skill-truth-reconciliation-process...
+  Publishing to paks registry...
+Publishing skill: truth-reconciliation-process
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] truth-reconciliation-process published![0m
+[1;33m[SKIP] truth-telling-with-dignity - repo exists (resume mode)[0m
+[1;33m[SKIP] tunneling-method - repo exists (resume mode)[0m
+[1;33m[SKIP] turn-every-page-research - repo exists (resume mode)[0m
+[1;33m[SKIP] two-cities-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] two-question-problem-solving - repo exists (resume mode)[0m
+[1;33m[SKIP] two-sided-marketplace-design - repo exists (resume mode)[0m
+[1;33m[SKIP] ubuntu-community-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] ultimate-concern-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] uncertainty-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] uncomfortable-truth-extraction - repo exists (resume mode)[0m
+[1;33m[SKIP] unconscious-motivation-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] underdog-positioning - repo exists (resume mode)[0m
+[1;33m[SKIP] underground-voice-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] unlikely-authority - repo exists (resume mode)[0m
+[1;33m[SKIP] unscalable-engagement - repo exists (resume mode)[0m
+[1;33m[SKIP] unscalable-tactics - repo exists (resume mode)[0m
+[1;33m[SKIP] unselfing-intervention - repo exists (resume mode)[0m
+[1;33m[SKIP] urgency-first - repo exists (resume mode)[0m
+[1;33m[SKIP] utilitarian-calculation - repo exists (resume mode)[0m
+[1;33m[SKIP] value-chain-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] values-as-strategy - repo exists (resume mode)[0m
+[1;33m[SKIP] values-based-transformation - repo exists (resume mode)[0m
+[1;33m[SKIP] values-first-evaluation - repo exists (resume mode)[0m
+[1;33m[SKIP] variable-control-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] variation-mapping - repo exists (resume mode)[0m
+[1;33m[SKIP] veil-of-maya-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] vertical-integration-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] vertical-integration-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] via-negativa-reduction - repo exists (resume mode)[0m
+[1;33m[SKIP] victory-without-battle - repo exists (resume mode)[0m
+[1;33m[SKIP] view-from-above - repo exists (resume mode)[0m
+[1;33m[SKIP] villain-development - repo exists (resume mode)[0m
+[1;33m[SKIP] viriditas-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] virtue-cultivation-path - repo exists (resume mode)[0m
+[1;33m[SKIP] virtue-ethics-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] virtue-formation-through-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] virtue-integration - repo exists (resume mode)[0m
+[1;33m[SKIP] virtue-practice - repo exists (resume mode)[0m
+[1;33m[SKIP] vision-defense-framework - repo exists (resume mode)[0m
+[1;33m[SKIP] visual-comedy-diagram - repo exists (resume mode)[0m
+[1;33m[SKIP] visual-communication-audit - repo exists (resume mode)[0m
+[1;33m[SKIP] visual-composition-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] visual-specificity-roast - repo exists (resume mode)[0m
+[1;33m[SKIP] vita-activa-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] vitality-curve-assessment - repo exists (resume mode)[0m
+[1;33m[START] vocal-precision-character-building[0m
+  Creating repo skill-vocal-precision-character-building...
+  Publishing to paks registry...
+Publishing skill: vocal-precision-character-building
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] vocal-precision-character-building published![0m
+[1;33m[START] vocal-psychology-analysis[0m
+  Creating repo skill-vocal-psychology-analysis...
+  Publishing to paks registry...
+Publishing skill: vocal-psychology-analysis
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] vocal-psychology-analysis published![0m
+Progress: 1470 skills processed (40 success, 0 failed, 1430 skipped)
+[1;33m[SKIP] voluntary-discomfort - repo exists (resume mode)[0m
+[1;33m[SKIP] vulnerability-as-leadership - repo exists (resume mode)[0m
+[1;33m[START] vulnerability-escalation[0m
+  Creating repo skill-vulnerability-escalation...
+  Publishing to paks registry...
+Publishing skill: vulnerability-escalation
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] vulnerability-escalation published![0m
+[1;33m[SKIP] wartime-peacetime-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] water-wisdom - repo exists (resume mode)[0m
+[1;33m[SKIP] way-of-salvation-assessment - repo exists (resume mode)[0m
+[1;33m[START] weakness-to-strength-reframe[0m
+  Creating repo skill-weakness-to-strength-reframe...
+  Publishing to paks registry...
+Publishing skill: weakness-to-strength-reframe
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+Error: Invalid version format: 1.0.0"1.0.0". Expected MAJOR.MINOR.PATCH
+[0;32m[SUCCESS] weakness-to-strength-reframe published![0m
+[1;33m[SKIP] wealth-vs-status-diagnosis - repo exists (resume mode)[0m
+[1;33m[SKIP] weenie-design - repo exists (resume mode)[0m
+[1;33m[SKIP] where-to-play-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] wholesome-humor-filter - repo exists (resume mode)[0m
+[1;33m[SKIP] why-discovery-facilitation - repo exists (resume mode)[0m
+[1;33m[SKIP] wide-angle-distortion-thinking - repo exists (resume mode)[0m
+[1;33m[SKIP] will-analysis - repo exists (resume mode)[0m
+[1;33m[SKIP] will-to-believe-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] willpower-development - repo exists (resume mode)[0m
+[1;33m[SKIP] win-win-agreement - repo exists (resume mode)[0m
+[1;33m[SKIP] winning-aspiration-definition - repo exists (resume mode)[0m
+[1;33m[SKIP] wisdom-of-insecurity-reframe - repo exists (resume mode)[0m
+[1;33m[SKIP] wit-as-weapon - repo exists (resume mode)[0m
+[1;33m[SKIP] witness-consciousness-inquiry - repo exists (resume mode)[0m
+[1;33m[SKIP] wonder-communication - repo exists (resume mode)[0m
+[1;33m[SKIP] word-of-mouth-engine - repo exists (resume mode)[0m
+[1;33m[START] word-virus-analysis[0m
+  Creating repo skill-word-virus-analysis...
+  Publishing to paks registry...
+Publishing skill: word-virus-analysis
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+
+  Version mismatch: SKILL.md (1.0.0) -> 1.0.1
+
+  Updating SKILL.md version (1.0.0 -> 1.0.1)... ✓
+  Staging changes... ✓
+  Committing... ✓
+  Pushing to origin/main... ✓
+  Creating tag v1.0.1... ✓
+  Pushing tag... ✓
+  Registering with registry... ✓
+
+✓ Published word-virus-analysis @ v1.0.1 (path: .)
+[0;32m[SUCCESS] word-virus-analysis published![0m
+[1;33m[START] wordplay-deconstruction[0m
+  Creating repo skill-wordplay-deconstruction...
+  Publishing to paks registry...
+Publishing skill: wordplay-deconstruction
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+
+  Version mismatch: SKILL.md (1.0.0) -> 1.0.1
+
+  Updating SKILL.md version (1.0.0 -> 1.0.1)... ✓
+  Staging changes... ✓
+  Committing... ✓
+  Pushing to origin/main... ✓
+  Creating tag v1.0.1... ✓
+  Pushing tag... ✓
+  Registering with registry... ✓
+
+✓ Published wordplay-deconstruction @ v1.0.1 (path: .)
+[0;32m[SUCCESS] wordplay-deconstruction published![0m
+[1;33m[START] work-life-integration-audit[0m
+  Creating repo skill-work-life-integration-audit...
+  Publishing to paks registry...
+Publishing skill: work-life-integration-audit
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+
+  Version mismatch: SKILL.md (1.0.0) -> 1.0.1
+
+  Updating SKILL.md version (1.0.0 -> 1.0.1)... ✓
+  Staging changes... ✓
+  Committing... ✓
+  Pushing to origin/main... ✓
+  Creating tag v1.0.1... ✓
+  Pushing tag... ✓
+  Registering with registry... ✓
+
+✓ Published work-life-integration-audit @ v1.0.1 (path: .)
+[0;32m[SUCCESS] work-life-integration-audit published![0m
+[1;33m[START] worker-investment-analysis[0m
+  Creating repo skill-worker-investment-analysis...
+  Publishing to paks registry...
+Publishing skill: worker-investment-analysis
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+
+  Version mismatch: SKILL.md (1.0.0) -> 1.0.1
+
+  Updating SKILL.md version (1.0.0 -> 1.0.1)... ✓
+  Staging changes... ✓
+  Committing... ✓
+  Pushing to origin/main... ✓
+  Creating tag v1.0.1... ✓
+  Pushing tag... ✓
+  Registering with registry... ✓
+
+✓ Published worker-investment-analysis @ v1.0.1 (path: .)
+[0;32m[SUCCESS] worker-investment-analysis published![0m
+[1;33m[SKIP] working-backwards-prfaq - repo exists (resume mode)[0m
+[1;33m[SKIP] working-class-translator - repo exists (resume mode)[0m
+[1;33m[SKIP] working-class-voice - repo exists (resume mode)[0m
+[1;33m[SKIP] world-model-assessment - repo exists (resume mode)[0m
+[1;33m[SKIP] worry-management-protocol - repo exists (resume mode)[0m
+[1;33m[SKIP] wound-wisdom-portal - repo exists (resume mode)[0m
+[1;33m[SKIP] wounds-to-wisdom - repo exists (resume mode)[0m
+[1;33m[SKIP] wow-service-design - repo exists (resume mode)[0m
+[1;33m[SKIP] writing-without-the-gaze - repo exists (resume mode)[0m
+[1;33m[SKIP] wu-wei-assessment - repo exists (resume mode)[0m
+
+===================
+COMPLETE
+Total: 1507 | Success: 46 | Failed: 0 | Skipped: 1461
+Finished: Thu Feb 12 12:42:59 CST 2026

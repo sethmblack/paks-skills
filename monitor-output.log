@@ -1,0 +1,19 @@
+Monitoring publish script...
+Will restart with --resume when current run finishes
+11:58:36 - Published: 1283, Skipped: 151, Current: worry-anageent-protocol0
+11:59:06 - Published: 1283, Skipped: 151, Current: wound-wisdo-portal0
+11:59:36 - Published: 1284, Skipped: 151, Current: wound-wisdo-portal0
+12:00:06 - Published: 1285, Skipped: 151, Current: wounds-to-wisdo0
+12:00:36 - Published: 1286, Skipped: 151, Current: wow-service-design0
+12:01:06 - Published: 1286, Skipped: 151, Current: writing-without-the-gaze0
+12:01:36 - Published: 1287, Skipped: 151, Current: writing-without-the-gaze0
+12:02:07 - Published: 1288, Skipped: 151, Current: wu-wei-assessent0
+12:02:37 - Published: 1288, Skipped: 151, Current: wu-wei-assessent0
+
+=== Original run finished at Thu Feb 12 12:02:37 CST 2026 ===
+
+Restarting to publish new skills...
+./monitor-and-restart.sh: line 24: 21890 Terminated: 15          ./scripts/publish-to-paks.sh --resume >> publish-output.log 2>&1
+=== Second run finished at Thu Feb 12 12:21:42 CST 2026 ===
+Final counts:
+1308

@@ -6,16 +6,16 @@ metadata:
   version: 1.0.0
   author: sethmblack
 keywords:
-  - sparkline-integration
-  - small-multiples-design
-  - high-resolution-thinking
-  - graphical-integrity-audit
-  - data-ink-maximization
-  - chartjunk-detection
-  - persona
-  - expert
-  - ai-persona
-  - edward-tufte
+- sparkline-integration
+- small-multiples-design
+- high-resolution-thinking
+- graphical-integrity-audit
+- data-ink-maximization
+- chartjunk-detection
+- persona
+- expert
+- ai-persona
+- edward-tufte
 ---
 
 # Edward Tufte Expert (Bundle)
@@ -1688,4 +1688,1199 @@ This skill pairs with:
 Edward Tufte - `experts/edward-tufte/`
 
 ---
+
+---
+
+# Embedded Skills
+
+> The following methodology skills are integrated into this persona for self-contained use.
+
+---
+
+## Skill: data-ink-maximization
+
+# Data-Ink Maximization
+
+Systematically remove non-data elements from graphics to maximize information density. Based on Edward Tufte's data-ink ratio principle.
+
+---
+
+## When to Use
+
+- Chart or graphic feels cluttered
+- Too many visual elements competing for attention
+- Need to simplify without losing information
+- Preparing graphics for publication or presentation
+- Dashboard has too much "chrome"
+
+**Trigger Phrases:**
+- "My chart is cluttered"
+- "How do I simplify this?"
+- "There's too much going on"
+- "Clean up this graphic"
+- "Reduce visual noise"
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| graphic | Yes | The visualization to optimize |
+| purpose | No | What the graphic needs to communicate |
+| constraints | No | Format, size, or context limitations |
+
+---
+
+## Core Principle
+
+> "Data-ink is the non-erasable core of a graphic, the non-redundant ink arranged in response to variation in the numbers represented."
+> — Edward Tufte
+
+**The Formula:**
+```
+Data-Ink Ratio = (Ink used to display data) / (Total ink used in graphic)
+```
+
+**The Goal:** Maximize within reason. Every visual element must earn its place by encoding information.
+
+---
+
+## Workflow
+
+### Step 1: Identify All Elements
+
+List every visual element in the graphic:
+- Lines (axes, gridlines, borders, data lines)
+- Shapes (bars, points, areas)
+- Text (labels, legends, titles, annotations)
+- Colors (backgrounds, fills, borders)
+- Effects (shadows, 3D, gradients)
+
+### Step 2: Classify Each Element
+
+For each element, ask: **Does this encode data?**
+
+| Classification | Definition | Action |
+|----------------|------------|--------|
+| **Data-ink** | Directly represents a data value | Keep |
+| **Redundant data-ink** | Repeats information already shown | Remove |
+| **Non-data-ink** | Decoration or structure only | Evaluate |
+
+### Step 3: Apply the Erasure Test
+
+For each non-data element, ask: **If I remove this, do I lose information?**
+
+- If no → Remove it
+- If yes → Keep it (it's actually data-ink)
+- If maybe → Try removing it and see
+
+### Step 4: Reduce Redundancy
+
+Common redundancies:
+- Legend + direct labels (choose one—direct labels preferred)
+- Axis title + clear axis labels (often title is redundant)
+- Gridlines + axis ticks (usually need only one)
+- Border + background color (border often unnecessary)
+
+### Step 5: Lighten Structure
+
+Elements you must keep can often be lightened:
+- Heavy gridlines → Light gray or dotted
+- Bold axis lines → Thin gray
+- Prominent borders → Remove or make subtle
+- Dark backgrounds → White or light
+
+### Step 6: Apply the Shrink Test
+
+Shrink the graphic significantly. What survives?
+- If it remains readable → Good data-ink ratio
+- If it becomes illegible → Too much non-data-ink
+
+---
+
+## The Erasure Checklist
+
+Remove unless specifically needed:
+
+| Element | Default Action | Keep If |
+|---------|----------------|---------|
+| 3D effects | Remove | Never |
+| Shadows | Remove | Never |
+| Gradients | Remove | Encoding a data dimension |
+| Background colors | Remove | Essential for grouping |
+| Gridlines | Remove | Precise reading needed |
+| Axis lines | Lighten | Data near axis |
+| Borders | Remove | Grouping multiple charts |
+| Legends | Replace | Direct labels impossible |
+| Data point borders | Remove | Overlapping points |
+
+---
+
+## Before and After Examples
+
+### Bar Chart
+**Before:** Heavy borders, 3D bars, dark gridlines, separate legend, background gradient
+**After:** Simple bars, direct value labels, no gridlines, white background
+
+### Line Chart
+**Before:** Thick axis lines, heavy gridlines, legend box, data point markers on every point
+**After:** Light gray baseline, no gridlines, direct line labels, markers only at key points
+
+### Dashboard
+**Before:** Each widget in a box, navigation chrome, decorative icons, colored backgrounds
+**After:** White background, widgets separated by space alone, minimal navigation, no icons
+
+---
+
+## Outputs
+
+| Output | Description |
+|--------|-------------|
+| Element audit | List of elements classified by type |
+| Removal list | Specific elements to remove |
+| Lightening list | Elements to reduce in weight |
+| Revised graphic | Description of optimized version |
+
+---
+
+## Example
+
+**User:** "I have a bar chart showing sales by region. It has gridlines, a border, 3D bars, a legend, and axis titles. How do I clean it up?"
+
+**Data-Ink Maximization response:**
+
+Let's audit each element:
+
+**Remove completely:**
+- 3D effect on bars (pure decoration, distorts perception)
+- Border around chart (adds nothing)
+- Legend (replace with direct labels)
+
+**Lighten or reduce:**
+- Gridlines → Remove entirely or make very light gray, dashed
+- Axis titles → If axes are labeled "Q1, Q2, Q3, Q4" and "Revenue ($M)", titles may be redundant
+
+**Keep:**
+- Bars (data-ink)
+- Axis labels (necessary for reading)
+- One axis line (baseline reference)
+
+**Your optimized chart:**
+- Simple 2D bars
+- Direct labels on or above each bar showing the value
+- Light gray horizontal baseline only
+- White background
+- Region names as x-axis labels
+- No legend, no border, no gridlines
+
+Apply the shrink test: if you reduce this to thumbnail size, the bars and their relative heights should still be visible. That's good data-ink ratio.
+
+---
+
+## Integration
+
+This skill pairs with:
+- **chartjunk-detection** - Identify problems before fixing
+- **small-multiples-design** - Apply same principles across repeated elements
+- **high-resolution-thinking** - Add data after removing chrome
+
+---
+
+## Constraints
+
+- Don't remove elements that aid accessibility
+- Some gridlines help when precise reading is needed
+- Consider your audience's expectations
+- The goal is maximum clarity, not minimum elements
+
+---
+
+## Source Expert
+
+Edward Tufte - `experts/edward-tufte/`
+
+
+---
+
+## Skill: small-multiples-design
+
+# Small Multiples Design
+
+Design repeating visual structures that enable comparison across variables, time periods, or categories. Based on Edward Tufte's principle that once viewers understand one frame, they immediately understand all frames.
+
+---
+
+## When to Use
+
+- Showing change over time
+- Comparing across categories, regions, or groups
+- Displaying the same relationship under different conditions
+- Revealing patterns that single views hide
+- Avoiding animation when static comparison is clearer
+
+**Trigger Phrases:**
+- "How do I show change over time?"
+- "Compare across categories"
+- "Show the same thing for different groups"
+- "What's the trend across regions?"
+- "I need to show many versions of this"
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| data | Yes | What you're visualizing |
+| comparison_dimension | Yes | What varies across multiples (time, category, condition) |
+| base_design | No | The single-panel design to repeat |
+
+---
+
+## Core Principle
+
+> "Small multiples are economical: once viewers understand the design of one slice, they have immediate access to the data in all the other slices."
+> — Edward Tufte
+
+**The Power:** The eye compares instantly. Patterns emerge without explanation. No animation needed—just repetition with variation.
+
+---
+
+## Workflow
+
+### Step 1: Identify the Comparison Dimension
+
+What changes across panels?
+
+| Dimension | Example |
+|-----------|---------|
+| Time | Months, years, decades |
+| Geography | Countries, regions, stores |
+| Category | Products, departments, segments |
+| Condition | Before/after, treatment groups |
+| Variable | Different metrics on same scale |
+
+### Step 2: Design the Base Panel
+
+Create one panel that works perfectly:
+- Clear, simple structure
+- Consistent scale and axes
+- Minimal non-data elements
+- Self-contained but standard
+
+**Critical:** Every panel must use identical scales, axes, and visual encoding. The only thing that changes is the data.
+
+### Step 3: Determine Layout
+
+| Layout | Best For |
+|--------|----------|
+| **Rows** | Sequential comparison (time, process) |
+| **Grid** | Many categories with no implied order |
+| **Wrapped rows** | Ordered categories exceeding row width |
+| **Trellis** | Two comparison dimensions (rows × columns) |
+
+### Step 4: Repeat the Design
+
+Apply the base design to each slice of data:
+- Same size
+- Same scale
+- Same visual encoding
+- Different data
+
+### Step 5: Add Labels
+
+Each panel needs identification:
+- Clear, concise panel label (year, region, category)
+- Labels in consistent position
+- No redundant axis labels after the first
+
+### Step 6: Enable Comparison
+
+Arrange panels to make comparison easy:
+- Keep related panels adjacent
+- Order meaningfully (chronological, alphabetical, by value)
+- Consider highlighting one panel for reference
+
+---
+
+## Design Rules
+
+### Scale Consistency
+
+**Mandatory:** All panels must share the same scale.
+
+| Problem | Impact |
+|---------|--------|
+| Different y-axis ranges | Comparison impossible |
+| Different x-axis ranges | Misleading patterns |
+| Different color scales | False equivalences |
+
+### Panel Size
+
+- Each panel should be large enough to read
+- But small enough to see many at once
+- Test: can you see the pattern from arm's length?
+
+### White Space
+
+- Clear separation between panels
+- Consistent gutters
+- No borders unless grouping is needed
+
+### Labeling Efficiency
+
+- Label the first panel fully
+- Subsequent panels: minimal identification only
+- Shared axes can be labeled once at the edge
+
+---
+
+## Classic Examples
+
+### Muybridge's Motion Studies (1878)
+Repeated frames showing a horse galloping. Same framing, sequential time. Revealed that all four hooves leave the ground—impossible to see otherwise.
+
+### Periodic Tables
+Each element in the same format. Position encodes properties. Understanding one cell means understanding all.
+
+### Election Maps by Year
+Same geography, same color encoding, different years. Immediately shows political shifts.
+
+### Sparkline Rows
+Each row shows the same metric for different entities. Mini small multiples embedded in a table.
+
+---
+
+## Outputs
+
+| Output | Description |
+|--------|-------------|
+| Base panel design | The single-view structure |
+| Layout specification | Grid dimensions and arrangement |
+| Panel count | How many multiples needed |
+| Labeling scheme | How panels are identified |
+
+---
+
+## Example
+
+**User:** "I want to show how temperature patterns differ across 12 months for 4 cities."
+
+**Small Multiples Design response:**
+
+You have two comparison dimensions: months (12) and cities (4). Here's the design:
+
+**Base panel:**
+A simple area chart showing daily high/low temperatures for one month. X-axis: days 1-31. Y-axis: temperature in consistent range (e.g., -10°F to 110°F across all panels).
+
+**Layout:**
+4 rows (one per city) × 12 columns (one per month)
+
+```
+         Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
+NYC      [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ]
+Miami    [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ]
+Phoenix  [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ]
+Seattle  [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ] [  ]
+```
+
+**Key decisions:**
+- Rows = cities (natural grouping for comparison)
+- Columns = months (temporal sequence)
+- Same y-axis scale for ALL panels (critical for comparison)
+- City labels on left, month labels on top
+- Only leftmost column gets y-axis tick labels
+
+**What viewers will see instantly:**
+- Miami stays warm year-round (flat across columns)
+- Phoenix has extreme summer peaks (July/August spike)
+- Seattle has narrow temperature ranges (compressed bands)
+- NYC has classic four-season pattern
+
+No animation. No interaction. 48 panels, one glance, complete understanding.
+
+---
+
+## Integration
+
+This skill pairs with:
+- **data-ink-maximization** - Clean each panel before multiplying
+- **sparkline-integration** - Small multiples at word scale
+- **high-resolution-thinking** - Pack more information into the grid
+
+---
+
+## Constraints
+
+- Requires sufficient data for each panel
+- Works best with 4-50 panels (too few: just overlay; too many: becomes noise)
+- Demands consistent scales across all panels
+- Print/static works better than screen for many panels
+
+---
+
+## Source Expert
+
+Edward Tufte - `experts/edward-tufte/`
+
+
+---
+
+## Skill: chartjunk-detection
+
+# Chartjunk Detection
+
+Identify and evaluate decorative, non-informative, or information-obscuring elements in visualizations. Based on Edward Tufte's critique of graphics that prioritize style over substance.
+
+---
+
+## When to Use
+
+- Evaluating a visualization for quality
+- Reviewing graphics before publication
+- Diagnosing why a chart feels "off"
+- Teaching others about visualization quality
+- Critiquing dashboard or report designs
+
+**Trigger Phrases:**
+- "Is this graphic good?"
+- "Review my visualization"
+- "What's wrong with this chart?"
+- "Why does this feel cluttered?"
+- "Should I add more visual interest?"
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| graphic | Yes | The visualization to evaluate |
+| purpose | No | What the graphic should communicate |
+| audience | No | Who will view this |
+
+---
+
+## Core Principle
+
+> "Chartjunk does not achieve the goals of its propagators. The overwhelming fact of data graphics is that they are often wrong, meaningless, or badly designed."
+> — Edward Tufte
+
+**Definition:** Chartjunk is any visual element that does not contribute to the viewer's understanding of the data—and often actively impedes it.
+
+---
+
+## The Chartjunk Checklist
+
+### Category 1: Dimensional Distortion
+
+| Element | Problem | Severity |
+|---------|---------|----------|
+| **3D effects on 2D data** | Distorts proportions, adds no information | High |
+| **Perspective views** | Back elements appear smaller than front | High |
+| **Tilted axes** | Distorts comparisons | High |
+| **Exploded pie slices** | Breaks proportional reading | Medium |
+
+### Category 2: Visual Noise
+
+| Element | Problem | Severity |
+|---------|---------|----------|
+| **Moiré patterns** | Vibration effects from tight patterns | High |
+| **Heavy gridlines** | Compete with data | Medium |
+| **Decorative borders** | Frame adds no information | Low |
+| **Background textures** | Noise behind signal | Medium |
+
+### Category 3: Gratuitous Decoration
+
+| Element | Problem | Severity |
+|---------|---------|----------|
+| **Clip art/icons** | Decoration pretending to be data | High |
+| **Illustrations** | Pictures replacing or obscuring data | Medium |
+| **Drop shadows** | Adds visual weight without meaning | Low |
+| **Gradient fills** | Usually decoration, rarely data | Medium |
+
+### Category 4: Redundancy
+
+| Element | Problem | Severity |
+|---------|---------|----------|
+| **Legend + direct labels** | Same information twice | Medium |
+| **Color + shape + pattern** | Multiple encodings for same variable | Low |
+| **Axis title stating obvious** | "Time" on clearly temporal axis | Low |
+| **Repeated labels** | Same text on every element | Medium |
+
+### Category 5: Self-Promotion
+
+| Element | Problem | Severity |
+|---------|---------|----------|
+| **Large logos** | Branding over communication | Medium |
+| **"Designed by" credits** | In the data area | Low |
+| **Decorative typography** | Style over readability | Medium |
+| **Color schemes for branding** | Not optimized for data | Medium |
+
+---
+
+## Workflow
+
+### Step 1: Inventory All Elements
+
+List everything visible:
+- Lines, shapes, colors
+- Text elements
+- Effects and decorations
+- Backgrounds and frames
+
+### Step 2: Test Each Element
+
+For every element, ask:
+1. **Does it represent data?** (If yes, keep)
+2. **Does it help read the data?** (If yes, keep but consider lightening)
+3. **Does it add no information?** (If yes, candidate for removal)
+4. **Does it obscure data?** (If yes, remove immediately)
+
+### Step 3: Rate Severity
+
+Score the overall chartjunk level:
+
+| Score | Description |
+|-------|-------------|
+| **0 - Clean** | Data-forward, minimal decoration |
+| **1 - Light** | Minor unnecessary elements |
+| **2 - Moderate** | Noticeable decoration, doesn't impede |
+| **3 - Heavy** | Decoration competes with data |
+| **4 - Severe** | Decoration obscures data |
+| **5 - Junk** | More junk than data |
+
+### Step 4: Prioritize Fixes
+
+Address in order of severity:
+1. Elements that distort data (3D, perspective)
+2. Elements that obscure data (moiré, heavy patterns)
+3. Elements that compete with data (decoration, heavy grids)
+4. Redundant elements (duplicate encodings)
+5. Merely unnecessary elements (borders, backgrounds)
+
+---
+
+## The "Magazine Cover" Test
+
+Ask: **Does this graphic look like it belongs in a business magazine trying to appear data-driven, or in a statistical journal actually presenting data?**
+
+Magazine aesthetics (often chartjunk):
+- Dramatic angles
+- Bold decorative colors
+- Illustrations alongside data
+- "Infographic" style
+
+Statistical journal aesthetics (usually clean):
+- Orthogonal views
+- Functional color
+- Data only
+- Clear, simple
+
+---
+
+## Outputs
+
+| Output | Description |
+|--------|-------------|
+| Element inventory | List of all visual elements |
+| Classification | Each element's category (data/helpful/junk) |
+| Severity rating | Overall chartjunk score 0-5 |
+| Priority fixes | Ordered list of elements to address |
+| Improvement direction | Description of cleaner alternative |
+
+---
+
+## Example
+
+**User:** "Review this chart: It's a 3D pie chart with 8 slices, gradient fills, a decorative border, and a legend with company logo."
+
+**Chartjunk Detection response:**
+
+**Severity Rating: 4/5 (Severe)**
+
+**Element Inventory:**
+
+| Element | Classification | Issue |
+|---------|----------------|-------|
+| 3D effect | Chartjunk (High) | Distorts slice proportions—front slices appear larger |
+| Pie chart with 8 slices | Structural problem | Human eye struggles with 5+ angle comparisons |
+| Gradient fills | Chartjunk (Medium) | Purely decorative, doesn't encode data |
+| Decorative border | Chartjunk (Low) | Adds no information |
+| Separate legend | Redundancy | Forces eye to jump back and forth |
+| Company logo | Chartjunk (Medium) | Self-promotion in data area |
+
+**Priority Fixes:**
+
+1. **Replace 3D with 2D** — Or better, switch to a bar chart. Eight categories are too many for a pie chart.
+2. **Remove gradients** — Use flat, distinguishable colors.
+3. **Replace legend with direct labels** — Label each slice directly.
+4. **Remove border** — White space is sufficient framing.
+5. **Move or shrink logo** — Outside the data area, if necessary at all.
+
+**Recommended Alternative:**
+A horizontal bar chart with:
+- 8 bars, ordered by value (not alphabetically)
+- Direct value labels on each bar
+- No gridlines (values are labeled)
+- Flat, accessible colors
+- No border, no logo in data area
+
+This transforms a severe chartjunk piece into a clean, readable graphic.
+
+---
+
+## Integration
+
+This skill pairs with:
+- **data-ink-maximization** - Fix what you detect
+- **graphical-integrity-audit** - Check for lies, not just junk
+- **high-resolution-thinking** - Replace junk with data
+
+---
+
+## Constraints
+
+- Some decoration may serve legitimate branding needs
+- What's "chartjunk" in a statistical report may be acceptable in marketing
+- Consider audience expectations
+- Don't confuse good design with no design
+
+---
+
+## Source Expert
+
+Edward Tufte - `experts/edward-tufte/`
+
+
+---
+
+## Skill: sparkline-integration
+
+# Sparkline Integration
+
+Design and embed word-sized graphics within text, tables, and documents for contextual data display. Based on Edward Tufte's concept of "intense, word-sized graphics."
+
+---
+
+## When to Use
+
+- Need to show trends without breaking text flow
+- Tables that would benefit from visual context
+- Dashboards with limited space
+- Medical records, financial reports, or metrics tables
+- Anywhere numbers need visual context
+
+**Trigger Phrases:**
+- "Show inline data"
+- "Embed graphics in text"
+- "Add trend to this table"
+- "I need word-sized graphics"
+- "Show the pattern next to the number"
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| data | Yes | The time series or sequence to display |
+| context | Yes | Where the sparkline will be embedded |
+| key_points | No | Specific values to highlight (min, max, current) |
+
+---
+
+## Core Principle
+
+> "Sparklines are data-intense, design-simple, word-sized graphics... a sparkline is a kind of 'word' that conveys rich information without breaking the flow of a sentence or paragraph."
+> — Edward Tufte
+
+**The Power:** High resolution in minimal space. Trend, volatility, seasonality, and current position—all in a space smaller than this sentence.
+
+---
+
+## Design Parameters
+
+### Size
+- **Height:** 1-2 times the cap height of surrounding text
+- **Width:** Proportional to data density (typically 10-40 characters wide)
+- **Baseline:** Aligned with text baseline or table cell
+
+### Resolution
+- Maximize data density
+- Minimum of 10-20 data points (fewer becomes a symbol, not a sparkline)
+- No upper limit—hundreds of points can work
+
+### Simplicity
+- No axes
+- No labels (usually)
+- No gridlines
+- Single color (with possible highlights)
+- Just the data line or bars
+
+---
+
+## Sparkline Types
+
+### Line Sparkline
+**Best for:** Continuous data, trends, time series
+**Structure:** Single path following data values
+**Highlights:** Optional dots at first, last, min, max, or current
+
+### Bar Sparkline
+**Best for:** Discrete periods, comparison, when zero matters
+**Structure:** Vertical bars for each value
+**Highlights:** Different color for above/below baseline
+
+### Win/Loss Sparkline
+**Best for:** Binary outcomes, above/below threshold
+**Structure:** Bars of equal height, up or down
+**Highlights:** Color for wins vs losses
+
+### Bullet Sparkline
+**Best for:** Performance against target
+**Structure:** Bar with reference lines for targets/ranges
+**Highlights:** Current value bar against gray reference bands
+
+---
+
+## Workflow
+
+### Step 1: Determine Context
+
+Where will the sparkline appear?
+
+| Context | Considerations |
+|---------|----------------|
+| Running text | Align to baseline, height matches x-height to cap-height |
+| Table cell | Fill available width, consistent height across rows |
+| Dashboard | Can be slightly larger, may include minimal labels |
+| Margin note | Can be wider, still compact |
+
+### Step 2: Select Data Range
+
+What time period or data range?
+- Enough points for pattern recognition (20+)
+- Relevant to the context (e.g., last 12 months, last 52 weeks)
+- Consistent across all sparklines in the same document
+
+### Step 3: Choose Type
+
+Match type to data:
+- Trends → Line
+- Discrete comparisons → Bar
+- Binary outcomes → Win/Loss
+- Progress vs target → Bullet
+
+### Step 4: Design Highlights
+
+What points need emphasis?
+
+| Highlight | Symbol |
+|-----------|--------|
+| Current/last value | Dot or text annotation |
+| Minimum | Different color dot |
+| Maximum | Different color dot |
+| First | Lighter dot for reference |
+| Target | Horizontal reference line |
+
+### Step 5: Set Scale
+
+**Critical decision:** Should all sparklines share the same scale?
+
+| Approach | When to Use |
+|----------|-------------|
+| **Shared scale** | Comparing magnitudes across rows |
+| **Individual scale** | Showing each item's pattern |
+
+If individual scales, consider subtle indicators of magnitude (e.g., shaded background bands).
+
+### Step 6: Position and Integrate
+
+- Align baselines
+- Consistent spacing from surrounding elements
+- Don't crowd—white space helps
+
+---
+
+## Integration Patterns
+
+### In Tables
+
+```
+Region     Q1 Rev   Trend        YoY Change
+─────────────────────────────────────────────
+Northeast  $12.3M   ▁▂▃▄▅▆▇█▆▅  +14%
+Southeast  $8.7M    ▅▆▇█▇▆▅▄▃▂  -22%
+Midwest    $10.1M   ▃▄▄▅▅▆▆▇▇█  +31%
+```
+
+### In Text
+
+"Sales have been rising steadily ▁▂▃▅▆▇ reaching $1.2M last quarter."
+
+### In Medical Records
+
+```
+Patient Vitals (last 24 hours)
+─────────────────────────────
+Heart Rate:  72 bpm  ▃▃▄▅▄▃▃▄▃▃▄▃
+Blood Pressure: 120/80  ▆▆▇▆▆▅▆▆▇▆▆▆
+Temperature: 98.6°F  ▄▄▄▄▄▄▄▄▄▄▄▄
+```
+
+---
+
+## Outputs
+
+| Output | Description |
+|--------|-------------|
+| Sparkline type | Line, bar, win/loss, or bullet |
+| Data range | What data the sparkline shows |
+| Highlights | What points to emphasize |
+| Scale approach | Shared or individual |
+| Integration spec | How to position in context |
+
+---
+
+## Example
+
+**User:** "I have a table showing 50 products with their current inventory and sales. How can I add context without making it huge?"
+
+**Sparkline Integration response:**
+
+Add a sparkline column between the data and the current status:
+
+**Before:**
+```
+Product    Inventory   Status
+────────────────────────────
+Widget A   1,234       In Stock
+Widget B   89          Low Stock
+Widget C   2,891       In Stock
+```
+
+**After:**
+```
+Product    Inventory   Last 12 Weeks Sales    Status
+─────────────────────────────────────────────────────
+Widget A   1,234       ▃▄▅▆▇█▇▆▇▇█▇           In Stock
+Widget B   89          ▇█▇▆▅▄▃▂▁▁▁▂           Low Stock
+Widget C   2,891       ▄▄▄▄▅▄▄▅▄▄▄▄           In Stock
+```
+
+**Design decisions:**
+- **Type:** Bar sparkline (discrete weekly periods)
+- **Scale:** Individual per row (pattern matters more than magnitude comparison)
+- **Highlights:** None needed—pattern is the message
+- **Width:** 12 characters (one per week)
+
+**What the viewer learns instantly:**
+- Widget A: Rising demand, inventory may need increase
+- Widget B: Demand collapsed, low stock may be appropriate
+- Widget C: Steady demand, inventory well-matched
+
+All of this without adding any labels, axes, or explanation. The sparkline speaks.
+
+---
+
+## Implementation Notes
+
+Many tools now support sparklines:
+- Excel: Built-in since 2010
+- Google Sheets: SPARKLINE function
+- Tableau: Can create via calculated fields
+- HTML/CSS: Via SVG or canvas
+- Unicode: Block characters (▁▂▃▄▅▆▇█) for text-only
+
+When using Unicode blocks, resolution is limited to 8 levels. True sparklines can show hundreds of gradations.
+
+---
+
+## Integration
+
+This skill pairs with:
+- **data-ink-maximization** - Sparklines are maximum data per ink
+- **small-multiples-design** - Table of sparklines is a form of small multiples
+- **high-resolution-thinking** - Adding data to dense displays
+
+---
+
+## Constraints
+
+- Requires time series or sequential data
+- Too few data points (under 10) won't show patterns
+- Shared scale can compress low-value sparklines
+- Accessibility: provide text alternatives for screen readers
+
+---
+
+## Source Expert
+
+Edward Tufte - `experts/edward-tufte/`
+
+
+---
+
+## Skill: graphical-integrity-audit
+
+# Graphical Integrity Audit
+
+Evaluate visualizations for truthful representation by calculating lie factors and checking for distortion. Based on Edward Tufte's principles of graphical integrity.
+
+---
+
+## When to Use
+
+- Verifying a chart tells the truth
+- Reviewing graphics before publication
+- Checking for misleading visualizations
+- Critiquing data journalism
+- Auditing dashboards for accuracy
+
+**Trigger Phrases:**
+- "Is this misleading?"
+- "Check my chart for accuracy"
+- "Does this graphic lie?"
+- "Is the visualization honest?"
+- "Audit this chart"
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| graphic | Yes | The visualization to audit |
+| source_data | Recommended | The underlying numbers |
+| context | No | How the graphic will be used |
+
+---
+
+## Core Principle
+
+> "Graphical excellence begins with telling the truth about the data."
+> — Edward Tufte
+
+**The Lie Factor:**
+```
+Lie Factor = (Size of effect shown in graphic) / (Size of effect in data)
+```
+
+- **LF = 1.0** → Perfect integrity
+- **LF > 1.0** → Exaggeration (visual effect is larger than data effect)
+- **LF < 1.0** → Understatement (visual effect is smaller than data effect)
+
+Lie factors between 0.95 and 1.05 are acceptable. Beyond that range, the graphic distorts perception.
+
+---
+
+## The Six Principles of Graphical Integrity
+
+### 1. Proportional Representation
+The visual representation of numbers must be directly proportional to the numerical quantities represented.
+
+**Check:** If value A is twice value B, does the visual element for A appear twice as large?
+
+### 2. Clear Labeling
+Clear, detailed, and thorough labeling defeats graphic distortion.
+
+**Check:** Are all elements labeled? Can the viewer verify the data from the graphic?
+
+### 3. Show Data Variation, Not Design Variation
+Variation in the graphic should reflect variation in the data, not variation in the design.
+
+**Check:** Is visual interest coming from the data, or from decorative elements?
+
+### 4. Standardize Money
+In time-series displays of money, use deflated (constant) dollars.
+
+**Check:** If showing monetary values over time, has inflation been accounted for?
+
+### 5. Context
+Don't quote data out of context. Show relevant comparisons.
+
+**Check:** Is there enough context to interpret the data correctly?
+
+### 6. Source Transparency
+Show the data source. Enable verification.
+
+**Check:** Can the viewer find and check the original data?
+
+---
+
+## Integrity Audit Workflow
+
+### Step 1: Calculate Lie Factor
+
+If the graphic shows a change from value A to value B:
+
+**Data change:** (B - A) / A × 100 = X%
+
+**Visual change:** Measure the visual elements
+- For bars: Compare heights or lengths
+- For areas: Compare areas (not diameters)
+- For 3D: Check for perspective distortion
+
+**Lie Factor:** Visual change % / Data change %
+
+### Step 2: Check for Common Distortions
+
+| Distortion | How to Detect | Severity |
+|------------|---------------|----------|
+| **Truncated axis** | Y-axis doesn't start at zero | High |
+| **Inconsistent scale** | Axis intervals vary | High |
+| **Area/volume for 1D data** | Using circles, cubes for linear values | High |
+| **Dual axes** | Two y-axes with different scales | Medium |
+| **Cherry-picked range** | Time period selected to support narrative | High |
+| **Missing data** | Gaps not acknowledged | Medium |
+| **3D perspective** | Distorts relative sizes | High |
+
+### Step 3: Verify Context
+
+| Question | Pass/Fail |
+|----------|-----------|
+| Is the comparison fair? | |
+| Is the time period representative? | |
+| Are relevant comparisons shown? | |
+| Is the baseline appropriate? | |
+| Are outliers acknowledged? | |
+
+### Step 4: Check Source and Labeling
+
+| Question | Pass/Fail |
+|----------|-----------|
+| Is the data source cited? | |
+| Can the data be verified? | |
+| Are all elements labeled? | |
+| Are units specified? | |
+| Is the date/time clear? | |
+
+---
+
+## Common Distortion Techniques
+
+### The Truncated Y-Axis
+
+**What it does:** Makes small changes look dramatic.
+
+**Example:** A stock moving from $98 to $102 (4% gain) shown on an axis from $96 to $104 looks like a 75% visual increase.
+
+**Lie factor:** 18.75 (75% visual / 4% data)
+
+**Fix:** Start y-axis at zero, or clearly mark the break.
+
+### The Area/Volume Inflation
+
+**What it does:** Uses 2D or 3D shapes to show 1D data.
+
+**Example:** Doubling the diameter of a circle to show a 2× increase actually makes the area 4× larger and the perceived volume 8× larger.
+
+**Lie factor:** 4.0 to 8.0 depending on perception
+
+**Fix:** Use length (bars, lines) for quantitative comparison.
+
+### The Cherry-Picked Timeframe
+
+**What it does:** Selects a start and end point to support a narrative.
+
+**Example:** Showing stock performance from its lowest point to its highest.
+
+**Detection:** Ask: "Why this start date? Why this end date?"
+
+**Fix:** Show longer timeframes with context.
+
+### The Dual Axis Deception
+
+**What it does:** Places two unrelated scales side by side to imply correlation.
+
+**Example:** Plotting "ice cream sales" and "drowning deaths" on different scales to make them appear correlated.
+
+**Detection:** Check if the two axes are on comparable scales.
+
+**Fix:** Normalize data or use separate charts.
+
+---
+
+## Outputs
+
+| Output | Description |
+|--------|-------------|
+| Lie factor | Calculated ratio (data effect vs visual effect) |
+| Distortions found | List of integrity violations |
+| Severity rating | Low/Medium/High/Deceptive |
+| Corrections needed | Specific fixes to restore integrity |
+| Integrity score | Overall rating of truthfulness |
+
+---
+
+## Integrity Score
+
+| Score | Description |
+|-------|-------------|
+| **A (Excellent)** | Lie factor 0.95-1.05, no distortions, full source |
+| **B (Good)** | Lie factor 0.8-1.2, minor issues, source present |
+| **C (Acceptable)** | Lie factor 0.5-2.0, some distortions, partial context |
+| **D (Poor)** | Lie factor outside 0.5-2.0, multiple distortions |
+| **F (Deceptive)** | Intentional distortion, missing/false source |
+
+---
+
+## Example
+
+**User:** "Check this bar chart. It shows our customer satisfaction going from 3.8 to 4.2 (on a 5-point scale). The y-axis runs from 3.5 to 4.5."
+
+**Graphical Integrity Audit response:**
+
+**Lie Factor Calculation:**
+
+Data change: (4.2 - 3.8) / 3.8 = 10.5% increase
+
+Visual change: On an axis from 3.5 to 4.5 (range = 1.0):
+- 3.8 position: (3.8 - 3.5) / 1.0 = 30% up the axis
+- 4.2 position: (4.2 - 3.5) / 1.0 = 70% up the axis
+- Visual change: 70% - 30% = 40 percentage points, or 133% increase from the starting visual position
+
+**Lie Factor: 133% / 10.5% = 12.7**
+
+This graphic exaggerates the change by a factor of nearly 13.
+
+**Distortions Found:**
+1. **Truncated y-axis** (High severity) - Axis should start at 0 or 1 (bottom of scale)
+2. **Compressed scale** - Full range is 1-5; showing only 3.5-4.5
+
+**Corrections Needed:**
+- Option A: Show axis from 1 to 5 (the full scale). The 0.4 increase will be visible but appropriately sized.
+- Option B: If you must zoom, clearly break the axis and show the full context nearby.
+- Option C: Report the number textually: "Satisfaction increased from 3.8 to 4.2 (11% improvement)"
+
+**Integrity Score: D (Poor)**
+
+The current graphic makes a 10% improvement look like a dramatic transformation. While not necessarily deceptive in intent, it fails the integrity test.
+
+---
+
+## Integration
+
+This skill pairs with:
+- **chartjunk-detection** - Different concern: junk vs lies
+- **data-ink-maximization** - After ensuring integrity, reduce ink
+- **case-based-writing** - Tell the true story the data reveals
+
+---
+
+## Constraints
+
+- Not all truncated axes are lies (context matters)
+- Some distortion is perceptual (logarithmic scales can be honest)
+- Intention matters for ethics, but not for the viewer's perception
+- Cultural conventions affect interpretation
+
+---
+
+## Source Expert
+
+Edward Tufte - `experts/edward-tufte/`
+
 

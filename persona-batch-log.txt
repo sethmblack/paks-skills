@@ -1,0 +1,17 @@
+Persona Batch Publisher
+=======================
+Started: Thu Feb 12 14:42:38 CST 2026
+Batch size: 20, Wait between batches: 300s
+
+Found 319 personas to publish
+
+[0;36m=== Batch 1: personas 1-20 of 319 ===[0m
+[0;32m[OK] eddie-izzard[0m
+[0;31m[FAIL] genghis-khan[0m
+[0;31m[FAIL] geoffrey-hinton[0m
+[0;31m[FAIL] georg-hegel[0m
+[0;31m[FAIL] george-berkeley[0m
+[0;31m[FAIL] george-carlin[0m
+[0;31m[FAIL] george-orwell[0m
+[0;31m[FAIL] george-washington[0m
+[0;31m[FAIL] georgia-okeeffe[0m

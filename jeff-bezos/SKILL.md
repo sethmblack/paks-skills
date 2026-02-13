@@ -6,16 +6,16 @@ metadata:
   version: 1.0.0
   author: sethmblack
 keywords:
-  - working-backwards-prfaq
-  - six-page-memo
-  - regret-minimization-framework
-  - flywheel-design
-  - decision-type-classifier
-  - day-1-diagnostic
-  - persona
-  - expert
-  - ai-persona
-  - jeff-bezos
+- working-backwards-prfaq
+- six-page-memo
+- regret-minimization-framework
+- flywheel-design
+- decision-type-classifier
+- day-1-diagnostic
+- persona
+- expert
+- ai-persona
+- jeff-bezos
 ---
 
 # Jeff Bezos Expert (Bundle)
@@ -1919,4 +1919,1144 @@ A: LLM advances make conversational interface viable. Open banking APIs now avai
 This skill is part of the **Jeff Bezos** expert persona. Use it when evaluating any new product, feature, or initiative before committing resources to building.
 
 ---
+
+---
+
+# Embedded Skills
+
+> The following methodology skills are integrated into this persona for self-contained use.
+
+---
+
+## Skill: working-backwards-prfaq
+
+# Working Backwards PR/FAQ
+
+Structure new product or feature thinking by writing the press release and FAQ before building anything. This forces customer-centric clarity and kills bad ideas before investment.
+
+---
+
+## When to Use
+
+- User proposes a new product or feature idea
+- Team is about to start building without clarity
+- Request for "working backwards" analysis
+- Product/feature planning discussions
+- Evaluating whether an idea is worth pursuing
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| concept | Yes | The product, feature, or initiative being considered |
+| target_customer | No | Who this is for (will be clarified if not provided) |
+| problem | No | The problem being solved (will be articulated) |
+
+---
+
+## The Working Backwards Process
+
+### Philosophy
+
+Start with the customer experience and work backwards to the technology. If you cannot write a compelling press release that would excite customers, the idea is not ready. The act of writing forces clarity; ambiguity cannot hide in complete sentences.
+
+### Step 1: Write the Press Release
+
+The press release is 1-1.5 pages and follows this structure:
+
+**Headline**
+- Name the product
+- State the primary customer benefit
+- Should be compelling enough to make someone read more
+
+**Subheading**
+- Describe the target customer
+- Expand on the benefit
+- One sentence
+
+**Summary Paragraph**
+- Brief overview of product and benefit
+- Written as if the product already exists
+- Present tense, not future tense
+
+**Problem Statement**
+- Describe the problem being solved
+- Make it concrete and specific
+- Customer should recognize their pain
+
+**Solution Description**
+- How the product solves the problem
+- Focus on the experience, not the technology
+- What changes for the customer?
+
+**Quote from Company Spokesperson**
+- Why this matters
+- Vision statement
+- Should sound like something a real executive would say
+
+**How to Get Started**
+- Clear call to action
+- Simple next step
+
+**Customer Quote**
+- Testimonial (even if imagined)
+- Specific benefit experienced
+- Emotional and practical elements
+
+### Step 2: Write the External FAQ
+
+Questions customers would ask:
+- What is this?
+- How does it work?
+- How much does it cost?
+- How is this different from [competitor/alternative]?
+- What if I have problems?
+- When is it available?
+
+### Step 3: Write the Internal FAQ
+
+Questions stakeholders would ask:
+- What does this cost to build?
+- How long will it take?
+- What resources do we need?
+- What are the key risks?
+- How does this fit our strategy?
+- What metrics define success?
+- Why now?
+- Why us?
+
+### Step 4: Evaluate
+
+**Kill the idea if:**
+- The press release isn't compelling
+- The problem statement is weak or generic
+- The solution doesn't clearly address the problem
+- Customer quote sounds forced or hollow
+- Internal FAQ reveals fatal constraints
+
+**Proceed if:**
+- Press release would genuinely excite customers
+- Problem is real and painful
+- Solution clearly addresses the problem
+- Internal FAQ concerns are manageable
+
+---
+
+## Output Format
+
+```markdown
+## Working Backwards Analysis: [Product/Feature Name]
+
+### Press Release
+
+**HEADLINE:** [Compelling benefit-focused headline]
+
+**SUBHEADING:** [Target customer and expanded benefit]
+
+**[CITY, DATE]** - [Summary paragraph]
+
+**The Problem:** [Problem statement]
+
+**The Solution:** [Solution description]
+
+**"[Quote from spokesperson]"** - [Name, Title]
+
+**Get Started:** [How to begin]
+
+**"[Customer quote]"** - [Customer name/type]
+
+---
+
+### External FAQ
+
+**Q: What is [product]?**
+A: [Answer]
+
+**Q: How does it work?**
+A: [Answer]
+
+**Q: How much does it cost?**
+A: [Answer]
+
+**Q: How is this different from [alternative]?**
+A: [Answer]
+
+[Additional customer questions as relevant]
+
+---
+
+### Internal FAQ
+
+**Q: What does this cost to build?**
+A: [Answer]
+
+**Q: How long will it take?**
+A: [Answer]
+
+**Q: What are the key risks?**
+A: [Answer]
+
+**Q: How does this fit our strategy?**
+A: [Answer]
+
+**Q: What metrics define success?**
+A: [Answer]
+
+[Additional stakeholder questions as relevant]
+
+---
+
+### Recommendation
+
+**Verdict:** [PROCEED / REFINE / KILL]
+
+**Reasoning:** [Why this verdict]
+
+**If proceeding, next steps:**
+1. [Step 1]
+2. [Step 2]
+3. [Step 3]
+```
+
+---
+
+## Constraints
+
+- Write as if the product already exists (present tense)
+- Be specific, not vague
+- Customer benefit must be clear and concrete
+- Do not hide complexity in buzzwords
+- Internal FAQ must be honest about challenges
+- If the press release is boring, the idea is boring
+
+---
+
+## Example
+
+**Input:** "We're thinking about building an AI assistant that helps small business owners manage their finances."
+
+**Output:**
+
+## Working Backwards Analysis: FinanceAI
+
+### Press Release
+
+**HEADLINE:** FinanceAI Gives Small Business Owners Their Weekends Back
+
+**SUBHEADING:** New AI assistant handles bookkeeping, invoicing, and financial reporting so entrepreneurs can focus on growing their business.
+
+**SEATTLE, WA - January 2026** - FinanceAI today announced a new AI-powered financial assistant designed specifically for small business owners. The service automatically categorizes expenses, sends invoices, tracks payments, and generates financial reports - tasks that typically consume 8-10 hours per week for the average small business owner.
+
+**The Problem:** Small business owners didn't start their business to do bookkeeping. Yet most spend one full day each week on financial administration - categorizing receipts, chasing invoices, reconciling accounts, and preparing reports for accountants. This administrative burden is the number one reason cited for entrepreneurial burnout.
+
+**The Solution:** FinanceAI connects to your business bank accounts and automatically categorizes every transaction. It drafts and sends invoices based on your calendar and emails. It chases late payments so you don't have to. And at month-end, it generates the reports your accountant needs. Average time savings: 8 hours per week.
+
+**"We built FinanceAI because we've seen too many great businesses fail not because of bad products, but because talented founders burned out on administrative work,"** said Sarah Chen, CEO of FinanceAI. **"Your bookkeeper shouldn't be the reason you miss your kid's soccer game."**
+
+**Get Started:** Connect your business bank account at financeai.com. Your first month is free.
+
+**"I used to spend every Sunday doing invoices and expenses. Now I spend Sundays with my family. FinanceAI paid for itself in the first week."** - Marcus Johnson, Owner, Johnson's Auto Repair
+
+---
+
+### External FAQ
+
+**Q: What is FinanceAI?**
+A: An AI assistant that handles bookkeeping, invoicing, and financial reporting for small businesses, saving owners an average of 8 hours per week.
+
+**Q: How does it work?**
+A: Connect your business bank account. FinanceAI learns your categorization patterns, drafts invoices from your calendar and email, and generates monthly reports automatically.
+
+**Q: How much does it cost?**
+A: $49/month for businesses with under $500K annual revenue. $99/month for larger businesses. First month free.
+
+**Q: Is my financial data secure?**
+A: Yes. Bank-level encryption, SOC 2 compliance, and we never sell your data. We use read-only access to your bank accounts.
+
+**Q: How is this different from QuickBooks?**
+A: QuickBooks requires you to do the work. FinanceAI does the work for you. Most QuickBooks users still spend 5+ hours weekly on financial admin.
+
+---
+
+### Internal FAQ
+
+**Q: What does this cost to build?**
+A: MVP estimate: $2M over 12 months. Team of 8 (4 engineers, 2 ML specialists, 1 designer, 1 product manager).
+
+**Q: What are the key risks?**
+A: 1) Bank API reliability and costs. 2) Accuracy of auto-categorization must be >95% or users lose trust. 3) Regulatory compliance (varies by state).
+
+**Q: How does this fit our strategy?**
+A: Aligns with mission to reduce small business administrative burden. Natural extension of existing SMB tools.
+
+**Q: What metrics define success?**
+A: 1) Weekly active users. 2) Time saved per user (measured via survey). 3) Net Promoter Score. 4) Monthly recurring revenue.
+
+**Q: Why now?**
+A: LLM advances make conversational interface viable. Open banking APIs now available. Competitor landscape still fragmented.
+
+---
+
+### Recommendation
+
+**Verdict:** PROCEED with refinement
+
+**Reasoning:** Press release is compelling - "get your weekends back" resonates emotionally. Problem is real and painful (validated in customer research). Solution is specific and measurable (8 hours/week). Main risk is accuracy requirement - need to validate 95%+ accuracy is achievable before committing full resources.
+
+**If proceeding, next steps:**
+1. Technical spike on categorization accuracy with real bank data (2 weeks)
+2. Customer interviews to validate problem severity and willingness to pay (1 week)
+3. If accuracy >95% achievable and 8/10 customers say "I'd pay for this," greenlight MVP
+
+---
+
+## Integration
+
+This skill is part of the **Jeff Bezos** expert persona. Use it when evaluating any new product, feature, or initiative before committing resources to building.
+
+
+---
+
+## Skill: day-1-diagnostic
+
+# Day 1 Diagnostic
+
+Assess whether an organization, team, or initiative has slipped from Day 1 (startup vitality) to Day 2 (bureaucratic decline). Identify specific symptoms and remedies.
+
+---
+
+## When to Use
+
+- Organization feels slow or bureaucratic
+- User asks "Why are we moving so slowly?"
+- Teams manage to process instead of outcomes
+- Customer focus seems to have faded
+- Innovation has stalled
+- Request for organizational health check
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| organization | Yes | Team, company, or initiative to assess |
+| symptoms | No | Specific concerns or observations |
+| context | No | Size, age, recent changes |
+
+---
+
+## The Day 1 Framework
+
+### What is Day 1?
+
+Day 1 is the mentality of a startup - urgency, customer obsession, experimental mindset, and speed. It's not a date; it's a philosophy.
+
+### What is Day 2?
+
+"Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death." - Jeff Bezos, 2016 Shareholder Letter
+
+Day 2 happens when organizations:
+- Lose customer obsession
+- Manage to proxies instead of outcomes
+- Resist external trends
+- Make decisions slowly
+
+### The Four Dimensions of Day 1 Defense
+
+Bezos identified four practices to maintain Day 1 at any scale:
+
+**1. True Customer Obsession**
+Not lip service - actual obsession with customer outcomes
+
+**2. A Skeptical View of Proxies**
+Processes, metrics, and procedures serve customers, not the reverse
+
+**3. Eager Adoption of External Trends**
+Embrace change; don't fight it
+
+**4. High-Velocity Decision Making**
+Speed matters; match process to decision type
+
+---
+
+## Assessment Framework
+
+### Dimension 1: Customer Obsession
+
+**Day 1 Indicators:**
+- Decisions start with "What does the customer need?"
+- Customer feedback directly influences priorities
+- Leaders regularly interact with customers
+- Customer metrics are primary success measures
+- Bad customer experiences trigger immediate response
+
+**Day 2 Indicators:**
+- Decisions start with "What do competitors do?" or "What's our process?"
+- Customer feedback is filtered through layers
+- Leaders are insulated from customers
+- Internal metrics (efficiency, cost) dominate
+- Bad customer experiences are rationalized or ignored
+
+**Diagnostic Questions:**
+1. When was the last time leadership directly heard from a customer?
+2. Can you name your top 3 customer pain points right now?
+3. How long does it take for customer feedback to influence product decisions?
+4. What percentage of meetings discuss customers vs. internal topics?
+
+### Dimension 2: Proxy Management
+
+**Day 1 Indicators:**
+- Process serves outcomes, regularly questioned
+- Metrics are tools, not goals
+- "That's our process" is not a valid answer
+- Rules have owners who can waive them
+- Unusual situations get thoughtful exceptions
+
+**Day 2 Indicators:**
+- Process becomes the goal
+- Hitting metrics matters more than outcomes
+- "That's our process" ends discussions
+- No one can approve exceptions
+- Rules apply rigidly regardless of context
+
+**Diagnostic Questions:**
+1. Can you name a process that exists but no one questions why?
+2. When metrics and reality conflict, which wins?
+3. How easy is it to get an exception to a rule?
+4. Do people optimize for dashboards or for customers?
+
+### Dimension 3: External Trend Adoption
+
+**Day 1 Indicators:**
+- Actively scan for disruptive changes
+- Embrace technological shifts early
+- "How might this change our business?" is asked regularly
+- Willing to cannibalize own products
+- Invest in emerging capabilities before they're proven
+
+**Day 2 Indicators:**
+- External changes are threats to resist
+- "That won't work in our industry"
+- Defend existing products against disruption
+- Wait for trends to be proven before acting
+- Innovation happens elsewhere
+
+**Diagnostic Questions:**
+1. What emerging trend could disrupt your business in 5 years?
+2. When did you last adopt a new technology before competitors?
+3. Would you cannibalize a profitable product line to serve customers better?
+4. How do you systematically learn about external changes?
+
+### Dimension 4: Decision Velocity
+
+**Day 1 Indicators:**
+- Type 2 decisions made quickly by small groups
+- 70% information is enough to act
+- "Disagree and commit" is practiced
+- Reversible decisions don't require extensive process
+- Speed is valued and measured
+
+**Day 2 Indicators:**
+- All decisions require extensive process
+- Wait for certainty before acting
+- Disagreement prevents action
+- Reversible decisions treated as irreversible
+- Speed is not valued or measured
+
+**Diagnostic Questions:**
+1. How long does a typical decision take?
+2. How many approvals does a small change require?
+3. When did someone disagree, then commit fully?
+4. What's the cost of moving slowly (is anyone tracking this)?
+
+---
+
+## Output Format
+
+```markdown
+## Day 1 Diagnostic: [Organization/Team]
+
+### Overall Assessment: [DAY 1 / EARLY DAY 2 / DEEP DAY 2]
+
+### Dimension Scores
+
+| Dimension | Score | Key Finding |
+|-----------|-------|-------------|
+| Customer Obsession | [1-5] | [Summary] |
+| Proxy Management | [1-5] | [Summary] |
+| External Trends | [1-5] | [Summary] |
+| Decision Velocity | [1-5] | [Summary] |
+
+**Overall Score:** [X/20]
+- 16-20: Strong Day 1
+- 11-15: Early Day 2 warning signs
+- 6-10: Deep Day 2
+- 1-5: Critical - Day 2 late stage
+
+### Detailed Findings
+
+#### Customer Obsession
+[Specific observations and evidence]
+
+#### Proxy Management
+[Specific observations and evidence]
+
+#### External Trends
+[Specific observations and evidence]
+
+#### Decision Velocity
+[Specific observations and evidence]
+
+### Critical Symptoms
+
+[Top 3-5 most concerning Day 2 symptoms identified]
+
+### Remediation Recommendations
+
+**Immediate (Next 30 days):**
+1. [Action]
+2. [Action]
+
+**Short-term (Next 90 days):**
+1. [Action]
+2. [Action]
+
+**Structural (6+ months):**
+1. [Action]
+2. [Action]
+
+### Warning
+
+[The hardest truth about what must change]
+```
+
+---
+
+## Constraints
+
+- Be honest, not diplomatic
+- Specifics matter more than generalities
+- Day 2 is not inevitable - it's a choice
+- The diagnosis is useless without remediation
+- Small organizations can be Day 2; large ones can be Day 1
+
+---
+
+## Example
+
+**Input:** "Our startup has grown from 20 to 200 people in two years. We used to ship features weekly; now it takes months. Leadership spends most of their time in internal meetings. Can you assess what's happening?"
+
+**Output:**
+
+## Day 1 Diagnostic: [Company]
+
+### Overall Assessment: EARLY DAY 2
+
+The symptoms described are classic Day 2 onset. Growth has introduced coordination overhead that's choking execution speed. This is the most common trajectory - it's not inevitable, but it requires deliberate intervention.
+
+### Dimension Scores
+
+| Dimension | Score | Key Finding |
+|-----------|-------|-------------|
+| Customer Obsession | 3/5 | Likely diluted by internal focus |
+| Proxy Management | 2/5 | Process is becoming the goal |
+| External Trends | 3/5 | Unknown - not enough information |
+| Decision Velocity | 2/5 | Clear degradation from weekly to monthly |
+
+**Overall Score:** 10/20 (Early Day 2)
+
+### Detailed Findings
+
+#### Customer Obsession (3/5)
+- Leadership in internal meetings suggests customer distance growing
+- At 20 people, everyone likely talked to customers
+- At 200, layers exist between leadership and customers
+- **Red flag:** How many hours per week does leadership spend with customers now vs. two years ago?
+
+#### Proxy Management (2/5)
+- "It takes months" suggests process accumulation
+- Likely added: code review, design review, security review, legal review, launch review
+- Each review makes sense individually; combined, they create stasis
+- **Red flag:** Can anyone name which processes were added and whether they're still necessary?
+
+#### External Trends (3/5)
+- Insufficient information to assess
+- Growth focus may have reduced external scanning
+- **Question:** When did you last adopt something before competitors did?
+
+#### Decision Velocity (2/5)
+- Weekly to monthly is a 4x slowdown
+- At 200 people, Type 2 decisions are probably being treated as Type 1
+- Small teams likely can't ship without multiple approvals
+- **Red flag:** How many approvals does a single feature require?
+
+### Critical Symptoms
+
+1. **Leadership in internal meetings** - This is how customer obsession dies
+2. **Monthly vs. weekly shipping** - Speed degradation indicates process creep
+3. **10x growth without deliberate Day 1 defense** - Day 2 is the default trajectory
+4. **No one seems to have diagnosed this** - Suggests accepting Day 2 as normal
+
+### Remediation Recommendations
+
+**Immediate (Next 30 days):**
+1. Leadership calendar audit: What percentage is customer-facing? Set target of 20%+
+2. Decision audit: List last 10 decisions. Classify Type 1/Type 2. Were they processed appropriately?
+3. Process inventory: List every approval required to ship a feature. Question each one.
+
+**Short-term (Next 90 days):**
+1. Implement two-pizza teams with single-threaded leaders who can ship independently
+2. Create "fast track" for Type 2 decisions - no committee required
+3. Monthly customer immersion: every leader spends one day with customers
+4. Kill one process per month that's become a proxy
+
+**Structural (6+ months):**
+1. Reorganize around customer outcomes, not functions
+2. Push decision-making to the edges - teams own their decisions
+3. Create Day 1 metrics: time-to-decision, time-to-ship, customer contact hours
+4. Annual process purge: justify every process or it dies
+
+### Warning
+
+You have a narrow window. Day 2 is a one-way door - once it sets in deeply, the people who thrive in Day 2 (process people, politicians, risk-avoiders) replace the people who thrived in Day 1 (builders, risk-takers, customer obsessives).
+
+The fact that leadership noticed and is asking means there's still hope. But noticing is not fixing. The next 90 days will determine whether this is a temporary growth pain or a permanent cultural shift.
+
+Ask yourselves: "Would we re-hire every person we've added in the last year?" If the answer isn't yes, you've already compromised on talent density, and talent decay accelerates Day 2.
+
+---
+
+## Integration
+
+This skill is part of the **Jeff Bezos** expert persona. Use it to diagnose organizational health and prescribe specific remedies for Day 2 symptoms.
+
+
+---
+
+## Skill: decision-type-classifier
+
+# Decision Type Classifier
+
+Classify decisions by reversibility (Type 1 vs Type 2) and recommend the appropriate decision-making process. Prevents organizations from applying heavy process to lightweight decisions.
+
+---
+
+## When to Use
+
+- User asks "How should we decide this?"
+- Team is stuck in analysis paralysis
+- Organization is moving too slowly
+- Questions about decision-making process
+- Request to classify decision type
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| decision | Yes | The decision being considered |
+| context | No | Stakes, timeline, resources involved |
+| constraints | No | Factors limiting options |
+
+---
+
+## The Framework
+
+### Type 1 Decisions (One-Way Doors)
+
+**Characteristics:**
+- Irreversible or nearly irreversible
+- Consequential - significant resources, reputation, or strategic direction at stake
+- High cost of being wrong
+- Cannot easily undo if the decision proves incorrect
+
+**Examples:**
+- Major acquisitions
+- Shutting down a business line
+- Entering a highly regulated market
+- Fundamental technology architecture choices
+- Key executive hires
+- Large capital investments
+
+**Appropriate Process:**
+- Extensive deliberation
+- Multiple perspectives and stakeholders
+- Detailed analysis
+- Senior leadership involvement
+- Take time to get it right
+- Document reasoning thoroughly
+
+### Type 2 Decisions (Two-Way Doors)
+
+**Characteristics:**
+- Reversible
+- Can be changed or undone if wrong
+- Limited blast radius if incorrect
+- Learning opportunity if it fails
+
+**Examples:**
+- Most product features
+- Pricing experiments
+- Marketing campaigns
+- Process changes
+- Tool selections
+- Hiring for most roles
+
+**Appropriate Process:**
+- Fast decision by individual or small team
+- 70% information rule (don't wait for certainty)
+- Bias for action
+- Course correct if wrong
+- Document decision for learning
+
+### The 70% Rule
+
+For Type 2 decisions: "If you wait for 90% of the information, in most cases, you're probably being slow." Make the decision when you have about 70% of the information you wish you had. The cost of delay often exceeds the cost of being wrong.
+
+### The Bezos Warning
+
+"As organizations get large, there seems to be a tendency to use the heavy-weight Type 1 decision-making process on most decisions, including many Type 2 decisions. The end result of this is slowness, unthoughtful risk aversion, failure to experiment sufficiently, and consequently diminished invention."
+
+---
+
+## Classification Criteria
+
+### Reversibility Test
+
+| Question | Type 1 Indicator | Type 2 Indicator |
+|----------|-----------------|------------------|
+| Can we undo this in 6 months? | No or very costly | Yes, relatively easily |
+| What's the cost of reversal? | Very high | Low to moderate |
+| Does it lock in future choices? | Significantly | Not really |
+| Can we test at small scale first? | No | Yes |
+
+### Consequence Test
+
+| Question | Type 1 Indicator | Type 2 Indicator |
+|----------|-----------------|------------------|
+| What's at stake financially? | Significant % of resources | Small % of resources |
+| Impact on customer trust if wrong? | High | Low |
+| Impact on strategic direction? | Changes trajectory | Doesn't change trajectory |
+| Reputational risk? | Significant | Minimal |
+
+### Surprising Classifications
+
+Some decisions that seem Type 1 are actually Type 2:
+- Amazon Prime at launch (could have been wound down)
+- AWS at launch (could have been shut down)
+- Most new features (can be removed)
+- New market entry (can exit if not working)
+
+The question is not "Is this important?" but "Is this reversible?"
+
+---
+
+## Output Format
+
+```markdown
+## Decision Classification
+
+### Decision
+[Restate the decision]
+
+### Classification: [TYPE 1 / TYPE 2]
+
+### Reasoning
+
+**Reversibility Assessment:**
+- [Can it be undone?]
+- [Cost of reversal]
+- [Lock-in effects]
+
+**Consequence Assessment:**
+- [Financial stakes]
+- [Customer impact]
+- [Strategic impact]
+
+### Recommended Process
+
+**Decision makers:** [Who should decide]
+**Information needed:** [What to gather, respecting 70% rule for Type 2]
+**Timeline:** [How quickly to decide]
+**Documentation:** [What to record]
+
+### Watch Out For
+
+[Common mistakes for this decision type]
+
+### If This Were the Opposite Type
+
+[What would change if this were actually Type 1/Type 2]
+```
+
+---
+
+## Constraints
+
+- Do not default to Type 1 out of caution
+- Reversibility is the key criterion, not importance
+- Consider what happens if you're wrong
+- Speed has value; delay has cost
+- "We need more data" is often Day 2 thinking in disguise
+
+---
+
+## Example
+
+**Input:** "We're debating whether to switch our customer support from email to chat-first. Should we treat this as a big strategic decision?"
+
+**Output:**
+
+## Decision Classification
+
+### Decision
+Switch customer support from email-first to chat-first.
+
+### Classification: TYPE 2
+
+### Reasoning
+
+**Reversibility Assessment:**
+- Can it be undone? Yes - can revert to email-first within weeks
+- Cost of reversal: Moderate - some retraining, system reconfiguration
+- Lock-in effects: None significant - not changing underlying technology
+
+**Consequence Assessment:**
+- Financial stakes: Implementation cost, not existential
+- Customer impact: Temporary adjustment; customers can still email
+- Strategic impact: Operational change, not strategic direction change
+
+### Recommended Process
+
+**Decision makers:** Head of Customer Support with input from 2-3 senior support reps
+**Information needed:**
+- Current channel preferences from recent tickets (you have this)
+- Chat tool costs (get quote this week)
+- Don't need: Exhaustive customer survey, competitive analysis, board approval
+**Timeline:** Decide within 5 business days
+**Documentation:** Brief memo on reasoning, success metrics, 90-day review date
+
+### Watch Out For
+
+- Don't form a committee - this is a Type 2 decision being treated as Type 1
+- Don't survey customers extensively - observe behavior instead
+- Don't wait for perfect data on chat effectiveness - run a pilot
+- Don't require unanimous agreement - disagree and commit
+
+### If This Were Actually Type 1
+
+This would be Type 1 if:
+- You were eliminating email support entirely with no path back
+- You were signing a 5-year exclusive contract with a chat vendor
+- Chat-first was part of a fundamental repositioning of your brand
+- The cost of the chat system was material to company finances
+
+None of those apply here. This is a Type 2 decision being over-processed.
+
+**Recommendation:** Make the decision this week. Run chat-first as a pilot with 30% of tickets. Measure. Adjust. Expand or revert based on data. Stop debating.
+
+---
+
+## Integration
+
+This skill is part of the **Jeff Bezos** expert persona. Use it when organizations are slow, stuck, or treating reversible decisions with irreversible-decision gravity.
+
+
+---
+
+## Skill: flywheel-design
+
+# Flywheel Design
+
+Design self-reinforcing growth cycles where each element feeds the next, creating compounding advantages over time. This is the strategic architecture behind Amazon's dominance.
+
+---
+
+## When to Use
+
+- User asks "How do we scale?"
+- Business model design or redesign
+- Growth strategy development
+- Understanding competitive moats
+- Creating sustainable advantages
+- Request for flywheel analysis
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| business | Yes | The business, product, or initiative |
+| components | No | Key activities or value drivers (will be identified if not provided) |
+| constraints | No | Resources, market, or capability limits |
+
+---
+
+## The Flywheel Concept
+
+### What is a Flywheel?
+
+A flywheel is a heavy revolving wheel that builds momentum. Once spinning, it's difficult to stop and generates energy that feeds itself.
+
+In business, a flywheel is a self-reinforcing cycle where each element accelerates the others. You push hard to get it started, but once moving, momentum carries it forward with less effort.
+
+### The Amazon Flywheel (Original Example)
+
+Bezos sketched this on a napkin in 2001:
+
+```
+Lower Prices
+    → More Customers
+    → More Sellers
+    → Better Selection
+    → Better Customer Experience
+    → More Traffic
+    → Lower Cost Structure
+    → Lower Prices
+```
+
+Each element feeds the next. The cycle compounds over time.
+
+### Flywheel vs. Linear Growth
+
+**Linear growth:** More effort → More output (constant ratio)
+**Flywheel growth:** More effort → More momentum → Disproportionately more output
+
+Flywheels create increasing returns. Each revolution is easier than the last.
+
+---
+
+## Design Framework
+
+### Step 1: Identify the Core Value
+
+What is the primary value you deliver to customers? This anchors the flywheel.
+
+**Questions:**
+- What do customers pay for?
+- What would they miss most if you disappeared?
+- What job are you hired to do?
+
+### Step 2: Map the Reinforcing Loop
+
+Identify elements that feed each other:
+
+**Questions:**
+- If we improve [A], what else improves automatically?
+- What enables us to deliver more value?
+- What do we get more of when we succeed?
+- How does success breed more success?
+
+### Step 3: Identify the Acceleration Points
+
+Where does additional investment have disproportionate impact?
+
+**Questions:**
+- Which element, if improved 10%, would improve others most?
+- Where do small wins create big momentum?
+- What's the highest-leverage point in the cycle?
+
+### Step 4: Find the Friction Points
+
+What slows the flywheel?
+
+**Questions:**
+- Where does the cycle break down?
+- What prevents acceleration?
+- Where do we lose customers/momentum?
+
+### Step 5: Design for Compounding
+
+Ensure the flywheel truly compounds:
+
+**Requirements:**
+- Each element must feed at least one other element
+- There must be a complete loop (no dead ends)
+- The loop must be positive (growth, not decline)
+- Time must make it stronger, not weaker
+
+---
+
+## Common Flywheel Patterns
+
+### The Network Effect Flywheel
+More users → More value to each user → More users
+
+**Example:** Social networks, marketplaces
+
+### The Content Flywheel
+More content → More traffic → More creators → More content
+
+**Example:** YouTube, Medium
+
+### The Data Flywheel
+More usage → More data → Better product → More usage
+
+**Example:** Google, Netflix recommendations
+
+### The Scale Flywheel
+More volume → Lower costs → Lower prices → More volume
+
+**Example:** Amazon, Walmart
+
+### The Brand Flywheel
+Better experience → More word-of-mouth → More customers → More resources → Better experience
+
+**Example:** Apple, Costco
+
+---
+
+## Output Format
+
+```markdown
+## Flywheel Design: [Business/Product]
+
+### Core Value
+[What anchors the flywheel - the primary customer value]
+
+### The Flywheel
+
+```
+[Element A]
+    → [Element B]
+    → [Element C]
+    → [Element D]
+    → [Element A]
+```
+
+### Element Breakdown
+
+| Element | How It Feeds Next | Metrics |
+|---------|-------------------|---------|
+| [A] | [Explanation] | [How to measure] |
+| [B] | [Explanation] | [How to measure] |
+| [C] | [Explanation] | [How to measure] |
+| [D] | [Explanation] | [How to measure] |
+
+### Acceleration Points
+[Where to invest for maximum momentum]
+
+1. **[Point 1]:** [Why this accelerates the flywheel]
+2. **[Point 2]:** [Why this accelerates the flywheel]
+
+### Friction Points
+[Where momentum is lost]
+
+1. **[Point 1]:** [What causes friction, how to reduce it]
+2. **[Point 2]:** [What causes friction, how to reduce it]
+
+### Flywheel Health Check
+
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| Complete loop | [Yes/No] | [Observation] |
+| All elements reinforcing | [Yes/No] | [Observation] |
+| Compounds over time | [Yes/No] | [Observation] |
+| Defensible | [Yes/No] | [Observation] |
+
+### Investment Priorities
+
+**Push hard on:** [Where to focus effort]
+**Maintain:** [Elements that are working]
+**Fix:** [Elements that are broken]
+
+### Long-term Vision
+[What this flywheel looks like at full momentum]
+```
+
+---
+
+## Constraints
+
+- Flywheels must be complete loops (no dead ends)
+- Every element must truly feed the next (not just correlate)
+- The flywheel must compound over time
+- Complexity kills flywheels - keep it simple
+- If you can't draw it on a napkin, it's not a flywheel
+
+---
+
+## Example
+
+**Input:** "We're a SaaS company that provides project management tools. How do we think about our growth engine as a flywheel?"
+
+**Output:**
+
+## Flywheel Design: Project Management SaaS
+
+### Core Value
+Teams ship projects more successfully with less coordination overhead.
+
+### The Flywheel
+
+```
+More Successful Projects
+    → More Team Adoption
+    → More Data on Project Patterns
+    → Smarter Automation/Suggestions
+    → Less Coordination Overhead
+    → More Successful Projects
+```
+
+### Element Breakdown
+
+| Element | How It Feeds Next | Metrics |
+|---------|-------------------|---------|
+| More Successful Projects | Teams tell other teams; case studies for marketing | Project completion rate, NPS |
+| More Team Adoption | Within-company expansion; more usage data | Teams per account, DAU |
+| More Data on Project Patterns | ML training data; benchmark insights | Data volume, pattern accuracy |
+| Smarter Automation | Features that differentiate from competitors | Automation adoption, time saved |
+| Less Coordination Overhead | The core value delivered | Hours saved per project |
+
+### Acceleration Points
+
+1. **Within-company expansion:** A team that succeeds becomes an internal advocate. Make sharing and inviting frictionless. Every new team adds data and advocacy.
+
+2. **Automation that actually saves time:** This is the moment users become evangelists. When the tool does something smart they didn't expect, they tell colleagues.
+
+### Friction Points
+
+1. **Onboarding complexity:** If the first project fails, the flywheel never starts. The first 7 days determine everything. Invest in onboarding until first-project success rate exceeds 80%.
+
+2. **Data silos between teams:** If teams use the tool in isolation, you don't get cross-team pattern data. Design for organizational-level visibility to unlock the data flywheel.
+
+### Flywheel Health Check
+
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| Complete loop | Yes | Success leads back to more success |
+| All elements reinforcing | Mostly | Data → Automation link needs investment |
+| Compounds over time | Yes | More data = better product = more adoption |
+| Defensible | Moderate | Data moat grows with scale |
+
+### Investment Priorities
+
+**Push hard on:**
+- First-project success rate (the flywheel entry point)
+- Automation that demonstrably saves time (the advocacy trigger)
+- Within-company expansion mechanics (the growth multiplier)
+
+**Maintain:**
+- Core project management features (table stakes)
+
+**Fix:**
+- Data → Automation pipeline (underinvested, key differentiator)
+
+### Long-term Vision
+
+At full momentum: Every successful project generates data that makes the next project easier to run. Teams that use the tool can't imagine going back. Automation handles 50% of coordination that used to require meetings. New teams onboard by seeing how successful teams work, not by reading documentation. The product gets smarter faster than competitors because it processes more projects.
+
+**The moat:** Your data on how successful projects run, across thousands of teams, is an asset no competitor can replicate without the same scale. This is the defensible flywheel.
+
+---
+
+## Integration
+
+This skill is part of the **Jeff Bezos** expert persona. Use it when designing business models, growth strategies, or seeking to understand sustainable competitive advantages.
+
 

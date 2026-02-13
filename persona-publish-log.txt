@@ -1,0 +1,657 @@
+Persona Bundle Publisher
+========================
+Started: Thu Feb 12 15:45:46 CST 2026
+
+[1;33m[START] genghis-khan[0m
+[0;32m[SUCCESS] genghis-khan published![0m
+[1;33m[START] geoffrey-hinton[0m
+[0;32m[SUCCESS] geoffrey-hinton published![0m
+[1;33m[START] georg-hegel[0m
+[0;32m[SUCCESS] georg-hegel published![0m
+[1;33m[START] george-berkeley[0m
+[0;32m[SUCCESS] george-berkeley published![0m
+[1;33m[START] george-carlin[0m
+[0;32m[SUCCESS] george-carlin published![0m
+[1;33m[START] george-orwell[0m
+[0;32m[SUCCESS] george-orwell published![0m
+[1;33m[START] george-washington[0m
+[0;32m[SUCCESS] george-washington published![0m
+[1;33m[START] georgia-okeeffe[0m
+[0;32m[SUCCESS] georgia-okeeffe published![0m
+[1;33m[START] gilda-radner[0m
+[0;32m[SUCCESS] gilda-radner published![0m
+[1;33m[START] gk-chesterton[0m
+[0;32m[SUCCESS] gk-chesterton published![0m
+[1;33m[START] gottfried-leibniz[0m
+[0;32m[SUCCESS] gottfried-leibniz published![0m
+[1;33m[START] grace-hopper[0m
+[0;32m[SUCCESS] grace-hopper published![0m
+[1;33m[START] graham-chapman[0m
+[0;32m[SUCCESS] graham-chapman published![0m
+[1;33m[START] greg-giraldo[0m
+[0;32m[SUCCESS] greg-giraldo published![0m
+[1;33m[START] gurdjieff[0m
+[0;32m[SUCCESS] gurdjieff published![0m
+[1;33m[START] guy-debord[0m
+[0;32m[SUCCESS] guy-debord published![0m
+[1;33m[START] hannah-arendt[0m
+[0;32m[SUCCESS] hannah-arendt published![0m
+[1;33m[START] hannah-gadsby[0m
+[0;32m[SUCCESS] hannah-gadsby published![0m
+[1;33m[START] hannibal-buress[0m
+[0;32m[SUCCESS] hannibal-buress published![0m
+[1;33m[START] hans-kung[0m
+[0;32m[SUCCESS] hans-kung published![0m
+[1;33m[START] hans-urs-von-balthasar[0m
+[0;32m[SUCCESS] hans-urs-von-balthasar published![0m
+[1;33m[START] harold-lloyd[0m
+[0;32m[SUCCESS] harold-lloyd published![0m
+[1;33m[START] harold-ramis[0m
+[0;32m[SUCCESS] harold-ramis published![0m
+[1;33m[START] harriet-tubman[0m
+[0;32m[SUCCESS] harriet-tubman published![0m
+[1;33m[START] harvey-korman[0m
+[0;32m[SUCCESS] harvey-korman published![0m
+Progress: 175 personas processed (25 success, 0 failed, 150 skipped)
+[1;33m[START] hasan-minhaj[0m
+[0;32m[SUCCESS] hasan-minhaj published![0m
+[1;33m[START] henry-ford[0m
+[0;32m[SUCCESS] henry-ford published![0m
+[1;33m[START] hetty-green[0m
+[0;32m[SUCCESS] hetty-green published![0m
+[1;33m[START] hildegard-of-bingen[0m
+[0;32m[SUCCESS] hildegard-of-bingen published![0m
+[1;33m[START] ho-chi-minh[0m
+[0;32m[SUCCESS] ho-chi-minh published![0m
+[1;33m[START] horatio-nelson[0m
+[0;32m[SUCCESS] horatio-nelson published![0m
+[1;33m[START] howard-schultz[0m
+[0;32m[SUCCESS] howard-schultz published![0m
+[1;33m[START] hugh-laurie[0m
+[0;32m[SUCCESS] hugh-laurie published![0m
+[1;33m[START] hunter-s-thompson[0m
+[0;32m[SUCCESS] hunter-s-thompson published![0m
+[1;33m[START] ian-goodfellow[0m
+[0;32m[SUCCESS] ian-goodfellow published![0m
+[1;33m[START] ibn-arabi[0m
+[0;32m[SUCCESS] ibn-arabi published![0m
+[1;33m[START] ilya-sutskever[0m
+[0;32m[SUCCESS] ilya-sutskever published![0m
+[1;33m[START] immanuel-kant[0m
+[0;32m[SUCCESS] immanuel-kant published![0m
+[1;33m[START] imogene-coca[0m
+[0;32m[SUCCESS] imogene-coca published![0m
+[1;33m[START] indra-nooyi[0m
+[0;32m[SUCCESS] indra-nooyi published![0m
+[1;33m[START] ingvar-kamprad[0m
+[0;32m[SUCCESS] ingvar-kamprad published![0m
+[1;33m[START] iris-murdoch[0m
+[0;32m[SUCCESS] iris-murdoch published![0m
+[1;33m[START] isaac-newton[0m
+[0;32m[SUCCESS] isaac-newton published![0m
+[1;33m[START] jack-benny[0m
+[0;32m[SUCCESS] jack-benny published![0m
+[1;33m[START] jack-welch[0m
+[0;32m[SUCCESS] jack-welch published![0m
+[1;33m[START] jackie-gleason[0m
+[0;32m[SUCCESS] jackie-gleason published![0m
+[1;33m[START] james-acaster[0m
+[0;32m[SUCCESS] james-acaster published![0m
+[1;33m[START] jamie-dimon[0m
+[0;32m[SUCCESS] jamie-dimon published![0m
+[1;33m[START] jane-austen[0m
+[0;32m[SUCCESS] jane-austen published![0m
+[1;33m[START] jane-goodall[0m
+[0;32m[SUCCESS] jane-goodall published![0m
+Progress: 200 personas processed (50 success, 0 failed, 150 skipped)
+[1;33m[START] jane-jacobs[0m
+[0;32m[SUCCESS] jane-jacobs published![0m
+[1;33m[START] jean-jacques-rousseau[0m
+[0;32m[SUCCESS] jean-jacques-rousseau published![0m
+[1;33m[START] jean-paul-sartre[0m
+[0;32m[SUCCESS] jean-paul-sartre published![0m
+[1;33m[START] jeff-bezos[0m
+[0;32m[SUCCESS] jeff-bezos published![0m
+[1;33m[START] jensen-huang[0m
+[0;32m[SUCCESS] jensen-huang published![0m
+[1;33m[START] jerry-lewis[0m
+[0;32m[SUCCESS] jerry-lewis published![0m
+[1;33m[START] jerry-seinfeld[0m
+[0;32m[SUCCESS] jerry-seinfeld published![0m
+[1;33m[START] jim-carrey[0m
+[0;32m[SUCCESS] jim-carrey published![0m
+[1;33m[START] jim-collins[0m
+[0;32m[SUCCESS] jim-collins published![0m
+[1;33m[START] jim-gaffigan[0m
+[0;32m[SUCCESS] jim-gaffigan published![0m
+[1;33m[START] jimmy-carr[0m
+[0;32m[SUCCESS] jimmy-carr published![0m
+[1;33m[START] jo-koy[0m
+[0;32m[SUCCESS] jo-koy published![0m
+[1;33m[START] joan-of-arc[0m
+[0;32m[SUCCESS] joan-of-arc published![0m
+[1;33m[START] joan-rivers[0m
+[0;32m[SUCCESS] joan-rivers published![0m
+[1;33m[START] joe-rogan[0m
+[0;32m[SUCCESS] joe-rogan published![0m
+[1;33m[START] joey-skaggs[0m
+[0;32m[SUCCESS] joey-skaggs published![0m
+[1;33m[START] johann-sebastian-bach[0m
+[0;32m[SUCCESS] johann-sebastian-bach published![0m
+[1;33m[START] john-belushi[0m
+[0;32m[SUCCESS] john-belushi published![0m
+[1;33m[START] john-boyd[0m
+[0;32m[SUCCESS] john-boyd published![0m
+[1;33m[START] john-cage[0m
+[0;32m[SUCCESS] john-cage published![0m
+[1;33m[START] john-calvin[0m
+[0;32m[SUCCESS] john-calvin published![0m
+[1;33m[START] john-cleese[0m
+[0;32m[SUCCESS] john-cleese published![0m
+[1;33m[START] john-d-rockefeller[0m
+[0;32m[SUCCESS] john-d-rockefeller published![0m
+[1;33m[START] john-doerr[0m
+[0;32m[SUCCESS] john-doerr published![0m
+[1;33m[START] john-henry-newman[0m
+[0;32m[SUCCESS] john-henry-newman published![0m
+Progress: 225 personas processed (75 success, 0 failed, 150 skipped)
+[1;33m[START] john-locke[0m
+[0;32m[SUCCESS] john-locke published![0m
+[1;33m[START] john-maynard-keynes[0m
+[0;32m[SUCCESS] john-maynard-keynes published![0m
+[1;33m[START] john-mccarthy[0m
+[0;32m[SUCCESS] john-mccarthy published![0m
+[1;33m[START] john-mulaney[0m
+[0;32m[SUCCESS] john-mulaney published![0m
+[1;33m[START] john-of-the-cross[0m
+[0;32m[SUCCESS] john-of-the-cross published![0m
+[1;33m[START] john-oliver[0m
+[0;32m[SUCCESS] john-oliver published![0m
+[1;33m[START] john-stuart-mill[0m
+[0;32m[SUCCESS] john-stuart-mill published![0m
+[1;33m[START] john-wesley[0m
+[0;32m[SUCCESS] john-wesley published![0m
+[1;33m[START] john-wooden[0m
+[0;32m[SUCCESS] john-wooden published![0m
+[1;33m[START] johnny-carson[0m
+[0;32m[SUCCESS] johnny-carson published![0m
+[1;33m[START] jon-stewart[0m
+[0;32m[SUCCESS] jon-stewart published![0m
+[1;33m[START] jonathan-edwards[0m
+[0;32m[SUCCESS] jonathan-edwards published![0m
+[1;33m[START] jonathan-swift[0m
+[0;32m[SUCCESS] jonathan-swift published![0m
+[1;33m[START] jonathan-winters[0m
+[0;32m[SUCCESS] jonathan-winters published![0m
+[1;33m[START] jordan-peele[0m
+[0;32m[SUCCESS] jordan-peele published![0m
+[1;33m[START] joseph-campbell[0m
+[0;32m[SUCCESS] joseph-campbell published![0m
+[1;33m[START] jp-morgan[0m
+[0;32m[SUCCESS] jp-morgan published![0m
+[1;33m[START] judea-pearl[0m
+[0;32m[SUCCESS] judea-pearl published![0m
+[1;33m[START] julian-of-norwich[0m
+[0;32m[SUCCESS] julian-of-norwich published![0m
+[1;33m[START] julius-caesar[0m
+[0;32m[SUCCESS] julius-caesar published![0m
+[1;33m[START] jurgen-moltmann[0m
+[0;32m[SUCCESS] jurgen-moltmann published![0m
+[1;33m[START] karl-barth[0m
+[0;32m[SUCCESS] karl-barth published![0m
+[1;33m[START] karl-marx[0m
+[0;32m[SUCCESS] karl-marx published![0m
+[1;33m[START] kate-mckinnon[0m
+[0;32m[SUCCESS] kate-mckinnon published![0m
+[1;33m[START] katharine-graham[0m
+[0;32m[SUCCESS] katharine-graham published![0m
+Progress: 250 personas processed (100 success, 0 failed, 150 skipped)
+[1;33m[START] keegan-michael-key[0m
+[0;32m[SUCCESS] keegan-michael-key published![0m
+[1;33m[START] ken-jeong[0m
+[0;32m[SUCCESS] ken-jeong published![0m
+[1;33m[START] konosuke-matsushita[0m
+[0;32m[SUCCESS] konosuke-matsushita published![0m
+[1;33m[START] krishnamurti[0m
+[0;32m[SUCCESS] krishnamurti published![0m
+[1;33m[START] kristen-wiig[0m
+[0;32m[SUCCESS] kristen-wiig published![0m
+[1;33m[START] kumail-nanjiani[0m
+[0;32m[SUCCESS] kumail-nanjiani published![0m
+[1;33m[START] kyle-mooney[0m
+[0;32m[SUCCESS] kyle-mooney published![0m
+[1;33m[START] lao-tzu[0m
+[0;32m[SUCCESS] lao-tzu published![0m
+[1;33m[START] larry-page[0m
+[0;32m[SUCCESS] larry-page published![0m
+[1;33m[START] larry-wilmore[0m
+[0;32m[SUCCESS] larry-wilmore published![0m
+[1;33m[START] lee-kuan-yew[0m
+[0;32m[SUCCESS] lee-kuan-yew published![0m
+[1;33m[START] lenny-bruce[0m
+[0;32m[SUCCESS] lenny-bruce published![0m
+[1;33m[START] leo-tolstoy[0m
+[0;32m[SUCCESS] leo-tolstoy published![0m
+[1;33m[START] leonardo-da-vinci[0m
+[0;32m[SUCCESS] leonardo-da-vinci published![0m
+[1;33m[START] leslie-nielsen[0m
+[0;32m[SUCCESS] leslie-nielsen published![0m
+[1;33m[START] lou-gerstner[0m
+[0;32m[SUCCESS] lou-gerstner published![0m
+[1;33m[START] louis-ck[0m
+[0;32m[SUCCESS] louis-ck published![0m
+[1;33m[START] lucille-ball[0m
+[0;32m[SUCCESS] lucille-ball published![0m
+[1;33m[START] ludwig-wittgenstein[0m
+[0;32m[SUCCESS] ludwig-wittgenstein published![0m
+[1;33m[START] mackenzie-scott[0m
+[0;32m[SUCCESS] mackenzie-scott published![0m
+[1;33m[START] madam-cj-walker[0m
+[0;32m[SUCCESS] madam-cj-walker published![0m
+[1;33m[START] maimonides[0m
+[0;32m[SUCCESS] maimonides published![0m
+[1;33m[START] malcolm-x[0m
+[0;32m[SUCCESS] malcolm-x published![0m
+[1;33m[START] marc-andreessen[0m
+[0;32m[SUCCESS] marc-andreessen published![0m
+[1;33m[START] marc-maron[0m
+[0;32m[SUCCESS] marc-maron published![0m
+Progress: 275 personas processed (125 success, 0 failed, 150 skipped)
+[1;33m[START] marcel-duchamp[0m
+[0;32m[SUCCESS] marcel-duchamp published![0m
+[1;33m[START] marcus-aurelius[0m
+[0;32m[SUCCESS] marcus-aurelius published![0m
+[1;33m[START] margaret-cho[0m
+[0;32m[SUCCESS] margaret-cho published![0m
+[1;33m[START] maria-bamford[0m
+[0;32m[SUCCESS] maria-bamford published![0m
+[1;33m[START] maria-montessori[0m
+[0;32m[SUCCESS] maria-montessori published![0m
+[1;33m[START] marie-curie[0m
+[0;32m[SUCCESS] marie-curie published![0m
+[1;33m[START] mark-twain[0m
+[0;32m[SUCCESS] mark-twain published![0m
+[1;33m[START] martin-buber[0m
+[0;32m[SUCCESS] martin-buber published![0m
+[1;33m[START] martin-heidegger[0m
+[0;32m[SUCCESS] martin-heidegger published![0m
+[1;33m[START] martin-luther-king-jr[0m
+[0;32m[SUCCESS] martin-luther-king-jr published![0m
+[1;33m[START] martin-luther[0m
+[0;32m[SUCCESS] martin-luther published![0m
+[1;33m[START] martin-mull[0m
+[0;32m[SUCCESS] martin-mull published![0m
+[1;33m[START] martin-seligman[0m
+[0;32m[SUCCESS] martin-seligman published![0m
+[1;33m[START] martin-short[0m
+[0;32m[SUCCESS] martin-short published![0m
+[1;33m[START] marvin-minsky[0m
+[0;32m[SUCCESS] marvin-minsky published![0m
+[1;33m[START] mary-barra[0m
+[0;32m[SUCCESS] mary-barra published![0m
+[1;33m[START] mary-shelley[0m
+[0;32m[SUCCESS] mary-shelley published![0m
+[1;33m[START] maya-angelou[0m
+[0;32m[SUCCESS] maya-angelou published![0m
+[1;33m[START] meister-eckhart[0m
+[0;32m[SUCCESS] meister-eckhart published![0m
+[1;33m[START] mel-brooks[0m
+[0;32m[SUCCESS] mel-brooks published![0m
+[1;33m[START] michael-che[0m
+[0;32m[SUCCESS] michael-che published![0m
+[1;33m[START] michael-jordan[0m
+[0;32m[SUCCESS] michael-jordan published![0m
+[1;33m[START] michael-palin[0m
+[0;32m[SUCCESS] michael-palin published![0m
+[1;33m[START] michael-porter[0m
+[0;32m[SUCCESS] michael-porter published![0m
+[1;33m[START] michel-foucault[0m
+[0;32m[SUCCESS] michel-foucault published![0m
+Progress: 300 personas processed (150 success, 0 failed, 150 skipped)
+[1;33m[START] michelangelo[0m
+[0;32m[SUCCESS] michelangelo published![0m
+[1;33m[START] mike-birbiglia[0m
+[0;32m[SUCCESS] mike-birbiglia published![0m
+[1;33m[START] mike-myers[0m
+[0;32m[SUCCESS] mike-myers published![0m
+[1;33m[START] mike-nichols[0m
+[0;32m[SUCCESS] mike-nichols published![0m
+[1;33m[START] miles-davis[0m
+[0;32m[SUCCESS] miles-davis published![0m
+[1;33m[START] milton-friedman[0m
+[0;32m[SUCCESS] milton-friedman published![0m
+[1;33m[START] mitch-hedberg[0m
+[0;32m[SUCCESS] mitch-hedberg published![0m
+[1;33m[START] miyamoto-musashi[0m
+[0;32m[SUCCESS] miyamoto-musashi published![0m
+[1;33m[START] mort-sahl[0m
+[0;32m[SUCCESS] mort-sahl published![0m
+[1;33m[START] mother-teresa[0m
+[0;32m[SUCCESS] mother-teresa published![0m
+[1;33m[START] napoleon-bonaparte[0m
+[0;32m[SUCCESS] napoleon-bonaparte published![0m
+[1;33m[START] nassim-taleb[0m
+[0;32m[SUCCESS] nassim-taleb published![0m
+[1;33m[START] natasha-leggero[0m
+[0;32m[SUCCESS] natasha-leggero published![0m
+[1;33m[START] nate-bargatze[0m
+[0;32m[SUCCESS] nate-bargatze published![0m
+[1;33m[START] nathan-fielder[0m
+[0;32m[SUCCESS] nathan-fielder published![0m
+[1;33m[START] naval-ravikant[0m
+[0;32m[SUCCESS] naval-ravikant published![0m
+[1;33m[START] neil-hamburger[0m
+[0;32m[SUCCESS] neil-hamburger published![0m
+[1;33m[START] nelson-mandela[0m
+[0;32m[SUCCESS] nelson-mandela published![0m
+[1;33m[START] niccolo-machiavelli[0m
+[0;32m[SUCCESS] niccolo-machiavelli published![0m
+[1;33m[START] nikki-glaser[0m
+[0;32m[SUCCESS] nikki-glaser published![0m
+[1;33m[START] nikola-tesla[0m
+[0;32m[SUCCESS] nikola-tesla published![0m
+[1;33m[START] nisargadatta-maharaj[0m
+[0;32m[SUCCESS] nisargadatta-maharaj published![0m
+[1;33m[START] noam-chomsky[0m
+[0;32m[SUCCESS] noam-chomsky published![0m
+[1;33m[START] norm-macdonald[0m
+[0;32m[SUCCESS] norm-macdonald published![0m
+[1;33m[START] oliver-hardy[0m
+[0;32m[SUCCESS] oliver-hardy published![0m
+Progress: 325 personas processed (175 success, 0 failed, 150 skipped)
+[1;33m[START] oprah-winfrey[0m
+[0;32m[SUCCESS] oprah-winfrey published![0m
+[1;33m[START] oscar-wilde[0m
+[0;32m[SUCCESS] oscar-wilde published![0m
+[1;33m[START] ouspensky[0m
+[0;32m[SUCCESS] ouspensky published![0m
+[1;33m[START] pablo-picasso[0m
+[0;32m[SUCCESS] pablo-picasso published![0m
+[1;33m[START] paramahansa-yogananda[0m
+[0;32m[SUCCESS] paramahansa-yogananda published![0m
+[1;33m[START] patrice-oneal[0m
+[0;32m[SUCCESS] patrice-oneal published![0m
+[1;33m[START] patrick-collison[0m
+[0;32m[SUCCESS] patrick-collison published![0m
+[1;33m[START] patton-oswalt[0m
+[0;32m[SUCCESS] patton-oswalt published![0m
+[1;33m[START] paul-graham[0m
+[0;32m[SUCCESS] paul-graham published![0m
+[1;33m[START] paul-tillich[0m
+[0;32m[SUCCESS] paul-tillich published![0m
+[1;33m[START] pema-chodron[0m
+[0;32m[SUCCESS] pema-chodron published![0m
+[1;33m[START] peter-cook[0m
+[0;32m[SUCCESS] peter-cook published![0m
+[1;33m[START] peter-drucker[0m
+[0;32m[SUCCESS] peter-drucker published![0m
+[1;33m[START] peter-sellers[0m
+[0;32m[SUCCESS] peter-sellers published![0m
+[1;33m[START] phil-jackson[0m
+[0;32m[SUCCESS] phil-jackson published![0m
+[1;33m[START] phyllis-diller[0m
+[0;32m[SUCCESS] phyllis-diller published![0m
+[1;33m[START] plato[0m
+[0;32m[SUCCESS] plato published![0m
+[1;33m[START] pope-francis[0m
+[0;32m[SUCCESS] pope-francis published![0m
+[1;33m[START] prompt-engineering[0m
+[0;32m[SUCCESS] prompt-engineering published![0m
+[1;33m[START] pussy-riot[0m
+[0;32m[SUCCESS] pussy-riot published![0m
+[1;33m[START] quincy-jones[0m
+[0;32m[SUCCESS] quincy-jones published![0m
+[1;33m[START] rachel-carson[0m
+[0;32m[SUCCESS] rachel-carson published![0m
+[1;33m[START] rachel-held-evans[0m
+[0;32m[SUCCESS] rachel-held-evans published![0m
+[1;33m[START] ram-dass[0m
+[0;32m[SUCCESS] ram-dass published![0m
+[1;33m[START] ramana-maharshi[0m
+[0;32m[SUCCESS] ramana-maharshi published![0m
+Progress: 350 personas processed (200 success, 0 failed, 150 skipped)
+[1;33m[START] ray-dalio[0m
+[0;32m[SUCCESS] ray-dalio published![0m
+[1;33m[START] ray-kroc[0m
+[0;32m[SUCCESS] ray-kroc published![0m
+[1;33m[START] ray-kurzweil[0m
+[0;32m[SUCCESS] ray-kurzweil published![0m
+[1;33m[START] red-skelton[0m
+[0;32m[SUCCESS] red-skelton published![0m
+[1;33m[START] redd-foxx[0m
+[0;32m[SUCCESS] redd-foxx published![0m
+[1;33m[START] reed-hastings[0m
+[0;32m[SUCCESS] reed-hastings published![0m
+[1;33m[START] reggie-watts[0m
+[0;32m[SUCCESS] reggie-watts published![0m
+[1;33m[START] reinhold-niebuhr[0m
+[0;32m[SUCCESS] reinhold-niebuhr published![0m
+[1;33m[START] rene-descartes[0m
+[0;32m[SUCCESS] rene-descartes published![0m
+[1;33m[START] richard-branson[0m
+[0;32m[SUCCESS] richard-branson published![0m
+[1;33m[START] richard-dawkins[0m
+[0;32m[SUCCESS] richard-dawkins published![0m
+[1;33m[START] richard-feynman[0m
+[0;32m[SUCCESS] richard-feynman published![0m
+[1;33m[START] richard-pryor[0m
+[0;32m[SUCCESS] richard-pryor published![0m
+[1;33m[START] rick-rubin[0m
+[0;32m[SUCCESS] rick-rubin published![0m
+[1;33m[START] ricky-gervais[0m
+[0;32m[SUCCESS] ricky-gervais published![0m
+[1;33m[START] robert-anton-wilson[0m
+[0;32m[SUCCESS] robert-anton-wilson published![0m
+[1;33m[START] robert-caro[0m
+[0;32m[SUCCESS] robert-caro published![0m
+[1;33m[START] robert-greene[0m
+[0;32m[SUCCESS] robert-greene published![0m
+[1;33m[START] robert-moses[0m
+[0;32m[SUCCESS] robert-moses published![0m
+[1;33m[START] robin-williams[0m
+[0;32m[SUCCESS] robin-williams published![0m
+[1;33m[START] rodney-dangerfield[0m
+[0;32m[SUCCESS] rodney-dangerfield published![0m
+[1;33m[START] ronny-chieng[0m
+[0;32m[SUCCESS] ronny-chieng published![0m
+[1;33m[START] rosalind-franklin[0m
+[0;32m[SUCCESS] rosalind-franklin published![0m
+[1;33m[START] rowan-atkinson[0m
+[0;32m[SUCCESS] rowan-atkinson published![0m
+[1;33m[START] rumi[0m
+[0;32m[SUCCESS] rumi published![0m
+Progress: 375 personas processed (225 success, 0 failed, 150 skipped)
+[1;33m[START] russell-brand[0m
+[0;32m[SUCCESS] russell-brand published![0m
+[1;33m[START] russell-peters[0m
+[0;32m[SUCCESS] russell-peters published![0m
+[1;33m[START] sacha-baron-cohen[0m
+[0;32m[SUCCESS] sacha-baron-cohen published![0m
+[1;33m[START] sam-altman[0m
+[0;32m[SUCCESS] sam-altman published![0m
+[1;33m[START] sam-walton[0m
+[0;32m[SUCCESS] sam-walton published![0m
+[1;33m[START] samantha-bee[0m
+[0;32m[SUCCESS] samantha-bee published![0m
+[1;33m[START] sara-blakely[0m
+[0;32m[SUCCESS] sara-blakely published![0m
+[1;33m[START] satya-nadella[0m
+[0;32m[SUCCESS] satya-nadella published![0m
+[1;33m[START] saul-alinsky[0m
+[0;32m[SUCCESS] saul-alinsky published![0m
+[1;33m[START] seneca[0m
+[0;32m[SUCCESS] seneca published![0m
+[1;33m[START] serena-williams[0m
+[0;32m[SUCCESS] serena-williams published![0m
+[1;33m[START] seth-godin[0m
+[0;32m[SUCCESS] seth-godin published![0m
+[1;33m[START] seth-meyers[0m
+[0;32m[SUCCESS] seth-meyers published![0m
+[1;33m[START] shelley-berman[0m
+[0;32m[SUCCESS] shelley-berman published![0m
+[1;33m[START] sheryl-sandberg[0m
+[0;32m[SUCCESS] sheryl-sandberg published![0m
+[1;33m[START] sid-caesar[0m
+[0;32m[SUCCESS] sid-caesar published![0m
+[1;33m[START] sigmund-freud[0m
+[0;32m[SUCCESS] sigmund-freud published![0m
+[1;33m[START] simon-bolivar[0m
+[0;32m[SUCCESS] simon-bolivar published![0m
+[1;33m[START] simon-sinek[0m
+[0;32m[SUCCESS] simon-sinek published![0m
+[1;33m[START] simone-de-beauvoir[0m
+[0;32m[SUCCESS] simone-de-beauvoir published![0m
+[1;33m[START] simone-weil[0m
+[0;32m[SUCCESS] simone-weil published![0m
+[1;33m[START] socrates[0m
+[0;32m[SUCCESS] socrates published![0m
+[1;33m[START] soichiro-honda[0m
+[0;32m[SUCCESS] soichiro-honda published![0m
+[1;33m[START] soren-kierkegaard[0m
+[0;32m[SUCCESS] soren-kierkegaard published![0m
+[1;33m[START] spike-milligan[0m
+[0;32m[SUCCESS] spike-milligan published![0m
+Progress: 400 personas processed (250 success, 0 failed, 150 skipped)
+[1;33m[START] sri-aurobindo[0m
+[0;32m[SUCCESS] sri-aurobindo published![0m
+[1;33m[START] st-francis-of-assisi[0m
+[0;32m[SUCCESS] st-francis-of-assisi published![0m
+[1;33m[START] st-paul[0m
+[0;32m[SUCCESS] st-paul published![0m
+[1;33m[START] stan-laurel[0m
+[0;32m[SUCCESS] stan-laurel published![0m
+[1;33m[START] stanley-hauerwas[0m
+[0;32m[SUCCESS] stanley-hauerwas published![0m
+[1;33m[START] stanley-kubrick[0m
+[0;32m[SUCCESS] stanley-kubrick published![0m
+[1;33m[START] stephen-colbert[0m
+[0;32m[SUCCESS] stephen-colbert published![0m
+[1;33m[START] stephen-covey[0m
+[0;32m[SUCCESS] stephen-covey published![0m
+[1;33m[START] stephen-fry[0m
+[0;32m[SUCCESS] stephen-fry published![0m
+[1;33m[START] stephen-hawking[0m
+[0;32m[SUCCESS] stephen-hawking published![0m
+[1;33m[START] steve-jobs[0m
+[0;32m[SUCCESS] steve-jobs published![0m
+[1;33m[START] steve-martin[0m
+[0;32m[SUCCESS] steve-martin published![0m
+[1;33m[START] steven-wright[0m
+[0;32m[SUCCESS] steven-wright published![0m
+[1;33m[START] stewart-lee[0m
+[0;32m[SUCCESS] stewart-lee published![0m
+[1;33m[START] stuart-russell[0m
+[0;32m[SUCCESS] stuart-russell published![0m
+[1;33m[START] sun-tzu[0m
+[0;32m[SUCCESS] sun-tzu published![0m
+[1;33m[START] swami-vivekananda[0m
+[0;32m[SUCCESS] swami-vivekananda published![0m
+[1;33m[START] taylor-swift[0m
+[0;32m[SUCCESS] taylor-swift published![0m
+[1;33m[START] taylor-tomlinson[0m
+[0;32m[SUCCESS] taylor-tomlinson published![0m
+[1;33m[START] teresa-of-avila[0m
+[0;32m[SUCCESS] teresa-of-avila published![0m
+[1;33m[START] terry-gilliam[0m
+[0;32m[SUCCESS] terry-gilliam published![0m
+[1;33m[START] terry-jones[0m
+[0;32m[SUCCESS] terry-jones published![0m
+[1;33m[START] terry-sejnowski[0m
+[0;32m[SUCCESS] terry-sejnowski published![0m
+[1;33m[START] the-buddha[0m
+[0;32m[SUCCESS] the-buddha published![0m
+[1;33m[START] the-marx-brothers[0m
+[0;32m[SUCCESS] the-marx-brothers published![0m
+Progress: 425 personas processed (275 success, 0 failed, 150 skipped)
+[1;33m[START] the-three-stooges[0m
+[0;32m[SUCCESS] the-three-stooges published![0m
+[1;33m[START] the-yes-men[0m
+[0;32m[SUCCESS] the-yes-men published![0m
+[1;33m[START] theo-von[0m
+[0;32m[SUCCESS] theo-von published![0m
+[1;33m[START] theodore-roosevelt[0m
+[0;32m[SUCCESS] theodore-roosevelt published![0m
+[1;33m[START] thich-nhat-hanh[0m
+[0;32m[SUCCESS] thich-nhat-hanh published![0m
+[1;33m[START] thomas-aquinas[0m
+[0;32m[SUCCESS] thomas-aquinas published![0m
+[1;33m[START] thomas-edison[0m
+[0;32m[SUCCESS] thomas-edison published![0m
+[1;33m[START] thomas-hobbes[0m
+[0;32m[SUCCESS] thomas-hobbes published![0m
+[1;33m[START] thomas-jefferson[0m
+[0;32m[SUCCESS] thomas-jefferson published![0m
+[1;33m[START] thomas-merton[0m
+[0;32m[SUCCESS] thomas-merton published![0m
+[1;33m[START] tig-notaro[0m
+[0;32m[SUCCESS] tig-notaro published![0m
+[1;33m[START] tim-conway[0m
+[0;32m[SUCCESS] tim-conway published![0m
+[1;33m[START] tim-cook[0m
+[0;32m[SUCCESS] tim-cook published![0m
+[1;33m[START] tim-robinson[0m
+[0;32m[SUCCESS] tim-robinson published![0m
+[1;33m[START] timothy-leary[0m
+[0;32m[SUCCESS] timothy-leary published![0m
+[1;33m[START] tina-fey[0m
+[0;32m[SUCCESS] tina-fey published![0m
+[1;33m[START] tobi-lutke[0m
+[0;32m[SUCCESS] tobi-lutke published![0m
+[1;33m[START] tom-segura[0m
+[0;32m[SUCCESS] tom-segura published![0m
+[1;33m[START] toni-morrison[0m
+[0;32m[SUCCESS] toni-morrison published![0m
+[1;33m[START] tony-hsieh[0m
+[0;32m[SUCCESS] tony-hsieh published![0m
+[1;33m[START] trevor-noah[0m
+[0;32m[SUCCESS] trevor-noah published![0m
+[1;33m[START] vaclav-havel[0m
+[0;32m[SUCCESS] vaclav-havel published![0m
+[1;33m[START] viktor-frankl[0m
+[0;32m[SUCCESS] viktor-frankl published![0m
+[1;33m[START] vincent-van-gogh[0m
+[0;32m[SUCCESS] vincent-van-gogh published![0m
+[1;33m[START] viola-spolin[0m
+[0;32m[SUCCESS] viola-spolin published![0m
+Progress: 450 personas processed (300 success, 0 failed, 150 skipped)
+[1;33m[START] virginia-woolf[0m
+[0;32m[SUCCESS] virginia-woolf published![0m
+[1;33m[START] voltaire[0m
+[0;32m[SUCCESS] voltaire published![0m
+[1;33m[START] w-kamau-bell[0m
+[0;32m[SUCCESS] w-kamau-bell published![0m
+[1;33m[START] walt-disney[0m
+[0;32m[SUCCESS] walt-disney published![0m
+[1;33m[START] walter-brueggemann[0m
+[0;32m[SUCCESS] walter-brueggemann published![0m
+[1;33m[START] wanda-sykes[0m
+[0;32m[SUCCESS] wanda-sykes published![0m
+[1;33m[START] warren-buffett[0m
+[0;32m[SUCCESS] warren-buffett published![0m
+[1;33m[START] whitney-cummings[0m
+[0;32m[SUCCESS] whitney-cummings published![0m
+[1;33m[START] will-ferrell[0m
+[0;32m[SUCCESS] will-ferrell published![0m
+[1;33m[START] william-james[0m
+[0;32m[SUCCESS] william-james published![0m
+[1;33m[START] william-s-burroughs[0m
+[0;32m[SUCCESS] william-s-burroughs published![0m
+[1;33m[START] william-shakespeare[0m
+[0;32m[SUCCESS] william-shakespeare published![0m
+[1;33m[START] winston-churchill[0m
+[0;32m[SUCCESS] winston-churchill published![0m
+[1;33m[START] yann-lecun[0m
+[0;32m[SUCCESS] yann-lecun published![0m
+[1;33m[START] yoshua-bengio[0m
+[0;32m[SUCCESS] yoshua-bengio published![0m
+[1;33m[START] zach-galifianakis[0m
+[0;32m[SUCCESS] zach-galifianakis published![0m
+[1;33m[START] zaha-hadid[0m
+[0;32m[SUCCESS] zaha-hadid published![0m
+[1;33m[START] zhuangzi[0m
+[0;32m[SUCCESS] zhuangzi published![0m
+
+========================
+COMPLETE
+Total: 468 | Success: 318 | Failed: 0 | Skipped: 150
+Finished: Thu Feb 12 19:09:50 CST 2026

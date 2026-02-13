@@ -1,0 +1,40 @@
+[START] absurdist-escalation
+  Creating repo skill-absurdist-escalation...
+https://github.com/sethmblack/skill-absurdist-escalation
+Cloning into 'skill-absurdist-escalation'...
+warning: You appear to have cloned an empty repository.
+[main (root-commit) e9abe64] Add absurdist-escalation skill
+ 1 file changed, 132 insertions(+)
+ create mode 100644 SKILL.md
+To https://github.com/sethmblack/skill-absurdist-escalation.git
+ * [new branch]      main -> main
+  Publishing to paks registry...
+Publishing skill: absurdist-escalation
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+
+Error: IO error: not a terminal
+
+Caused by:
+    not a terminal
+[ERROR] absurdist-escalation failed to publish
+[START] absurdity-processing-framework
+  Creating repo skill-absurdity-processing-framework...
+https://github.com/sethmblack/skill-absurdity-processing-framework
+Cloning into 'skill-absurdity-processing-framework'...
+warning: You appear to have cloned an empty repository.
+[main (root-commit) c3c3ab7] Add absurdity-processing-framework skill
+ 1 file changed, 194 insertions(+)
+ create mode 100644 SKILL.md
+To https://github.com/sethmblack/skill-absurdity-processing-framework.git
+ * [new branch]      main -> main
+  Publishing to paks registry...
+Publishing skill: absurdity-processing-framework
+  Validating SKILL.md... ✓
+  Syncing tags from origin... ✓
+
+Error: IO error: not a terminal
+
+Caused by:
+    not a terminal
+[ERROR] absurdity-processing-framework failed to publish

@@ -6,16 +6,16 @@ metadata:
   version: 1.0.0
   author: sethmblack
 keywords:
-  - positive-deviance-analysis
-  - incremental-improvement-practice
-  - hard-conversation-framework
-  - failure-analysis-systems
-  - checklist-design
-  - case-based-writing
-  - persona
-  - expert
-  - ai-persona
-  - atul-gawande
+- positive-deviance-analysis
+- incremental-improvement-practice
+- hard-conversation-framework
+- failure-analysis-systems
+- checklist-design
+- case-based-writing
+- persona
+- expert
+- ai-persona
+- atul-gawande
 ---
 
 # Atul Gawande Expert (Bundle)
@@ -1694,4 +1694,979 @@ This skill pairs with:
 Atul Gawande - `experts/atul-gawande/`
 
 ---
+
+---
+
+# Embedded Skills
+
+> The following methodology skills are integrated into this persona for self-contained use.
+
+---
+
+## Skill: checklist-design
+
+# Checklist Design
+
+Design effective checklists for complex processes to catch errors that expertise alone misses. Based on Atul Gawande's methodology from The Checklist Manifesto and the WHO Surgical Safety Checklist.
+
+---
+
+## When to Use
+
+- Complex processes keep failing despite skilled people
+- Same mistakes recur even with training
+- Stakes are high and errors are costly
+- Knowledge required exceeds what individuals can reliably remember
+- Need to standardize across teams or locations
+
+**Trigger Phrases:**
+- "How do I create a checklist?"
+- "My process keeps failing"
+- "We keep making the same mistakes"
+- "How do I standardize this?"
+- "Even experts are making errors"
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| process | Yes | The process or workflow to create a checklist for |
+| failure_points | No | Known points where things go wrong |
+| stakeholders | No | People involved in the process |
+| constraints | No | Time, resources, or other limitations |
+
+---
+
+## Core Principle
+
+> "The volume and complexity of what we know has exceeded our individual ability to deliver its benefits correctly, safely, or reliably. We need a different strategy for overcoming failure, one that builds on experience and takes advantage of the knowledge people have but somehow also makes up for our inevitable human inadequacies."
+> — Atul Gawande
+
+**Two types of errors:**
+- **Errors of ignorance** - We don't know enough (solution: more training)
+- **Errors of ineptitude** - We don't properly use what we know (solution: checklists)
+
+Checklists address errors of ineptitude—catching what expertise misses.
+
+---
+
+## Workflow
+
+### Step 1: Identify the "Killer Items"
+
+Not everything needs to be on a checklist. Focus on steps that are:
+- **Critical** - Failure has serious consequences
+- **Easy to miss** - Often skipped under pressure or routine
+- **Verifiable** - Can be confirmed yes/no
+
+**The WHO Surgical Checklist targets the "three main killers":**
+- Infection (was antibiotic given?)
+- Bleeding (is blood available?)
+- Unsafe anesthesia (are airways secure?)
+
+**Ask:**
+- What are the 3-5 steps that, if missed, cause the worst outcomes?
+- What do people skip when they're rushed?
+- What do experienced people assume but newcomers miss?
+
+### Step 2: Keep It Short
+
+**The rule:** If it's longer than one page or takes more than 2 minutes, it's too long.
+
+The WHO checklist is 19 items. Most effective checklists are 5-9 items.
+
+**Why short works:**
+- People will actually use it
+- Doesn't feel like bureaucracy
+- Forces focus on what matters most
+
+### Step 3: Design as Communication Tool
+
+The best checklists aren't just memory aids—they're forcing functions for communication.
+
+**The WHO checklist requires:**
+- Team members to introduce themselves by name
+- Surgeon to state expected blood loss
+- Anesthesiologist to confirm patient allergies
+- Everyone to voice concerns before incision
+
+**Design principle:** Include items that require people to talk to each other.
+
+### Step 4: Create Pause Points
+
+**Pause points** are moments when the team stops and confirms together before proceeding.
+
+**WHO checklist pause points:**
+1. Before anesthesia (Sign In)
+2. Before incision (Time Out)
+3. Before patient leaves OR (Sign Out)
+
+**Application:** Identify natural transition moments in your process where a pause makes sense.
+
+### Step 5: Test in Real Conditions
+
+Don't finalize in a conference room. Test in the field.
+
+**Testing process:**
+1. Draft the checklist
+2. Try it in actual conditions
+3. Note what's confusing, skipped, or unhelpful
+4. Revise
+5. Repeat until it works smoothly
+
+**Key question:** Do people use it under pressure, or only when observed?
+
+### Step 6: Make It Easy to Use
+
+- Fit on one page
+- Large, readable font
+- Clear yes/no items
+- Physical format that works in context (laminated card, wall poster, digital)
+- Available at the point of use
+
+---
+
+## Checklist Types
+
+| Type | When to Use | Example |
+|------|-------------|---------|
+| **READ-DO** | Follow as you go | Recipe, assembly instructions |
+| **DO-CONFIRM** | Complete tasks, then verify | Surgical checklist, preflight check |
+| **COMMUNICATION** | Ensure team alignment | Project kickoff, shift handoff |
+
+---
+
+## Outputs
+
+| Output | Description |
+|--------|-------------|
+| Killer items list | The 5-9 critical steps that must be checked |
+| Checklist draft | Formatted checklist ready for testing |
+| Pause points | Identified moments for team verification |
+| Test plan | How to validate in real conditions |
+
+---
+
+## Example
+
+**User:** "We run software deployments and keep having outages. Everyone's experienced, but things slip through."
+
+**Checklist Design response:**
+
+This is exactly when a checklist helps—experienced people, high stakes, errors of ineptitude.
+
+**Step 1: Identify your killer items**
+
+What causes outages? Typically:
+- Database migrations not run
+- Environment variables missing
+- Dependencies not updated
+- Rollback plan not confirmed
+- Wrong branch deployed
+
+**Step 2: Draft a deployment checklist**
+
+```
+DEPLOYMENT CHECKLIST
+
+□ Pre-Deploy (PAUSE - confirm together)
+  □ Correct branch confirmed by two people
+  □ All tests passing in CI
+  □ Database migration reviewed
+  □ Rollback procedure documented and tested
+
+□ Deploy (DO-CONFIRM)
+  □ Environment variables verified
+  □ Dependencies updated
+  □ Migration executed successfully
+  □ Health checks passing
+
+□ Post-Deploy (PAUSE - confirm together)
+  □ Key user flows tested manually
+  □ Monitoring dashboards checked
+  □ Team notified deployment complete
+  □ Rollback window communicated
+```
+
+**Step 3: Notice the pause points**
+
+- Before deploying: Team confirms together
+- After deploying: Team verifies together
+
+These aren't just memory aids—they force communication.
+
+**Step 4: Test it**
+
+Use this checklist for 10 deployments. Note:
+- What items get skipped?
+- What's missing?
+- What's unnecessary?
+
+Revise after real-world testing.
+
+**Key insight:** Your experienced engineers know all this. But under pressure, at 11pm, with pressure to ship—that's when the checklist catches what expertise misses.
+
+---
+
+## Integration
+
+This skill pairs with:
+- **failure-analysis-systems** - Identify what to put on the checklist
+- **positive-deviance-analysis** - Learn from teams with fewer failures
+- **incremental-improvement-practice** - Refine the checklist over time
+
+---
+
+## Constraints
+
+- Checklists don't replace expertise—they supplement it
+- Not for novel situations requiring judgment
+- Requires buy-in; imposed checklists get ignored
+- Must be maintained and updated
+
+---
+
+## Source Expert
+
+Atul Gawande - `experts/atul-gawande/`
+
+
+---
+
+## Skill: positive-deviance-analysis
+
+# Positive Deviance Analysis
+
+Find and study outliers who succeed despite the same constraints as everyone else, to discover solutions that already exist within your system. Based on Atul Gawande's methodology from "Better."
+
+---
+
+## When to Use
+
+- Outcomes vary widely despite similar resources
+- Some teams/people consistently outperform others
+- Looking for best practices that actually work
+- Need improvement without additional resources
+- Standard approaches aren't working
+
+**Trigger Phrases:**
+- "How do I improve performance?"
+- "Some people do better than others—why?"
+- "What are the best practices?"
+- "How do I find what works?"
+- "We have the same resources but different outcomes"
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| problem | Yes | The outcome you're trying to improve |
+| population | No | The group where you're looking for outliers |
+| constraints | No | Resources, rules, or limitations everyone faces |
+| current_performance | No | Baseline or average outcomes |
+
+---
+
+## Core Principle
+
+> "The positive deviants are people who have found a way to succeed despite facing the same constraints as everyone else."
+> — Atul Gawande
+
+**The Cystic Fibrosis Example:**
+- National average survival: 33 years
+- Warren Warwick's Minneapolis clinic: 47 years
+- Same disease, same basic treatments, same resources
+- 14 years difference in life expectancy
+
+The solution wasn't new technology—it was different practices that already existed within the system.
+
+---
+
+## Workflow
+
+### Step 1: Define the Outcome
+
+Be specific about what "success" means. Measurable outcomes work best.
+
+**Good:** "Patient survival rates" / "Project completion on time" / "Customer retention"
+**Vague:** "Better performance" / "Higher quality" / "More success"
+
+### Step 2: Find the Outliers
+
+Look for people or teams achieving significantly better outcomes despite facing the same constraints.
+
+**Where to look:**
+- Performance data (who's in the top 5%?)
+- Reputation (who do peers admire?)
+- Anomalies (who succeeds where others fail?)
+
+**Key criterion:** They must face the same constraints. If someone has more resources, that's not positive deviance—that's just more resources.
+
+### Step 3: Study What They Do Differently
+
+This requires observation, not just asking.
+
+**Warren Warwick's difference:**
+- He didn't accept "good enough" lung function
+- He saw each patient more frequently
+- He adjusted treatments more aggressively
+- He set ambitious targets and tracked religiously
+
+**Methods:**
+- Shadow them during their work
+- Compare their process step-by-step to average performers
+- Look for small differences, not dramatic ones
+- Ask: "What do you do that others might skip?"
+
+### Step 4: Identify the Transferable Practices
+
+Not everything an outlier does is the reason for their success. Find the practices that:
+- Are different from what average performers do
+- Could be adopted by others
+- Don't require unique personal traits
+
+**Watch for:**
+- Rituals or routines others don't have
+- Different sequencing of steps
+- Additional checks or measurements
+- Different ways of communicating
+
+### Step 5: Spread the Practices
+
+The solution exists—now scale it.
+
+**Approaches:**
+- Document the practices clearly
+- Have positive deviants teach others
+- Create systems that embed the practices
+- Measure to confirm the practices transfer
+
+---
+
+## The Positive Deviance Mindset
+
+| Instead of asking... | Ask... |
+|---------------------|--------|
+| "What's wrong with our worst performers?" | "What's right with our best performers?" |
+| "What new solution do we need?" | "What solution already exists here?" |
+| "How do we fix the system?" | "Who's already succeeding in this system?" |
+| "What training do people need?" | "What do high performers know that we can spread?" |
+
+---
+
+## Outputs
+
+| Output | Description |
+|--------|-------------|
+| Outlier identification | Who are the positive deviants and what are their outcomes |
+| Practice inventory | What they do differently from average performers |
+| Transferable practices | Which differences can be adopted by others |
+| Spread strategy | How to scale the successful practices |
+
+---
+
+## Example
+
+**User:** "Our sales team has 20 people. A few consistently hit quota, most don't. We all have the same territory rules and tools. What's going on?"
+
+**Positive Deviance response:**
+
+Perfect setup for positive deviance analysis. The solution is probably already in your team—you just need to find it.
+
+**Step 1: Define the outcome**
+Let's be specific: hitting quota. But also look at related metrics—close rate, deal size, pipeline quality. The top performers might excel at something specific.
+
+**Step 2: Find your outliers**
+Who are the 2-3 people who consistently hit quota? Not the person who had one great quarter—the people who perform well over time, across different conditions.
+
+**Step 3: Study them—don't just ask**
+
+Asking "what's your secret?" rarely works. People don't always know what makes them different.
+
+Instead:
+- Shadow them for a day. Watch how they spend their time.
+- Compare their calendar to average performers. What's different?
+- Look at their communication patterns. How do they follow up?
+- Review their deals. What's their sequence of touches?
+
+**What you might find:**
+- They spend the first hour on outbound while others check email
+- They send a specific type of follow-up within 24 hours
+- They ask a particular question early in discovery
+- They prepare differently for calls
+
+**Step 4: Identify what transfers**
+
+Some things won't transfer (personal relationships, unique experience). Focus on:
+- Behavioral practices anyone can adopt
+- Routines that can become team standards
+- Questions or scripts that can be shared
+
+**Step 5: Spread it**
+
+Have your top performers run a workshop—not on "sales tips" but on "here's exactly what I do on a Monday morning." Make it concrete.
+
+Then track: do the people who adopt the practices improve?
+
+**Key insight:** You don't need a new sales methodology or expensive training. The methodology that works in your context, with your customers, is probably already being practiced by someone on your team. Find it.
+
+---
+
+## Integration
+
+This skill pairs with:
+- **checklist-design** - Turn discovered practices into standard checklists
+- **failure-analysis-systems** - Understand why average performers struggle
+- **incremental-improvement-practice** - Spread improvements gradually
+
+---
+
+## Constraints
+
+- Requires measurable outcomes to identify outliers
+- Positive deviants must face same constraints (not just have more resources)
+- Some practices may not transfer (personality-dependent)
+- Takes time to observe—can't just ask
+
+---
+
+## Source Expert
+
+Atul Gawande - `experts/atul-gawande/`
+
+
+---
+
+## Skill: hard-conversation-framework
+
+# Hard Conversation Framework
+
+Framework for having difficult conversations that people avoid—about mortality, failure, bad news, and hard truths. Based on Atul Gawande's methodology from "Being Mortal."
+
+---
+
+## When to Use
+
+- Need to deliver bad news
+- Avoiding a conversation that must happen
+- Discussing mortality or serious illness
+- Confronting failure or poor performance
+- Breaking difficult news to stakeholders
+
+**Trigger Phrases:**
+- "How do I have a hard conversation?"
+- "I need to tell them something difficult"
+- "We're avoiding the real issue"
+- "How do I talk about failure/mortality/bad news?"
+- "I keep putting off this conversation"
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| situation | Yes | What needs to be discussed |
+| recipient | No | Who you're talking to |
+| relationship | No | Your relationship and history |
+| stakes | No | What happens if conversation doesn't happen |
+
+---
+
+## Core Principle
+
+> "Our ultimate goal, after all, is not a good death but a good life—to the very end."
+> — Atul Gawande
+
+Avoiding hard conversations isn't kindness—it's cowardice that harms the people we're trying to help. Compassion includes honesty about what's actually happening.
+
+**Why we avoid:**
+- Fear of causing pain
+- Uncertainty about what to say
+- Hope that things will improve
+- Discomfort with our own emotions
+
+**Why we must not:**
+- People deserve truth to make informed decisions
+- Avoidance prolongs suffering
+- False hope prevents preparation
+- The conversation must eventually happen anyway
+
+---
+
+## The Five Questions Framework
+
+Gawande's framework for end-of-life conversations, adaptable to any hard conversation:
+
+### 1. Understanding
+**"What is your understanding of where you are and your situation?"**
+
+Start by learning what they already know or believe. This:
+- Reveals gaps in understanding
+- Shows what they're ready to hear
+- Lets them lead the conversation
+- Prevents you from repeating what they know
+
+### 2. Fears and Concerns
+**"What are your fears and concerns?"**
+
+Before jumping to solutions, understand what they're actually worried about:
+- Their fears may not be what you assume
+- Naming fears makes them manageable
+- Shows you care about their experience
+- Creates space for honesty
+
+### 3. Goals and Priorities
+**"What goals are most important to you?"**
+
+People have priorities beyond the obvious:
+- What matters most to them?
+- What would they trade for?
+- What can't they accept losing?
+
+### 4. Trade-offs
+**"What trade-offs are you willing to make?"**
+
+Every path has costs:
+- What discomfort or loss are they willing to accept?
+- What are they not willing to sacrifice?
+- Where are their non-negotiable lines?
+
+### 5. Consequences
+**"What would you want if things don't go as hoped?"**
+
+Plan for the difficult scenario:
+- If this doesn't work, then what?
+- What should happen if the worst occurs?
+- Who should make decisions?
+
+---
+
+## Workflow
+
+### Step 1: Prepare Yourself
+
+Before the conversation:
+- Accept that discomfort is part of the process
+- Clarify the essential truth that must be communicated
+- Decide what you're asking them to decide or accept
+- Plan for their emotional response
+
+### Step 2: Create the Right Setting
+
+- Private, uninterrupted space
+- Adequate time (don't rush)
+- Sit at their level, not standing over them
+- Have tissues, water available
+- No phones or distractions
+
+### Step 3: Open with Understanding
+
+Don't start with the hard news. Start with a question:
+- "What's your understanding of where things stand?"
+- "How do you see this situation?"
+- "What have you been thinking about?"
+
+Listen fully before adding information.
+
+### Step 4: Deliver Truth with Compassion
+
+When it's time for the hard part:
+- Be direct but not brutal
+- Use clear language, not euphemisms
+- Pause to let them process
+- Stay present with their reaction
+
+**Don't say:** "There are some concerns we should discuss..."
+**Say:** "I have difficult news. The treatment isn't working."
+
+### Step 5: Explore Fears and Goals
+
+After delivering the news:
+- "What worries you most about this?"
+- "What's most important to you now?"
+- "What would be unacceptable to you?"
+
+### Step 6: Discuss Path Forward
+
+Based on their goals and fears:
+- Present options honestly, including doing nothing
+- Be clear about trade-offs
+- Don't push your preference unless asked
+- Support their autonomy in deciding
+
+### Step 7: Commit to Continued Support
+
+End with presence, not abandonment:
+- "I'll be here as this unfolds"
+- "We'll figure out next steps together"
+- "You don't have to decide everything now"
+
+---
+
+## Common Mistakes
+
+| Mistake | Why It Fails | Alternative |
+|---------|--------------|-------------|
+| Leading with false hope | Delays inevitable, prevents planning | Honest assessment first |
+| Overwhelming with information | They can't process | Give essential facts, pause |
+| Filling silence | They need time to react | Let silence sit |
+| Making it about you | Their needs matter now | Focus on them |
+| Avoiding specifics | Vagueness increases anxiety | Be concrete |
+| One conversation only | Processing takes time | Plan follow-ups |
+
+---
+
+## Outputs
+
+| Output | Description |
+|--------|-------------|
+| Conversation plan | What to say and how to structure it |
+| Question sequence | The five questions adapted to your situation |
+| Emotional preparation | Anticipating reactions and your responses |
+| Follow-up plan | Next conversations needed |
+
+---
+
+## Example
+
+**User:** "I need to tell my direct report that they're not getting promoted and their performance is concerning. I've been avoiding it for months."
+
+**Hard Conversation Framework response:**
+
+Months of avoidance has probably made this worse. Here's how to have it well.
+
+**Preparation:**
+The core truth: Their performance isn't meeting expectations and promotion isn't possible right now.
+
+The purpose: Help them understand where they stand and decide what to do about it.
+
+**The conversation structure:**
+
+**1. Start with understanding:**
+"I want to talk about your career path here. What's your sense of how things are going?"
+
+Listen. They may already know more than you think. Or they may be surprised—and that tells you something about your feedback patterns.
+
+**2. Deliver the truth directly:**
+"I have to be honest with you. Your performance over the past year hasn't met the expectations for your role, and you're not in a position to be promoted right now."
+
+Don't soften this with "but you're great in other ways" immediately. Let it land.
+
+**3. Explore their reaction:**
+"What's your reaction to hearing that?"
+"What concerns you most about this?"
+
+Really listen. Are they surprised? Angry? Relieved? Their reaction tells you what comes next.
+
+**4. Understand their goals:**
+"What do you want from your career here?"
+"What matters most to you about your work?"
+
+You might discover they're burned out, or in the wrong role, or dealing with something outside work. Or they might want to fight for the promotion. Either way, you need to know.
+
+**5. Discuss trade-offs and path forward:**
+Based on what they want:
+- "Here's what improvement would need to look like..."
+- "Here are the realistic timelines..."
+- "If this role isn't working, here are other options..."
+
+Be honest about what's possible.
+
+**6. Commit to continued support:**
+"I want to help you succeed, whether that's here or somewhere else. Let's meet weekly to work on this together."
+
+**What you're avoiding by not having this conversation:**
+- They can't improve without knowing the truth
+- They may leave for a job that's a worse fit
+- The situation deteriorates further
+- You have to have an even harder conversation later
+
+The kindest thing you can do is tell them the truth now.
+
+---
+
+## Integration
+
+This skill pairs with:
+- **failure-analysis-systems** - Understand the system, not just the person
+- **incremental-improvement-practice** - Create path to better
+- **case-based-writing** - Tell the story of why this matters
+
+---
+
+## Constraints
+
+- Cannot guarantee positive reception
+- Cultural differences in direct communication
+- Some conversations require professional support (therapy, HR, legal)
+- Timing matters—crisis moments need different approaches
+
+---
+
+## Source Expert
+
+Atul Gawande - `experts/atul-gawande/`
+
+
+---
+
+## Skill: failure-analysis-systems
+
+# Failure Analysis Systems
+
+Analyze failures by examining systems rather than blaming individuals—distinguishing errors of ignorance from errors of ineptitude. Based on Atul Gawande's methodology.
+
+---
+
+## When to Use
+
+- Something went wrong and you need to understand why
+- Temptation to blame an individual
+- Same failures keep recurring
+- Need to prevent future failures
+- Building a culture of learning from mistakes
+
+**Trigger Phrases:**
+- "Why does this keep happening?"
+- "Whose fault is this?"
+- "We need to hold someone accountable"
+- "The same mistake keeps occurring"
+- "How do we prevent this in the future?"
+
+---
+
+## Inputs
+
+| Input | Required | Description |
+|-------|----------|-------------|
+| failure | Yes | What went wrong |
+| immediate_cause | No | What directly caused the failure |
+| individuals_involved | No | People who were involved |
+| context | No | Circumstances surrounding the failure |
+
+---
+
+## Core Principle
+
+> "We are not built for discipline. We are built for novelty and excitement, not for careful attention to detail."
+> — Atul Gawande
+
+**Two types of errors:**
+
+| Type | Definition | Example | Solution |
+|------|------------|---------|----------|
+| **Errors of ignorance** | We don't know enough | New surgeon lacks skills | Training, education |
+| **Errors of ineptitude** | We don't properly use what we know | Experienced surgeon skips step | Systems, checklists |
+
+Most failures in complex environments are errors of ineptitude—not lack of knowledge, but failure to consistently apply knowledge. **The system, not the individual, is usually the right target for intervention.**
+
+---
+
+## Workflow
+
+### Step 1: Resist the Blame Reflex
+
+When something goes wrong, the instinct is to find who's responsible. Resist this.
+
+**Problems with individual blame:**
+- It stops the analysis too early
+- It doesn't prevent recurrence
+- It creates fear that hides future problems
+- It misses systemic factors
+
+**Instead ask:** "What in the system allowed or encouraged this failure?"
+
+### Step 2: Classify the Error Type
+
+**Is this an error of ignorance?**
+- Did the person lack the knowledge or skill?
+- Was this their first time with this situation?
+- Was there no way they could have known?
+
+If yes → Solution is training, education, experience
+
+**Is this an error of ineptitude?**
+- Did the person have the knowledge but fail to apply it?
+- Is this a known step that got skipped?
+- Would a checklist have caught it?
+
+If yes → Solution is systems, processes, checklists
+
+### Step 3: Map the System
+
+Don't just look at the moment of failure. Map the full system:
+
+**Upstream factors:**
+- What happened before that contributed?
+- What decisions led to this situation?
+- What information was available or missing?
+
+**Environmental factors:**
+- Was the person rushed?
+- Were they interrupted?
+- Were there competing priorities?
+- Was the environment set up for success?
+
+**Systemic factors:**
+- Is there a checklist for this?
+- Is there a forcing function?
+- Are there too many steps to reliably remember?
+- Are handoffs clear?
+
+### Step 4: Find the Leverage Point
+
+**Ask:** Where could a system change have prevented this?
+
+Often it's not at the moment of failure but earlier:
+- The surgeon's error happened in the OR, but the prevention was in pre-surgery prep
+- The deployment crash happened at release, but the prevention was in the CI/CD pipeline
+- The customer complaint happened at delivery, but the prevention was in order entry
+
+### Step 5: Design the System Fix
+
+Based on the error type and leverage point:
+
+| Finding | Intervention |
+|---------|--------------|
+| Knowledge gap | Training, documentation, mentorship |
+| Step gets skipped | Checklist, forcing function |
+| Handoff failure | Communication protocol, confirmation |
+| Environmental pressure | Workload management, protected time |
+| No feedback loop | Measurement, review process |
+
+### Step 6: Test the Fix
+
+Don't assume the intervention works. Test it:
+- Does the failure recur?
+- Are there unintended consequences?
+- Is the fix actually being used?
+
+---
+
+## The "Blameless Postmortem" Structure
+
+**1. What happened?**
+Timeline of events, facts only, no judgments
+
+**2. What was the impact?**
+Consequences of the failure
+
+**3. What was the immediate cause?**
+The direct trigger (not the person—the action or absence)
+
+**4. What system factors contributed?**
+Upstream, environmental, and systemic factors
+
+**5. What type of error was this?**
+Ignorance or ineptitude
+
+**6. Where is the leverage point?**
+The best place to intervene
+
+**7. What change will we make?**
+Specific, testable intervention
+
+**8. How will we know it worked?**
+Measurement and timeline
+
+---
+
+## Outputs
+
+| Output | Description |
+|--------|-------------|
+| Error classification | Ignorance vs. ineptitude |
+| System map | Factors that contributed to failure |
+| Leverage point | Where intervention is most effective |
+| System fix | Specific change to prevent recurrence |
+| Success metrics | How to know if fix works |
+
+---
+
+## Example
+
+**User:** "Our engineer pushed code that took down production. It was Friday at 5pm and they didn't run the full test suite. Should we put them on a performance plan?"
+
+**Failure Analysis response:**
+
+Let's analyze the system before deciding about the individual.
+
+**Step 1: Resist blame**
+Your engineer made a mistake. But the question is: why was it possible for this mistake to happen?
+
+**Step 2: Classify the error**
+This is an error of ineptitude, not ignorance. The engineer knows they should run tests. They didn't do what they knew to do.
+
+**Step 3: Map the system**
+
+*Upstream factors:*
+- Why was deployment happening at 5pm Friday?
+- Was there pressure to ship before the weekend?
+- Who requested this timing?
+
+*Environmental factors:*
+- Was the engineer rushed?
+- Were they tired?
+- Friday 5pm is known high-risk time for deployments
+
+*Systemic factors:*
+- Can code be pushed without tests passing?
+- Is there a deploy checklist?
+- Is there a "no Friday deploys" policy?
+- Does CI/CD require full test suite?
+
+**Step 4: Find the leverage point**
+
+The leverage point is not "engineer runs tests"—that relies on human memory under pressure.
+
+The leverage point is: **Make it impossible to deploy without passing tests.**
+
+**Step 5: Design the fix**
+
+| Problem | System Fix |
+|---------|------------|
+| Tests can be skipped | CI/CD requires passing tests to deploy |
+| Friday deploys are risky | Freeze deploys Friday after 2pm |
+| No checklist | Deploy checklist with pause points |
+| No peer review | Require approval for production deploys |
+
+**Step 6: About the individual**
+
+Before putting them on a performance plan, ask:
+- Have you set them up to succeed?
+- Could a conscientious person have made this mistake in this system?
+
+If your system allows deploying without tests, the system is the problem. Fix the system first. If they circumvent a good system, that's a different conversation.
+
+**The principle:** Individuals operating in bad systems will produce bad outcomes. Fix the system.
+
+---
+
+## Integration
+
+This skill pairs with:
+- **checklist-design** - Create checklists at leverage points
+- **positive-deviance-analysis** - Learn from teams that don't have these failures
+- **hard-conversation-framework** - When individual issues do need addressing
+
+---
+
+## Constraints
+
+- Some failures are genuinely individual (malice, repeated negligence)
+- System fixes take time; may need interim measures
+- Cultural shift required for blameless analysis
+- Not all failures are preventable
+
+---
+
+## Source Expert
+
+Atul Gawande - `experts/atul-gawande/`
+
 
