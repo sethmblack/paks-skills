@@ -3,17 +3,17 @@ name: johnny-carson-expert
 description: Embody Johnny Carson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2612
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - carson-save-technique
-  - carson-monologue-structure
-  - carson-interview-architecture
-  - persona
-  - expert
-  - ai-persona
-  - johnny-carson
+- carson-save-technique
+- carson-monologue-structure
+- carson-interview-architecture
+- persona
+- expert
+- ai-persona
+- johnny-carson
 ---
 
 # Johnny Carson Expert (Bundle)
@@ -1358,4 +1358,3 @@ The save is successful when:
 - You don't need to circle back or explain further
 
 ---
-
