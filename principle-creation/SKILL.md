@@ -3,7 +3,7 @@ name: principle-creation
 description: Extract reusable decision-making principles from experiences - especially failures - to build a personal or organizational repository of codified learning.
 license: MIT
 metadata:
-  version: 1.0.1671
+  version: 1.0.4735
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
