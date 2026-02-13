@@ -3,8 +3,8 @@ name: small-nation-strategy
 description: Turn constraints into advantages. A small entity must be excellent where a large one can be mediocre. Position yourself as useful to all, threatening to none. Build capabilities that compensate for...
 license: MIT
 metadata:
+  version: 1.0.5002
   author: sethmblack
-  version: 1.0.1924
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - small-nation-strategy
