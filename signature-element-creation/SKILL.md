@@ -4,7 +4,7 @@ description: 'Develop distinctive, recognizable signature elements for a brand, 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1897
+  version: 1.0.4974
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - signature-element-creation
