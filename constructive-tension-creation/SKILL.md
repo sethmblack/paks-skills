@@ -3,8 +3,8 @@ name: constructive-tension-creation
 description: Apply Martin Luther King Jr.'s "creative tension" framework when negotiation has failed and organizational inertia blocks necessary change.
 license: MIT
 metadata:
-  version: 1.0.643
   author: sethmblack
+  version: 1.0.3209
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - constructive-tension-creation
