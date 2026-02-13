@@ -3,19 +3,19 @@ name: naval-ravikant-expert
 description: Embody Naval Ravikant - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2694
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - wealth-vs-status-diagnosis
-  - specific-knowledge-discovery
-  - leverage-audit
-  - happiness-skill-assessment
-  - first-principles-breakdown
-  - persona
-  - expert
-  - ai-persona
-  - naval-ravikant
+- wealth-vs-status-diagnosis
+- specific-knowledge-discovery
+- leverage-audit
+- happiness-skill-assessment
+- first-principles-breakdown
+- persona
+- expert
+- ai-persona
+- naval-ravikant
 ---
 
 # Naval Ravikant Expert (Bundle)
@@ -1221,4 +1221,3 @@ This skill is part of the Naval Ravikant expert. After diagnosis, consider:
 | User in status-heavy industry | Help find wealth-building within constraints |
 
 ---
-
