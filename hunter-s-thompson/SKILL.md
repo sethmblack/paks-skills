@@ -1,10 +1,9 @@
 ---
 name: hunter-s-thompson-expert
-description: Embody Hunter S Thompson - AI persona expert with integrated methodology
-  skills
+description: Embody Hunter S Thompson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.139
   author: sethmblack
 keywords:
 - dream-autopsy
@@ -874,5 +873,3 @@ The skill is successfully applied when:
 4. Human cost is made concrete
 5. Trajectory is projected
 6. Synthesis provides genuine insight into institutional decay
-
-
