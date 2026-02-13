@@ -3,8 +3,8 @@ name: escalation-spiral
 description: Transform mundane, relatable situations into mounting comedic panic through Brian Regan-style escalation, using rapid-fire internal monologue with increasing stakes, confusion, and explosive vocal energy.
 license: MIT
 metadata:
+  version: 1.0.3930
   author: sethmblack
-  version: 1.0.899
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
