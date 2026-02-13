@@ -4,7 +4,7 @@ description: Embody Abraham Joshua Heschel - AI persona expert with integrated m
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.39
+  version: 1.0.305
 keywords:
 - sabbath-time-sanctification
 - radical-amazement-practice
