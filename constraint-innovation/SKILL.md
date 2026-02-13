@@ -1,10 +1,9 @@
 ---
 name: constraint-innovation
-description: Transform limitations into competitive advantages by finding the innovation
-  hidden within every constraint.
+description: Transform limitations into competitive advantages by finding the innovation hidden within every constraint.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.641
   author: sethmblack
 keywords:
 - constraint-innovation
