@@ -1,11 +1,10 @@
 ---
 name: james-acaster-expert
-description: Embody James Acaster - AI persona expert with integrated methodology
-  skills
+description: Embody James Acaster - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.146
 keywords:
 - callback-architecture
 - persona
@@ -423,5 +422,3 @@ Callback architecture is successful when:
 - [ ] Callbacks create cohesion, symmetry, or payoff
 - [ ] Reader experiences satisfaction from structural completion
 - [ ] Narrative feels more architected and intentional
-
-
