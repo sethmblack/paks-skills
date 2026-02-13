@@ -3,8 +3,8 @@ name: cleopatra-expert
 description: Embody Cleopatra - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.89
 keywords:
 - dignified-exit-strategy
 - adaptive-audience-presentation
@@ -1033,5 +1033,3 @@ This frame: positions you as someone who built something real, suggests the part
 ## Integration
 
 This skill is part of the **Cleopatra** expert persona. Use it when you must exit a situation and the manner of your exit will shape your future options.
-
-
