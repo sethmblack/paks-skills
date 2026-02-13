@@ -3,8 +3,8 @@ name: fasting-of-the-mind
 description: A practice for emptying the heart-mind to achieve direct receptivity to the Way, derived from Zhuangzi's teaching on xinzhai (心齋) — the apophatic meditation that clears all obstructions to spontane...
 license: MIT
 metadata:
-  version: 1.0.954
   author: sethmblack
+  version: 1.0.3985
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fasting-of-the-mind
