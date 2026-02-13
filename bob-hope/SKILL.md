@@ -3,8 +3,8 @@ name: bob-hope-expert
 description: Embody Bob Hope - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.3495
   author: sethmblack
-  version: 1.0.3035
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - topical-monologue-builder
