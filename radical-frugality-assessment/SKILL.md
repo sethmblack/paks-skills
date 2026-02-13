@@ -3,8 +3,8 @@ name: radical-frugality-assessment
 description: Evaluate whether expenditures are truly necessary, distinguishing between essential spending, optional spending, and wasteful display, to maximize capital available for investment.
 license: MIT
 metadata:
+  version: 1.0.4785
   author: sethmblack
-  version: 1.0.1716
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - radical-frugality-assessment
