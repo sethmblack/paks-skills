@@ -4,7 +4,7 @@ description: Embody Anthony Bourdain - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.381
+  version: 1.0.2934
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - travel-philosophy-assessment
