@@ -3,8 +3,8 @@ name: center-analysis
 description: Identify the centers that give a structure its life, map how they strengthen or weaken each other, and diagnose where center relationships need transformation.
 license: MIT
 metadata:
+  version: 1.0.3093
   author: sethmblack
-  version: 1.0.2308
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - center-analysis
