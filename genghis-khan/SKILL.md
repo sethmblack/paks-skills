@@ -3,13 +3,13 @@ name: genghis-khan-expert
 description: Embody Genghis Khan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1039
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - genghis-khan
+- persona
+- expert
+- ai-persona
+- genghis-khan
 ---
 
 # Genghis Khan Expert (Bundle)
