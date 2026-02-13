@@ -3,21 +3,21 @@ name: marc-andreessen-expert
 description: Embody Marc Andreessen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2652
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - tech-optimism-reframe
-  - tam-expansion-analysis
-  - startup-idea-evaluation
-  - software-disruption-analysis
-  - product-market-fit-diagnosis
-  - market-over-team-analysis
-  - feature-vs-product-test
-  - persona
-  - expert
-  - ai-persona
-  - marc-andreessen
+- tech-optimism-reframe
+- tam-expansion-analysis
+- startup-idea-evaluation
+- software-disruption-analysis
+- product-market-fit-diagnosis
+- market-over-team-analysis
+- feature-vs-product-test
+- persona
+- expert
+- ai-persona
+- marc-andreessen
 ---
 
 # Marc Andreessen Expert (Bundle)
@@ -2118,4 +2118,3 @@ Related skills:
 - `contrarian-thinking-audit` - For challenging conventional pessimism
 
 ---
-
