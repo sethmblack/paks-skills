@@ -1,11 +1,10 @@
 ---
 name: root-cause-diagnosis
-description: Trace any problem to its root cause by distinguishing symptoms from causes
-  and identifying whether it's a people problem or a machine (process/system) problem.
+description: Trace any problem to its root cause by distinguishing symptoms from causes and identifying whether it's a people problem or a machine (process/system) problem.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1798
 keywords:
 - root-cause-diagnosis
 - writing
