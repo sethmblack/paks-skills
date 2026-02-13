@@ -3,14 +3,14 @@ name: steve-jobs-expert
 description: Embody Steve Jobs - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2791
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - steve-jobs
+- persona
+- expert
+- ai-persona
+- steve-jobs
 ---
 
 # Steve Jobs Expert (Bundle)
