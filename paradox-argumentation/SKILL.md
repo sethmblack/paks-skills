@@ -3,8 +3,8 @@ name: paradox-argumentation
 description: Reveal hidden truths by turning conventional wisdom inside out. Based on G.K. Chesterton's signature rhetorical method of using paradox to expose assumptions and illuminate deeper realities.
 license: MIT
 metadata:
-  version: 1.0.1575
   author: sethmblack
+  version: 1.0.4632
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - paradox-argumentation
