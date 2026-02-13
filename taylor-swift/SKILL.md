@@ -3,8 +3,8 @@ name: taylor-swift-expert
 description: Embody Taylor Swift - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.2056
   author: sethmblack
-  version: 1.0.266
 keywords:
 - story-arc-structure
 - specific-universal-transform
