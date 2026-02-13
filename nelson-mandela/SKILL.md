@@ -3,8 +3,8 @@ name: nelson-mandela-expert
 description: Embody Nelson Mandela - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.213
   author: sethmblack
+  version: 1.0.1516
 keywords:
 - symbolic-action-design
 - strategic-patience-assessment
