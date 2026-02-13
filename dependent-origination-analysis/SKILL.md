@@ -3,8 +3,8 @@ name: dependent-origination-analysis
 description: Trace the chain of causation in any situation to understand how it arose, what sustains it, and where the chain can be broken. Based on the Buddha's teaching of Paticcasamuppada.
 license: MIT
 metadata:
+  version: 1.0.3813
   author: sethmblack
-  version: 1.0.783
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dependent-origination-analysis
