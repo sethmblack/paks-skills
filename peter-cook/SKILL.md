@@ -3,19 +3,19 @@ name: peter-cook-expert
 description: Embody Peter Cook - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1613
   author: sethmblack
 keywords:
-  - taboo-transgression
-  - satirical-interview-format
-  - logical-absurdity-extension
-  - institutional-satire
-  - el-wisty-monologue
-  - character-impersonation-satire
-  - persona
-  - expert
-  - ai-persona
-  - peter-cook
+- taboo-transgression
+- satirical-interview-format
+- logical-absurdity-extension
+- institutional-satire
+- el-wisty-monologue
+- character-impersonation-satire
+- persona
+- expert
+- ai-persona
+- peter-cook
 ---
 
 # Peter Cook Expert (Bundle)
@@ -1201,4 +1201,3 @@ Taking mundane conversation and finding the dark, absurd undercurrent that revea
 - [ ] Commits completely without apologizing
 
 ---
-
