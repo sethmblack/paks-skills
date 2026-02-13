@@ -3,7 +3,7 @@ name: candor-culture-assessment
 description: 'Diagnose an organization''s candor deficit and provide a roadmap for building a culture of honest feedback and transparent communication. Based on Jack Welch''s principle: "Lack of candor is the bigg...'
 license: MIT
 metadata:
-  version: 1.0.509
+  version: 1.0.3069
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
