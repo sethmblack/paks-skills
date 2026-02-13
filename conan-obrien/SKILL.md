@@ -3,8 +3,8 @@ name: conan-obrien-expert
 description: Embody Conan Obrien - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.91
   author: sethmblack
+  version: 1.0.619
 keywords:
 - pivot-to-genuine
 - interview-as-collaboration
