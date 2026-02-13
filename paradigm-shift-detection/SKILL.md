@@ -1,12 +1,10 @@
 ---
 name: paradigm-shift-detection
-description: Identify when a technology is approaching its paradigm limits on the
-  S-curve and assess what emerging technology may replace it, using Ray Kurzweil's
-  paradigm shift framework.
+description: Identify when a technology is approaching its paradigm limits on the S-curve and assess what emerging technology may replace it, using Ray Kurzweil's paradigm shift framework.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1574
 keywords:
 - paradigm-shift-detection
 - structure
