@@ -1,19 +1,20 @@
 ---
 name: pressure-practice-design
-description: Design deliberate practice that simulates high-pressure conditions so
-  your peak performance moments feel routine, not terrifying.
+description: Design deliberate practice that simulates high-pressure conditions so your peak performance moments feel routine, not terrifying. Champions practice pressure, not just skills.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1669
   author: sethmblack
 keywords:
 - pressure-practice-design
+- performance
+- sports-psychology
 - writing
 ---
 
 # Pressure Practice Design
 
-Design deliberate practice that simulates high-pressure conditions so your peak performance moments feel routine, not terrifying.
+The gap between practice performance and game-day performance is not about skill - it's about pressure. You've seen it: people who are brilliant in rehearsal and freeze when it matters. Serena Williams understood this: "When I'm serving in practice, I imagine scenarios. I'm down 15-30, second serve, match point. I practice that specific situation over and over. Then when it happens in a real match, my body knows what to do because I've already been there a hundred times." This skill designs practice environments that systematically introduce the pressure factors you'll face, so that high-stakes moments feel like something you've already done. Pressure becomes familiar, and familiar doesn't frighten.
 
 ---
 
@@ -23,7 +24,8 @@ Design deliberate practice that simulates high-pressure conditions so your peak 
 - You have a high-stakes moment coming up and want to be ready
 - Pressure situations consistently bring out your worst performance
 - You want to build systematic pressure tolerance
-- User asks "I choke under pressure" or "I practice well but fail when it matters" or "How do I prepare for high-stakes moments?"
+- User asks "I choke under pressure" or "I practice well but fail when it matters"
+- Preparing for interviews, presentations, competitions, or performances
 
 ---
 
@@ -31,111 +33,80 @@ Design deliberate practice that simulates high-pressure conditions so your peak 
 
 | Input | Required | Description |
 |-------|----------|-------------|
-| performance | Yes | What you need to perform (presentation, interview, negotiation, competition) |
-| pressure_factors | Yes | What makes it high-pressure (audience, stakes, specific people, time constraints) |
+| performance | Yes | What you need to perform (presentation, interview, competition) |
+| pressure_factors | Yes | What makes it high-pressure (audience, stakes, time, judgment) |
 | current_practice | No | How you currently prepare |
 | past_failures | No | Specific moments where you've choked before |
+| timeline | No | When the high-stakes event occurs |
 
 ---
 
-## The Serena Method
+## Core Principle
 
-When Serena Williams practices her serve, she doesn't just hit balls. She creates scenarios:
-
-"When I'm serving in practice, I imagine scenarios. I'm down 15-30, second serve, match point. I practice that specific situation over and over. Then when it happens in a real match, my body knows what to do because I've already been there a hundred times."
-
-**Why this works:** Your brain doesn't fully distinguish between vividly imagined scenarios and real ones. By rehearsing pressure situations repeatedly, you create neural pathways that activate under real pressure. The familiar doesn't frighten us—the unfamiliar does. Make pressure familiar.
+Your brain doesn't fully distinguish between vividly imagined scenarios and real ones. By rehearsing pressure situations repeatedly, you create neural pathways that activate under real pressure. The familiar doesn't frighten us - the unfamiliar does. Make pressure familiar through systematic, graduated exposure that simulates the specific conditions you'll face.
 
 ---
 
-## The Pressure Practice Framework
+## Methodology
 
-### Step 1: MAP THE PRESSURE
-Identify exactly what makes your situation high-pressure:
+### Phase 1: Map the Pressure
+1. Identify every factor that creates pressure in your situation
+2. Rate each factor's intensity (1-10)
+3. Distinguish between controllable and uncontrollable factors
+4. Identify specific nightmare scenarios that represent your fears
 
-| Pressure Type | Examples |
-|---------------|----------|
-| Audience | Specific people watching, number of people, status of observers |
-| Stakes | Career consequences, financial impact, relationship outcomes |
-| Time | Deadlines, limited opportunity, "one shot" moments |
-| Judgment | Being evaluated, compared, scored |
-| Uncertainty | Unknown questions, unpredictable responses |
-| Physical | Fatigue, environment, discomfort |
+**Pressure Factor Categories:**
+- Audience: Who's watching, how many, their status
+- Stakes: What's at risk - career, money, relationships
+- Time: Deadlines, limited opportunities, "one shot" moments
+- Judgment: Being evaluated, scored, compared
+- Uncertainty: Unknown questions, unpredictable responses
+- Physical: Environment, fatigue, discomfort
 
-### Step 2: RECONSTRUCT CONDITIONS
-Create practice conditions that simulate the pressure factors:
+### Phase 2: Reconstruct Conditions
+1. Design practice that simulates each pressure factor
+2. Create artificial consequences that feel real
+3. Add audience, timers, evaluation to practice
+4. Introduce uncertainty and variability
 
-**Audience pressure:** Practice in front of people (friends, colleagues, camera). Start with 1 person, build to more.
+**Simulation Techniques:**
+- Audience pressure: Practice in front of people, start with 1, build to more
+- Stakes pressure: Create real consequences ("If I stumble, I donate $50")
+- Time pressure: Visible countdown timers, strict enforcement
+- Judgment pressure: Have evaluators score you, request critical feedback
+- Uncertainty pressure: Have someone throw unexpected scenarios at you
 
-**Stakes pressure:** Create artificial consequences. "If I stumble, I donate $50 to charity." Real stakes, smaller scale.
+### Phase 3: Script Nightmare Scenarios
+1. Write 3-5 specific worst-case moments
+2. Make them vivid and detailed
+3. Practice each scenario at least 10 times
+4. Include both the pressure moment and your recovery
 
-**Time pressure:** Practice with timers. Add countdown visibility. Create urgency.
-
-**Judgment pressure:** Have someone evaluate you. Request critical feedback. Practice being watched.
-
-**Uncertainty pressure:** Have someone throw unexpected scenarios at you. Practice not knowing what's coming.
-
-### Step 3: SCENARIO SCRIPTING
-Write specific scenarios that mirror your worst fears:
-
-Serena's approach: "I'm down 15-30, second serve, match point."
-
-Your version: Create 3-5 specific nightmare scenarios. These are your practice scripts.
-
-Examples:
+**Example Nightmare Scripts:**
 - "The CEO interrupts with a challenging question I didn't prepare for"
 - "My voice cracks on the opening sentence"
 - "I forget my key statistic mid-presentation"
-- "They ask about my biggest weakness and seem skeptical of my answer"
+- "They ask about my biggest weakness and seem skeptical"
 
-### Step 4: GRADUATED EXPOSURE
-Build pressure tolerance incrementally:
+### Phase 4: Graduate Exposure
+1. Start with visualization only
+2. Add low-stakes audience (friends, family)
+3. Increase to medium-stakes (colleagues, recording)
+4. Simulate high-stakes (dress rehearsal with evaluation)
+5. Add artificial consequences at highest level
 
-**Level 1:** Visualize the scenario in detail while practicing
-**Level 2:** Practice with low-stakes audience (friends, family)
-**Level 3:** Practice with medium-stakes (colleagues, recording yourself)
-**Level 4:** Practice with simulated high-stakes (mock interview, dress rehearsal)
-**Level 5:** Practice with artificial consequences added
-
-### Step 5: REPETITION UNTIL ROUTINE
-The goal is for pressure to feel familiar. This requires volume:
-
-- Practice your nightmare scenarios at least 10 times each
-- Run the full simulation at least 3 times before the real event
-- By the time the real moment comes, your body should respond: "Oh, this again."
+### Phase 5: Repetition Until Routine
+1. Practice each nightmare scenario at least 10 times
+2. Run full simulation at least 3 times before real event
+3. Continue until body responds "Oh, this again"
+4. The goal is boredom with pressure, not excitement about it
 
 ---
-
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
 
 ## Output Format
 
 ```markdown
-## Your Pressure Practice Plan
+## Pressure Practice Plan: [Performance]
 
 ### The Performance
 [What you're preparing for]
@@ -143,148 +114,136 @@ Create actionable outputs:
 ### Pressure Map
 | Factor | Specific Pressure | Intensity (1-10) |
 |--------|-------------------|------------------|
-| [Type] | [Details] | [Score] |
+| Audience | [Details] | [Score] |
+| Stakes | [Details] | [Score] |
+| Judgment | [Details] | [Score] |
+| Uncertainty | [Details] | [Score] |
+| Time | [Details] | [Score] |
+| Physical | [Details] | [Score] |
 
-### Your Nightmare Scenarios
+### Nightmare Scenarios
 1. [Specific worst-case moment]
 2. [Specific worst-case moment]
 3. [Specific worst-case moment]
 
 ### Reconstruction Plan
-[How to simulate each pressure factor in practice]
+**How to simulate each pressure factor:**
+- [Factor]: [Simulation method]
+- [Factor]: [Simulation method]
 
 ### Graduated Schedule
 **Level 1 (Days 1-2):** [Visualization practice]
 **Level 2 (Days 3-4):** [Low-stakes practice]
 **Level 3 (Days 5-6):** [Medium-stakes practice]
-**Level 4 (Day 7):** [High-stakes simulation]
+**Level 4 (Day 7+):** [High-stakes simulation]
 
-### The Serena Reminder
-[Relevant quote]
-
-### Success Indicator
-[How you'll know the practice worked: "I will feel [X] instead of [Y] when the moment arrives"]
-```
-
----
-
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
-## Constraints
-
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
-
-## Example
-
-**Input:**
-- Performance: Final interview for dream job with 4-person panel
-- Pressure factors: Being evaluated by multiple senior people, career-defining opportunity, they'll ask about gaps in my resume, limited time to make impression
-- Current practice: I review my answers in my head and look at the job posting
-- Past failures: In my last panel interview, I rambled when nervous and forgot a key example I wanted to give
-
-**Output:**
-
-## Your Pressure Practice Plan
-
-### The Performance
-Final panel interview for dream job with 4 senior interviewers
-
-### Pressure Map
-| Factor | Specific Pressure | Intensity (1-10) |
-|--------|-------------------|------------------|
-| Audience | 4 senior people watching, evaluating every word | 9 |
-| Stakes | Career-defining opportunity, dream job | 9 |
-| Judgment | Being compared to other candidates | 8 |
-| Uncertainty | Unknown questions, especially about resume gaps | 8 |
-| Time | Limited time to make impression | 7 |
-
-### Your Nightmare Scenarios
-1. "They ask about the 8-month gap in my resume and look skeptical when I explain"
-2. "I start rambling on an answer and can see them checking the time"
-3. "One interviewer seems hostile and asks a follow-up that catches me off guard"
-4. "I blank on my key accomplishment story when they ask for an example"
-5. "They ask a technical question I don't know the answer to"
-
-### Reconstruction Plan
-
-**Audience:** Recruit 4 friends/colleagues to sit in chairs facing you. Have them take notes while you speak (creates evaluation feeling).
-
-**Stakes:** Tell yourself: "This is the real interview. This counts." Wear your interview outfit. Create the mindset.
-
-**Judgment:** Have your mock panel rate your answers 1-10 out loud after each one. Get comfortable being scored.
-
-**Uncertainty:** Give your mock interviewers a list of 20 possible questions and tell them to ask any 10 in any order. Include the nightmare scenario questions.
-
-**Time:** Set a timer for each answer (2 minutes visible countdown). Practice with time pressure.
-
-### Graduated Schedule
-
-**Level 1 (Days 1-2):**
-- Visualize each nightmare scenario 5 times each
-- Practice answers out loud alone, with timer
-- Visualize walking in, sitting down, the faces looking at you
-
-**Level 2 (Days 3-4):**
-- Practice with 1 friend asking questions
-- Record yourself on video and review (creates judgment feeling)
-- Practice the resume gap answer 10 times until it's smooth
-
-**Level 3 (Days 5-6):**
-- Full mock interview with 2-3 people
-- Have them interrupt you mid-answer with follow-ups
-- Practice recovering from rambling: "Let me be more concise—the key point is..."
-
-**Level 4 (Day 7):**
-- Full simulation: 4 people, interview clothes, exact format
-- Include all nightmare scenarios
-- Have panel give critical feedback after
+### Repetition Targets
+- Nightmare scenarios: [X] times each
+- Full simulations: [X] times before event
+- Success indicator: [How you'll know it's working]
 
 ### The Serena Reminder
 "When it happens in a real match, my body knows what to do because I've already been there a hundred times."
-
-By the time you walk into that room, you'll have "already been there" at least 20 times in practice. The panel will be facing someone who treats this like routine.
-
-### Success Indicator
-Instead of feeling "Oh god, here it comes" when they ask about your resume gap, you'll feel "Ah, this question—I've answered this a hundred times." The familiarity will replace the fear.
+```
 
 ---
 
-## The Pressure Practice Truth
+## Constraints
 
-The difference between people who choke and people who clutch isn't talent or luck—it's preparation method.
+- Match pressure factors to the actual event, not generic pressure
+- Graduated exposure is essential - don't start at maximum intensity
+- Repetition volume matters - 10+ times for each scenario
+- Include recovery practice, not just the pressure moment
+- Acknowledge that some anxiety is performance-enhancing
+- Don't eliminate pressure - make it familiar
 
-Most people practice skills. Champions practice pressure.
+---
 
-"Luck has nothing to do with it, because I have spent many, many hours, countless hours, on the court working for my one moment in time, not knowing when it would come."
+## Anti-Patterns to Avoid
 
-Your one moment is coming. Make sure you've already been there when it arrives.
+- **Practicing Skills Without Pressure**: Rehearsing content in a calm environment and expecting it to transfer to high-pressure situations. The gap isn't knowledge - it's pressure. Practice pressure.
+
+- **Skipping Graduation**: Going straight to maximum pressure simulation without building tolerance. This can reinforce anxiety rather than build confidence.
+
+- **Generic Pressure Instead of Specific**: Adding "pressure" without matching the actual factors you'll face. Practice the specific pressures of your specific situation.
+
+- **Positive Visualization Only**: Imagining success without practicing failure and recovery. Your nightmare scenarios are what need practice - success takes care of itself.
+
+- **Insufficient Repetition**: Doing something once or twice and expecting mastery. Ten times is minimum for a single scenario. The goal is for pressure to feel boring.
+
+---
+
+## Examples
+
+### Example 1: Panel Interview
+
+**Situation**: Final panel interview for dream job with 4 senior interviewers. History of rambling when nervous and forgetting key examples.
+
+**Application**:
+- Pressure map: Audience (9), Stakes (9), Judgment (8), Uncertainty (8), Time (7)
+- Nightmare scenarios: Resume gap question with skeptical follow-up; rambling and seeing them check time; blanking on accomplishment story
+- Reconstruction: Recruit 4 people to mock interview; have them rate answers aloud; give unpredictable question order; use visible timer
+
+**Output**:
+Graduated schedule:
+- Days 1-2: Visualize each nightmare scenario 5 times; practice answers alone with timer
+- Days 3-4: 1 friend asking questions; record and review; practice resume gap answer 10 times
+- Days 5-6: Full mock with 2-3 people; practice recovery phrase "Let me be more concise..."
+- Day 7: Full simulation with 4 people, interview clothes, critical feedback
+
+Success indicator: "Ah, this question - I've answered this a hundred times" replaces "Oh god, here it comes."
+
+### Example 2: Wedding Speech
+
+**Situation**: Best man speech at large wedding. Public speaking anxiety. Fear of blanking or crying.
+
+**Application**:
+- Pressure map: Audience (9 - 200 people), Stakes (8 - friend's wedding), Judgment (7), Time (6), Physical (6 - standing, microphone)
+- Nightmare scenarios: Blank on a line; voice cracking; no one laughs at jokes; crying unexpectedly
+- Reconstruction: Practice standing with microphone in hand; practice in increasingly large groups; practice recovering from blanks
+
+**Output**:
+Graduated schedule:
+- Days 1-3: Practice alone standing up, with printed notes, visualizing crowd
+- Days 4-7: Practice for 1 person, then 3, then 5-10
+- Days 8-10: Practice in actual venue if possible; practice blank recovery ("One moment..." looks at notes, continues)
+- Day 11+: Full simulation with standing, microphone, 10+ audience
+
+Specific exercise: Practice the emotional parts until you can deliver them without crying - the 15th time through is different than the 1st.
+
+### Example 3: Sales Pitch
+
+**Situation**: High-stakes sales presentation to executive team. $500K deal. One shot.
+
+**Application**:
+- Pressure map: Stakes (10), Audience (9 - C-suite), Judgment (8), Uncertainty (9 - questions), Time (7)
+- Nightmare scenarios: Hostile question about competitor; demo fails; CFO challenges ROI numbers; asked question outside expertise
+- Reconstruction: Have team member play hostile executive; practice demo failure recovery; practice "I don't know, but I'll follow up"
+
+**Output**:
+Graduated schedule:
+- Days 1-2: Solo practice with slides; visualize executive faces
+- Days 3-5: Practice with colleagues playing executives; assign "hostile questioner" role
+- Days 6-7: Full simulation with timer, interruptions, technical issues
+- Day 8+: Practice the "I don't know" response until it feels confident rather than shameful
+
+Success indicator: When the hostile question comes, you think "We practiced this" not "I'm in trouble."
 
 ---
 
 ## Integration
 
-This skill is part of the **Serena Williams** expert persona. Use it when you need to prepare for high-stakes moments, not just build general competence.
+**Works with:**
+- **premeditatio-malorum**: Stoic negative visualization prepares for setbacks
+- **resilience-through-defeat**: Practice includes failure and recovery
+- **preparation-audit**: Ensures skill preparation complements pressure preparation
+
+**When to prefer this skill:**
+- When skill is adequate but performance under pressure isn't
+- Before any high-stakes moment where choking is a risk
+- When past failures were pressure-related, not competence-related
+
+**Cautions:**
+- This complements skill practice, doesn't replace it
+- Some people need to reduce pressure exposure, not increase it (anxiety disorders)
+- Graduated approach is essential - overwhelming pressure reinforces fear
