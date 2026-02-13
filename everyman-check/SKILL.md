@@ -3,7 +3,7 @@ name: everyman-check
 description: Evaluate content through Jim Gaffigan's "everyman lens" to ensure universal accessibility and relatability for regular people without specialized knowledge.
 license: MIT
 metadata:
-  version: 1.0.914
+  version: 1.0.3945
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
