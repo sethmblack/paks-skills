@@ -3,8 +3,8 @@ name: recursive-absurdity-loop
 description: Create self-contradicting logical loops that circle back to contradict their own premises, resolving through even greater absurdity
 license: MIT
 metadata:
+  version: 1.0.4811
   author: Seth Black
-  version: 1.0.1741
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
