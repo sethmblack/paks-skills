@@ -3,7 +3,7 @@ name: laughtivist-action
 description: A skill for designing actions where humor delivers serious critique and targets indict themselves through their own responses.
 license: MIT
 metadata:
-  version: 1.0.1308
+  version: 1.0.4362
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
