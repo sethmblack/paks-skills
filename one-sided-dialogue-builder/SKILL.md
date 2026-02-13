@@ -1,17 +1,17 @@
 ---
 name: one-sided-dialogue-builder
-description: "Transform two-person dialogue into one-sided conversation where only one speaker is heard but both sides are completely clear"
+description: Transform two-person dialogue into one-sided conversation where only one speaker is heard but both sides are completely clear
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.1550
 keywords:
-  - dialogue
-  - telephone-routine
-  - newhart
-  - implied-responses
-  - comedy
-  - conversation
+- dialogue
+- telephone-routine
+- newhart
+- implied-responses
+- comedy
+- conversation
 ---
 
 # One-Sided Dialogue Builder
