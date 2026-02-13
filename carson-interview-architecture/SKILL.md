@@ -3,8 +3,8 @@ name: carson-interview-architecture
 description: 'Create interviews that balance genuine curiosity with entertainment value using Carson''s four-phase framework: Story → Angle → Setup → Exit.'
 license: MIT
 metadata:
-  version: 1.0.522
   author: sethmblack
+  version: 1.0.3082
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
