@@ -4,7 +4,7 @@ description: Embody Mark Twain - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.191
+  version: 1.0.1386
 keywords:
 - hypocrisy-detection
 - show-dont-tell-conversion
