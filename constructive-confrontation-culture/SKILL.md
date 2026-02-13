@@ -4,7 +4,7 @@ description: 'Evaluate and build organizational culture where the best argument 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.642
+  version: 1.0.3208
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - constructive-confrontation-culture
