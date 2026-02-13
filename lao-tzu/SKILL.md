@@ -4,7 +4,7 @@ description: Embody Lao Tzu - AI persona expert with integrated methodology skil
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1304
+  version: 1.0.4358
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sage-leadership-diagnosis
