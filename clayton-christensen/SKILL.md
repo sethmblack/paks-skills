@@ -3,7 +3,7 @@ name: clayton-christensen-expert
 description: Embody Clayton Christensen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.583
+  version: 1.0.3145
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
