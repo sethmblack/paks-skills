@@ -3,8 +3,8 @@ name: effective-decision-making
 description: Apply Drucker's five-element framework for making important decisions at the highest level of conceptual understanding.
 license: MIT
 metadata:
+  version: 1.0.3879
   author: sethmblack
-  version: 1.0.848
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - effective-decision-making
