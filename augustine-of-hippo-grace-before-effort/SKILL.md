@@ -3,7 +3,7 @@ name: augustine-of-hippo-grace-before-effort
 description: Reframe "try harder" advice by identifying enabling conditions (grace) required before willpower can succeed, based on Augustine's insight that the will must be enabled before it can act rightly.
 license: MIT
 metadata:
-  version: 1.0.2966
+  version: 1.0.3426
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
