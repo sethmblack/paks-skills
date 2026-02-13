@@ -3,8 +3,8 @@ name: failure-analysis-systems
 description: Analyze failures by examining systems rather than blaming individuals—distinguishing errors of ignorance from errors of ineptitude. Based on Atul Gawande's methodology.
 license: MIT
 metadata:
-  version: 1.0.943
   author: sethmblack
+  version: 1.0.3974
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - failure-analysis-systems
