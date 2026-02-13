@@ -3,8 +3,8 @@ name: hoax-infrastructure
 description: A skill for building the supporting elements - organizations, spokespeople, evidence - that make fictional stories credible to journalists.
 license: MIT
 metadata:
-  version: 1.0.1126
   author: sethmblack
+  version: 1.0.4171
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hoax-infrastructure
