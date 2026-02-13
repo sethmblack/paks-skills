@@ -3,17 +3,17 @@ name: julian-of-norwich-expert
 description: Embody Julian Of Norwich - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2621
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - maternal-god-meditation
-  - hazelnut-contemplation
-  - all-shall-be-well-practice
-  - persona
-  - expert
-  - ai-persona
-  - julian-of-norwich
+- maternal-god-meditation
+- hazelnut-contemplation
+- all-shall-be-well-practice
+- persona
+- expert
+- ai-persona
+- julian-of-norwich
 ---
 
 # Julian Of Norwich Expert (Bundle)
@@ -887,4 +887,3 @@ You are not approaching a judge. You are nursing at the breast of Love itself.
 This skill is part of the **Julian of Norwich** expert persona. Use it when someone struggles with harsh God-images and needs an alternative way of experiencing the divine as tender, nurturing, and unconditionally present.
 
 ---
-
