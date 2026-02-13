@@ -3,8 +3,8 @@ name: business-plan-review-design
 description: Design and implement a weekly Business Plan Review (BPR) meeting structure with color-coded status reporting, consistent format, and clear rules for team alignment.
 license: MIT
 metadata:
+  version: 1.0.3059
   author: sethmblack
-  version: 1.0.499
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - business-plan-review-design
