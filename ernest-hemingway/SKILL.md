@@ -3,7 +3,7 @@ name: ernest-hemingway-expert
 description: Embody Ernest Hemingway - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.111
+  version: 1.0.891
   author: sethmblack
 keywords:
 - dialogue-subtext
