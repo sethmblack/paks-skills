@@ -3,7 +3,7 @@ name: devotional-meditation
 description: A skill for transforming dry, technique-only meditation into heart-centered practice that cultivates direct experience of divine presence through yearning, calling, and receptive listening.
 license: MIT
 metadata:
-  version: 1.0.791
+  version: 1.0.3821
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
