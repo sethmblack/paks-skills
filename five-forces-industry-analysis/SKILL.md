@@ -3,8 +3,8 @@ name: five-forces-industry-analysis
 description: Systematically assess industry attractiveness and competitive dynamics using Porter's Five Forces framework to determine profit potential and identify strategic implications.
 license: MIT
 metadata:
+  version: 1.0.4010
   author: sethmblack
-  version: 1.0.975
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - five-forces-industry-analysis
