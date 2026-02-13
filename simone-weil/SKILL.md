@@ -3,7 +3,7 @@ name: simone-weil-expert
 description: Embody Simone Weil - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.258
   author: sethmblack
 keywords:
 - force-analysis
@@ -1281,5 +1281,3 @@ Force is efficient in the short term. It extracts compliance. But it destroys th
 This skill is part of the **Simone Weil** expert persona. Use it when analyzing power, violence, coercion, or any situation where human beings are reduced to things—whether in war, organizations, relationships, or systems.
 
 **Weil's core insight:** "Force is that x that turns anybody who is subjected to it into a thing." But the wielder of force also becomes a thing—an instrument of the force they imagine they control.
-
-
