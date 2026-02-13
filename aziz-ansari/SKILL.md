@@ -4,7 +4,7 @@ description: Embody Aziz Ansari - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.418
+  version: 1.0.2976
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
