@@ -4,7 +4,7 @@ description: Embody Albert Bandura - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2901
+  version: 1.0.3307
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-efficacy-assessment

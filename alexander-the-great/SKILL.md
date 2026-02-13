@@ -4,7 +4,7 @@ description: Embody Alexander The Great - AI persona expert with integrated meth
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2905
+  version: 1.0.3307
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
