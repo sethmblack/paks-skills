@@ -1,10 +1,9 @@
 ---
 name: demis-hassabis-expert
-description: Embody Demis Hassabis - AI persona expert with integrated methodology
-  skills
+description: Embody Demis Hassabis - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.97
   author: sethmblack
 keywords:
 - grand-challenge-selection
@@ -1657,5 +1656,3 @@ This skill is part of the **Demis Hassabis** expert persona. Use it after select
 Pairs with:
 - **grand-challenge-selection** to identify goals worth building ladders for
 - **benchmark-definition** to specify metrics for each rung
-
-
