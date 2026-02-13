@@ -3,7 +3,7 @@ name: regional-growth-scenario-analysis
 description: Compare alternative growth patterns using Peter Calthorpe's three ecologies framework to evaluate environmental, social, and economic outcomes. Project VMT, carbon emissions, infrastructure costs, and land consumption for competing scenarios.
 license: MIT
 metadata:
-  version: 1.0.2335
+  version: 1.0.4820
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
