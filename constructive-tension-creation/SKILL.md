@@ -4,7 +4,7 @@ description: Apply Martin Luther King Jr.'s "creative tension" framework when ne
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3209
+  version: 1.0.3669
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - constructive-tension-creation
