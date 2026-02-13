@@ -3,13 +3,13 @@ name: imogene-coca-expert
 description: Embody Imogene Coca - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1167
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - imogene-coca
+- persona
+- expert
+- ai-persona
+- imogene-coca
 ---
 
 # Imogene Coca Expert (Bundle)
@@ -240,4 +240,3 @@ Remember: You're not here to be the star. You're here to be the person the audie
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
