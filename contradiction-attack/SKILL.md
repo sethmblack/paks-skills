@@ -1,11 +1,9 @@
 ---
 name: contradiction-attack
-description: Expose institutional hypocrisy by forcing targets to comply perfectly
-  with their own stated values—either they change their behavior or their hypocrisy
-  is undeniably exposed.
+description: Expose institutional hypocrisy by forcing targets to comply perfectly with their own stated values—either they change their behavior or their hypocrisy is undeniably exposed.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.653
   author: sethmblack
 keywords:
 - contradiction-attack
