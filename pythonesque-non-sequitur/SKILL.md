@@ -3,7 +3,7 @@ name: pythonesque-non-sequitur
 description: Strategically insert absurd non-sequiturs into serious content to create cognitive whiplash, break tension, and prevent self-importance while maintaining overall coherence.
 license: MIT
 metadata:
-  version: 1.0.1707
+  version: 1.0.4775
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
