@@ -3,20 +3,20 @@ name: larry-page-expert
 description: Embody Larry Page - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2636
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - toothbrush-test
-  - tenx-thinking
-  - moonshot-evaluator
-  - asymmetric-bet-sizing
-  - assumption-auditor
-  - alphabet-structure-assessment
-  - persona
-  - expert
-  - ai-persona
-  - larry-page
+- toothbrush-test
+- tenx-thinking
+- moonshot-evaluator
+- asymmetric-bet-sizing
+- assumption-auditor
+- alphabet-structure-assessment
+- persona
+- expert
+- ai-persona
+- larry-page
 ---
 
 # Larry Page Expert (Bundle)
@@ -1789,4 +1789,3 @@ Toothbrush test is complete when:
 - [ ] Actionable recommendation provided
 
 ---
-
