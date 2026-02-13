@@ -3,8 +3,8 @@ name: rezoning-transformation-design
 description: Design comprehensive rezoning strategies that use zoning as a transformation tool - not merely regulation but a mechanism for creating new neighborhoods.
 license: MIT
 metadata:
+  version: 1.0.4846
   author: sethmblack
-  version: 1.0.2337
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rezoning-transformation-design
