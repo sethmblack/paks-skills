@@ -1,11 +1,9 @@
 ---
 name: water-wisdom
-description: Apply Lao Tzu's water teaching to strategic situations - finding the
-  path of least resistance, using softness to overcome hardness, and persisting without
-  force.
+description: Apply Lao Tzu's water teaching to strategic situations - finding the path of least resistance, using softness to overcome hardness, and persisting without force.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2213
   author: sethmblack
 keywords:
 - water-wisdom-framework
