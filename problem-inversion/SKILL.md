@@ -1,20 +1,20 @@
 ---
 name: problem-inversion
-description: When stuck on a problem, swap the given and required to find simpler
-  paths. Work backwards from the solution to the starting conditions.
+description: When stuck on a problem, swap the given and required to find simpler paths. Work backwards from the solution to the starting conditions. Claude Shannon's technique.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1675
   author: sethmblack
 keywords:
 - problem-inversion
+- problem-solving
 - structure
 - writing
 ---
 
 # Problem Inversion
 
-When stuck on a problem, swap the given and required to find simpler paths. Work backwards from the solution to the starting conditions.
+Claude Shannon credited problem inversion with solving challenges that seemed intractable: "I got the idea that if I inverted the problem, it would have been very easy to do - if the given and required results had been interchanged; and that idea led to a way of doing it which was far simpler than the first design." When you're stuck going from A to B, try starting at B and working toward A. The inverted problem is often dramatically simpler, and solving it reveals insights that translate back to the original. This asymmetry - forward is hard, backward is easy - appears constantly in mathematics, engineering, and life.
 
 ---
 
@@ -25,6 +25,7 @@ When stuck on a problem, swap the given and required to find simpler paths. Work
 - The path from A to B seems impossibly complex
 - Someone says "I've tried everything"
 - Design or planning problems where the end state is clearer than the path
+- Debugging: easier to ask "how would I create this bug?" than "what causes it?"
 
 ---
 
@@ -35,72 +36,49 @@ When stuck on a problem, swap the given and required to find simpler paths. Work
 | problem | Yes | The problem as currently framed |
 | given | No | What you start with (will be identified if not explicit) |
 | required | No | What you need to achieve (will be identified if not explicit) |
-| attempts | No | What approaches have already been tried |
+| attempts | No | What forward approaches have been tried |
 
 ---
 
-## The Inversion Process
+## Core Principle
 
-### Step 1: Identify Given and Required
-
-Clearly state:
-- **Given:** What you start with, know, or have
-- **Required:** What you need to produce, prove, or achieve
-
-This often reveals hidden assumptions about direction.
-
-### Step 2: Swap Them
-
-Ask: "What if I started with the required and worked toward the given?"
-
-- If you need to get from A to B, imagine starting at B and finding paths to A
-- If you need to prove X from premises Y, assume X and derive Y
-- If you need to build something, imagine it exists and work out what must have been true
-
-### Step 3: Solve the Inverted Problem
-
-The inverted problem is often dramatically simpler. Solve it.
-
-**Shannon's insight:** "I got the idea that if I inverted the problem, it would have been very easy to do—if the given and required results had been interchanged; and that idea led to a way of doing it which was far simpler than the first design."
-
-### Step 4: Translate Back
-
-Convert your inverted solution back to the original problem:
-- Reverse the steps
-- Map the inverted insights to forward progress
-- Identify the key insight that inversion revealed
-
-### Step 5: Verify the Solution
-
-Confirm that your translated solution actually solves the original problem, not just the inverted one.
+Problems have direction: from given conditions to required results. But this direction is often arbitrary. When forward progress stalls, the inverted problem - assuming the required and deriving the given - frequently has a simpler structure. Solving the easier inverted problem reveals insights that translate back to the original. Inversion exploits the asymmetry between forward and backward reasoning.
 
 ---
 
-## Workflow
+## Methodology
 
-### Step 1: Gather and Review Inputs
+### Phase 1: Identify Given and Required
+1. Clearly state what you start with (given conditions)
+2. Clearly state what you need to achieve (required results)
+3. Note the implicit direction of the problem
+4. Identify assumptions about how to get from given to required
 
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
+### Phase 2: Swap Them
+1. Assume the required results exist (or are true)
+2. Ask: "Starting from here, what would lead to the given conditions?"
+3. Work backward from the solution toward the starting point
+4. Note what becomes obvious from this direction that wasn't obvious forward
 
-### Step 2: Analyze the Situation
+### Phase 3: Solve the Inverted Problem
+1. The inverted problem is often dramatically simpler
+2. Use whatever tools work for the inverted direction
+3. Document the solution path from required to given
+4. Note the key insights that emerge
 
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
+### Phase 4: Translate Back
+1. Reverse the solution steps to get a forward path
+2. Map inverted insights to forward progress
+3. Identify what was blocking forward progress that inversion revealed
+4. Construct the solution to the original problem
 
-### Step 3: Generate Recommendations
+### Phase 5: Verify
+1. Confirm the translated solution solves the original problem
+2. Check that no steps were lost in translation
+3. Note whether the path is actually reversible
+4. Document the key insight that made inversion work
 
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
+---
 
 ## Output Format
 
@@ -111,6 +89,7 @@ Create actionable outputs:
 **Given:** [starting conditions]
 **Required:** [goal or output]
 **Direction:** [A to B]
+**Why forward is hard:** [what's blocking direct progress]
 
 ### Inverted Problem
 **Given:** [original required, now assumed]
@@ -118,7 +97,7 @@ Create actionable outputs:
 **Direction:** [B to A]
 
 ### Inverted Solution
-[How the inverted problem is solved—often simpler]
+[How the inverted problem is solved - often simpler]
 
 ### Key Insight from Inversion
 [What becomes clear when working backwards that wasn't clear going forward]
@@ -132,108 +111,103 @@ Create actionable outputs:
 
 ---
 
-## Common Inversion Patterns
-
-### Design Inversion
-- **Forward:** "How do I build a system that does X?"
-- **Inverted:** "If I had a system that does X, what must be true about its components?"
-
-### Debugging Inversion
-- **Forward:** "What's causing this bug?"
-- **Inverted:** "If I wanted to cause this exact bug on purpose, what would I do?"
-
-### Planning Inversion
-- **Forward:** "How do I get from here to my goal?"
-- **Inverted:** "Starting from my goal, what must have happened just before? And before that?"
-
-### Proof Inversion
-- **Forward:** "How do I prove X from these axioms?"
-- **Inverted:** "Assuming X is true, what follows? Does it connect to what I know?"
-
-### Constraint Inversion
-- **Forward:** "How do I do X given constraint Y?"
-- **Inverted:** "If I could do X, what does that tell me about constraint Y?"
-
----
-
 ## Constraints
 
-- Inversion doesn't always help—some problems are symmetric or harder inverted
+- Inversion doesn't always help - some problems are symmetric or harder inverted
 - The translated solution must be verified against the original problem
-- Don't confuse working backwards with reversing the solution (the path may not be reversible)
-- Some inversions reveal that the original problem is impossible or ill-posed
+- The path may not be reversible - translation requires care
+- Some inversions reveal the original problem is impossible or ill-posed
+- Inversion is a technique, not a guarantee
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+- **Mechanical Reversal**: Simply reversing the steps isn't inversion. Inversion means assuming the end state and deriving what must have been true - not just running the forward solution backwards.
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+- **Forgetting to Translate Back**: Solving the inverted problem is only half the work. You must translate the insights back to the original problem structure.
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+- **Assuming Symmetry**: Not all problems are symmetric. Sometimes inversion doesn't help because the backward problem is just as hard or harder.
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+- **Skipping Verification**: The translated solution must actually solve the original problem. Inversion can reveal insights that don't quite translate - verify before declaring victory.
 
-**Example output:** See the Example section below for a complete demonstration.
+- **Using Inversion When Forward is Obvious**: If you can see the forward path clearly, take it. Inversion is for when you're stuck.
 
-## Example
+---
 
-**Input:** "I need to design an API that handles both authenticated and unauthenticated requests gracefully. I keep getting tangled in the conditional logic—there are auth checks everywhere and the code is becoming unmaintainable."
+## Examples
 
-**Output:**
+### Example 1: API Design
 
-## Problem Inversion Analysis
+**Situation**: "I need to design an API that handles both authenticated and unauthenticated requests gracefully. I keep getting tangled in conditional logic - auth checks everywhere."
 
-### Original Problem
-**Given:** Need to handle two request types (authenticated, unauthenticated) with different behaviors
-**Required:** Clean API design without scattered auth conditionals
-**Direction:** From request entry to appropriate handling
+**Application**:
+- Given: Need to handle two request types with different behaviors
+- Required: Clean API without scattered conditionals
+- Inverted: Assume clean code with no scattered conditionals exists. How does it handle two request types?
 
-### Inverted Problem
-**Given:** Assume I have clean code with no scattered auth conditionals
-**Required:** How does such code handle the two request types?
-**Direction:** From clean architecture to understanding what it must look like
+**Output**:
+Inverted solution: If code is clean with no scattered conditionals, then auth check happens in exactly ONE place, early. The result is encoded in types or context. Handlers receive pre-determined context, never raw requests. Two paths exist, not one path with conditionals.
 
-### Inverted Solution
-If the code is clean with no scattered conditionals, then the auth check must happen in exactly ONE place, early, and the result must be carried through in a way that doesn't require re-checking.
+Key insight: The problem isn't "how do I add auth checks" - it's "how do I separate authenticated and unauthenticated flows so they don't need checks."
 
-This means:
-1. A single entry point determines auth status
-2. The result is encoded in the type system or request object itself
-3. Handlers receive already-determined context, not raw requests
-4. Two separate paths exist, not one path with conditionals
+Translated solution:
+1. Create gateway/middleware that handles auth once, at the edge
+2. Split into AuthenticatedHandler(user, request) and PublicHandler(request)
+3. Route at gateway - handlers never check auth
+4. Handlers know what they're dealing with by construction, not by checking
 
-### Key Insight from Inversion
-The problem isn't "how do I add auth checks"—it's "how do I separate authenticated and unauthenticated flows so they don't need checks." The conditionals exist because I'm treating two different things as one thing.
+### Example 2: Debugging
 
-### Translated Solution
-1. **Create a gateway/middleware** that handles auth once, at the edge
-2. **Split into two handler types:**
-   - `AuthenticatedHandler(user, request)`
-   - `PublicHandler(request)`
-3. **Route at the gateway:** Auth success goes to authenticated handlers; failure goes to public handlers or rejection
-4. **Handlers never check auth:** They receive pre-validated context
+**Situation**: "This bug appears randomly. Sometimes the calculation is wrong by exactly 1. I can't reproduce it consistently."
 
-The scattered conditionals disappear because each handler knows what it's dealing with by construction, not by checking.
+**Application**:
+- Given: System produces wrong results sometimes
+- Required: Find the bug
+- Inverted: If I wanted to create a bug that produces off-by-one errors randomly, how would I do it?
 
-### Verification
-- Authenticated requests: Gateway validates, routes to AuthenticatedHandler with user context
-- Unauthenticated requests: Gateway routes to PublicHandler or returns 401
-- No auth checks in business logic
-- Original requirement satisfied with cleaner architecture
+**Output**:
+Inverted solution: To create random off-by-one errors, I would:
+- Use a shared counter that sometimes gets accessed without locking
+- Have an array with fence-post confusion (loop says < vs <=)
+- Rely on rounding that differs based on floating point state
+
+Key insight: The "random" appearance suggests shared state or timing, not deterministic logic error.
+
+Translated solution: Look for shared mutable state, race conditions, or floating-point rounding - not for logic errors in the calculation itself.
+
+### Example 3: Goal Planning
+
+**Situation**: "I want to write a book but I don't know where to start. There's so much to figure out."
+
+**Application**:
+- Given: Current state (no book, just an idea)
+- Required: Published book
+- Inverted: The book exists and is published. What must have happened just before publication? And before that?
+
+**Output**:
+Inverted solution (working backwards):
+- Book published <- manuscript submitted to publisher <- manuscript complete <- chapters written <- outline complete <- research done <- concept validated <- idea chosen
+
+Key insight: Working forward, everything seems overwhelming because you're trying to figure out all steps at once. Working backward, each step has a clear predecessor.
+
+Translated solution: The next step isn't "write a book" - it's "validate the concept." Then "do research." Then "complete outline." The forward path becomes clear when you derive it from the backward path.
 
 ---
 
 ## Integration
 
-This skill is part of the **Claude Shannon** expert persona. Shannon explicitly credited inversion with solving problems that seemed intractable when approached directly.
+**Works with:**
+- **problem-simplification**: Simplify before or after inverting
+- **problem-deepening**: Understand the problem deeply before inverting
+- **debugging-methodology**: Inversion is especially powerful for debugging
+
+**When to prefer this skill:**
+- When forward progress has completely stalled
+- When the end state is clearer than the path
+- When debugging mysterious issues
+
+**Cautions:**
+- Don't use inversion when forward is obvious - it adds unnecessary complexity
+- Always verify the translated solution against the original problem
+- Some problems genuinely don't benefit from inversion
