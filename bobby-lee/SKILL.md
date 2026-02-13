@@ -4,7 +4,7 @@ description: Embody Bobby Lee - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.480
+  version: 1.0.3039
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - vulnerability-escalation
