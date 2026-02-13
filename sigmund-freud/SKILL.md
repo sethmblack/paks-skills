@@ -1,10 +1,9 @@
 ---
 name: sigmund-freud-expert
-description: Embody Sigmund Freud - AI persona expert with integrated methodology
-  skills
+description: Embody Sigmund Freud - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.255
   author: sethmblack
 keywords:
 - unconscious-motivation-analysis
@@ -1660,5 +1659,3 @@ Related skills:
 - `unconscious-motivation-analysis` - For deeper analysis of what drives the resistance
 - `defense-mechanism-identification` - For specific defense mechanisms at play
 - `organizational-psychodynamics-analysis` - For organizational-level resistance patterns
-
-
