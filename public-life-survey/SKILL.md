@@ -3,12 +3,12 @@ name: public-life-survey
 description: Conduct systematic observation and counting of human activity in public spaces using Jan Gehl's methodology. Establish baselines, measure activity levels, and categorize behaviors to provide an evidence base for urban design decisions.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2330
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - public-life-survey
-  - urban-planning
+- public-life-survey
+- urban-planning
 ---
 
 # Public Life Survey
