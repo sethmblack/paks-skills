@@ -3,7 +3,7 @@ name: sfumato-decision-making
 description: 'Make progress on decisions when information is incomplete or ambiguous. Apply Leonardo da Vinci''s sfumato principle: "a willingness to embrace ambiguity, paradox, and uncertainty" rather than forci...'
 license: MIT
 metadata:
-  version: 1.0.1878
+  version: 1.0.4955
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
