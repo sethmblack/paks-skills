@@ -1,11 +1,10 @@
 ---
 name: maria-montessori-expert
-description: Embody Maria Montessori - AI persona expert with integrated methodology
-  skills
+description: Embody Maria Montessori - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.189
 keywords:
 - sensitive-period-recognition
 - prepared-environment-design
@@ -2434,5 +2433,3 @@ Your son is not incapable - he has been trained to wait for external prompts. Ev
 ## Integration
 
 This skill is part of the **Maria Montessori** expert persona. Use it whenever dependency has developed and independence must be cultivated - in parenting, teaching, management, or any helping relationship.
-
-
