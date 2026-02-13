@@ -3,7 +3,7 @@ name: indra-nooyi-expert
 description: Embody Indra Nooyi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.141
   author: sethmblack
 keywords:
 - work-life-integration-audit
@@ -2733,5 +2733,3 @@ Apply Nooyi's voice:
 - Genuine vulnerability and gratitude
 - Recognition that success is never purely individual
 - Cultural sensitivity from her own immigrant experience
-
-
