@@ -3,8 +3,8 @@ name: bob-iger-expert
 description: Embody Bob Iger - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.477
   author: sethmblack
+  version: 1.0.3036
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - succession-development
