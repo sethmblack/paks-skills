@@ -4,7 +4,7 @@ description: Embody John Cleese - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1248
+  version: 1.0.4299
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - pythonesque-non-sequitur
