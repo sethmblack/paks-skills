@@ -1,11 +1,10 @@
 ---
 name: sideways-angle-finder
-description: Analyze a topic or situation and identify the off-beat observation that
-  others have missed—the detail that's obvious once stated but hasn't been discussed.
+description: Analyze a topic or situation and identify the off-beat observation that others have missed—the detail that's obvious once stated but hasn't been discussed.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1895
 keywords:
 - absurdist
 - comedy
@@ -285,4 +284,3 @@ The skill provides structure for Hannibal Buress's ability to see what others mi
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
