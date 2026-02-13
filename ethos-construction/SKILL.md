@@ -1,19 +1,27 @@
 ---
 name: ethos-construction
-description: Build character-based credibility and trust with any audience through
-  demonstrated virtue, practical wisdom, and genuine goodwill.
+description: Build character-based credibility and trust with any audience through demonstrated virtue, practical wisdom, and genuine goodwill.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.908
   author: sethmblack
 keywords:
+- credibility
 - ethos-construction
-- writing
+- persuasion
+- rhetoric
+- trust
 ---
 
 # Ethos Construction
 
-Build character-based credibility and trust with any audience through demonstrated virtue, practical wisdom, and genuine goodwill.
+Build character-based credibility and trust with any audience through demonstrated virtue, practical wisdom, and genuine goodwill. This methodology applies Aristotle's three pillars of ethos: phronesis (practical wisdom, "they know what they're talking about"), arete (virtue/integrity, "they do the right thing"), and eunoia (goodwill, "they care about my interests"). The framework provides specific techniques for demonstrating each pillar, language patterns that build credibility, mistakes that undermine it, and strategies for both building ethos before you speak and recovering damaged ethos over time. The result is persuasion grounded not in manipulation but in genuine character that audiences can trust, where credibility is earned through demonstrated competence, honesty, and care for the audience's wellbeing.
+
+---
+
+## Core Principle
+
+Ethos is built through character perceived by the audience, not credentials stated by the speaker. Different audiences value different markers of credibility. All three pillars must be present: weakness in one undermines the others. Authenticity works; performance backfires.
 
 ---
 
@@ -155,32 +163,6 @@ If credibility has been damaged:
 
 ---
 
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
-
 ## Output Format
 
 ```markdown
@@ -255,52 +237,38 @@ Create actionable outputs:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+**1. Claiming expertise you lack**
+- Wrong: Presenting yourself as an authority when you are not
+- Right: Being clear about the boundaries of your knowledge
+- Why: False claims destroy trust when discovered; honesty builds long-term credibility
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+**2. Using jargon to seem smart**
+- Wrong: Technical language to impress rather than communicate
+- Right: Plain language that demonstrates you truly understand
+- Why: Jargon signals insecurity; clarity signals mastery
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+**3. Hiding conflicts of interest**
+- Wrong: Failing to disclose when you benefit from the recommendation
+- Right: Transparent acknowledgment of your interests
+- Why: Hidden conflicts destroy arete; disclosed conflicts can be managed
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+**4. Generic pitches showing no understanding**
+- Wrong: Same presentation to every audience
+- Right: Customized approach that demonstrates you know this audience
+- Why: Generic undermines eunoia; specificity demonstrates genuine care
 
-**Example output:** See the Example section below for a complete demonstration.
+**5. Promising what you cannot deliver**
+- Wrong: Overstating capabilities to win trust
+- Right: Underpromising and overdelivering
+- Why: Broken promises destroy all three pillars simultaneously
+
+---
 
 ## Example
 
 **Input:** "I'm a young manager presenting a change initiative to senior leaders who've been at the company for 20+ years. They're skeptical of 'kids with ideas.'"
-
-**Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Ethos Construction: Young Manager to Senior Leaders
 
@@ -383,7 +351,33 @@ You face the classic age/experience gap. They likely assume you lack organizatio
 
 ## Integration
 
-This skill is part of the **Cicero** expert persona and focuses specifically on building ethos (one of the three appeals). Pairs naturally with:
-- **Five Canons Analysis** (comprehensive preparation)
-- **Emotional Amplification** (ethos + pathos together)
-- **Decorum Assessment** (what this audience values)
+This skill is part of the **Cicero** expert persona and focuses specifically on building ethos (one of the three appeals).
+
+**Works well with:**
+- `five-canons-analysis` - For comprehensive rhetorical preparation
+- `emotional-amplification` - For combining ethos with pathos
+- `decorum-assessment` - For understanding what this audience values
+- `logos-construction` - For building the logical argument
+
+**When to prefer this over alternatives:**
+- Addressing a new or skeptical audience
+- Proposing something that requires trust (sales, leadership, expertise)
+- Recovering from a credibility setback
+- Speaking on a topic where qualifications are questioned
+
+**Cautions:**
+- Ethos must be genuine; performed ethos backfires
+- Different audiences value different markers; know your audience
+- Trust rebuilds slowly; be patient after setbacks
+
+---
+
+## Success Criteria
+
+Ethos construction is successful when:
+- [ ] Current credibility position is assessed accurately
+- [ ] All three pillars (phronesis, arete, eunoia) are addressed
+- [ ] Specific language suggestions are provided for each pillar
+- [ ] Pitfalls specific to this audience are identified
+- [ ] Actions for building ethos before/during communication are defined
+- [ ] Red flags that would undermine credibility are noted
