@@ -1,16 +1,16 @@
 ---
 name: character-voice-transformation
-description: "Transform explanatory content into character-voiced dialogue where concepts are embodied by distinct personas"
+description: Transform explanatory content into character-voiced dialogue where concepts are embodied by distinct personas
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.550
 keywords:
-  - dialogue
-  - character
-  - personification
-  - teaching
-  - creative-writing
+- dialogue
+- character
+- personification
+- teaching
+- creative-writing
 ---
 
 # Character Voice Transformation
