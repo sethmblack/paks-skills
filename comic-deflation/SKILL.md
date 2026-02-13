@@ -3,7 +3,7 @@ name: comic-deflation
 description: Expose institutional hypocrisy and pomposity by letting subjects deflate themselves through their own words, contradictions, and absurdities, following Dickens's satirical method.
 license: MIT
 metadata:
-  version: 1.0.604
+  version: 1.0.3168
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
