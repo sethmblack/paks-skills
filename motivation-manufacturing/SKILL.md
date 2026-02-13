@@ -3,8 +3,8 @@ name: motivation-manufacturing
 description: Transform any perceived slight, criticism, doubt, or challenge into sustainable fuel for elite performance using Michael Jordan's "And I Took That Personally" methodology.
 license: MIT
 metadata:
+  version: 1.0.4537
   author: sethmblack
-  version: 1.0.1481
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - motivation-manufacturing
