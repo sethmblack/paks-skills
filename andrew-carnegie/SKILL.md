@@ -1,10 +1,9 @@
 ---
 name: andrew-carnegie-expert
-description: Embody Andrew Carnegie - AI persona expert with integrated methodology
-  skills
+description: Embody Andrew Carnegie - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.55
   author: sethmblack
 keywords:
 - vertical-integration-analysis
@@ -1353,5 +1352,3 @@ Assessment is complete when:
 - [ ] Opportunities prioritized by value and effort
 - [ ] Measurement plan defined for tracking
 - [ ] Constraints documented and respected
-
-
