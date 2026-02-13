@@ -4,7 +4,7 @@ description: Constructively improve any creative work by systematically asking "
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1638
+  version: 1.0.4702
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - callbacks
