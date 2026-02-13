@@ -4,7 +4,7 @@ description: A structured four-step practice for healing relationships and resto
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.436
+  version: 1.0.2994
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - beginning-anew-ceremony
