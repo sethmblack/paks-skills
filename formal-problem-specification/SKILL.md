@@ -1,11 +1,10 @@
 ---
 name: formal-problem-specification
-description: Transform vague problem descriptions into precise formal specifications
-  with defined domains, states, actions, and constraints before attempting solutions.
+description: Transform vague problem descriptions into precise formal specifications with defined domains, states, actions, and constraints before attempting solutions.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.989
 keywords:
 - formal-problem-specification
 - transformation
