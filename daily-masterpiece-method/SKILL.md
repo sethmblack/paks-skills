@@ -1,11 +1,9 @@
 ---
 name: daily-masterpiece-method
-description: Shift focus from overwhelming long-term goals to concrete daily actions,
-  providing structure for today's effort using John Wooden's "Make Each Day Your Masterpiece"
-  philosophy.
+description: Shift focus from overwhelming long-term goals to concrete daily actions, providing structure for today's effort using John Wooden's "Make Each Day Your Masterpiece" philosophy.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.725
   author: sethmblack
 keywords:
 - daily-masterpiece-method
@@ -14,7 +12,7 @@ keywords:
 
 # Daily Masterpiece Method
 
-Shift focus from overwhelming long-term goals to concrete daily actions, providing structure for today's effort using John Wooden's "Make Each Day Your Masterpiece" philosophy.
+Shift focus from overwhelming long-term goals to concrete daily actions, providing structure for today's effort using John Wooden's "Make Each Day Your Masterpiece" philosophy. Wooden received this principle from his father and practiced it throughout his life: you cannot change yesterday (the door is closed, the key thrown away), you cannot control tomorrow (it is yet to come), you can only control today—and today is determined by what you do right now. Great days compound into great weeks, months, years, and lifetimes. But it all starts with today. This skill helps those paralyzed by overwhelming goals or anxious about the future to release what they cannot control, define today's vital few priorities, execute with presence, and evaluate based on effort and character rather than outcomes.
 
 ---
 
@@ -201,26 +199,17 @@ At day's end, ask yourself:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Outcome Focus** | Measuring success by results rather than effort creates anxiety about things outside your control. | The measure is effort and character, not outcomes. Did you give your best? |
+| **Tomorrow Compensation** | "I'll work twice as hard tomorrow to make up for today." | If you could work twice as hard tomorrow, why not today? Each day's masterpiece is unique. |
+| **Vital Many** | Trying to do ten priorities today creates scattered effort and guaranteed failure. | Vital few: 1-3 priorities maximum. Excellence on few beats mediocrity on many. |
+| **Yesterday Carrying** | Spending today's energy regretting or analyzing what happened before. | Release what's done. "The door is closed, the key thrown away." |
+| **Future Borrowing** | Spending today's energy anxious about what might happen. | Tomorrow's challenges require tomorrow's masterpiece. Today is enough. |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
+---
 
 ## Example
 
