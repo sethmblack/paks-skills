@@ -1,11 +1,10 @@
 ---
 name: surplus-value-analysis
-description: Trace how value is created through labor and how the surplus (the difference
-  between value produced and wages paid) flows to those who own the means of production.
+description: Trace how value is created through labor and how the surplus (the difference between value produced and wages paid) flows to those who own the means of production.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2028
 keywords:
 - surplus-value-analysis
 - writing
