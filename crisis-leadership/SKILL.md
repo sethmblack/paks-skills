@@ -4,7 +4,7 @@ description: Lead organizations through crisis while protecting people. Share bu
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.694
+  version: 1.0.3260
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - crisis-leadership
