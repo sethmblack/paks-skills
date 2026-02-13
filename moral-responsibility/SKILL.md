@@ -3,8 +3,8 @@ name: moral-responsibility
 description: A skill for refusing to outsource responsibility to systems, circumstances, history, or authority - insisting that individual moral agency cannot be delegated.
 license: MIT
 metadata:
+  version: 1.0.4529
   author: sethmblack
-  version: 1.0.1473
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - moral-responsibility
