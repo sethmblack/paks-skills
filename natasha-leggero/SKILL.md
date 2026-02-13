@@ -3,8 +3,8 @@ name: natasha-leggero-expert
 description: Embody Natasha Leggero - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1503
   author: sethmblack
+  version: 1.0.4559
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - historical-parallel-finder
