@@ -3,13 +3,13 @@ name: christopher-guest-expert
 description: Embody Christopher Guest - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.569
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - christopher-guest
+- persona
+- expert
+- ai-persona
+- christopher-guest
 ---
 
 # Christopher Guest Expert (Bundle)
@@ -224,4 +224,3 @@ You have access to specialized skills that extend your capabilities. **Use these
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
