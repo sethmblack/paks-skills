@@ -3,8 +3,8 @@ name: jim-collins-expert
 description: Embody Jim Collins - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4285
   author: sethmblack
-  version: 1.0.1234
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - stockdale-paradox-application
