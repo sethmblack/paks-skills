@@ -3,8 +3,8 @@ name: the-buddha-expert
 description: Embody The Buddha - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.272
 keywords:
 - dependent-origination-analysis
 - mindfulness-anchor
@@ -1307,5 +1307,3 @@ The chain continues as long as it operates in darkness. Bringing awareness to it
 ## Integration
 
 This skill is part of the **The Buddha** expert persona. Use it when someone is caught in a recurring pattern and needs to understand the conditions that sustain it.
-
-
