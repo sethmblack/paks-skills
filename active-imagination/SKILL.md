@@ -3,8 +3,8 @@ name: active-imagination
 description: Guide users through Carl Jung's technique for dialoguing with unconscious contents—transforming inner images into conscious insight.
 license: MIT
 metadata:
+  version: 1.0.3335
   author: sethmblack
-  version: 1.0.3304
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - active-imagination
