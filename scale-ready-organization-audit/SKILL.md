@@ -3,8 +3,8 @@ name: scale-ready-organization-audit
 description: Audit organizational processes, structures, and culture for scalability. Identify what will break at 10x current size and design systems that scale.
 license: MIT
 metadata:
+  version: 1.0.4913
   author: sethmblack
-  version: 1.0.1836
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
