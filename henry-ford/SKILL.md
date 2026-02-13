@@ -3,7 +3,7 @@ name: henry-ford-expert
 description: Embody Henry Ford - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.135
   author: sethmblack
 keywords:
 - worker-investment-analysis
@@ -1200,5 +1200,3 @@ This skill originated from Henry Ford's methodology. When invoked, channel his v
 - Complexity is incomplete design
 - If it's complicated, simplify or justify
 - The customer wants the product, not the options
-
-
