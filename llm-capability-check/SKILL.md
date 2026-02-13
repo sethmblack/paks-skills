@@ -3,8 +3,8 @@ name: llm-capability-check
 description: Apply Yann LeCun's framework to systematically assess whether AI/LLM capability claims match fundamental architectural realities. Cut through hype by checking claims against what current systems ca...
 license: MIT
 metadata:
+  version: 1.0.4400
   author: sethmblack
-  version: 1.0.1346
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - llm-capability-reality-check
