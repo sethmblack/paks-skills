@@ -1,11 +1,9 @@
 ---
 name: observational-debugging
-description: 'Diagnose system problems through rigorous observation before hypothesis.
-  Apply Leonardo da Vinci''s method: "First I shall do some experiments... my intention
-  is to cite experience first and then wi...'
+description: 'Diagnose system problems through rigorous observation before hypothesis. Apply Leonardo da Vinci''s method: "First I shall do some experiments... my intention is to cite experience first and then wi...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1535
   author: sethmblack
 keywords:
 - observational
