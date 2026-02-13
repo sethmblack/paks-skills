@@ -4,7 +4,7 @@ description: 'Systematically eliminate unnecessary complexity from a product, fe
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1904
+  version: 1.0.4981
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - simplicity-audit
