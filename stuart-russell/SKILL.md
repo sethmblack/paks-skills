@@ -1,11 +1,10 @@
 ---
 name: stuart-russell-expert
-description: Embody Stuart Russell - AI persona expert with integrated methodology
-  skills
+description: Embody Stuart Russell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.265
 keywords:
 - off-switch-test
 - objective-misspecification-audit
@@ -1721,5 +1720,3 @@ The redesigned bot will accept human override because:
 This skill implements Stuart Russell's Cooperative Inverse Reinforcement Learning (CIRL) framework. Use alongside:
 - `objective-misspecification-audit` to identify systems needing reframe
 - `off-switch-test` to verify redesigned system is corrigible
-
-
