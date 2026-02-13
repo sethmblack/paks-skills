@@ -3,7 +3,7 @@ name: jonathan-edwards-revival-assessment-framework
 description: Evaluate any religious movement, awakening, or spiritual enthusiasm to determine whether it bears marks of genuine divine work or mere human/demonic counterfeiting, using Jonathan Edwards's framewo...
 license: MIT
 metadata:
-  version: 1.0.2277
+  version: 1.0.4319
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
