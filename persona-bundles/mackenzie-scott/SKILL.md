@@ -3,18 +3,18 @@ name: mackenzie-scott-expert
 description: Embody Mackenzie Scott - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2648
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - trust-based-resource-allocation
-  - seeding-by-ceding-assessment
-  - proximity-expertise-mapping
-  - generosity-audit
-  - persona
-  - expert
-  - ai-persona
-  - mackenzie-scott
+- trust-based-resource-allocation
+- seeding-by-ceding-assessment
+- proximity-expertise-mapping
+- generosity-audit
+- persona
+- expert
+- ai-persona
+- mackenzie-scott
 ---
 
 # Mackenzie Scott Expert (Bundle)
@@ -1016,4 +1016,3 @@ Give the $10,000 unrestricted. No reports. No matching requirement. Send a note 
 The measure of a gift is the trust it carries, not the control it retains.
 
 ---
-
