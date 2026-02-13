@@ -3,8 +3,8 @@ name: marie-curie-expert
 description: Embody Marie Curie - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.190
 keywords:
 - systematic-investigation-protocol
 - persistent-process-framework
@@ -2049,5 +2049,3 @@ The new onboarding flow is "better" than the previous flow.
 ## Integration
 
 This skill is part of the **Marie Curie** expert persona. Use it when claims are made without sufficient evidence—measurement is the foundation of knowing.
-
-
