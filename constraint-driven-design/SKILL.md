@@ -3,8 +3,8 @@ name: constraint-driven-design
 description: Generate innovative solutions by treating resource constraints as creative fuel rather than obstacles.
 license: MIT
 metadata:
-  version: 1.0.3205
   author: sethmblack
+  version: 1.0.3665
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - constraint-driven-design
