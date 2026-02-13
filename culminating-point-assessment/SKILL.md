@@ -1,11 +1,9 @@
 ---
 name: culminating-point-assessment
-description: '**Expert Origin:** Carl von Clausewitz **Skill Type:** Strategic Diagnostic
-  Framework **Trigger:** "Are we overextending?" / "Should we keep pushing?" / "How
-  far should we go?'
+description: '**Expert Origin:** Carl von Clausewitz **Skill Type:** Strategic Diagnostic Framework **Trigger:** "Are we overextending?" / "Should we keep pushing?" / "How far should we go?'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.704
   author: sethmblack
 keywords:
 - culminating-point-assessment
@@ -14,15 +12,25 @@ keywords:
 
 # Culminating Point Assessment
 
-**Expert Origin:** Carl von Clausewitz
-**Skill Type:** Strategic Diagnostic Framework
-**Trigger:** "Are we overextending?" / "Should we keep pushing?" / "How far should we go?"
+Assess whether an offensive, expansion, or initiative is approaching its culminating point—the moment when continuing forward makes you weaker rather than stronger. Determine whether to press on toward decisive victory or consolidate gains. This framework applies Clausewitz's strategic insight: "There is a culminating point of victory... Beyond that point the scale turns, there is a reaction; the violence of such a reaction is commonly much greater than the force of the blow." Every advance consumes resources, extends lines, and disperses forces. At some point, the attacker becomes weaker than the defender. Napoleon in Russia, Hitler on the Eastern Front—history's graveyards are filled with those who did not recognize their culminating point. This skill helps you assess resource depletion, opposition trajectory, and distance to objective to determine whether to press forward, consolidate, or withdraw.
 
 ---
 
-## Purpose
+## When to Use
 
-Assess whether an offensive, expansion, or initiative is approaching its culminating point—the moment when continuing forward makes you weaker rather than stronger. Determine whether to press on toward decisive victory or consolidate gains.
+- Mid-initiative reviews when progress has slowed
+- After significant success (when overconfidence risk is highest)
+- When progress slows despite continued effort
+- Resource allocation decisions during ongoing campaigns
+- Strategic pivot considerations
+- When team shows signs of exhaustion or strain
+- User asks "Are we overextending?" or "Should we keep pushing?"
+
+---
+
+## Core Principle
+
+The culminating point arrives when your strength remaining minus the cost of further advance becomes less than the opposition's strength plus their reinforcement. Before this point, each advance strengthens your position. At this point, further advance yields diminishing returns. Past this point, each advance weakens your position. The commander who recognizes culmination and consolidates preserves the option to resume. The commander who ignores it may find even retreat impossible.
 
 ---
 
@@ -256,26 +264,17 @@ The 15% objective is not achievable before culmination. Continuing current offen
 
 ---
 
-## Common Mistakes
+## Anti-Patterns to Avoid
 
-1. **Success blindness** - Assuming past success guarantees future success
-2. **Objective fixation** - Pursuing original objective regardless of changed conditions
-3. **Sunk cost fallacy** - "We've invested too much to stop now"
-4. **Underestimating opposition recovery** - Assuming they won't adapt
-5. **Ignoring resource depletion** - Treating reserves as infinite
-
----
-
-## When to Use
-- Mid-initiative reviews
-- After significant success (when overconfidence risk is highest)
-- When progress slows despite continued effort
-- Resource allocation decisions
-- Strategic pivot considerations
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Success Blindness** | Assuming past success guarantees future success. The culminating point often approaches fastest after victories. | Assess current trajectory, not past performance. Ask: "Is each advance now harder than the last?" |
+| **Objective Fixation** | Pursuing original objective regardless of changed conditions. The goal was set before the campaign; conditions have changed. | Reassess whether the objective is achievable before culmination. Adjust if needed. |
+| **Sunk Cost Fallacy** | "We've invested too much to stop now"—treating past investment as relevant to future decisions. | Ask only: "From here, with what we have now, what is the best path forward?" |
+| **Underestimating Opposition Recovery** | Assuming they won't adapt, reinforce, or counterattack. Opposition often hardens after initial shock. | Track opposition trajectory. Are they weakening faster than you, or vice versa? |
+| **Ignoring Resource Depletion** | Treating reserves as infinite. Pretending exhaustion isn't happening until it's catastrophic. | Explicitly track resource levels, consumption rates, and remaining runway. |
 
 ---
-
-
 
 ## Inputs
 
@@ -284,31 +283,6 @@ The 15% objective is not achievable before culmination. Continuing current offen
 | input_data | Yes | The primary data or content to analyze |
 | context | No | Additional background or constraints (default: none) |
 | output_format | No | Preferred format for results (default: structured markdown) |
-
-## Voice Note
-
-When delivering culminating point assessment, maintain Clausewitz's realism about limits. The counsel is not pessimistic but clear-eyed. Recognizing limits is not weakness—it is wisdom. The greatest generals knew when to stop.
-
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
 
 ## Error Handling
 
@@ -322,45 +296,22 @@ When delivering culminating point assessment, maintain Clausewitz's realism abou
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- This assessment requires honest resource and opposition data—garbage in, garbage out
+- Do not let optimism bias assessment—be clear-eyed about trajectory
+- Consolidation is not failure—Eisenhower consolidated before final victory
+- The decision-maker retains full responsibility—this framework aids judgment
+- Recognize that some situations require pressing past apparent culmination (rare)
+- Acknowledge that assessment is based on available data, which may be incomplete
 
-## Additional Notes
-
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
-
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
-
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
+---
 
 ## Integration
 
-This skill is part of a broader analytical framework. Use it when you need systematic analysis following this specific methodology.
+This skill is part of the **Carl von Clausewitz** expert persona. Use it when assessing whether to continue an offensive, expansion, or initiative.
 
 **Works well with:**
-- Other analytical skills for comprehensive evaluation
-- Creative skills when generating solutions based on insights
-- Strategic planning skills when acting on recommendations
+- `crisis-decision-framework` - When deciding between bold action and consolidation
+- `decisive-point-identification` - For identifying what to aim at before culmination
+- `resource-allocation` - For managing the resources being consumed
 
-**When to prefer this over alternatives:**
-- The situation matches this skill's specific use cases
-- You need the particular perspective this framework provides
-- Other approaches haven't yielded satisfactory results
-
-**Integration with expert personas:**
-- This skill can be invoked as part of a larger analysis workflow
-- Combine with domain-specific expertise for deeper insights
-- Use iteratively for complex, multi-faceted problems
+When delivering culminating point assessment, maintain Clausewitz's realism about limits. The counsel is not pessimistic but clear-eyed. Recognizing limits is not weakness—it is wisdom. The greatest generals knew when to stop.
