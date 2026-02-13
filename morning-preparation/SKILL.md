@@ -1,11 +1,10 @@
 ---
 name: morning-preparation
-description: Pre-visualize potential difficulties before they occur to build resilience,
-  reduce anxiety, and prepare appropriate responses.
+description: Pre-visualize potential difficulties before they occur to build resilience, reduce anxiety, and prepare appropriate responses.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1477
 keywords:
 - morning-preparation-(premeditatio-malorum)
 - transformation
@@ -14,7 +13,7 @@ keywords:
 
 # Morning Preparation (Premeditatio Malorum)
 
-Pre-visualize potential difficulties before they occur to build resilience, reduce anxiety, and prepare appropriate responses.
+Pre-visualize potential difficulties before they occur to build resilience, reduce anxiety, and prepare appropriate responses. This skill applies the Stoic practice of premeditatio malorum - the pre-meditation on evils - as practiced by Marcus Aurelius, Seneca, and other Stoic philosophers. This is not pessimism but preparation. By anticipating challenges before they occur, you reduce their shock value, pre-decide virtuous responses, focus attention on what you can control (your response) rather than what you cannot (others' behavior), and paradoxically create greater peace of mind. The anxiety that comes from hoping everything will be easy while fearing it will not is replaced by calm acceptance that difficulty is normal and preparation is possible. When challenges do not materialize, you experience gratitude rather than taking their absence for granted. This practice transforms morning anxiety into morning strength through deliberate mental rehearsal.
 
 ---
 
@@ -25,6 +24,8 @@ Pre-visualize potential difficulties before they occur to build resilience, redu
 - Building resilience before known stressors
 - Reducing anxiety about upcoming events
 - User asks "Help me prepare for today" or "I have a big day ahead"
+- Before important presentations, negotiations, or confrontations
+- When worry is disrupting focus or sleep
 
 ---
 
@@ -39,77 +40,75 @@ Pre-visualize potential difficulties before they occur to build resilience, redu
 
 ---
 
-## The Stoic Framework
+## Core Principle
 
-Marcus Aurelius practiced *premeditatio malorum*—the pre-meditation on evils. This isn't pessimism; it's preparation. As he wrote:
-
-> "When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil."
-
-### Why It Works
-
-1. **Reduces surprise:** Anticipated difficulties lose their shock value
-2. **Prepares responses:** You've already decided how to react virtuously
-3. **Builds resilience:** Mental rehearsal strengthens emotional readiness
-4. **Focuses on controllables:** Attention goes to your response, not their behavior
-5. **Creates gratitude:** When difficulties don't materialize, you appreciate it
-
-### The Paradox
-
-By expecting challenges, you become more peaceful, not more anxious. The anxiety comes from hoping everything will be easy while fearing it won't. Accepting that difficulty is normal removes the tension.
+By expecting challenges, you become more peaceful, not more anxious. The anxiety comes from hoping everything will be easy while fearing it will not. Accepting that difficulty is normal removes the tension. Anticipated difficulties lose their shock value, and pre-decided responses prevent reactive mistakes. The practice focuses attention on the only thing you control: your response.
 
 ---
 
-## Preparation Steps
+## Methodology
 
-### Step 1: Identify the Day's Challenges
-What situations, tasks, or interactions are likely to be difficult?
+### Phase 1: Survey the Day's Landscape
 
-### Step 2: Anticipate What Could Go Wrong
+Identify what situations, tasks, or interactions are likely to be challenging:
+
+1. What events are scheduled that involve high stakes?
+2. Which interactions have potential for conflict?
+3. What tasks require sustained effort or courage?
+4. Where have similar situations gone wrong before?
+5. What is outside your control that could go badly?
+
+### Phase 2: Anticipate What Could Go Wrong
+
 For each challenge, consider realistic difficulties:
-- People acting from their own interests
-- Technical or logistical problems
-- Your own emotional reactions
-- Unexpected complications
 
-### Step 3: Pre-Decide Your Response
-For each anticipated difficulty, determine:
-- How will I respond virtuously?
-- What is within my control?
-- What does this situation call for (patience, courage, wisdom, justice)?
+1. How might people act from their own interests?
+2. What technical or logistical problems could occur?
+3. What emotional reactions might you have?
+4. What unexpected complications could arise?
+5. What has gone wrong in similar past situations?
 
-### Step 4: Set Your Intention
-Choose the virtue you'll embody today. Make it specific.
+**Be realistic, not catastrophic.** Anticipate likely difficulties, not worst-case fantasies.
 
-### Step 5: Commit to Present Action
-Return to the only moment you can act in: now.
+### Phase 3: Pre-Decide Your Response
+
+For each anticipated difficulty, determine in advance:
+
+1. How will I respond virtuously?
+2. What is within my control?
+3. What virtue does this situation call for? (patience, courage, wisdom, justice, temperance)
+4. What would the person I want to be do?
+5. What response will I not regret afterward?
+
+### Phase 4: Anticipate People
+
+Consider the people you will encounter:
+
+1. How might they behave based on their nature?
+2. What pressures or concerns might drive their behavior?
+3. How can you respond with equanimity regardless of how they act?
+4. What response would you give if they behaved their worst?
+
+As Marcus Aurelius wrote: "When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil."
+
+### Phase 5: Set Your Intention
+
+Choose the virtue or quality you will embody today:
+
+1. What one quality will serve you best?
+2. Why does this matter for today specifically?
+3. How will you remind yourself throughout the day?
+4. What will success look like?
+
+### Phase 6: Return to Present Action
+
+Complete the preparation and begin:
+
+1. What is the first action to take right now?
+2. How will you maintain presence throughout the day?
+3. What will you do when you notice yourself slipping?
 
 ---
-
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
 
 ## Output Format
 
@@ -153,87 +152,101 @@ Create actionable outputs:
 
 ## Constraints
 
-- Be realistic, not catastrophic—anticipate likely difficulties, not worst-case fantasies
+- Be realistic, not catastrophic - anticipate likely difficulties, not worst-case fantasies
 - Focus on your response, not controlling outcomes
 - The goal is equanimity, not anxiety
-- Don't dwell on negative visualization too long—prepare, then act
+- Don't dwell on negative visualization too long - prepare, then act
 - This is preparation, not worry
+- Don't use this to justify pessimism or avoidance
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails |
+|--------------|--------------|
+| **Catastrophizing** | Imagining unrealistic worst-case scenarios creates anxiety rather than preparation; stay with likely difficulties |
+| **Focusing on what you cannot control** | Dwelling on others' potential behavior without pivoting to your response creates helplessness; always return to what you can do |
+| **Using preparation as procrastination** | The practice should take minutes, not hours; prepare, then act - don't use visualization as avoidance |
+| **Skipping the response preparation** | Identifying potential problems without pre-deciding responses leaves you reactive; the power is in the pre-decision |
+| **Applying to trivial situations** | Morning preparation is for significant challenges; applying it to routine tasks wastes mental energy |
+| **Dwelling in negativity** | The practice should create peace through acceptance, not reinforce negative expectations; if you feel worse afterward, you're doing it wrong |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+---
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+## Examples
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+### Example 1: Board Meeting with Below-Target Results
 
-**Example output:** See the Example section below for a complete demonstration.
+**Situation:** "I have a crucial board meeting today. I'm presenting our quarterly numbers which are below target, and I know some board members will be critical. One board member in particular tends to be aggressive with questions."
 
-## Example
+**Application:**
 
-**Input:** "I have a crucial board meeting today. I'm presenting our quarterly numbers which are below target, and I know some board members will be critical. One board member in particular tends to be aggressive with questions."
-
-**Output:**
-
-## Morning Preparation
-
-### Today's Landscape
+**Today's Landscape:**
 Board meeting presenting below-target Q3 results. High-stakes, critical audience, particular concern about one aggressive board member.
 
-### Anticipated Challenges
+**Anticipated Challenges:**
 
-#### Challenge 1: Below-Target Numbers
-**What might happen:** Board members express disappointment, ask hard questions about strategy, may question leadership decisions
-**My prepared response:** Present facts clearly without defensiveness. Own the results without excessive excuse-making. Show the plan forward with conviction.
-**Virtue required:** Courage (to face criticism directly) + Wisdom (to learn from what's shared)
+**Challenge 1: Below-Target Numbers**
+- What might happen: Board members express disappointment, ask hard questions about strategy, may question leadership decisions
+- My prepared response: Present facts clearly without defensiveness. Own the results without excessive excuse-making. Show the plan forward with conviction.
+- Virtue required: Courage (to face criticism directly) + Wisdom (to learn from what's shared)
 
-#### Challenge 2: Aggressive Questioning
-**What might happen:** The difficult board member may interrupt, speak harshly, question judgment, or attempt to embarrass
-**My prepared response:** Listen fully before responding. Thank them for the challenge. Answer the substance, not the tone. Remain calm—their aggression is about them, not me.
-**Virtue required:** Temperance (control emotional reaction) + Justice (respond fairly to the actual question)
+**Challenge 2: Aggressive Questioning**
+- What might happen: The difficult board member may interrupt, speak harshly, question judgment
+- My prepared response: Listen fully before responding. Thank them for the challenge. Answer the substance, not the tone. Remain calm - their aggression is about them, not me.
+- Virtue required: Temperance (control emotional reaction) + Justice (respond fairly to the actual question)
 
-#### Challenge 3: Feeling Defensive
-**What might happen:** I may feel attacked and want to deflect blame or become argumentative
-**My prepared response:** Notice the feeling without acting on it. Breathe. Respond from reason, not emotion. Remember: I cannot control their judgments, only my integrity.
-**Virtue required:** Temperance + Wisdom
+**Challenge 3: Feeling Defensive**
+- What might happen: I may feel attacked and want to deflect blame
+- My prepared response: Notice the feeling without acting on it. Breathe. Respond from reason, not emotion.
+- Virtue required: Temperance + Wisdom
 
-#### Challenge 4: Unexpected Questions
-**What might happen:** Questions I haven't prepared for, data I don't have at hand
-**My prepared response:** "I don't have that at hand—I'll follow up today." Better to acknowledge uncertainty than pretend knowledge.
-**Virtue required:** Wisdom (knowing limits) + Courage (admitting them)
-
-### People I'll Encounter
+**People I'll Encounter:**
 | Person | How they might be | My response will be |
 |--------|------------------|-------------------|
-| Critical board member | Aggressive, interrupting, pointed | Calm, substantive, non-defensive |
+| Critical board member | Aggressive, interrupting | Calm, substantive, non-defensive |
 | Supportive board members | Helpful but may stay quiet | Grateful; draw on their input |
 | My team | Looking to me for cues | Steady, confident, honest |
 
-### Today's Intention
-**I will embody:** Unshakeable equanimity
-**Because:** My character is not determined by the board's reaction. I can face hard truths with dignity. Results are outside my control; my response is not.
+**Today's Intention:**
+I will embody: Unshakeable equanimity
+Because: My character is not determined by the board's reaction. Results are outside my control; my response is not.
 
-### The Morning Reminder
-> "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." — Marcus Aurelius
+**The Morning Reminder:**
+> "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." - Marcus Aurelius
 
-### First Action
-Review the presentation one more time—not anxiously, but as final preparation. Then set it aside and greet the day with the calm of someone who has prepared well and accepts what comes.
+**First Action:**
+Review the presentation one more time - not anxiously, but as final preparation. Then set it aside and greet the day with the calm of someone who has prepared well and accepts what comes.
+
+### Example 2: Difficult Conversation with Direct Report
+
+**Situation:** Need to give critical feedback to a team member who may react defensively.
+
+**Application:**
+
+**Challenge:** They may become emotional, defensive, or dismissive.
+
+**Prepared response:** Stay calm regardless of their reaction. Express care for their growth. Focus on specific behaviors, not character. Allow silence. Their reaction is not my responsibility; my fairness and clarity are.
+
+**Virtue required:** Justice (fair feedback) + Courage (willingness to have hard conversation) + Temperance (measured delivery)
+
+**Intention:** I will embody honest compassion - truth-telling in service of their growth.
 
 ---
 
 ## Integration
 
-This skill is part of the **Marcus Aurelius** expert persona. It transforms morning anxiety into morning strength through deliberate mental preparation.
+**Works with:**
+- **memento-mori**: Both practices involve confronting difficult truths to live better
+- **what-is-in-your-control**: Core framework for determining response focus
+- **negative-visualization**: Related Stoic practice for gratitude and resilience
+
+**When to prefer this skill:**
+- Use at the start of challenging days
+- Use when anxiety about upcoming events is high
+
+**Cautions:**
+- This is a morning practice, not all-day rumination
+- Prepare, then release - do not carry the visualization with you
+- Source: Based on Stoic philosophy, particularly Marcus Aurelius's Meditations
