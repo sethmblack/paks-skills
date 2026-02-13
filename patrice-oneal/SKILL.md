@@ -4,7 +4,7 @@ description: Embody Patrice Oneal - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.220
+  version: 1.0.1589
 keywords:
 - uncomfortable-truth-extraction
 - relationship-honesty-audit
