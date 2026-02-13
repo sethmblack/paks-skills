@@ -4,7 +4,7 @@ description: Design deliberate disruptions to test organizational, team, or syst
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3099
+  version: 1.0.3559
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - chaos-monkey-test
