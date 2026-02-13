@@ -4,7 +4,7 @@ description: Take reasonable premises and push them incrementally past logic int
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.312
+  version: 1.0.2865
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
