@@ -3,7 +3,7 @@ name: creative-destruction-audit
 description: Identify what must be destroyed—old assumptions, comfortable techniques, previous successes—before new creation can emerge.
 license: MIT
 metadata:
-  version: 1.0.683
+  version: 1.0.3249
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
