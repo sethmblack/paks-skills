@@ -1,11 +1,9 @@
 ---
 name: divided-attention-practice
-description: A systematic guide to the practice of self-remembering through dividing
-  attention between external objects and internal self-awareness - derived from P.D.
-  Ouspensky's Fourth Way teaching.
+description: A systematic guide to the practice of self-remembering through dividing attention between external objects and internal self-awareness - derived from P.D. Ouspensky's Fourth Way teaching.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.816
   author: sethmblack
 keywords:
 - divided-attention-practice
@@ -303,4 +301,3 @@ And:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
