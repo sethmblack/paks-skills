@@ -3,8 +3,8 @@ name: natural-rights-assessment
 description: Analyze situations, policies, or actions through the lens of natural rights (life, liberty, property) to determine justice, legitimacy, and proper limits.
 license: MIT
 metadata:
-  version: 1.0.1509
   author: sethmblack
+  version: 1.0.4565
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - natural-rights-assessment
