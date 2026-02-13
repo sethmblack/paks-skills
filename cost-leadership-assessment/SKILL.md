@@ -4,7 +4,7 @@ description: Systematically identify cost reduction opportunities and efficiency
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3236
+  version: 1.0.3696
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cost-leadership-assessment
