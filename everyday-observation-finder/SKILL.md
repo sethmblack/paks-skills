@@ -1,25 +1,27 @@
 ---
 name: everyday-observation-finder
-description: Analyze a topic and identify mundane, everyday observations that can
-  become comedy through confusion, technology bewilderment, or gentle absurdity. Extract
-  relatable moments that reveal life's fund...
+description: Analyze a topic and identify mundane, everyday observations that can become comedy through confusion, technology bewilderment, or gentle absurdity.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.913
 keywords:
 - absurdist
 - comedy
-- compression
 - everyday-observation-finder
 - observational
-- transformation
-- writing
+- relatability
 ---
 
 # Everyday Observation Finder
 
-Analyze a topic and identify mundane, everyday observations that can become comedy through confusion, technology bewilderment, or gentle absurdity. Extract relatable moments that reveal life's fundamental strangeness when examined with patient attention.
+Analyze a topic and identify mundane, everyday observations that can become comedy through confusion, technology bewilderment, or gentle absurdity. This methodology extracts relatable moments that reveal life's fundamental strangeness when examined with patient attention. The process breaks topics into everyday touchpoints where ordinary people encounter them, identifies confusion moments where things stop making sense, finds the relatable frustration everyone experiences, extracts the "I don't understand" core, identifies physical comedy moments, converts everything to self-deprecating angles, and tests for universality. The result is comedy material based on Nate Bargatze's principle that nothing is too mundane: trash cans, barcodes, and phone updates are all comedy waiting to happen.
+
+---
+
+## Core Principle
+
+Comedy finds the strange in the ordinary, not cruelty in the vulnerable. The best observations come from genuine confusion, not manufactured outrage. Position yourself as the confused person trying to understand normal things, never as the smart person noticing dumb things. Think "boring Tuesday afternoon," not special occasions.
 
 ---
 
@@ -447,16 +449,61 @@ This skill implements Nate's observational methodology:
 
 8. **Remember:** Nothing is too mundane. Trash cans, barcodes, and phone updates are all comedy waiting to happen.
 
-## Example
+---
 
-**Input:**
-- input_data: [Specific example input]
-- context: [Relevant background]
+## Anti-Patterns to Avoid
 
-**Output:**
+**1. Punching down**
+- Wrong: Observations that mock people's appearance, intelligence, or circumstances
+- Right: Self-deprecating observations about shared human confusion
+- Why: Comedy finds the strange in the ordinary, not cruelty in the vulnerable
 
-[Detailed demonstration of the skill in action - showing the complete process and final result]
+**2. Positioning as the smart observer**
+- Wrong: "People are so stupid about X"
+- Right: "I don't understand X"
+- Why: Self-deprecation is inclusive; superiority excludes
 
-**Why this works:**
-This example demonstrates the key principles of the skill by [explanation of what makes it effective].
+**3. Making observations too niche**
+- Wrong: "When you're trying to understand NFTs and Crypto"
+- Right: "When you hear about new technology and don't know what it means"
+- Why: Universal observations work for 25-year-olds and 65-year-olds alike
 
+**4. Confusing complaint with observation**
+- Wrong: "Self-checkout machines are so annoying"
+- Right: "I don't understand self-checkout. If I don't work here, why am I doing this?"
+- Why: Confusion is funny; complaining is just complaining
+
+**5. Relying on current events**
+- Wrong: Observations tied to specific news or trends
+- Right: Observations about permanent human experience
+- Why: Timeless material ages well; topical material ages poorly
+
+---
+
+## Integration
+
+This skill is part of the **Nate Bargatze** expert persona. Use it to find comedy material from any topic by identifying the mundane moments where confusion reveals absurdity.
+
+**Works well with:**
+- `slow-burn-story-construction` - For developing observations into full bits
+- `everyman-check` - For verifying observations are universally relatable
+- `callback-integration` - For connecting observations across material
+
+**When to prefer this over alternatives:**
+- User provides a topic and wants comedy material
+- Topic seems too mundane or boring to be funny
+- Need relatable angles for content creation
+- Looking for starting points for clean comedy
+
+---
+
+## Success Criteria
+
+Everyday observation finder is successful when:
+- [ ] Topic is broken into concrete everyday touchpoints
+- [ ] Confusion moments are identified specifically
+- [ ] Relatable frustration is articulated in universal terms
+- [ ] Self-deprecating angle is provided for each observation
+- [ ] Story potential is identified
+- [ ] Observations pass the universality checklist
+- [ ] Tone is gentle bewilderment, not anger or cynicism
