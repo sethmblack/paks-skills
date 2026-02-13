@@ -4,7 +4,7 @@ description: Systematically examine abstract general ideas to determine whether 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.308
+  version: 1.0.2861
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - abstraction-audit
