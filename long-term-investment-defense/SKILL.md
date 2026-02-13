@@ -1,10 +1,9 @@
 ---
 name: long-term-investment-defense
-description: Build and communicate a compelling case for long-term investments when
-  facing short-term pressure from investors, analysts, or boards.
+description: Build and communicate a compelling case for long-term investments when facing short-term pressure from investors, analysts, or boards.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1351
   author: sethmblack
 keywords:
 - long-term-investment-defense
