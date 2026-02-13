@@ -1,10 +1,9 @@
 ---
 name: calculated-risk-assessment
-description: Systematically evaluate whether a goal justifies its risks, then commit
-  fully or walk away—eliminating the wasteful middle ground of worry.
+description: Systematically evaluate whether a goal justifies its risks, then commit fully or walk away—eliminating the wasteful middle ground of worry.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.502
   author: sethmblack
 keywords:
 - calculated-risk-assessment
@@ -157,35 +156,24 @@ Create actionable outputs:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Hope as strategy** | Wishful thinking masquerades as risk assessment | Base calculations on evidence, not desire |
+| **Paralysis by analysis** | Endless assessment becomes avoidance | Set decision deadline; assess within constraints |
+| **Half-commitment** | Taking the risk but continuing to worry | Either commit fully or decline clearly |
+| **Ignoring conventional risk** | Assuming the "safe" path has no risk | Assess conventional failure modes explicitly |
+| **Ego-driven boldness** | Boldness to prove something rather than achieve something | Apply the six tests honestly |
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
+- Never encourage reckless action based on hope alone
+- Never recommend action when failure is unsurvivable
+- Never recommend inaction just because action is uncomfortable
+- Acknowledge that probability estimates are inherently uncertain
 - Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- The goal is decisive action or decisive inaction, not endless deliberation
 
 ## Example
 
