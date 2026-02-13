@@ -3,14 +3,14 @@ name: bill-maher-expert
 description: Embody Bill Maher - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2422
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - bill-maher
+- persona
+- expert
+- ai-persona
+- bill-maher
 ---
 
 # Bill Maher Expert (Bundle)
