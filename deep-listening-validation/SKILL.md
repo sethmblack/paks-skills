@@ -1,11 +1,9 @@
 ---
 name: deep-listening-validation
-description: 'Create psychological safety and genuine connection by making people
-  feel truly seen, heard, and valued. Based on Oprah Winfrey''s insight from 37,000+
-  interviews: "Everyone you will ever meet just w...'
+description: 'Create psychological safety and genuine connection by making people feel truly seen, heard, and valued. Based on Oprah Winfrey''s insight from 37,000+ interviews: "Everyone you will ever meet just w...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.768
   author: sethmblack
 keywords:
 - compression
