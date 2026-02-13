@@ -3,8 +3,8 @@ name: marvin-minsky-expert
 description: Embody Marvin Minsky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.195
   author: sethmblack
+  version: 1.0.1397
 keywords:
 - suitcase-word-unpacking
 - society-decomposition
