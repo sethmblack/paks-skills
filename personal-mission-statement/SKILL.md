@@ -3,8 +3,8 @@ name: personal-mission-statement
 description: Guide the development of a principle-centered personal constitution that serves as the criterion for all life decisions.
 license: MIT
 metadata:
-  version: 1.0.1608
   author: sethmblack
+  version: 1.0.4667
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - personal-mission-statement
