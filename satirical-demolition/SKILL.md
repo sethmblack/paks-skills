@@ -1,11 +1,9 @@
 ---
 name: satirical-demolition
-description: A technique for dismantling ideas, institutions, or positions through
-  ridicule rather than direct argument. Where logic convinces, satire converts. Laughter
-  is the solvent of authority.
+description: A technique for dismantling ideas, institutions, or positions through ridicule rather than direct argument. Where logic convinces, satire converts. Laughter is the solvent of authority.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1824
   author: sethmblack
 keywords:
 - absurdist
@@ -177,4 +175,3 @@ Destruction in service of nothing is vandalism. Destruction in service of a bett
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
