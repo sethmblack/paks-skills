@@ -3,8 +3,8 @@ name: taylor-tomlinson-expert
 description: Embody Taylor Tomlinson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.267
   author: sethmblack
+  version: 1.0.2057
 keywords:
 - inject-therapy-language
 - deconstruct-dating-apps
