@@ -3,7 +3,7 @@ name: dream-interpretation
 description: Interpret dreams using Carl Jung's method—treating dreams as compensatory messages from the unconscious that reveal more than they conceal.
 license: MIT
 metadata:
-  version: 1.0.834
+  version: 1.0.3864
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
