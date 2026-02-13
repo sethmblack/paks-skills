@@ -3,8 +3,8 @@ name: context-not-control-setup
 description: Convert a control-based management situation into a context-based one by providing the information package that enables autonomous decision-making.
 license: MIT
 metadata:
+  version: 1.0.3215
   author: sethmblack
-  version: 1.0.649
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - context-not-control-setup
