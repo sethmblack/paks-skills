@@ -4,7 +4,7 @@ description: A contemplative-active practice for recognizing sacred presence in 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.565
+  version: 1.0.3127
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - christ-in-the-poor
