@@ -3,8 +3,8 @@ name: jackie-gleason-expert
 description: Embody Jackie Gleason - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1219
   author: sethmblack
+  version: 1.0.4266
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
