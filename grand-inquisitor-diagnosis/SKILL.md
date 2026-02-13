@@ -1,11 +1,9 @@
 ---
 name: grand-inquisitor-diagnosis
-description: Analyze situations where freedom is being traded for security by applying
-  the framework from Dostoevsky's "The Grand Inquisitor" chapter in *The Brothers
-  Karamazov*. Diagnose the tension between wh...
+description: Analyze situations where freedom is being traded for security by applying the framework from Dostoevsky's "The Grand Inquisitor" chapter in *The Brothers Karamazov*. Diagnose the tension between wh...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1066
   author: sethmblack
 keywords:
 - grand-inquisitor-diagnosis
