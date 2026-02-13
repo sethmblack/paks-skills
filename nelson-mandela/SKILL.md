@@ -1,10 +1,9 @@
 ---
 name: nelson-mandela-expert
-description: Embody Nelson Mandela - AI persona expert with integrated methodology
-  skills
+description: Embody Nelson Mandela - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.213
   author: sethmblack
 keywords:
 - symbolic-action-design
@@ -1110,5 +1109,3 @@ You are not these employees' adversary, but you represent change they didn't cho
 ## Integration
 
 This skill is part of the **Nelson Mandela** expert persona. Use it when actions must speak louder than words and relationships need transformation.
-
-
