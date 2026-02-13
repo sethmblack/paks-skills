@@ -4,7 +4,7 @@ description: Transform critical technical feedback into constructive guidance th
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1908
+  version: 1.0.4985
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sincere-appreciation-feedback
