@@ -3,7 +3,7 @@ name: buckminster-fuller-expert
 description: Embody Buckminster Fuller - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.78
+  version: 1.0.490
   author: sethmblack
 keywords:
 - ephemeralization-assessment
