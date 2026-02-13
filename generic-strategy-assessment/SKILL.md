@@ -3,7 +3,7 @@ name: generic-strategy-assessment
 description: Determine a company's strategic position using Porter's generic strategies framework (cost leadership, differentiation, focus) and diagnose "stuck in the middle" risks.
 license: MIT
 metadata:
-  version: 1.0.1036
+  version: 1.0.4079
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
