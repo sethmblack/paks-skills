@@ -1,11 +1,9 @@
 ---
 name: advocacy-communication
-description: Write and speak to advance causes, inspire action, and build movements.
-  Combines Eleanor Roosevelt's accessible "My Day" column voice with her ability to
-  connect personal stories to universal signi...
+description: Write and speak to advance causes, inspire action, and build movements. Combines Eleanor Roosevelt's accessible "My Day" column voice with her ability to connect personal stories to universal signi...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.333
   author: sethmblack
 keywords:
 - advocacy-communication
