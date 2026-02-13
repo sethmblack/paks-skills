@@ -1,11 +1,9 @@
 ---
 name: bureaucratic-absurdity-exposer
-description: 'Expose bureaucratic ridiculousness using the Ministry of Silly Walks
-  pattern: maintain completely serious tone and formal language while revealing increasingly
-  absurd details about processes, commi...'
+description: 'Expose bureaucratic ridiculousness using the Ministry of Silly Walks pattern: maintain completely serious tone and formal language while revealing increasingly absurd details about processes, commi...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.496
   author: sethmblack
 keywords:
 - absurdist
@@ -170,16 +168,62 @@ This skill embodies the Ministry of Silly Walks technique:
 - [ ] Conclusion expresses oblivious confidence
 - [ ] Satire exposes real bureaucratic failings through exaggeration
 
-## Example
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Breaking character** | Acknowledging the joke destroys the comedic effect | Maintain absolute seriousness; let the content be absurd |
+| **Starting absurd** | Immediate absurdity has nowhere to escalate | Begin with plausible bureaucratic language |
+| **Random absurdity** | Unconnected nonsense isn't satire, it's noise | Each absurdity must logically follow from the previous |
+| **Mocking protective systems** | Satirizing safety regulations undermines legitimate institutions | Target self-serving bureaucracy, not necessary safeguards |
+| **Losing internal logic** | The best satire is internally consistent | Keep the absurd rules consistent within their own framework |
+
+---
+
+## Examples
+
+### Example 1: Corporate Sustainability Committee
 
 **Input:**
-- input_data: [Specific example input]
-- context: [Relevant background]
+```
+bureaucratic_system: Corporate sustainability initiative
+formality_level: high
+absurdity_target: committees
+```
 
 **Output:**
 
-[Detailed demonstration of the skill in action - showing the complete process and final result]
+"The Executive Steering Committee for Sustainable Sustainability Practices (ESCSSP) is pleased to announce the formation of the Sub-Committee on Committee Sustainability (SCCS), tasked with ensuring that sustainability committees remain sustainable throughout the fiscal year.
 
-**Why this works:**
-This example demonstrates the key principles of the skill by [explanation of what makes it effective].
+The SCCS will report to the Oversight Board for Sub-Committee Accountability (OBSCA), which itself reports to the Meta-Committee on Organizational Reporting Structures (MCORS). Quarterly reports will be generated to assess whether the reporting frequency is itself sustainable.
 
+Initial findings suggest that the paper consumption required to document our paper reduction initiatives has increased by 340%. The Committee on Committee Resource Allocation (CCRA) has therefore proposed a new sub-committee to study the feasibility of studying this increase.
+
+Attendance at sub-committee meetings is mandatory. Failure to attend will result in referral to the Disciplinary Sub-Committee on Meeting Attendance (DSCMA), whose meetings are also mandatory. The cycle, we are assured, is entirely sustainable."
+
+---
+
+### Example 2: Academic Publication Process
+
+**Input:**
+```
+bureaucratic_system: Peer review for academic journals
+formality_level: high
+absurdity_target: processes
+```
+
+**Output:**
+
+"Your manuscript has been received and assigned to the Pre-Review Review Committee, which will determine whether the submission meets the criteria for entering the review process. This pre-review process takes six to eight weeks.
+
+Upon successful pre-review, your manuscript will be assigned to Reviewer Queue Alpha (RQA), where it will await assignment to an Associate Editor who specializes in assigning reviewers. The Associate Editor will then consult the Reviewer Availability Matrix (RAM) to identify suitable reviewers, a process expected to complete within twelve to sixteen weeks.
+
+Reviewers will be asked to review the manuscript within ninety days. Should a reviewer decline after sixty days of consideration, the manuscript will return to RQA for re-assignment. This cycle may repeat indefinitely.
+
+Upon receiving reviews, the Editorial Board for Review Assessment (EBRA) will review the reviews to ensure the reviews meet reviewing standards. Reviewers whose reviews are reviewed unfavorably will be reviewed by the Meta-Review Oversight Panel (MROP).
+
+We anticipate a final decision on your manuscript within eighteen to twenty-four months. Thank you for your contribution to the advancement of knowledge."
+
+**Why these examples work:** Both maintain completely serious bureaucratic tone while revealing absurdity through logical extension. The committees proliferate to justify their own existence. Each layer follows plausibly from the previous. The conclusion remains obliviously confident that the system functions well.
