@@ -3,8 +3,8 @@ name: seven-lines-of-code-audit
 description: 'Evaluate APIs, integrations, and developer-facing interfaces for minimum viable complexity using Stripe''s founding philosophy: "What would this look like if you could do it in seven lines of code?'
 license: MIT
 metadata:
+  version: 1.0.4952
   author: sethmblack
-  version: 1.0.1875
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - seven-lines-of-code-audit
