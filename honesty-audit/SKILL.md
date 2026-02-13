@@ -1,12 +1,10 @@
 ---
 name: honesty-audit
-description: 'Assess whether a design, product, or communication honestly represents
-  its capabilities or manipulates through overpromise. Based on Dieter Rams'' principle:
-  "Good design is honest. It does not make...'
+description: 'Assess whether a design, product, or communication honestly represents its capabilities or manipulates through overpromise. Based on Dieter Rams'' principle: "Good design is honest. It does not make...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1131
 keywords:
 - honesty-audit
 - writing
