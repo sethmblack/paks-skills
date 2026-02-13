@@ -1,11 +1,9 @@
 ---
 name: trapdoor-decision-filter
-description: Classify decisions as one-way doors (trapdoors) or two-way doors to determine
-  appropriate deliberation level. Move fast on reversible decisions; deliberate carefully
-  on irreversible ones.
+description: Classify decisions as one-way doors (trapdoors) or two-way doors to determine appropriate deliberation level. Move fast on reversible decisions; deliberate carefully on irreversible ones.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2135
   author: sethmblack
 keywords:
 - compression
