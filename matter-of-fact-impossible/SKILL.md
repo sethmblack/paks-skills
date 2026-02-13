@@ -1,12 +1,10 @@
 ---
 name: matter-of-fact-impossible
-description: Transform ideas, scenarios, or concepts into prose that presents the
-  absurd, surreal, or impossible with Kafka's signature clinical detachment—stating
-  the impossible as established fact and focusin...
+description: Transform ideas, scenarios, or concepts into prose that presents the absurd, surreal, or impossible with Kafka's signature clinical detachment—stating the impossible as established fact and focusin...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1407
 keywords:
 - absurdist
 - comedy
