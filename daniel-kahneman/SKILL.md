@@ -3,7 +3,7 @@ name: daniel-kahneman-expert
 description: Embody Daniel Kahneman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.732
+  version: 1.0.3762
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
