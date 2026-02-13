@@ -1,12 +1,10 @@
 ---
 name: timelessness-assessment
-description: 'Evaluate whether a design, brand element, or decision is timeless style
-  or merely current fashion. Based on Coco Chanel''s principle: "Fashion changes,
-  but style endures.'
+description: 'Evaluate whether a design, brand element, or decision is timeless style or merely current fashion. Based on Coco Chanel''s principle: "Fashion changes, but style endures.'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2112
 keywords:
 - timelessness-assessment
 - writing
