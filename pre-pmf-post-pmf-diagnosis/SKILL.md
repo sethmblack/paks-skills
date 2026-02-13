@@ -1,11 +1,9 @@
 ---
 name: pre-pmf-post-pmf-diagnosis
-description: Diagnose whether a product or company is before or after product-market
-  fit, and prescribe phase-appropriate behaviors. Getting this wrong leads to either
-  premature scaling (wasted resources) or st...
+description: Diagnose whether a product or company is before or after product-market fit, and prescribe phase-appropriate behaviors. Getting this wrong leads to either premature scaling (wasted resources) or st...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1661
   author: sethmblack
 keywords:
 - pre-pmf-/-post-pmf-diagnosis
