@@ -3,8 +3,8 @@ name: first-who-assessment
 description: Evaluate team composition against Jim Collins' "First Who, Then What" criteria. Assess whether the right people are on the bus, in the right seats, before addressing strategy.
 license: MIT
 metadata:
-  version: 1.0.971
   author: sethmblack
+  version: 1.0.4006
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - first-who-assessment
