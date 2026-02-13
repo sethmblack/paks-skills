@@ -3,8 +3,8 @@ name: barrier-breaking-protocol
 description: Approach impossible-seeming goals as both personal achievements and contributions to collective progress, transforming even failure into meaningful impact.
 license: MIT
 metadata:
-  version: 1.0.2985
   author: sethmblack
+  version: 1.0.3445
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - barrier-breaking-protocol
