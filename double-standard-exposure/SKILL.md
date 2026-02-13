@@ -1,11 +1,9 @@
 ---
 name: double-standard-exposure
-description: A methodology for revealing how identical actions receive different treatment
-  based on who performs them. This skill makes visible the unequal application of
-  rules, judgments, and consequences that...
+description: A methodology for revealing how identical actions receive different treatment based on who performs them. This skill makes visible the unequal application of rules, judgments, and consequences that...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.829
   author: sethmblack
 keywords:
 - double-standard-exposure
@@ -199,4 +197,3 @@ False equivalencies undermine the credibility needed to expose real double stand
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
