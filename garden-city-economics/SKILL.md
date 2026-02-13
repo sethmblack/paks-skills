@@ -3,12 +3,12 @@ name: garden-city-economics
 description: Design a community development financial model where community land ownership captures the "unearned increment" (rising land values) and reinvests it in public amenities, maintaining affordability while funding services.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2318
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - garden-city-economics
-  - urban-planning
+- garden-city-economics
+- urban-planning
 ---
 
 # Garden City Economics
