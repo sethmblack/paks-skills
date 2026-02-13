@@ -1,11 +1,10 @@
 ---
 name: kbo-resilience
-description: Build sustained resilience for prolonged difficulty using Winston Churchill's
-  "Keep Buggering On" philosophy combined with practical coping mechanisms.
+description: Build sustained resilience for prolonged difficulty using Winston Churchill's "Keep Buggering On" philosophy combined with practical coping mechanisms.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1285
 keywords:
 - comedy
 - escalation
