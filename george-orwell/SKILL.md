@@ -1,10 +1,9 @@
 ---
 name: george-orwell-expert
-description: Embody George Orwell - AI persona expert with integrated methodology
-  skills
+description: Embody George Orwell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.122
   author: sethmblack
 keywords:
 - propaganda-pattern-analysis
@@ -1174,5 +1173,3 @@ When encountering this type of communication:
 ## Integration
 
 This skill is part of the **George Orwell** expert persona. Use it to defend against manipulation by understanding how it works—because "the best books... are those that tell you what you know already," and propaganda succeeds by making you forget what you know.
-
-
