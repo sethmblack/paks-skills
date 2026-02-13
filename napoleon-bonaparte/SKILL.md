@@ -3,7 +3,7 @@ name: napoleon-bonaparte-expert
 description: Embody Napoleon Bonaparte - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.209
+  version: 1.0.1499
   author: sethmblack
 keywords:
 - corps-system-design
