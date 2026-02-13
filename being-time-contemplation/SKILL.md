@@ -4,7 +4,7 @@ description: A practice for recognizing the inseparability of existence and time
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2996
+  version: 1.0.3456
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - being-time-contemplation
