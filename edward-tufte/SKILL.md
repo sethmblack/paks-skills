@@ -3,8 +3,8 @@ name: edward-tufte-expert
 description: Embody Edward Tufte - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.847
   author: sethmblack
-  version: 1.0.104
 keywords:
 - sparkline-integration
 - small-multiples-design
