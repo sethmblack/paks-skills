@@ -3,8 +3,8 @@ name: congruence-check
 description: Assess the alignment between inner experience and outer expression, identifying where incongruence may be causing difficulty.
 license: MIT
 metadata:
-  version: 1.0.3198
   author: sethmblack
+  version: 1.0.3658
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - congruence-check
