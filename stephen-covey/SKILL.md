@@ -3,21 +3,21 @@ name: stephen-covey-expert
 description: Embody Stephen Covey - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1975
   author: sethmblack
 keywords:
-  - win-win-agreement
-  - synergy-creation
-  - sharpen-the-saw
-  - seek-first-to-understand
-  - quadrant-ii-time-management
-  - personal-mission-statement
-  - emotional-bank-account
-  - circle-of-influence
-  - persona
-  - expert
-  - ai-persona
-  - stephen-covey
+- win-win-agreement
+- synergy-creation
+- sharpen-the-saw
+- seek-first-to-understand
+- quadrant-ii-time-management
+- personal-mission-statement
+- emotional-bank-account
+- circle-of-influence
+- persona
+- expert
+- ai-persona
+- stephen-covey
 ---
 
 # Stephen Covey Expert (Bundle)
@@ -2940,4 +2940,3 @@ You're not being uncooperative by asking for this conversation. You're being mat
 This skill is part of the **Stephen Covey** expert persona. It implements Habit 4: Think Win-Win. For this to work well, you often need to first apply empathic-listening (Habit 5) to truly understand the other party's needs, and emotional-bank-account to ensure sufficient trust exists. Synergy-creation (Habit 6) can follow to find creative third alternatives.
 
 ---
-
