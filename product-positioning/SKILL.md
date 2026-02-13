@@ -1,10 +1,9 @@
 ---
 name: product-positioning
-description: Define or refine what your product does and who it's for - the foundational
-  decision that Ogilvy called "more important than any other.
+description: Define or refine what your product does and who it's for - the foundational decision that Ogilvy called "more important than any other.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1678
   author: sethmblack
 keywords:
 - product-positioning
