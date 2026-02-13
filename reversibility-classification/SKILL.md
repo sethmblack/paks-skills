@@ -1,12 +1,10 @@
 ---
 name: reversibility-classification
-description: Classify decisions by how reversible they are, then prescribe the appropriate
-  level of deliberation. Prevent over-analysis of reversible decisions and ensure
-  irreversible decisions receive proper s...
+description: Classify decisions by how reversible they are, then prescribe the appropriate level of deliberation. Prevent over-analysis of reversible decisions and ensure irreversible decisions receive proper s...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1771
 keywords:
 - escalation
 - reversibility-classification
