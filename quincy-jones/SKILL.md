@@ -3,8 +3,8 @@ name: quincy-jones-expert
 description: Embody Quincy Jones - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4779
   author: sethmblack
-  version: 1.0.1711
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cross-genre-synthesis
