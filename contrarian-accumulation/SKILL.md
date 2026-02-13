@@ -1,11 +1,10 @@
 ---
 name: contrarian-accumulation
-description: Systematically evaluate and acquire assets that are being abandoned by
-  the market, holding patiently until sentiment reverses.
+description: Systematically evaluate and acquire assets that are being abandoned by the market, holding patiently until sentiment reverses.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.655
 keywords:
 - contrarian-accumulation
 - writing
