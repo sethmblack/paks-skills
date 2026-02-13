@@ -4,7 +4,7 @@ description: Connect universal principles to local, actionable contexts. Based o
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1141
+  version: 1.0.4186
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - human-rights-localization
