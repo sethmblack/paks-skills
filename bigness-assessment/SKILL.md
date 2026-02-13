@@ -4,7 +4,7 @@ description: Evaluate whether a project's scale has crossed the threshold where 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2306
+  version: 1.0.3019
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - bigness-assessment
