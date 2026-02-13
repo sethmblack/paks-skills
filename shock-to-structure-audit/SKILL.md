@@ -1,11 +1,10 @@
 ---
 name: shock-to-structure-audit
-description: Evaluate whether dark or controversial content is shock-for-shock's-sake
-  or properly structured with misdirection and craft.
+description: Evaluate whether dark or controversial content is shock-for-shock's-sake or properly structured with misdirection and craft.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1892
 keywords:
 - comedy
 - shock-to-structure-audit
@@ -301,4 +300,3 @@ The 4 criteria directly map to Jeselnik's standards:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
