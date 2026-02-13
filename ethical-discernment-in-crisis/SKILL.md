@@ -4,7 +4,7 @@ description: Navigate genuine ethical dilemmas where principles conflict, clarit
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.907
+  version: 1.0.3938
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - bonhoeffer
