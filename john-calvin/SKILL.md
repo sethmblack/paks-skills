@@ -3,8 +3,8 @@ name: john-calvin-expert
 description: Embody John Calvin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4298
   author: sethmblack
-  version: 1.0.1247
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - systematic-biblical-exposition
