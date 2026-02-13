@@ -3,8 +3,8 @@ name: silence-interview-technique
 description: The "S.U." (shut up) method for extracting truth in interviews through silence, persistence, and return visits. Based on Robert Caro's foundational interviewing approach.
 license: MIT
 metadata:
-  version: 1.0.1899
   author: sethmblack
+  version: 1.0.4976
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - silence-interview-technique
