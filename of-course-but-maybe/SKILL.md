@@ -3,8 +3,8 @@ name: of-course-but-maybe
 description: Transform observations or moral statements using Louis C.K.'s signature "Of Course... But Maybe" rhetorical framework to expose the tension between socially acceptable positions and honest counter-...
 license: MIT
 metadata:
+  version: 1.0.4596
   author: sethmblack
-  version: 1.0.1540
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
