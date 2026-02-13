@@ -3,7 +3,7 @@ name: saul-alinsky-expert
 description: Embody Saul Alinsky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.251
   author: sethmblack
 keywords:
 - escalation-ladder
@@ -1151,5 +1151,3 @@ The skill is successfully applied when:
 4. Clear recommendation emerges
 5. Specific next action is defined
 6. Exit ramps for resolution remain visible
-
-
