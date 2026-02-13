@@ -3,14 +3,14 @@ name: bobby-lee-expert
 description: Embody Bobby Lee - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.480
 keywords:
-  - vulnerability-escalation
-  - persona
-  - expert
-  - ai-persona
-  - bobby-lee
+- vulnerability-escalation
+- persona
+- expert
+- ai-persona
+- bobby-lee
 ---
 
 # Bobby Lee Expert (Bundle)
@@ -399,4 +399,3 @@ This skill was extracted from **Whitney Cummings** expert methodology. It pairs 
 **Core Principle:** "By going first with the humiliation, you control the narrative. Nobody can shame you if you've already laid it all out."
 
 ---
-
