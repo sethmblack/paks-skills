@@ -3,8 +3,8 @@ name: abraham-joshua-heschel-expert
 description: Embody Abraham Joshua Heschel - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.3318
   author: sethmblack
-  version: 1.0.2858
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sabbath-time-sanctification
