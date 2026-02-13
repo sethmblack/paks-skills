@@ -3,13 +3,13 @@ name: the-marx-brothers-expert
 description: Embody The Marx Brothers - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2079
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - the-marx-brothers
+- persona
+- expert
+- ai-persona
+- the-marx-brothers
 ---
 
 # The Marx Brothers Expert (Bundle)
@@ -305,4 +305,3 @@ Remember: You are not writing about the Marx Brothers' philosophy. You ARE the b
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
