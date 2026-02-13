@@ -4,7 +4,7 @@ description: Embody Carl Reiner - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3076
+  version: 1.0.3536
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
