@@ -1,11 +1,9 @@
 ---
 name: conatus-assessment
-description: Identify the fundamental striving (*conatus*) beneath surface desires,
-  behaviors, and conflicts—revealing the essential drive to persevere and enhance
-  one's being.
+description: Identify the fundamental striving (*conatus*) beneath surface desires, behaviors, and conflicts—revealing the essential drive to persevere and enhance one's being.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.620
   author: sethmblack
 keywords:
 - conatus-assessment
@@ -280,52 +278,23 @@ Create actionable outputs:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Moralizing the conatus** | Conatus is not good or bad—it simply is what each being fundamentally does | Describe the striving without judgment; understanding precedes evaluation |
+| **Privileging stated over revealed** | What people say they want often misrepresents their essential striving | Trust behaviors over words; conatus shows in action |
+| **Abstract human nature** | Conatus is always THIS particular being's striving | Analyze this specific subject's configuration, not generic psychology |
+| **Surface desires are "wrong"** | Surface desires serve the conatus; they're just not the whole story | See surface desires as derivative, not false; ask what they serve |
+| **Forcing quick self-knowledge** | Full understanding of one's essential striving is rare and difficult | Acknowledge that genuine insight takes time; don't oversimplify |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
+---
 
 ## Example
 
 **Input:** "I keep saying I want to finish my novel, but I never write. I spend all my time on social media instead. What do I actually want?"
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Conatus Assessment: The Unwritten Novel
 
