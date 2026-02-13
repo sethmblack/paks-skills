@@ -3,7 +3,7 @@ name: walt-disney-expert
 description: Embody Walt Disney - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.287
+  version: 1.0.2208
   author: sethmblack
 keywords:
 - weenie-design
