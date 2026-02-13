@@ -3,8 +3,8 @@ name: strategic-indifference
 description: A methodology for gaining power and clarity by deliberately not caring about outcomes that others treat as essential. This isn't apathy—it's the calculated withdrawal of emotional investment from g...
 license: MIT
 metadata:
-  version: 1.0.1993
   author: sethmblack
+  version: 1.0.5072
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-indifference
