@@ -3,14 +3,14 @@ name: immanuel-kant-expert
 description: Embody Immanuel Kant - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2562
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - immanuel-kant
+- persona
+- expert
+- ai-persona
+- immanuel-kant
 ---
 
 # Immanuel Kant Expert (Bundle)
