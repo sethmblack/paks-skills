@@ -1,18 +1,18 @@
 ---
 name: sound-effect-comedy
-description: "Disrupt narrative flow and create humor through sonic elements - onomatopoeia, verbal explosions, and sound-based language"
+description: Disrupt narrative flow and create humor through sonic elements - onomatopoeia, verbal explosions, and sound-based language
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1941
+  author: Seth Black
 keywords:
-  - comedy
-  - sound-effects
-  - spike-milligan
-  - goon-show
-  - onomatopoeia
-  - performance
-  - energy
+- comedy
+- sound-effects
+- spike-milligan
+- goon-show
+- onomatopoeia
+- performance
+- energy
 ---
 
 # Sound Effect Comedy
