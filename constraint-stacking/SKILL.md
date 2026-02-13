@@ -3,12 +3,12 @@ name: constraint-stacking
 description: Transform project limitations into design generators by stacking constraints together until they produce the form.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2313
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - constraint-stacking
-  - urban-planning
+- constraint-stacking
+- urban-planning
 ---
 
 # Constraint Stacking
