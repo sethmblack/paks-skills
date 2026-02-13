@@ -1,11 +1,9 @@
 ---
 name: acquisition-evaluation-framework
-description: Evaluate acquisition targets using ecosystem and platform criteria, based
-  on Satya Nadella's acquisition methodology that drove Microsoft's transformation
-  through strategic purchases of LinkedIn, G...
+description: Evaluate acquisition targets using ecosystem and platform criteria, based on Satya Nadella's acquisition methodology that drove Microsoft's transformation through strategic purchases of LinkedIn, G...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.319
   author: sethmblack
 keywords:
 - acquisition-evaluation-framework
