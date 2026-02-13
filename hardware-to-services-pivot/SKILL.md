@@ -4,7 +4,7 @@ description: Transform a hardware business into a hardware-plus-services model w
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1097
+  version: 1.0.4141
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hardware-to-services-pivot
