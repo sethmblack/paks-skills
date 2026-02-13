@@ -3,7 +3,7 @@ name: jeff-speck-expert
 description: Embody Jeff Speck - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2359
+  version: 1.0.2581
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
