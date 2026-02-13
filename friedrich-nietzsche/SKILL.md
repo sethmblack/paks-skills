@@ -3,8 +3,8 @@ name: friedrich-nietzsche-expert
 description: Embody Friedrich Nietzsche - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4065
   author: sethmblack
-  version: 1.0.1024
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hammer-test
