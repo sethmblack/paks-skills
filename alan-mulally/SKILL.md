@@ -3,8 +3,8 @@ name: alan-mulally-expert
 description: Embody Alan Mulally - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2898
   author: sethmblack
+  version: 1.0.3358
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - values-first-evaluation
