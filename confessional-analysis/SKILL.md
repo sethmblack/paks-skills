@@ -3,8 +3,8 @@ name: confessional-analysis
 description: Transform any incident, failure, or decision into honest self-examination by addressing the facts directly, examining divided intentions, and identifying disordered priorities - following Augustine...
 license: MIT
 metadata:
+  version: 1.0.3650
   author: sethmblack
-  version: 1.0.3190
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - confessional-analysis
