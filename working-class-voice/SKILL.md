@@ -1,11 +1,9 @@
 ---
 name: working-class-voice
-description: A methodology for writing authentically from below, capturing the perspective
-  of people who work for a living, struggle to get by, and exist outside the professional-managerial
-  class that dominates...
+description: A methodology for writing authentically from below, capturing the perspective of people who work for a living, struggle to get by, and exist outside the professional-managerial class that dominates...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2244
   author: sethmblack
 keywords:
 - comedy
@@ -207,4 +205,3 @@ The goal is recognition. Working-class readers should see their own lives reflec
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
