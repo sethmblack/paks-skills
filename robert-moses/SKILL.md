@@ -3,7 +3,7 @@ name: robert-moses-expert
 description: Embody Robert Moses - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.241
   author: sethmblack
 keywords:
 - public-authority-design
@@ -2389,5 +2389,3 @@ Moses's legacy shows that infrastructure lasts far longer than the people who bu
 ## Source Expert
 
 Robert Moses - `experts/robert-moses/`
-
-
