@@ -4,7 +4,7 @@ description: A methodology for identifying and releasing beliefs that were insta
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2998
+  version: 1.0.3458
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - belief-deprogramming
