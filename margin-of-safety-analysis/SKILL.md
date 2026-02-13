@@ -1,11 +1,10 @@
 ---
 name: margin-of-safety-analysis
-description: Evaluate the gap between intrinsic value and market price to determine
-  investment suitability using Benjamin Graham's foundational principle.
+description: Evaluate the gap between intrinsic value and market price to determine investment suitability using Benjamin Graham's foundational principle.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1381
 keywords:
 - margin-of-safety-analysis
 - writing
