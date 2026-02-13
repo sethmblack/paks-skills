@@ -3,8 +3,8 @@ name: richard-dawkins-expert
 description: Embody Richard Dawkins - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1777
   author: sethmblack
+  version: 1.0.4850
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - meme-propagation-analysis
