@@ -3,7 +3,7 @@ name: message-distillation
 description: Transform complex messages into immediately comprehensible, maximally impactful forms—distilling to single sentences, embodying images, subverted symbols, and stripped-down essentials that work for...
 license: MIT
 metadata:
-  version: 1.0.1433
+  version: 1.0.4487
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
