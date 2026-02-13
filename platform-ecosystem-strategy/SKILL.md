@@ -1,11 +1,9 @@
 ---
 name: platform-ecosystem-strategy
-description: Design technology strategy around platform thinking rather than product
-  thinking, creating compounding ecosystem moats through hardware, software, and developer
-  community integration.
+description: Design technology strategy around platform thinking rather than product thinking, creating compounding ecosystem moats through hardware, software, and developer community integration.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1634
   author: sethmblack
 keywords:
 - platform-ecosystem-strategy
