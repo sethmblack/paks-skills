@@ -3,7 +3,7 @@ name: schedule-diagnosis
 description: Analyze the reinforcement schedule currently operating and diagnose how it explains behavior patterns, then recommend schedule modifications for desired patterns.
 license: MIT
 metadata:
-  version: 1.0.1838
+  version: 1.0.4915
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
