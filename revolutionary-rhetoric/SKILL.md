@@ -3,8 +3,8 @@ name: revolutionary-rhetoric
 description: Craft communications that connect individual effort to historical significance, making people feel they are building legacy rather than merely working.
 license: MIT
 metadata:
-  version: 1.0.1773
   author: sethmblack
+  version: 1.0.4845
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - revolutionary-rhetoric
