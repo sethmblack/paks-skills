@@ -4,7 +4,7 @@ description: Embody Simone De Beauvoir - AI persona expert with integrated metho
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.257
+  version: 1.0.1902
 keywords:
 - self-other-dialectic
 - becoming-analysis
