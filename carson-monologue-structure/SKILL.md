@@ -1,10 +1,9 @@
 ---
 name: carson-monologue-structure
-description: 'Build comedy sequences with momentum using Carson''s four-phase architecture:
-  Opening → Body → Callback → Button.'
+description: 'Build comedy sequences with momentum using Carson''s four-phase architecture: Opening → Body → Callback → Button.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.523
   author: sethmblack
 keywords:
 - absurdist
@@ -399,4 +398,3 @@ The monologue is successful when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
