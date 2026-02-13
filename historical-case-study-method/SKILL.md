@@ -1,10 +1,9 @@
 ---
 name: historical-case-study-method
-description: Research and construct vivid historical case studies to illustrate strategic
-  principles, following Robert Greene's methodology of teaching through narrative.
+description: Research and construct vivid historical case studies to illustrate strategic principles, following Robert Greene's methodology of teaching through narrative.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1119
   author: sethmblack
 keywords:
 - historical-case-study-method
