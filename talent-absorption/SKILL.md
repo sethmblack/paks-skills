@@ -1,11 +1,10 @@
 ---
 name: talent-absorption
-description: After victory or acquisition, identify and absorb skilled people and
-  valuable practices from the defeated. Never destroy what can serve you.
+description: After victory or acquisition, identify and absorb skilled people and valuable practices from the defeated. Never destroy what can serve you.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2051
 keywords:
 - structure
 - talent-absorption
