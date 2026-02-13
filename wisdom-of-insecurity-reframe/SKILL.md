@@ -1,11 +1,10 @@
 ---
 name: wisdom-of-insecurity-reframe
-description: Transform anxiety about uncertainty into appreciation for the texture
-  of aliveness.
+description: Transform anxiety about uncertainty into appreciation for the texture of aliveness.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2233
 keywords:
 - transformation
 - wisdom-of-insecurity-reframe
