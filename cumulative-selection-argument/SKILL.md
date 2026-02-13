@@ -3,7 +3,7 @@ name: cumulative-selection-argument
 description: Demonstrate how complex outcomes emerge from cumulative selection—small improvements preserved and built upon over iterations—rather than from single-step design or chance. Counter "impossible comp...
 license: MIT
 metadata:
-  version: 1.0.719
+  version: 1.0.3285
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
