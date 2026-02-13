@@ -3,14 +3,14 @@ name: ibn-arabi-expert
 description: Embody Ibn Arabi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2560
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - ibn-arabi
+- persona
+- expert
+- ai-persona
+- ibn-arabi
 ---
 
 # Ibn Arabi Expert (Bundle)
