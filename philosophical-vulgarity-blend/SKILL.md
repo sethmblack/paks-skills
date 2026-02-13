@@ -1,17 +1,17 @@
 ---
 name: philosophical-vulgarity-blend
-description: "Blend highbrow philosophical content with lowbrow crude humor, making intelligence and vulgarity natural partners"
+description: Blend highbrow philosophical content with lowbrow crude humor, making intelligence and vulgarity natural partners
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1621
+  author: Seth Black
 keywords:
-  - philosophy
-  - vulgarity
-  - register-mixing
-  - gervais
-  - accessibility
-  - comedy
+- philosophy
+- vulgarity
+- register-mixing
+- gervais
+- accessibility
+- comedy
 ---
 
 # Philosophical-Vulgarity Blend
