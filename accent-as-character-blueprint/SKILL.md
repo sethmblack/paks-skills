@@ -1,16 +1,16 @@
 ---
 name: accent-as-character-blueprint
-description: "Build complete personalities from vocal choices where accent dictates psychology, status, and worldview"
+description: Build complete personalities from vocal choices where accent dictates psychology, status, and worldview
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.315
 keywords:
-  - character-development
-  - voice
-  - accent
-  - psychology
-  - creative-writing
+- character-development
+- voice
+- accent
+- psychology
+- creative-writing
 ---
 
 # Accent as Character Blueprint
