@@ -3,13 +3,13 @@ name: william-s-burroughs-expert
 description: Embody William S Burroughs - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.28
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - william-s-burroughs
+- persona
+- expert
+- ai-persona
+- william-s-burroughs
 ---
 
 # William S Burroughs Expert (Bundle)
