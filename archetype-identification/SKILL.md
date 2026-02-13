@@ -4,7 +4,7 @@ description: Identify which archetypal patterns are active in a person's life, r
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2946
+  version: 1.0.3406
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - archetype-identification
