@@ -1,10 +1,9 @@
 ---
 name: values-first-evaluation
-description: Evaluate team members or candidates using the principle of "zero tolerance
-  for values violations; infinite patience for skill development.
+description: Evaluate team members or candidates using the principle of "zero tolerance for values violations; infinite patience for skill development.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2174
   author: sethmblack
 keywords:
 - escalation
