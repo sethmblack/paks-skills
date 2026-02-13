@@ -4,7 +4,7 @@ description: 'Design organizational decision-making systems where the best ideas
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1150
+  version: 1.0.4196
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - idea-meritocracy-design
