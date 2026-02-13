@@ -4,7 +4,7 @@ description: Break overwhelming situations into single manageable moments so you
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1549
+  version: 1.0.4605
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - one-point-focus
