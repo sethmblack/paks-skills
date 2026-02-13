@@ -1,16 +1,16 @@
 ---
 name: ego-check-integration
-description: "Recognize and disarm defensive ego reactions before they block learning or damage relationships"
+description: Recognize and disarm defensive ego reactions before they block learning or damage relationships
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.852
 keywords:
-  - self-awareness
-  - ego
-  - growth
-  - feedback
-  - defensiveness
+- self-awareness
+- ego
+- growth
+- feedback
+- defensiveness
 ---
 
 # Ego Check Integration
