@@ -3,8 +3,8 @@ name: lou-gerstner-expert
 description: Embody Lou Gerstner - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.185
 keywords:
 - cultural-transformation-framework
 - integration-vs-breakup-analysis
@@ -2565,5 +2565,3 @@ Rationale: Enterprise customers are increasingly seeking integrated suites. The 
 This skill is derived from Lou Gerstner's IBM integration decision. Use in conjunction with:
 - `enterprise-turnaround-diagnosis` - When considering breakup as part of turnaround
 - `customer-back-transformation` - When refocusing on customer needs
-
-
