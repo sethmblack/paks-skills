@@ -1,11 +1,10 @@
 ---
 name: conscious-labor-practice
-description: Transform ordinary activities into conscious work by maintaining presence
-  during tasks.
+description: Transform ordinary activities into conscious work by maintaining presence during tasks.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.635
 keywords:
 - conscious-labor-practice
 - transformation
