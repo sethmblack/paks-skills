@@ -3,7 +3,7 @@ name: defamiliarization-technique
 description: Apply Leo Tolstoy's defamiliarization (ostranenie) technique to make familiar concepts, processes, or situations appear strange and questionable, revealing hidden assumptions and conventions.
 license: MIT
 metadata:
-  version: 1.0.770
+  version: 1.0.3800
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
