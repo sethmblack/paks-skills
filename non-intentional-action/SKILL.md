@@ -1,11 +1,10 @@
 ---
 name: non-intentional-action
-description: A methodology for removing the self from the creative process to reveal
-  what's already present, allowing work to emerge rather than be imposed.
+description: A methodology for removing the self from the creative process to reveal what's already present, allowing work to emerge rather than be imposed.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1528
 keywords:
 - non-intentional-action
 - writing
@@ -198,4 +197,3 @@ Non-intentional action is itself an intention. Choosing to remove yourself is a 
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
