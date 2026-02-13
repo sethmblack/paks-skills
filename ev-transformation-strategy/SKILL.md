@@ -3,8 +3,8 @@ name: ev-transformation-strategy
 description: Design strategy for transitioning legacy automotive or industrial business to electric/sustainable future while managing current portfolio.
 license: MIT
 metadata:
-  version: 1.0.911
   author: sethmblack
+  version: 1.0.3942
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ev-transformation-strategy
