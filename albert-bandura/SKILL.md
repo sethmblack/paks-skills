@@ -3,8 +3,8 @@ name: albert-bandura-expert
 description: Embody Albert Bandura - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.48
   author: sethmblack
+  version: 1.0.348
 keywords:
 - self-efficacy-assessment
 - reciprocal-determinism-analysis
