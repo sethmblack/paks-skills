@@ -4,7 +4,7 @@ description: Embody Abraham Joshua Heschel - AI persona expert with integrated m
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.305
+  version: 1.0.2858
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sabbath-time-sanctification
