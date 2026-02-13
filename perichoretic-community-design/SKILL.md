@@ -3,8 +3,8 @@ name: perichoretic-community-design
 description: Design or redesign team and community structures based on the Trinity's mutual indwelling, replacing hierarchical command with distinct-but-interpenetrating relationships where each exists for the ...
 license: MIT
 metadata:
+  version: 1.0.4660
   author: sethmblack
-  version: 1.0.1601
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - perichoretic-community-design
