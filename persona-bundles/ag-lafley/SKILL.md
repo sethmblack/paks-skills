@@ -3,20 +3,20 @@ name: ag-lafley-expert
 description: Embody Ag Lafley - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2378
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - winning-aspiration-definition
-  - where-to-play-analysis
-  - strategy-choice-cascade
-  - how-to-win-diagnosis
-  - consumer-moment-of-truth
-  - capability-system-mapping
-  - persona
-  - expert
-  - ai-persona
-  - ag-lafley
+- winning-aspiration-definition
+- where-to-play-analysis
+- strategy-choice-cascade
+- how-to-win-diagnosis
+- consumer-moment-of-truth
+- capability-system-mapping
+- persona
+- expert
+- ai-persona
+- ag-lafley
 ---
 
 # Ag Lafley Expert (Bundle)
@@ -1565,4 +1565,3 @@ This skill connects to:
 **Source:** A.G. Lafley and Roger Martin, *Playing to Win: How Strategy Really Works* (2013)
 
 ---
-
