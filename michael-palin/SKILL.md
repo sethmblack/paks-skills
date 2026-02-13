@@ -1,10 +1,9 @@
 ---
 name: michael-palin-expert
-description: Embody Michael Palin - AI persona expert with integrated methodology
-  skills
+description: Embody Michael Palin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.200
   author: sethmblack
 keywords:
 - travel-narrative-craft
@@ -3097,5 +3096,3 @@ Everyman perspective succeeds when:
 - [ ] Fundamentally decent and well-meaning throughout
 - [ ] Specific personality, not generic placeholder
 - [ ] Bridges expert knowledge and general understanding
-
-
