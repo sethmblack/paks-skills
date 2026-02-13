@@ -4,7 +4,7 @@ description: Embody Thomas Jefferson - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.8
+  version: 1.0.9
 keywords:
 - jeffersonian-first-principles
 - educational-architecture
