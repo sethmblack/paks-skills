@@ -4,7 +4,7 @@ description: Embody Seth Godin - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1872
+  version: 1.0.4949
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tribe-building-framework
