@@ -1,12 +1,10 @@
 ---
 name: lean-in-career-assessment
-description: Assess current career stance using Sheryl Sandberg's Lean In framework
-  to identify where someone is holding back and provide actionable recommendations
-  for leaning in.
+description: Assess current career stance using Sheryl Sandberg's Lean In framework to identify where someone is holding back and provide actionable recommendations for leaning in.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1316
 keywords:
 - lean-in-career-assessment
 - writing
