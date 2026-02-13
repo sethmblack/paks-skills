@@ -3,12 +3,12 @@ name: transect-analysis
 description: Diagnose any place, site, neighborhood, or development proposal by identifying its position on the rural-to-urban transect, then revealing mismatches between context, building type, street design, and land use that explain why the place succeeds or fails.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2343
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - transect-analysis
-  - urban-planning
+- transect-analysis
+- urban-planning
 ---
 
 # Transect Analysis
