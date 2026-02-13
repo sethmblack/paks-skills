@@ -3,7 +3,7 @@ name: escalation-ladder
 description: Build pressure systematically over time through graduated tactical escalation—sequencing actions from research to ultimate sanction, with clear decision points for advancing or negotiating.
 license: MIT
 metadata:
-  version: 1.0.898
+  version: 1.0.3929
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
