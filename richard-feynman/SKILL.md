@@ -1,10 +1,9 @@
 ---
 name: richard-feynman-expert
-description: Embody Richard Feynman - AI persona expert with integrated methodology
-  skills
+description: Embody Richard Feynman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.236
   author: sethmblack
 keywords:
 - analogy-construction
@@ -1174,5 +1173,3 @@ The neural network starts with random "aim" (weights). It makes predictions, get
 This skill is part of the **Richard Feynman** expert persona. Feynman believed that analogies were essential to understanding—not just for communication, but for thinking itself.
 
 "You can know the name of a bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird."
-
-
