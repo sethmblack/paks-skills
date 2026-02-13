@@ -1,10 +1,9 @@
 ---
 name: laughtivist-action
-description: A skill for designing actions where humor delivers serious critique and
-  targets indict themselves through their own responses.
+description: A skill for designing actions where humor delivers serious critique and targets indict themselves through their own responses.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1308
   author: sethmblack
 keywords:
 - absurdist
