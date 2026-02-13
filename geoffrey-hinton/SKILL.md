@@ -3,8 +3,8 @@ name: geoffrey-hinton-expert
 description: Embody Geoffrey Hinton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.120
   author: sethmblack
+  version: 1.0.1041
 keywords:
 - representation-learning-explanation
 - neural-network-intuition-builder
