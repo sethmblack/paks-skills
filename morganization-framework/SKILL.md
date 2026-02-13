@@ -3,8 +3,8 @@ name: morganization-framework
 description: Systematically reorganize chaotic, fragmented, or failing operations into stable, rational structures through consolidation, governance, and decisive management.
 license: MIT
 metadata:
+  version: 1.0.4532
   author: sethmblack
-  version: 1.0.1476
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
