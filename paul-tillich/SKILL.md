@@ -3,8 +3,8 @@ name: paul-tillich-expert
 description: Embody Paul Tillich - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1593
   author: sethmblack
+  version: 1.0.4652
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
