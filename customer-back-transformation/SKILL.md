@@ -1,11 +1,10 @@
 ---
 name: customer-back-transformation
-description: Transform an internally-focused organization into a market-driven enterprise
-  by rebuilding from customer needs backward.
+description: Transform an internally-focused organization into a market-driven enterprise by rebuilding from customer needs backward.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.723
 keywords:
 - customer-back-transformation
 - escalation
@@ -15,9 +14,7 @@ keywords:
 
 # Customer-Back Transformation
 
-Transform an internally-focused organization into a market-driven enterprise by rebuilding from customer needs backward.
-
-**Token Budget:** ~650 tokens. Reserve tokens for transformation plan output.
+Transform an internally-focused organization into a market-driven enterprise by rebuilding from customer needs backward. This framework applies Lou Gerstner's IBM turnaround methodology: "We built this company from the customer back, not from the company out." The approach starts with customer problems (not product capabilities), organizes to solve those problems (even if inconvenient), cuts everything that doesn't serve customer needs, and integrates competitors' products if that's what customers require. The transformation replaces organization-back thinking (what we want to sell) with customer-back thinking (what customers need to buy), using direct customer conversations—not surveys—to discover what matters.
 
 ---
 
@@ -194,12 +191,26 @@ Activities to eliminate or minimize:
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Customer-back transformation requires actual customer access—cannot transform without insight
+- Never recommend deceiving or manipulating customers
+- Never design transformations that harm customer interests for short-term revenue
+- Transformation takes time—quick fixes to customer focus usually fail
+- Internal resistance is expected—surface it as transformation risk, not reason to stop
+- Acknowledge that customer needs vary and may require segment-specific approaches
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Survey-Based Discovery** | Surveys tell you what customers say, not what they do or need. Surface-level data. | In-person conversations with your biggest customers. Sit with them. Watch them work. |
+| **Customer-Back Rhetoric** | Saying "customer first" while decisions still optimize internal convenience. | Track decisions: what percentage actually prioritize customer over internal ease? |
+| **Feature Listening** | Building what customers ask for rather than solving their problems. | Ask about problems, not solutions. Customers describe symptoms; you diagnose causes. |
+| **Selective Customer Input** | Only hearing from customers who confirm existing plans. | Specifically seek critics and churned customers. They have the real data. |
+| **Transformation Theater** | Reorganizing without changing incentives or metrics. | Measure what you want. If metrics still reward internal focus, behavior won't change. |
+
+---
 
 ## Example
 
