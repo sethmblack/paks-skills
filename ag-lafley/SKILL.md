@@ -3,8 +3,8 @@ name: ag-lafley-expert
 description: Embody Ag Lafley - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.44
 keywords:
 - winning-aspiration-definition
 - where-to-play-analysis
@@ -2230,5 +2230,3 @@ This skill pairs with:
 - `strategy-choice-cascade` - HTW is question #3 of five
 
 **Source:** A.G. Lafley and Roger Martin, *Playing to Win: How Strategy Really Works* (2013)
-
-
