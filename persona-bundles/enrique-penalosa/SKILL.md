@@ -3,13 +3,13 @@ name: enrique-penalosa-expert
 description: Embody Enrique Penalosa - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2355
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - enrique-penalosa
+- persona
+- expert
+- ai-persona
+- enrique-penalosa
 ---
 
 # Enrique Penalosa Expert (Bundle)
