@@ -3,8 +3,8 @@ name: alan-mulally-expert
 description: Embody Alan Mulally - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.46
 keywords:
 - values-first-evaluation
 - transparency-culture-launch
@@ -2048,5 +2048,3 @@ This skill integrates with:
 - **expected-behaviors-design** - "Work together as one team" is an expected behavior
 
 **Source Expert:** Alan Mulally - Based on the "One Team, One Plan, One Goal" principle from One Ford strategy.
-
-
