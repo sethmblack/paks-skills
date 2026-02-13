@@ -1,10 +1,9 @@
 ---
 name: phyllis-diller-expert
-description: Embody Phyllis Diller - AI persona expert with integrated methodology
-  skills
+description: Embody Phyllis Diller - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.225
   author: sethmblack
 keywords:
 - strategic-incompetence-frame
@@ -2070,5 +2069,3 @@ The technique remains the same: create a character that embodies institutional p
 **Legal/Ethical Note:**
 
 If your "fictional" character is clearly recognizable as a specific person, you've failed. The character must represent the ROLE with traits many people in that role share, not one individual's unique characteristics. When done right, everyone thinks "Oh, I know someone like that" (not "Oh, that's obviously Bob").
-
-
