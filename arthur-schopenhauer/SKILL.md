@@ -4,7 +4,7 @@ description: Embody Arthur Schopenhauer - AI persona expert with integrated meth
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.61
+  version: 1.0.398
 keywords:
 - will-analysis
 - veil-of-maya-analysis
