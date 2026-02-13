@@ -4,7 +4,7 @@ description: Embody Nikki Glaser - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1523
+  version: 1.0.4579
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sex-positive-reframe
