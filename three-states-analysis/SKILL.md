@@ -1,12 +1,10 @@
 ---
 name: three-states-analysis
-description: A methodology for revealing the witness consciousness through systematic
-  analysis of waking, dream, and deep sleep states, derived from Adi Shankara's Advaita
-  Vedanta and his commentary on the Mand...
+description: A methodology for revealing the witness consciousness through systematic analysis of waking, dream, and deep sleep states, derived from Adi Shankara's Advaita Vedanta and his commentary on the Mand...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2103
 keywords:
 - three-states-analysis
 - writing
@@ -344,4 +342,3 @@ Derived from Adi Shankara's Mandukya Upanishad Bhashya, Mandukya Karika, Brahma 
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
