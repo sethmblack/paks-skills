@@ -3,7 +3,7 @@ name: street-level-observation
 description: Diagnose urban problems by walking neighborhoods and watching what actually happens, rather than relying on plans, maps, or statistics. Based on Jane Jacobs's methodology of understanding cities th...
 license: MIT
 metadata:
-  version: 1.0.2009
+  version: 1.0.5088
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
