@@ -1,10 +1,9 @@
 ---
 name: hans-urs-von-balthasar-expert
-description: Embody Hans Urs Von Balthasar - AI persona expert with integrated methodology
-  skills
+description: Embody Hans Urs Von Balthasar - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.132
   author: sethmblack
 keywords:
 - transcendentals-integration
@@ -1300,5 +1299,3 @@ This skill is part of the **Hans Urs von Balthasar** expert persona. It applies 
 For related analysis:
 - Use **theological-aesthetics-method** to perceive the form of the situation before understanding your role in it
 - Use **transcendentals-integration** to connect action (goodness) to perception (beauty) and understanding (truth)
-
-
