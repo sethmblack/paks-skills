@@ -4,7 +4,7 @@ description: Diagnose the current state of prayer practice and provide appropria
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1660
+  version: 1.0.4724
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - prayer-stage-diagnosis
