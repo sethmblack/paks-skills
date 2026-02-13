@@ -1,11 +1,10 @@
 ---
 name: integration-vs-breakup-analysis
-description: Analyze whether an organization should stay integrated or be broken up,
-  based on customer value rather than internal efficiency arguments.
+description: Analyze whether an organization should stay integrated or be broken up, based on customer value rather than internal efficiency arguments.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1196
 keywords:
 - integration-vs-breakup-analysis
 - structure
