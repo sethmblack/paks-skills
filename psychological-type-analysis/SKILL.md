@@ -3,7 +3,7 @@ name: psychological-type-analysis
 description: Assess psychological type using Carl Jung's original framework—attitudes and functions—to illuminate cognitive style, blind spots, and paths for development.
 license: MIT
 metadata:
-  version: 1.0.1700
+  version: 1.0.4765
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
