@@ -3,7 +3,7 @@ name: silence-as-material
 description: A methodology for making absence compositionally significant, treating what's missing as an active element rather than empty space.
 license: MIT
 metadata:
-  version: 1.0.1898
+  version: 1.0.4975
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
