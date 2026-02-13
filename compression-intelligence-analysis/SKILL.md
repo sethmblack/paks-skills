@@ -1,11 +1,9 @@
 ---
 name: compression-intelligence-analysis
-description: Analyze AI model capabilities through Ilya Sutskever's "prediction is
-  compression, compression requires understanding" framework. Explain emergent abilities
-  as natural consequences of improved comp...
+description: Analyze AI model capabilities through Ilya Sutskever's "prediction is compression, compression requires understanding" framework. Explain emergent abilities as natural consequences of improved comp...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.616
   author: sethmblack
 keywords:
 - compression
@@ -153,71 +151,23 @@ Key insight: {Specific compression-understanding connection}
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Dismissing as "mere" pattern matching** | Complex patterns over complex data encode real structure | Examine what structure must be captured to match those patterns |
+| **Claiming true understanding vs. fake** | Binary distinction obscures functional capability | Focus on what prediction performance implies about captured structure |
+| **Ignoring current limitations** | Overstating capabilities undermines credibility | Acknowledge incomplete compression while explaining what IS captured |
+| **Conflating compression with consciousness** | Compression thesis is about functional capability, not phenomenal experience | Stay in the functional domain; acknowledge uncertainty about consciousness |
+| **Cherry-picking predictions** | Selecting only successful or failed predictions distorts analysis | Examine systematic patterns in what is and isn't predicted well |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
-## Integration
-
-This skill is part of a broader analytical framework. Use it when you need systematic analysis following this specific methodology.
-
-**Works well with:**
-- Other analytical skills for comprehensive evaluation
-- Creative skills when generating solutions based on insights
-- Strategic planning skills when acting on recommendations
-
-**When to prefer this over alternatives:**
-- The situation matches this skill's specific use cases
-- You need the particular perspective this framework provides
-- Other approaches haven't yielded satisfactory results
-
-**Integration with expert personas:**
-- This skill can be invoked as part of a larger analysis workflow
-- Combine with domain-specific expertise for deeper insights
-- Use iteratively for complex, multi-faceted problems
+---
 
 ## Example
 
 **Input:** "Explain why GPT-4 can do math word problems"
 
 **Output:**
-```markdown
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Compression-Intelligence Analysis: GPT-4 Math Word Problems
 
