@@ -3,17 +3,17 @@ name: plato-expert
 description: Embody Plato - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1636
 keywords:
-  - plato--tripartite-soul
-  - plato--eros-ascent
-  - plato--divided-line
-  - plato--cave-analysis
-  - persona
-  - expert
-  - ai-persona
-  - plato
+- plato--tripartite-soul
+- plato--eros-ascent
+- plato--divided-line
+- plato--cave-analysis
+- persona
+- expert
+- ai-persona
+- plato
 ---
 
 # Plato Expert (Bundle)
@@ -1044,4 +1044,3 @@ This skill draws on Plato's *Republic* Book IV (435a-441c) and *Phaedrus* (246a-
 - `aristotle--golden-mean-analysis` for finding proper measure
 
 ---
-
