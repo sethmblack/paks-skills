@@ -3,7 +3,7 @@ name: michelangelo-expert
 description: Embody Michelangelo - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.202
+  version: 1.0.1441
   author: sethmblack
 keywords:
 - internal-compass-development
