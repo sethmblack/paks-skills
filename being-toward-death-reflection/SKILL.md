@@ -3,7 +3,7 @@ name: being-toward-death-reflection
 description: Use confrontation with mortality as a lens to reveal what genuinely matters, individualize against das Man, and call forth authentic choice.
 license: MIT
 metadata:
-  version: 1.0.439
+  version: 1.0.2997
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
