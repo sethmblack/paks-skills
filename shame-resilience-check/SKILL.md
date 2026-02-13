@@ -3,8 +3,8 @@ name: shame-resilience-check
 description: When someone is experiencing shame (or shaming others), diagnose whether it's shame vs guilt, apply Brene Brown's four elements of shame resilience, and guide toward connection rather than disconne...
 license: MIT
 metadata:
-  version: 1.0.1881
   author: sethmblack
+  version: 1.0.4958
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - shame-resilience-check
