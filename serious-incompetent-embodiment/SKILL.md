@@ -3,7 +3,7 @@ name: serious-incompetent-embodiment
 description: Play characters with absolute seriousness who are catastrophically bad at what they do, never acknowledging their incompetence
 license: MIT
 metadata:
-  version: 1.0.1870
+  version: 1.0.4947
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
