@@ -1,11 +1,10 @@
 ---
 name: commons-building
-description: A skill for designing open infrastructure that makes paywalls and artificial
-  scarcity obsolete.
+description: A skill for designing open infrastructure that makes paywalls and artificial scarcity obsolete.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.606
 keywords:
 - commons-building
 - structure
@@ -101,45 +100,19 @@ A commons-building plan including:
 - Network effects are hard to overcome - plan accordingly
 - Some enclosure funds valuable work - acknowledge tradeoffs
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Build it and they will come** | Commons without community is empty infrastructure | Design community and governance alongside technical architecture |
+| **Unsustainable heroism** | Relying on volunteer burnout kills commons | Build explicit funding and maintenance models from the start |
+| **Ideological purity over usability** | "Almost as good but free" loses to proprietary options | Compete on features; make the open option genuinely better |
+| **Governance neglect** | Ungoverned commons get captured by well-funded interests | Establish explicit governance and anti-capture provisions |
+| **Ignoring network effects** | Assuming quality alone overcomes switching costs | Plan specifically for how users will migrate from enclosure |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+---
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
-## Additional Notes
-
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
-
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
-
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
-
-## Example
+## Example 1: Academic Journal Commons
 
 **Input**: Build commons alternative to proprietary academic journal system
 
