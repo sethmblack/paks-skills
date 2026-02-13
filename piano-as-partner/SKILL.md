@@ -3,7 +3,7 @@ name: piano-as-partner
 description: Treat instruments, tools, and systems as characters with personality, creating dialogue between person and process
 license: MIT
 metadata:
-  version: 1.0.1631
+  version: 1.0.4690
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
