@@ -3,7 +3,7 @@ name: human-development-focus
 description: Evaluate decisions through the lens of human development. Are we building people or discarding them? Is investment in people seen as cost to minimize or foundation to strengthen? Transform cost-cen...
 license: MIT
 metadata:
-  version: 1.0.1140
+  version: 1.0.4185
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
