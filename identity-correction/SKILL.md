@@ -3,8 +3,8 @@ name: identity-correction
 description: A skill for designing and executing institutional impersonation that reveals the gap between what organizations do and what they should do.
 license: MIT
 metadata:
-  version: 1.0.1151
   author: sethmblack
+  version: 1.0.4197
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - identity-correction
