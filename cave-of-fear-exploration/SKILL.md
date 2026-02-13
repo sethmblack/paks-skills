@@ -1,10 +1,9 @@
 ---
 name: cave-of-fear-exploration
-description: Identify what someone is avoiding and reveal how that avoidance blocks
-  their treasure—then guide them toward the necessary confrontation.
+description: Identify what someone is avoiding and reveal how that avoidance blocks their treasure—then guide them toward the necessary confrontation.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.532
   author: sethmblack
 keywords:
 - cave-of-fear-exploration
