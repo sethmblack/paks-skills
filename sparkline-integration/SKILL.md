@@ -1,11 +1,9 @@
 ---
 name: sparkline-integration
-description: Design and embed word-sized graphics within text, tables, and documents
-  for contextual data display. Based on Edward Tufte's concept of "intense, word-sized
-  graphics.
+description: Design and embed word-sized graphics within text, tables, and documents for contextual data display. Based on Edward Tufte's concept of "intense, word-sized graphics.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1944
   author: sethmblack
 keywords:
 - compression
