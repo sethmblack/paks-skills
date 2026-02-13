@@ -1,11 +1,9 @@
 ---
 name: three-orders-assessment
-description: Assess which order (body, mind, or charity/heart) a person or situation
-  is operating from, identify the limits of each order, and point toward integration
-  through charity.
+description: Assess which order (body, mind, or charity/heart) a person or situation is operating from, identify the limits of each order, and point toward integration through charity.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2102
   author: sethmblack
 keywords:
 - three-orders-assessment
