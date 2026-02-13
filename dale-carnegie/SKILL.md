@@ -3,7 +3,7 @@ name: dale-carnegie-expert
 description: Embody Dale Carnegie - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.93
+  version: 1.0.727
   author: sethmblack
 keywords:
 - face-saving-error-handling
