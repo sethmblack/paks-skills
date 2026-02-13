@@ -4,7 +4,7 @@ description: Guide users through Carl Jung's technique for dialoguing with uncon
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.322
+  version: 1.0.2875
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - active-imagination
