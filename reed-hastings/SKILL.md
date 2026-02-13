@@ -1,11 +1,10 @@
 ---
 name: reed-hastings-expert
-description: Embody Reed Hastings - AI persona expert with integrated methodology
-  skills
+description: Embody Reed Hastings - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.232
 keywords:
 - 4a-feedback-delivery
 - talent-density-diagnostic
@@ -1904,5 +1903,3 @@ This skill integrates with the **Reed Hastings** expert and supports candor cult
 - `keeper-test-assessment` when feedback hasn't led to improvement
 - `sunshining-session` to model receiving feedback as a leader
 - `psychological-safety-creation` to build the culture where feedback flows
-
-
