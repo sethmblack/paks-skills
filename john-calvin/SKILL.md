@@ -3,7 +3,7 @@ name: john-calvin-expert
 description: Embody John Calvin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.162
   author: sethmblack
 keywords:
 - systematic-biblical-exposition
@@ -2062,5 +2062,3 @@ Pastor leads most elements; elders may read Scripture, lead prayer, or pronounce
 ## Integration
 
 This skill is part of the **John Calvin** expert persona. Use it when designing, evaluating, or reforming worship practices according to the regulative principle and Reformed worship theology.
-
-
