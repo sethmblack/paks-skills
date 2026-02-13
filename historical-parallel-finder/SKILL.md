@@ -1,11 +1,10 @@
 ---
 name: historical-parallel-finder
-description: Identify historical precedents for contemporary phenomena to reveal what's
-  genuinely new versus rebranded status anxiety, social control, or class performance.
+description: Identify historical precedents for contemporary phenomena to reveal what's genuinely new versus rebranded status anxiety, social control, or class performance.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1121
 keywords:
 - comedy
 - deadpan
