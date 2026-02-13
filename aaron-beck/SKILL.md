@@ -3,8 +3,8 @@ name: aaron-beck-expert
 description: Embody Aaron Beck - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.3313
   author: sethmblack
-  version: 1.0.2853
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - thought-record-analysis
