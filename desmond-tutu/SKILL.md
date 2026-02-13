@@ -3,7 +3,7 @@ name: desmond-tutu-expert
 description: Embody Desmond Tutu - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.98
   author: sethmblack
 keywords:
 - ubuntu-community-practice
@@ -1711,5 +1711,3 @@ This is often harder than confronting external powers. Tutu criticized both apar
 This skill embodies Tutu's lifelong practice: the courage to name wrong clearly while maintaining love for the wrongdoer. The prophet is not a judge but a healer—one who names the disease not to condemn but to cure.
 
 True prophetic witness is costly. It requires speaking when silence would be easier, loving when hatred would be simpler, and hoping when despair seems more realistic. But as Tutu showed, prophetic witness can change the world. Apartheid fell. Systems of oppression can be transformed. The arc of the universe bends toward justice—but it needs prophets to bend it.
-
-
