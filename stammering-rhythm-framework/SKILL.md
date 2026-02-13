@@ -3,8 +3,8 @@ name: stammering-rhythm-framework
 description: Insert strategic pauses, false starts, and stammering patterns to build comedic tension and create musical timing in dialogue
 license: MIT
 metadata:
-  version: 1.0.1966
   author: Seth Black
+  version: 1.0.5045
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
