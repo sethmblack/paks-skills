@@ -3,19 +3,19 @@ name: augustine-of-hippo-expert
 description: Embody Augustine Of Hippo - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2408
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - two-cities-assessment
-  - ordo-amoris-audit
-  - grace-before-effort
-  - distentio-focus-recovery
-  - confessional-analysis
-  - persona
-  - expert
-  - ai-persona
-  - augustine-of-hippo
+- two-cities-assessment
+- ordo-amoris-audit
+- grace-before-effort
+- distentio-focus-recovery
+- confessional-analysis
+- persona
+- expert
+- ai-persona
+- augustine-of-hippo
 ---
 
 # Augustine Of Hippo Expert (Bundle)
@@ -1447,4 +1447,3 @@ Two cities assessment is complete when:
 - [ ] Recommendations serve mission reorientation, not blame
 
 ---
-
