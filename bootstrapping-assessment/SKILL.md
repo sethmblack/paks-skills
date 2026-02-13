@@ -1,10 +1,9 @@
 ---
 name: bootstrapping-assessment
-description: Evaluate whether a business can be built without outside funding and
-  design a constraint-driven launch strategy using Sara Blakely's methodology.
+description: Evaluate whether a business can be built without outside funding and design a constraint-driven launch strategy using Sara Blakely's methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.481
   author: sethmblack
 keywords:
 - bootstrapping-assessment
