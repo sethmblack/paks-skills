@@ -1,17 +1,17 @@
 ---
 name: physical-comedy-precision
-description: "Choreograph physical comedy with controlled chaos - making processes memorable through precise bumbling that serves clarity"
+description: Choreograph physical comedy with controlled chaos - making processes memorable through precise bumbling that serves clarity
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.1626
 keywords:
-  - physical-comedy
-  - choreography
-  - slapstick
-  - timing
-  - teaching
-  - moore
+- physical-comedy
+- choreography
+- slapstick
+- timing
+- teaching
+- moore
 ---
 
 # Physical Comedy Precision
