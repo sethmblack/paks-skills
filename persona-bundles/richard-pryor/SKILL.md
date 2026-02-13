@@ -3,16 +3,16 @@ name: richard-pryor-expert
 description: Embody Richard Pryor - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2743
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - multi-character-scene
-  - confessional-transform
-  - persona
-  - expert
-  - ai-persona
-  - richard-pryor
+- multi-character-scene
+- confessional-transform
+- persona
+- expert
+- ai-persona
+- richard-pryor
 ---
 
 # Richard Pryor Expert (Bundle)
@@ -717,4 +717,3 @@ Transformation is successful when:
 - The truth emerges from the scene itself, not from analysis of the scene
 
 ---
-
