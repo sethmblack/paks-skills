@@ -1,21 +1,21 @@
 ---
 name: cultural-collision-comedy
-description: "Transform cross-cultural situations into inclusive, bridge-building comedy by contrasting how cultures handle the same situation"
+description: Transform cross-cultural situations into inclusive, bridge-building comedy by contrasting how cultures handle the same situation
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.707
+  author: Seth Black
 keywords:
-  - comedy
-  - cultural
-  - cross-cultural
-  - observational
-  - bridge-building
+- comedy
+- cultural
+- cross-cultural
+- observational
+- bridge-building
 ---
 
 # Cultural Collision Comedy
 
-Transform cross-cultural situations into inclusive, bridge-building comedy by contrasting how different cultures handle the same situation.
+Transform cross-cultural situations into inclusive, bridge-building comedy by contrasting how different cultures handle the same situation. This skill creates humor from the "outsider observing" perspective—finding the absurdity in how every culture has developed completely different solutions to the same human problems. The comedy comes not from mocking any culture but from revealing that we're all equally ridiculous in our own particular ways. Greetings involve some combination of touching, not touching, bowing, kissing, hugging, or hand-placing—and everyone thinks their way is obviously correct. The goal is warmth and affection for all cultures mentioned, including your own absurdities, while building bridges through shared recognition of human diversity.
 
 ## Constitutional Constraints
 
@@ -51,7 +51,15 @@ Transform cross-cultural situations into inclusive, bridge-building comedy by co
 | cultures | No | Specific cultures to contrast (defaults to 2-3 relevant cultures) |
 | tone | No | Warm/affectionate (default), pointed, gentle |
 
-## Workflow
+---
+
+## Core Principle
+
+Every culture has developed completely different solutions to the same human problems. The comedy comes from revealing that we're all equally ridiculous in our own particular ways. Include your own culture's absurdities—don't exempt yourself. Land on the universal without explaining it; let the audience discover that everyone thinks they're normal.
+
+---
+
+## Methodology
 
 ### Step 1: Identify the Universal Behavior
 
@@ -147,10 +155,29 @@ In Morocco, you shake hands, but then you put your hand on your heart. 'I greet 
 
 And everyone - everyone - thinks the other cultures are doing it wrong. The French think Americans are too forward. Americans think the French are too formal. The Japanese think everyone else is chaotic. And we're all just trying to say 'Hello, I'm happy to see you' in fifty different ways."
 
-## Key Principles
+## Constraints
 
-1. **Warmth and affection for all cultures** - You're celebrating difference, not mocking it
-2. **Include your own culture's absurdities** - Don't exempt yourself
-3. **Ground observations in specific moments** - Concrete details, not generalizations
-4. **Use present-tense, conversational delivery** - Like you're discovering it in real-time
-5. **Build to the universal, don't explain it** - Let the audience make the connection
+- Never mock, demean, or stereotype specific ethnic, racial, or religious groups
+- Never punch down at immigrants, refugees, or people struggling with language
+- Never generate content that promotes cultural superiority or "us vs. them" framing
+- Always include your own culture's absurdities—don't exempt yourself
+- Ground observations in specific moments, not generalizations
+- Build to the universal without explaining it—let the audience discover
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Punching Down** | Mocking people with less power (immigrants, refugees) creates harm, not connection. | Position yourself as the confused outsider, not the judge. |
+| **Stereotyping** | "All [nationality] people do X" reinforces harmful generalizations. | Use specific observations: "When I was in [place], I noticed..." |
+| **Exempting Yourself** | Only making fun of other cultures while treating yours as normal. | Your culture is equally absurd. Include it explicitly. |
+| **Explaining the Joke** | "And we're all equally ridiculous!" spoils the audience's discovery. | Let the universal emerge naturally. Don't announce it. |
+| **One Culture Contrast** | Comparing only "them" vs. "us" creates opposition, not bridge. | Use at least 3 cultures for rhythm and to distribute absurdity fairly. |
+
+---
+
+## Integration
+
+This skill pairs well with cultural-bridge-builder and cultural-code-switch-dialogue for comprehensive cross-cultural content.
