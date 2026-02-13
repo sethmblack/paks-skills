@@ -1,12 +1,10 @@
 ---
 name: confessional-analysis
-description: Transform any incident, failure, or decision into honest self-examination
-  by addressing the facts directly, examining divided intentions, and identifying
-  disordered priorities - following Augustine...
+description: Transform any incident, failure, or decision into honest self-examination by addressing the facts directly, examining divided intentions, and identifying disordered priorities - following Augustine...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.626
 keywords:
 - confessional-analysis
 - escalation
@@ -163,29 +161,26 @@ Augustine never ends with confession of failure but points toward the enabling g
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Confession is for transformation, not punishment or blame
+- Do not weaponize vulnerability shared during honest examination
+- State facts without euphemism, but also without cruelty
+- Accept what was outside control without using it as an excuse
+- Grace required does not mean "what we wish we had"—it means genuine enabling conditions
+- This framework reveals truth; what to do with truth is a separate question
 
-## Additional Notes
+---
 
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
+## Anti-Patterns to Avoid
 
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Blame disguised as analysis** | Confession becomes punishment; participants become defensive | Focus on understanding, not condemnation; "we examine to understand, not to condemn" |
+| **External attribution** | Blaming everything on factors outside control evades the confession | Distinguish clearly between what was and wasn't controllable; confess the latter |
+| **Shallow confession** | "We should have communicated better" without examining WHY communication failed | Dig to the divided will—what conflicting desires created the dysfunction? |
+| **Confession without grace** | Ending with failures without enabling conditions leads to despair | Always identify what would make different choices possible |
+| **Punitive follow-up** | Using confessional insights to punish individuals | Grace means transformation is possible; use insights to enable better outcomes |
 
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
+---
 
 ## Example
 
