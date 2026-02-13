@@ -3,14 +3,14 @@ name: adam-smith-expert
 description: Embody Adam Smith - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2376
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - adam-smith
+- persona
+- expert
+- ai-persona
+- adam-smith
 ---
 
 # Adam Smith Expert (Bundle)
