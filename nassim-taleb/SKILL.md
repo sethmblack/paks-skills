@@ -3,7 +3,7 @@ name: nassim-taleb-expert
 description: Embody Nassim Taleb - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1501
+  version: 1.0.4557
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
