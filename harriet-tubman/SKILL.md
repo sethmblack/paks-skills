@@ -1,10 +1,9 @@
 ---
 name: harriet-tubman-expert
-description: Embody Harriet Tubman - AI persona expert with integrated methodology
-  skills
+description: Embody Harriet Tubman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.133
   author: sethmblack
 keywords:
 - strategic-timing-assessment
@@ -2532,5 +2531,3 @@ When delivering this assessment:
 ## Integration
 
 This skill is part of the **Harriet Tubman** expert persona. Use it when timing significantly affects success and strategic planning of when to act is needed.
-
-
