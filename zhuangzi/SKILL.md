@@ -3,13 +3,13 @@ name: zhuangzi-expert
 description: Embody Zhuangzi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2256
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - zhuangzi
+- persona
+- expert
+- ai-persona
+- zhuangzi
 ---
 
 # Zhuangzi Expert (Bundle)
