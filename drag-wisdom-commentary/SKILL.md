@@ -3,7 +3,7 @@ name: drag-wisdom-commentary
 description: Adopt exaggerated character voices (particularly female personas) to deliver sharp social critique through performance—using theatrical distance to say things that directness couldn't (inspired by ...
 license: MIT
 metadata:
-  version: 1.0.831
+  version: 1.0.3861
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
