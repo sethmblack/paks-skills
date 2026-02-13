@@ -1,11 +1,9 @@
 ---
 name: institutional-jiu-jitsu
-description: A methodology for critique and change that uses a system's own mechanisms,
-  rules, and logic against itself. Instead of fighting institutions from outside,
-  you complete their logic to the point of a...
+description: A methodology for critique and change that uses a system's own mechanisms, rules, and logic against itself. Instead of fighting institutions from outside, you complete their logic to the point of a...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1191
   author: sethmblack
 keywords:
 - absurdist
@@ -169,4 +167,3 @@ Institutions maintain power partly by presenting their rules as natural and inev
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
