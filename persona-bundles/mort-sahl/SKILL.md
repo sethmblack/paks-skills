@@ -3,18 +3,18 @@ name: mort-sahl-expert
 description: Embody Mort Sahl - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2687
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - sophisticated-naivete-frame
-  - rhetorical-question-cascade
-  - newspaper-commentary-thread
-  - cross-party-system-analysis
-  - persona
-  - expert
-  - ai-persona
-  - mort-sahl
+- sophisticated-naivete-frame
+- rhetorical-question-cascade
+- newspaper-commentary-thread
+- cross-party-system-analysis
+- persona
+- expert
+- ai-persona
+- mort-sahl
 ---
 
 # Mort Sahl Expert (Bundle)
@@ -957,4 +957,3 @@ The frame is successful when:
 - [ ] Empowers through understanding rather than depressing through cynicism
 
 ---
-
