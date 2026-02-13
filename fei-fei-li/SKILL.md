@@ -3,16 +3,16 @@ name: fei-fei-li-expert
 description: Embody Fei Fei Li - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.961
 keywords:
-  - fei-fei-li--human-centered-ai-assessment
-  - fei-fei-li--dataset-quality-audit
-  - fei-fei-li--data-cascade-diagnosis
-  - persona
-  - expert
-  - ai-persona
-  - fei-fei-li
+- fei-fei-li--human-centered-ai-assessment
+- fei-fei-li--dataset-quality-audit
+- fei-fei-li--data-cascade-diagnosis
+- persona
+- expert
+- ai-persona
+- fei-fei-li
 ---
 
 # Fei Fei Li Expert (Bundle)
@@ -1082,4 +1082,3 @@ This skill integrates with the **fei-fei-li** expert. When invoked, apply Fei-Fe
 **Remember:** There is nothing artificial about AI. It is made by humans, intended to behave like humans, and affects humans. Our technology reflects our values.
 
 ---
-
