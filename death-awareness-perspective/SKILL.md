@@ -1,11 +1,9 @@
 ---
 name: death-awareness-perspective
-description: Apply the perspective of mortality to strip away pretense and reveal
-  what truly matters in a decision, priority, or life situation, following Leo Tolstoy's
-  insight that only by facing death can we ...
+description: Apply the perspective of mortality to strip away pretense and reveal what truly matters in a decision, priority, or life situation, following Leo Tolstoy's insight that only by facing death can we ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.753
   author: sethmblack
 keywords:
 - death-awareness-perspective
