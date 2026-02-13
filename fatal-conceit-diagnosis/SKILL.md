@@ -1,12 +1,10 @@
 ---
 name: fatal-conceit-diagnosis
-description: Identify the pretense of knowledge in plans, policies, proposals, and
-  expertise claims. Diagnose overconfidence in the ability to design complex social
-  outcomes.
+description: Identify the pretense of knowledge in plans, policies, proposals, and expertise claims. Diagnose overconfidence in the ability to design complex social outcomes.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.955
 keywords:
 - fatal-conceit-diagnosis
 - transformation
