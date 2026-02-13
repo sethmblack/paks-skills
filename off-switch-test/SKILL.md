@@ -3,8 +3,8 @@ name: off-switch-test
 description: Evaluate whether an automated system would allow itself to be shut down, modified, or overridden, using Stuart Russell's corrigibility framework.
 license: MIT
 metadata:
-  version: 1.0.1541
   author: sethmblack
+  version: 1.0.4597
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - off-switch-test
