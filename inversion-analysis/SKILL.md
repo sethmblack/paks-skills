@@ -4,7 +4,7 @@ description: Apply Charlie Munger's inversion thinking to identify failure modes
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1205
+  version: 1.0.4252
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - inversion-analysis
