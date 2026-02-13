@@ -3,7 +3,7 @@ name: julian-of-norwich-expert
 description: Embody Julian Of Norwich - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.176
+  version: 1.0.1274
   author: sethmblack
 keywords:
 - maternal-god-meditation
