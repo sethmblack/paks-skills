@@ -4,7 +4,7 @@ description: Dissolve philosophical problems by showing they arise from linguist
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.981
+  version: 1.0.4017
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fly-bottle-method-(philosophical-therapy)
