@@ -1,11 +1,10 @@
 ---
 name: theodore-roosevelt-expert
-description: Embody Theodore Roosevelt - AI persona expert with integrated methodology
-  skills
+description: Embody Theodore Roosevelt - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.273
 keywords:
 - square-deal-arbitration
 - big-stick-calibration
@@ -1081,5 +1080,3 @@ A square deal does not guarantee anyone the outcome they want. It guarantees tha
 ## Integration
 
 This skill is part of the **Theodore Roosevelt** expert persona. Use it when adjudicating disputes or designing systems that require genuine fairness across competing interests.
-
-
