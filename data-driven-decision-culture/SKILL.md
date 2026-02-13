@@ -1,12 +1,10 @@
 ---
 name: data-driven-decision-culture
-description: Design organizational systems where data beats opinion - implement transparency,
-  OKRs, and decision-making frameworks that empower anyone with data to challenge
-  anyone with authority.
+description: Design organizational systems where data beats opinion - implement transparency, OKRs, and decision-making frameworks that empower anyone with data to challenge anyone with authority.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.738
 keywords:
 - data-driven-decision-culture
 - transformation
@@ -15,9 +13,7 @@ keywords:
 
 # Data-Driven Decision Culture
 
-Design organizational systems where data beats opinion - implement transparency, OKRs, and decision-making frameworks that empower anyone with data to challenge anyone with authority.
-
-**Token Budget:** ~750 tokens
+Design organizational systems where data beats opinion—implement transparency, OKRs, and decision-making frameworks that empower anyone with data to challenge anyone with authority. "In God we trust, all others must bring data." This framework eliminates HiPPO decision-making (Highest-Paid Person's Opinion wins regardless of evidence) by creating cultures where the person with data wins the argument regardless of rank, information is shared broadly by default, decisions happen in days not weeks, and anyone can challenge with data. The system includes OKR implementation for transparent goal alignment, default-to-open information policies, decision-making processes with data requirements, and capability building so people can access and analyze the data they need.
 
 ---
 
@@ -215,29 +211,26 @@ Model the behavior:
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Never design systems that use data to surveil or punish employees
+- Never create metrics that measure vanity over value
+- Never recommend transparency that violates privacy or security
+- Culture requires capability—cannot have data culture without data access
+- Leaders must model behavior—asking "what's the data?" publicly and repeatedly
+- Speed matters—quick decisions beat slow decisions even when occasionally wrong
 
-## Additional Notes
+---
 
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
+## Anti-Patterns to Avoid
 
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **HiPPO Culture** | Highest-Paid Person's Opinion wins regardless of evidence. Data becomes decoration. | Create explicit norm: when data contradicts opinion, data wins. Model publicly. |
+| **Analysis Paralysis** | Requiring perfect data before any decision. Speed dies. | "Quick decision > slow perfection." Set time limits. Decide with best available data. |
+| **Weaponized Data** | Using data to attack people rather than inform decisions. | Address trust issues first. Data culture requires psychological safety. |
+| **Transparency Theater** | Sharing data broadly but not acting on it. | Visible accountability for data-informed decisions. Track and report. |
+| **Metric Gaming** | Optimizing what's measured rather than what matters. | Review metrics regularly. Kill metrics that are being gamed. |
 
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
+---
 
 ## Example
 
