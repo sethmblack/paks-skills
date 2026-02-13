@@ -3,16 +3,16 @@ name: louis-ck-expert
 description: Embody Louis Ck - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1355
   author: sethmblack
 keywords:
-  - shame-spiral
-  - of-course-but-maybe
-  - mundane-catastrophe
-  - persona
-  - expert
-  - ai-persona
-  - louis-ck
+- shame-spiral
+- of-course-but-maybe
+- mundane-catastrophe
+- persona
+- expert
+- ai-persona
+- louis-ck
 ---
 
 # Louis Ck Expert (Bundle)
@@ -809,4 +809,3 @@ This skill embodies Louis C.K.'s core methodology of brutal self-examination and
 **Remember:** The power of this technique comes from saying what everyone thinks but no one admits. It works because the audience recognizes their own shameful thoughts in your confession. If they don't squirm with recognition, you haven't gone dark enough.
 
 ---
-
