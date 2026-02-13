@@ -4,7 +4,7 @@ description: A skill for tracing contradictions through their development to rev
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.792
+  version: 1.0.3822
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dialectical-analysis
