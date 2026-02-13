@@ -3,8 +3,8 @@ name: mockumentary-framework
 description: Transform narrative into documentary-style format with talking heads, camera awareness, and gaps between self-perception and reality
 license: MIT
 metadata:
-  version: 1.0.1460
   author: Seth Black
+  version: 1.0.4515
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mockumentary
