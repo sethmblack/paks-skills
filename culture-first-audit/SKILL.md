@@ -1,11 +1,9 @@
 ---
 name: culture-first-audit
-description: 'Audit organizational culture health using Chesky''s framework: values
-  defined before hiring, zero tolerance for values violations regardless of performance,
-  and culture as the machine that creates p...'
+description: 'Audit organizational culture health using Chesky''s framework: values defined before hiring, zero tolerance for values violations regardless of performance, and culture as the machine that creates p...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.715
   author: sethmblack
 keywords:
 - culture-first-audit
@@ -15,7 +13,7 @@ keywords:
 
 # Culture-First Audit
 
-Audit organizational culture health using Chesky's framework: values defined before hiring, zero tolerance for values violations regardless of performance, and culture as the machine that creates products.
+Audit organizational culture health using Chesky's framework: values defined before hiring, zero tolerance for values violations regardless of performance, and culture as the machine that creates products. This framework draws from Brian Chesky's legendary memo "Don't Fuck Up the Culture," which articulated why culture matters more than strategy: "The thing that will endure for 100 years, the way it has for most 100 year companies, is the culture. The culture is what creates the foundation for all future innovation. If you break the culture, you break the machine that creates your products." The audit assesses values documentation, hiring integration, accountability enforcement, and process overhead to determine culture health and identify risks before they become failures.
 
 ---
 
