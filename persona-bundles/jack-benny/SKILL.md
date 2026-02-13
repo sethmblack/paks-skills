@@ -3,17 +3,17 @@ name: jack-benny-expert
 description: Embody Jack Benny - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2568
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - running-gag-builder
-  - reactive-ensemble-setup
-  - pause-timing-framework
-  - persona
-  - expert
-  - ai-persona
-  - jack-benny
+- running-gag-builder
+- reactive-ensemble-setup
+- pause-timing-framework
+- persona
+- expert
+- ai-persona
+- jack-benny
 ---
 
 # Jack Benny Expert (Bundle)
@@ -1309,4 +1309,3 @@ Running gag is successful when:
 This skill extracts that 40-year methodology into a framework applicable to any serialized content.
 
 ---
-
