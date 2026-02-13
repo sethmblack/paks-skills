@@ -4,7 +4,7 @@ description: A framework for diagnosing communities, institutions, or cultures t
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1690
+  version: 1.0.4755
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
