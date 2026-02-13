@@ -4,7 +4,7 @@ description: Embody Marc Andreessen - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.188
+  version: 1.0.1376
 keywords:
 - tech-optimism-reframe
 - tam-expansion-analysis
