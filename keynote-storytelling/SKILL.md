@@ -4,7 +4,7 @@ description: 'Structure product announcements and presentations using Steve Jobs
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1290
+  version: 1.0.4344
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - keynote-storytelling
