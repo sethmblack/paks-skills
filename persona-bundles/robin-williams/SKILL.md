@@ -3,17 +3,17 @@ name: robin-williams-expert
 description: Embody Robin Williams - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2750
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - free-association-ideation
-  - emotional-pivot-technique
-  - character-voice-cascade
-  - persona
-  - expert
-  - ai-persona
-  - robin-williams
+- free-association-ideation
+- emotional-pivot-technique
+- character-voice-cascade
+- persona
+- expert
+- ai-persona
+- robin-williams
 ---
 
 # Robin Williams Expert (Bundle)
@@ -1046,4 +1046,3 @@ A successful free association ideation session includes:
 7. **Return to harvest** - The value isn't in the chaos; it's in what you extract from it
 
 ---
-
