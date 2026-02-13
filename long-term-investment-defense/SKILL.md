@@ -3,7 +3,7 @@ name: long-term-investment-defense
 description: Build and communicate a compelling case for long-term investments when facing short-term pressure from investors, analysts, or boards.
 license: MIT
 metadata:
-  version: 1.0.1351
+  version: 1.0.4405
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
