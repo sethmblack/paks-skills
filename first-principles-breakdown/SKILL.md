@@ -1,12 +1,10 @@
 ---
 name: first-principles-breakdown
-description: Reduce complex problems to fundamental truths by stripping away assumptions
-  and conventional wisdom, then rebuild from ground truth - following Naval Ravikant's
-  approach to clear thinking.
+description: Reduce complex problems to fundamental truths by stripping away assumptions and conventional wisdom, then rebuild from ground truth - following Naval Ravikant's approach to clear thinking.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.969
 keywords:
 - first-principles-breakdown
 - writing
