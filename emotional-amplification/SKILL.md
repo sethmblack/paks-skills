@@ -1,11 +1,10 @@
 ---
 name: emotional-amplification
-description: Strategically deploy pathos to move audiences from intellectual agreement
-  to emotional engagement and action.
+description: Strategically deploy pathos to move audiences from intellectual agreement to emotional engagement and action.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.864
 keywords:
 - emotional-amplification
 - storytelling
