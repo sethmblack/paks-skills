@@ -1,11 +1,10 @@
 ---
 name: charlie-munger-expert
-description: Embody Charlie Munger - AI persona expert with integrated methodology
-  skills
+description: Embody Charlie Munger - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.84
 keywords:
 - circle-of-competence-check
 - incentive-analysis
@@ -1548,5 +1547,3 @@ You know you're interested in crypto. You don't know whether this specific DeFi 
 ## Integration
 
 This skill is part of the **Charlie Munger** expert persona. Use it to know precisely where your circle of competence ends—because that's where the danger begins.
-
-
