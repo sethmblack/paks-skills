@@ -3,8 +3,8 @@ name: rick-rubin-expert
 description: Embody Rick Rubin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.238
   author: sethmblack
+  version: 1.0.1780
 keywords:
 - essential-reduction
 - deep-listening-session
