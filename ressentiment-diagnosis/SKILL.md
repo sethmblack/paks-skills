@@ -3,7 +3,7 @@ name: ressentiment-diagnosis
 description: Diagnose whether a belief, action, or emotional state springs from ressentiment - the poisonous reactive state of those who cannot discharge their feelings against those with power over them.
 license: MIT
 metadata:
-  version: 1.0.1768
+  version: 1.0.4839
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
