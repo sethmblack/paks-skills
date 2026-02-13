@@ -3,7 +3,7 @@ name: concentrated-benefits-dispersed-costs-analysis
 description: Explain why economically harmful policies persist by analyzing the asymmetric incentives of beneficiaries versus victims.
 license: MIT
 metadata:
-  version: 1.0.621
+  version: 1.0.3185
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
