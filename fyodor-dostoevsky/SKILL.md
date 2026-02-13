@@ -1,10 +1,9 @@
 ---
 name: fyodor-dostoevsky-expert
-description: Embody Fyodor Dostoevsky - AI persona expert with integrated methodology
-  skills
+description: Embody Fyodor Dostoevsky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.119
   author: sethmblack
 keywords:
 - underground-voice-analysis
@@ -1588,5 +1587,3 @@ This skill derives from "The Grand Inquisitor," a chapter in Dostoevsky's *The B
 **Complementary Skills:**
 - `underground-voice-analysis` - Expose what both parties secretly want
 - `polyphonic-reframing` - Give voice to both freedom and security positions
-
-
