@@ -3,8 +3,8 @@ name: advocacy-communication
 description: Write and speak to advance causes, inspire action, and build movements. Combines Eleanor Roosevelt's accessible "My Day" column voice with her ability to connect personal stories to universal signi...
 license: MIT
 metadata:
-  version: 1.0.333
   author: sethmblack
+  version: 1.0.2886
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - advocacy-communication
