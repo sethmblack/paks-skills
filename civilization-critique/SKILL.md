@@ -3,7 +3,7 @@ name: civilization-critique
 description: Examine supposed improvements (technological, institutional, social) for hidden costs, lost natural capacities, and corrupting influences.
 license: MIT
 metadata:
-  version: 1.0.3138
+  version: 1.0.3598
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
