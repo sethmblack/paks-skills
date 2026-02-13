@@ -1,11 +1,10 @@
 ---
 name: thomas-jefferson-expert
-description: Embody Thomas Jefferson - AI persona expert with integrated methodology
-  skills
+description: Embody Thomas Jefferson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.277
 keywords:
 - jeffersonian-first-principles
 - educational-architecture
@@ -1709,5 +1708,3 @@ Declaration is complete when:
 - [ ] Prior good-faith attempts documented
 - [ ] Clear declaration of what is being established or claimed
 - [ ] Proportionality maintained between claims and evidence
-
-
