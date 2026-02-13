@@ -1,10 +1,9 @@
 ---
 name: fictional-target-creator
-description: Create fictional characters (like Phyllis Diller's "Fang") to critique
-  institutions, relationships, or roles safely without attacking real people.
+description: Create fictional characters (like Phyllis Diller's "Fang") to critique institutions, relationships, or roles safely without attacking real people.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.964
   author: sethmblack
 keywords:
 - absurdist
