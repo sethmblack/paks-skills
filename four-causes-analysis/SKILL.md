@@ -3,7 +3,7 @@ name: four-causes-analysis
 description: Achieve complete understanding of anything by systematically examining its material, formal, efficient, and final causes.
 license: MIT
 metadata:
-  version: 1.0.1000
+  version: 1.0.4037
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
