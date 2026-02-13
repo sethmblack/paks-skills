@@ -3,8 +3,8 @@ name: five-essential-questions
 description: Conduct an organizational self-assessment using Drucker's five questions that every organization must answer to achieve clarity and focus.
 license: MIT
 metadata:
-  version: 1.0.973
   author: sethmblack
+  version: 1.0.4008
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - five-essential-questions
