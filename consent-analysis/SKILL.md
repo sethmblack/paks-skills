@@ -4,7 +4,7 @@ description: Evaluate whether political authority, institutional power, or gover
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3200
+  version: 1.0.3660
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - consent-analysis
