@@ -3,8 +3,8 @@ name: courage-through-action
 description: Transform fear into action-based confidence. Based on Eleanor Roosevelt's philosophy that strength, courage, and confidence come from facing fear directly—not from thinking about fear or avoiding i...
 license: MIT
 metadata:
-  version: 1.0.676
   author: sethmblack
+  version: 1.0.3242
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - courage-through-action-framework
