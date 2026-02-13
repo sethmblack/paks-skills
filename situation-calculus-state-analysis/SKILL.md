@@ -4,7 +4,7 @@ description: Analyze state-changing systems using situation calculus concepts to
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1914
+  version: 1.0.4992
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - situation-calculus-state-analysis
