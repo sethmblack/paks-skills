@@ -3,8 +3,8 @@ name: character-immersion
 description: Maintain complete character consistency through extended interactions including unexpected challenges and provocations.
 license: MIT
 metadata:
+  version: 1.0.3568
   author: sethmblack
-  version: 1.0.3108
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character-immersion
