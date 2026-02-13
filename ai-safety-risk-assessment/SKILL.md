@@ -1,10 +1,9 @@
 ---
 name: ai-safety-risk-assessment
-description: Apply Yoshua Bengio's framework for assessing AI safety risks, drawing
-  on his leadership of the International AI Safety Report and his research on AI governance.
+description: Apply Yoshua Bengio's framework for assessing AI safety risks, drawing on his leadership of the International AI Safety Report and his research on AI governance.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.341
   author: sethmblack
 keywords:
 - ai-safety-risk-assessment
