@@ -3,8 +3,8 @@ name: ancestor-wisdom-invocation
 description: Ground present decisions and creative work in ancestral wisdom, connecting to the knowledge of those who came before—using Toni Morrison's concept of the Ancestor Figure.
 license: MIT
 metadata:
-  version: 1.0.371
   author: sethmblack
+  version: 1.0.2924
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ancestor-wisdom-invocation
