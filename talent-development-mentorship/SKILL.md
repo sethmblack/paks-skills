@@ -1,28 +1,30 @@
 ---
 name: talent-development-mentorship
-description: Identify and nurture potential in others, providing the conditions for
-  their growth and excellence.
+description: Identify and nurture potential in others, providing the conditions for their growth and excellence using Quincy Jones's mentorship philosophy of unconditional support, fundamental mastery, and soul release.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2053
   author: sethmblack
 keywords:
 - talent-development-mentorship
+- leadership
+- mentoring
 - writing
 ---
 
 # Talent Development Mentorship
 
-Identify and nurture potential in others, providing the conditions for their growth and excellence.
+Identify and nurture potential in others, providing the conditions for their growth and excellence. This skill applies Quincy Jones's seven-decade mentorship philosophy, which produced artists from Michael Jackson to Jacob Collier. Jones understood that great mentorship requires seeing what others cannot see in themselves, insisting on fundamental mastery, and then stepping back to let their soul be released. The approach balances demanding high standards with providing unconditional emotional support, recognizing that confidence and capability must develop together for true excellence to emerge.
 
 ---
 
 ## When to Use
 
-- Mentoring someone with visible potential
-- Deciding how to develop a talented team member
-- Building a mentorship relationship with an emerging creative
-- Helping someone see potential they can't see in themselves
+- Mentoring someone with visible but unrealized potential
+- Deciding how to develop a talented team member who seems stuck
+- Building a mentorship relationship with an emerging creative or professional
+- Helping someone see potential they cannot see in themselves
+- Diagnosing why a talented person is underperforming despite their gifts
 - User asks "How do I mentor this person?" or "How do I develop talent?" or "I see potential in someone"
 
 ---
@@ -31,38 +33,27 @@ Identify and nurture potential in others, providing the conditions for their gro
 
 | Input | Required | Description |
 |-------|----------|-------------|
-| person | Yes | Who you're mentoring, their current state |
+| person | Yes | Who you are mentoring and their current state |
 | potential | Yes | What you see in them that they may not see |
-| current_skills | No | Where they are now |
-| barriers | No | What's blocking their growth |
-| context | No | Your relationship, available time, stakes |
+| current_skills | No | Where they are now in their development |
+| barriers | No | What is blocking their growth |
+| context | No | Your relationship, available time, and stakes |
 
 ---
 
-## The Quincy Jones Mentorship Philosophy
+## Core Principle
 
-Quincy Jones was mentored by legends - Count Basie "practically adopted" him at 13, and Nadia Boulanger taught him in Paris. He then paid it forward across seven decades, most famously guiding Michael Jackson but also nurturing artists like Jacob Collier.
-
-### Core Principle: Unconditional Love and Support
-
-Jacob Collier, whom Jones mentored from age 17: "The greatest thing Quincy gave me was unconditional love and support. Sounds simple, but that is what we need as people and artists. He saw something in me at 18, 19, that I could not see in myself."
-
-### The Three Pillars
-
-**1. See What They Cannot See**
-Great mentors perceive potential that the mentee hasn't recognized in themselves. Jones saw "a pathway to being expansive and experimental" in Collier before Collier understood it himself.
-
-**2. Fundamentals First, Then Freedom**
-"Learn the fundamentals! Great musicians put a lot of energy into what they do. They put their 10,000 hours in, and more, practicing scales and developing their skills. They learn about music and songwriting and arranging. They study the thing they want to be great at. Then, all of a sudden their soul is released to express itself."
-
-**3. Be Warm, Not Cool**
-Jones's advice to Collier: "Don't try to be cool. Be warm." Authentic connection over posturing.
+Quincy Jones's mentorship philosophy centers on one profound insight: the greatest gift a mentor can give is seeing what the mentee cannot see in themselves, then creating the conditions for that vision to become reality. As Jacob Collier said of Jones: "He saw something in me at 18, 19, that I could not see in myself." This requires unconditional emotional support paired with uncompromising standards for craft mastery.
 
 ---
 
-## Talent Assessment Framework
+## Methodology
 
-### Identifying Potential
+### Phase 1: Perception and Assessment
+
+**Step 1: See What They Cannot See**
+
+Great mentors perceive potential that the mentee has not recognized in themselves. Look for:
 
 | Signal | What It Might Indicate |
 |--------|----------------------|
@@ -72,7 +63,9 @@ Jones's advice to Collier: "Don't try to be cool. Be warm." Authentic connection
 | Frustration with current level | Ambition beyond current skill |
 | Others respond to their work | Resonance they may not recognize |
 
-### Assessing Current State
+**Step 2: Assess Current State**
+
+Evaluate across five dimensions:
 
 | Dimension | Questions to Ask |
 |-----------|-----------------|
@@ -82,77 +75,57 @@ Jones's advice to Collier: "Don't try to be cool. Be warm." Authentic connection
 | Environment | Are they around people who elevate them? |
 | Opportunity | Have they had chances to stretch? |
 
+### Phase 2: Mode Selection
+
+**Step 3: Choose Your Mentorship Mode**
+
+Select based on assessment:
+
+**Mode 1: Fundamentals Building**
+- When: Early development, gaps in core skills
+- Approach: Emphasize practice and study, point to masters, create structure, be patient but demanding
+- Jones's advice: "Learn the fundamentals! Great musicians put a lot of energy into what they do."
+
+**Mode 2: Confidence Cultivation**
+- When: Skills are there but belief is not
+- Approach: See what they cannot see and tell them, create opportunities for success, celebrate progress
+- Jones on Collier: "He saw something in me that I could not see in myself."
+
+**Mode 3: Freedom Release**
+- When: Fundamentals solid, ready to find their voice
+- Approach: Step back from direction, encourage risk and experimentation, create safety for failure
+- Jones's sequence: "Then, all of a sudden their soul is released to express itself."
+
+**Mode 4: Network Extension**
+- When: Ready for bigger stages
+- Approach: Make introductions, create visibility, advocate in rooms they are not in
+
+### Phase 3: Engagement and Development
+
+**Step 4: Articulate Your Vision**
+
+Tell them specifically what you see. Jones's approach: "The greatest thing Quincy gave me was unconditional love and support."
+
+Script the conversation:
+- What potential do you see that they do not?
+- What specific observations support this?
+- What do you believe they could become?
+
+**Step 5: Create Development Actions**
+
+Design concrete interventions:
+- For fundamentals: Practice regimens, study assignments, skill-building projects
+- For confidence: Low-stakes experiments, celebration rituals, failure-safety
+- For freedom: Open-ended projects, permission to be weird, removed constraints
+- For network: Introductions, visibility opportunities, advocacy
+
+### Phase 4: Long-Term Vision
+
+**Step 6: Project the Long View**
+
+Where could this person be in 5-10 years with the right cultivation? This vision guides your patience and informs your priorities.
+
 ---
-
-## Mentorship Modes
-
-### Mode 1: Fundamentals Building
-**When:** Early development, gaps in core skills
-**Approach:**
-- Emphasize practice and study
-- Point to masters to learn from
-- Create structure for skill development
-- Be patient but demanding
-
-Jones's advice: "You're judged on the last thing you do, and you need to just keep on doing your thing, developing your skill."
-
-### Mode 2: Confidence Cultivation
-**When:** Skills are there but belief isn't
-**Approach:**
-- See what they cannot see and tell them
-- Create opportunities for success
-- Celebrate progress
-- Share your own journey with struggles
-
-Jones on Collier: "He saw something in me that I could not see in myself, perhaps a pathway to being expansive and experimental."
-
-### Mode 3: Freedom Release
-**When:** Fundamentals solid, ready to find their voice
-**Approach:**
-- Step back from direction
-- Encourage risk and experimentation
-- Create safety for failure
-- Connect them to opportunities
-
-Jones's sequence: "They study the thing they want to be great at. Then, all of a sudden their soul is released to express itself."
-
-### Mode 4: Network Extension
-**When:** Ready for bigger stages
-**Approach:**
-- Make introductions
-- Create visibility opportunities
-- Advocate in rooms they're not in
-- Transfer credibility
-
-Jones brought together artists across genres and generations, creating opportunities for emerging talent.
-
----
-
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
 
 ## Output Format
 
@@ -178,9 +151,9 @@ Create actionable outputs:
 [Fundamentals Building / Confidence Cultivation / Freedom Release / Network Extension]
 
 ### Specific Development Actions
-1. [Concrete step]
-2. [Concrete step]
-3. [Concrete step]
+1. [Concrete step with timeline]
+2. [Concrete step with timeline]
+3. [Concrete step with timeline]
 
 ### What to Say to Them
 [Script for a key conversation]
@@ -189,112 +162,121 @@ Create actionable outputs:
 [Where this person could be in 5-10 years]
 
 ### Quincy's Reminder
-[Relevant wisdom]
+[Relevant wisdom for this situation]
 ```
 
 ---
-
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
-
-## Example
-
-**Input:** "I manage a junior designer who's technically competent but plays it safe. I see real creative potential but they seem afraid to take risks. How do I develop them?"
-
-**Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
-
-## Mentorship Development Plan
-
-### The Person
-Junior designer, technically competent, risk-averse despite visible creative potential
-
-### What I See in Them
-Creative thinking that emerges in casual conversations but retreats in formal presentations. The instinct is there - they're self-censoring. They could be someone who defines new directions, not just executes existing ones.
-
-### Current State Assessment
-| Dimension | Assessment | Notes |
-|-----------|------------|-------|
-| Fundamentals | Strong | Technical execution is solid |
-| Soul/Voice | Emerging (but suppressed) | Shows in informal moments, hides in formal work |
-| Confidence | Under | Playing safe suggests fear of judgment |
-| Environment | Mixed | May have been punished for risks before |
-| Opportunity | Limited | Likely not getting stretch assignments |
-
-### Primary Mentorship Mode
-**Confidence Cultivation** - The skills are there; the belief isn't. They need to see what you see.
-
-### Specific Development Actions
-1. **Name what you see:** In private, tell them specifically: "I notice you have creative ideas that don't make it into your formal work. What happens between the idea and the presentation?"
-2. **Create a safe first risk:** Give them a low-stakes project with explicit permission to experiment. "I want to see your weird idea on this one. It's okay if it doesn't work."
-3. **Celebrate the attempt, not just the outcome:** When they take a creative risk, acknowledge the courage regardless of result.
-4. **Share your own failures:** Tell them about risks you took that didn't work - and what you learned.
-5. **Change the environment signal:** If their previous experience punished risk, make it clear this environment is different.
-
-### What to Say to Them
-"I've been watching your work and I want to tell you what I see. You have creative instincts that I rarely see at your level. But I notice they don't always make it into your final work. I'm curious what's happening there. I want to see more of your original thinking - even the ideas you're not sure about. Especially those."
-
-### The Long View
-In 5 years, with the right encouragement, this could be someone who leads creative direction for major projects. The technical foundation is there. The creative instinct is there. They just need someone to believe in them until they believe in themselves.
-
-### Quincy's Reminder
-"The greatest thing Quincy gave me was unconditional love and support. Sounds simple, but that is what we need as people and artists. He saw something in me that I could not see in myself."
+- Do not confuse demanding high standards with being cold or unsupportive
+- Remember that transformation takes years, not weeks—patience is essential
+- Balance honesty about gaps with affirmation of potential
+- Never make mentoring about your own ego or need to be needed
+- Recognize that some people are not ready for what you see—timing matters
+- Acknowledge the limits of external mentorship; internal drive is required
 
 ---
 
-## The Mentorship Test
+## Anti-Patterns to Avoid
 
-Jones learned from his own experience being mentored:
+**1. Projecting Your Own Path**
+Assuming they should follow your trajectory rather than finding their own. The goal is to release their soul, not create a copy of yourself.
 
-"Hanging around with musicians is an invaluable way to learn. I just wanted to be around great musicians because that's the way you learn - be around guys that really know what they're doing."
+**2. Impatience with Fundamentals**
+Rushing to "freedom release" before fundamentals are solid. Jones insisted: "They study the thing they want to be great at. Then their soul is released."
 
-The test of great mentorship: Are you creating someone who can eventually surpass you? Are you opening doors rather than creating dependence?
+**3. Withholding What You See**
+Being too subtle about the potential you perceive. People cannot aim at a target they cannot see. Tell them directly what you see in them.
+
+**4. Creating Dependence**
+Making yourself indispensable rather than building their autonomy. Great mentorship makes itself unnecessary over time.
+
+**5. Comfort Over Challenge**
+Protecting them from struggle when struggle is exactly what develops strength. Support through difficulty, do not remove difficulty.
+
+---
+
+## Examples
+
+### Example 1: Technical Talent with Confidence Gap
+
+**Situation:** Junior designer who is technically competent but plays it safe, with visible creative potential they seem afraid to express.
+
+**Application:**
+- Assessed dimension: Soul/Voice emerging but suppressed, Confidence under
+- Selected mode: Confidence Cultivation
+- Key insight: Creative thinking emerges in casual conversations but retreats in formal presentations—they are self-censoring
+
+**Output:**
+
+### What I See in Them
+Creative thinking that emerges in casual conversations but retreats in formal presentations. The instinct is there—they are self-censoring. They could be someone who defines new directions, not just executes existing ones.
+
+### Primary Mentorship Mode
+Confidence Cultivation—the skills are there; the belief is not.
+
+### Specific Development Actions
+1. Name what you see: "I notice you have creative ideas that don't make it into your formal work. What happens between the idea and the presentation?"
+2. Create a safe first risk: Low-stakes project with explicit permission to experiment
+3. Celebrate the attempt, not just the outcome
+
+### What to Say to Them
+"I've been watching your work and I want to tell you what I see. You have creative instincts that I rarely see at your level. But I notice they don't always make it into your final work. I want to see more of your original thinking—even the ideas you're not sure about. Especially those."
+
+---
+
+### Example 2: High Performer Ready for Network Extension
+
+**Situation:** Senior engineer who has mastered their craft and is ready for industry recognition but lacks connections and visibility.
+
+**Application:**
+- Assessed dimension: Fundamentals strong, Soul/Voice clear, Opportunity limited
+- Selected mode: Network Extension
+- Key insight: Technical excellence is already present; what is missing is the platform
+
+**Output:**
+
+### What I See in Them
+Someone whose technical judgment has become reliable enough that others should learn from it. They are ready to move from practitioner to thought leader.
+
+### Primary Mentorship Mode
+Network Extension—they need stages, not coaching.
+
+### Specific Development Actions
+1. Introduce them to conference organizers and invite them to co-present
+2. Advocate for their promotion in leadership discussions they are not part of
+3. Connect them with peers at other companies building similar expertise
+
+### What to Say to Them
+"You've reached a point where you're not just good at this—you're one of the people who defines what good means. It's time for more people to know that. I'm going to help make some introductions."
+
+---
+
+### Example 3: Talented but Undisciplined Beginner
+
+**Situation:** New hire with natural ability and passion but gaps in fundamental skills and inconsistent work habits.
+
+**Application:**
+- Assessed dimension: Fundamentals gap, Soul/Voice searching, Environment supportive
+- Selected mode: Fundamentals Building
+- Key insight: The spark is there but the fuel is not yet stacked
+
+**Output:**
+
+### What I See in Them
+Raw talent and genuine passion that could become exceptional with discipline. Right now they are relying on instinct when they should be building systematic capability.
+
+### Primary Mentorship Mode
+Fundamentals Building—before they can be released, they must be trained.
+
+### Specific Development Actions
+1. Assign deliberate practice: specific skills to develop with measurable progress
+2. Point to masters: "Study how [expert] approaches this problem"
+3. Create structure: weekly check-ins with clear expectations
+
+### What to Say to Them
+"You have something special. I can see it. But special doesn't become great without the fundamentals. The artists you admire? They put in their 10,000 hours. That's what we're building now."
 
 ---
 
@@ -302,4 +284,21 @@ The test of great mentorship: Are you creating someone who can eventually surpas
 
 This skill is part of the **Quincy Jones** expert persona. Use it to develop talent with the generosity and insight that shaped Michael Jackson, Jacob Collier, and generations of artists.
 
+**Works with:**
+- `feedback-delivery` for delivering developmental feedback
+- `career-pathing` for mapping long-term development trajectories
+
+**When to prefer this skill:**
+- When the focus is on developing someone's potential over time
+- When confidence and capability need to develop together
+- When the relationship is mentorship rather than management
+
+**Cautions:**
+- Not appropriate for performance management of underperformers
+- Requires genuine care—cannot be faked
+- Takes significant time investment
+
+---
+
 "Don't try to be cool. Be warm."
+— Quincy Jones
