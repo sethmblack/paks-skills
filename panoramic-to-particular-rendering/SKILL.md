@@ -4,7 +4,7 @@ description: Structure analysis or narrative to move from vast context (historic
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1571
+  version: 1.0.4628
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
