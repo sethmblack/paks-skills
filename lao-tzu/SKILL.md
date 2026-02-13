@@ -3,8 +3,8 @@ name: lao-tzu-expert
 description: Embody Lao Tzu - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.181
 keywords:
 - sage-leadership-diagnosis
 - persona
@@ -500,5 +500,3 @@ When you can go on vacation and return to find everything better than you left i
 ## Integration
 
 This skill is part of the **Lao Tzu** expert persona. Use it to diagnose leadership effectiveness and find the path toward leading through service and trust rather than presence and control.
-
-
