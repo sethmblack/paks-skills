@@ -3,14 +3,14 @@ name: wanda-sykes-expert
 description: Embody Wanda Sykes - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2836
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - wanda-sykes
+- persona
+- expert
+- ai-persona
+- wanda-sykes
 ---
 
 # Wanda Sykes Expert (Bundle)
