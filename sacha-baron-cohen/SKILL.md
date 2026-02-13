@@ -3,7 +3,7 @@ name: sacha-baron-cohen-expert
 description: Embody Sacha Baron Cohen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.247
+  version: 1.0.1816
   author: sethmblack
 keywords:
 - belief-stress-test
