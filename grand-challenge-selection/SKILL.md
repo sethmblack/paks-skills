@@ -1,11 +1,9 @@
 ---
 name: grand-challenge-selection
-description: Evaluate whether a problem is worth pursuing using Hassabis's five-dimension
-  assessment framework. The best problems have clear win conditions, scientific significance,
-  real-world impact, tractabil...
+description: Evaluate whether a problem is worth pursuing using Hassabis's five-dimension assessment framework. The best problems have clear win conditions, scientific significance, real-world impact, tractabil...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1065
   author: sethmblack
 keywords:
 - grand-challenge-selection
