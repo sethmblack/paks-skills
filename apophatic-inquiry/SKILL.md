@@ -4,7 +4,7 @@ description: Guide understanding through systematic negation—approaching truth
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.389
+  version: 1.0.2942
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - apophatic-inquiry
