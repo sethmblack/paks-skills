@@ -1,11 +1,9 @@
 ---
 name: power-accumulation-analysis
-description: Analyze how unelected power accumulates within institutions through authorities,
-  covenants, expertise monopolies, and structural dependencies. Based on Robert Moses's
-  44-year accumulation of power ...
+description: Analyze how unelected power accumulates within institutions through authorities, covenants, expertise monopolies, and structural dependencies. Based on Robert Moses's 44-year accumulation of power ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1651
   author: sethmblack
 keywords:
 - power-accumulation-analysis
