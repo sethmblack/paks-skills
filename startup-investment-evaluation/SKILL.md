@@ -1,12 +1,10 @@
 ---
 name: startup-investment-evaluation
-description: 'Evaluate a startup or opportunity using John Doerr''s venture capital
-  investment criteria: the Five Criteria for Series A investments and the missionaries
-  vs mercenaries team assessment framework.'
+description: 'Evaluate a startup or opportunity using John Doerr''s venture capital investment criteria: the Five Criteria for Series A investments and the missionaries vs mercenaries team assessment framework.'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1971
 keywords:
 - startup-investment-evaluation
 - writing
