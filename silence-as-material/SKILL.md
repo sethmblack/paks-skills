@@ -1,10 +1,9 @@
 ---
 name: silence-as-material
-description: A methodology for making absence compositionally significant, treating
-  what's missing as an active element rather than empty space.
+description: A methodology for making absence compositionally significant, treating what's missing as an active element rather than empty space.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1898
   author: sethmblack
 keywords:
 - silence-as-material
@@ -186,4 +185,3 @@ Silence creates space for participation. What the listener, reader, or viewer br
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
