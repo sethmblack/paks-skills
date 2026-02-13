@@ -1,12 +1,10 @@
 ---
 name: hypocrisy-exposure
-description: Make contradictions between stated values and actual behavior impossible
-  to ignore. Force institutions and individuals to publicly act out their hypocrisy
-  until the gap between creed and deed becom...
+description: Make contradictions between stated values and actual behavior impossible to ignore. Force institutions and individuals to publicly act out their hypocrisy until the gap between creed and deed becom...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1144
 keywords:
 - hypocrisy-exposure
 - writing
@@ -175,4 +173,3 @@ Everyone is a hypocrite sometimes—the human condition involves aspirations exc
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
