@@ -3,8 +3,8 @@ name: enframing-diagnosis
 description: Diagnose how technological thinking (Gestell) reduces beings to standing-reserve, and identify where the saving power might emerge.
 license: MIT
 metadata:
-  version: 1.0.875
   author: sethmblack
+  version: 1.0.3906
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - enframing-diagnosis
