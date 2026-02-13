@@ -1,10 +1,9 @@
 ---
 name: thomas-hobbes-expert
-description: Embody Thomas Hobbes - AI persona expert with integrated methodology
-  skills
+description: Embody Thomas Hobbes - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.276
   author: sethmblack
 keywords:
 - sovereign-design
@@ -857,5 +856,3 @@ This design accepts slower decisions on big matters in exchange for clear author
 ## Integration
 
 This skill is part of the **Thomas Hobbes** expert persona. Use it when you need to design governance that will actually work—because divided sovereignty is no sovereignty at all.
-
-
