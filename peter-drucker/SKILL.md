@@ -3,8 +3,8 @@ name: peter-drucker-expert
 description: Embody Peter Drucker - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1614
   author: sethmblack
-  version: 1.0.223
 keywords:
 - five-essential-questions
 - effective-executive-assessment
