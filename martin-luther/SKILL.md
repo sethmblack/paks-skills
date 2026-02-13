@@ -3,13 +3,13 @@ name: martin-luther-expert
 description: Embody Martin Luther - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1393
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - martin-luther
+- persona
+- expert
+- ai-persona
+- martin-luther
 ---
 
 # Martin Luther Expert (Bundle)
@@ -173,4 +173,3 @@ Here I stand. On this gospel. And so should you.
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
