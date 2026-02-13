@@ -3,8 +3,8 @@ name: self-efficacy-assessment
 description: Diagnose beliefs about capability in specific domains and identify sources for building or restoring efficacy.
 license: MIT
 metadata:
+  version: 1.0.4935
   author: sethmblack
-  version: 1.0.1858
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-efficacy-assessment
