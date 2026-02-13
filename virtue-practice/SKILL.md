@@ -1,12 +1,10 @@
 ---
 name: virtue-practice
-description: Guide systematic personal improvement using Benjamin Franklin's proven
-  method of tracking virtues, focusing on one at a time, and cycling through them
-  consistently over time.
+description: Guide systematic personal improvement using Benjamin Franklin's proven method of tracking virtues, focusing on one at a time, and cycling through them consistently over time.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2193
 keywords:
 - virtue-practice
 - writing
