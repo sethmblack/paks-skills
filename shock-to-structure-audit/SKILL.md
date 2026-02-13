@@ -3,8 +3,8 @@ name: shock-to-structure-audit
 description: Evaluate whether dark or controversial content is shock-for-shock's-sake or properly structured with misdirection and craft.
 license: MIT
 metadata:
+  version: 1.0.4969
   author: sethmblack
-  version: 1.0.1892
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
