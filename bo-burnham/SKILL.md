@@ -3,8 +3,8 @@ name: bo-burnham-expert
 description: Embody Bo Burnham - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.73
   author: sethmblack
+  version: 1.0.474
 keywords:
 - sincerity-irony-collapse
 - recursive-meta-commentary
