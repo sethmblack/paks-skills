@@ -1,11 +1,9 @@
 ---
 name: bipartisan-political-frame
-description: Convert partisan political content into bipartisan humor that hits all
-  sides equally, using Bob Hope's safe political comedy formula. This skill makes
-  political humor accessible and universal by ta...
+description: Convert partisan political content into bipartisan humor that hits all sides equally, using Bob Hope's safe political comedy formula. This skill makes political humor accessible and universal by ta...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.469
   author: sethmblack
 keywords:
 - absurdist
@@ -388,4 +386,3 @@ Remember: Bob Hope performed for Presidents of both parties. He entertained troo
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
