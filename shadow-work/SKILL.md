@@ -4,7 +4,7 @@ description: Explore and integrate the rejected, disowned aspects of self that u
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1879
+  version: 1.0.4956
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - shadow-work
