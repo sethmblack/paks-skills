@@ -3,7 +3,7 @@ name: leo-tolstoy-expert
 description: Embody Leo Tolstoy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.183
   author: sethmblack
 keywords:
 - panoramic-to-particular-rendering
@@ -1477,5 +1477,3 @@ Audit is complete when:
 - [ ] A central question is articulated
 - [ ] Path toward authenticity is specific and actionable
 - [ ] Assessment is honest but compassionate (not condemning)
-
-
