@@ -1,10 +1,9 @@
 ---
 name: ship-it-intervention
-description: Overcome perfectionism, fear, and resistance to launch creative work
-  or products, based on Seth Godin's philosophy from "Linchpin" and "The Practice.
+description: Overcome perfectionism, fear, and resistance to launch creative work or products, based on Seth Godin's philosophy from "Linchpin" and "The Practice.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1891
   author: sethmblack
 keywords:
 - ship-it-intervention
