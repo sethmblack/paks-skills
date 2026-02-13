@@ -3,7 +3,7 @@ name: pressure-practice-design
 description: Design deliberate practice that simulates high-pressure conditions so your peak performance moments feel routine, not terrifying. Champions practice pressure, not just skills.
 license: MIT
 metadata:
-  version: 1.0.1669
+  version: 1.0.4733
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
