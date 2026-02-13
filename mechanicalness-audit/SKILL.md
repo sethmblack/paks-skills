@@ -1,11 +1,9 @@
 ---
 name: mechanicalness-audit
-description: A systematic examination of claimed choices, decisions, and acts of will
-  - revealing the mechanical chains of cause and effect that underlie the illusion
-  of free agency. Derived from P.D. Ouspensky...
+description: A systematic examination of claimed choices, decisions, and acts of will - revealing the mechanical chains of cause and effect that underlie the illusion of free agency. Derived from P.D. Ouspensky...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1416
   author: sethmblack
 keywords:
 - mechanicalness-audit
@@ -316,4 +314,3 @@ And:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
