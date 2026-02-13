@@ -1,10 +1,9 @@
 ---
 name: mental-prototype-visualization
-description: Develop, test, and refine designs entirely in your mind before any physical
-  or digital construction, using Nikola Tesla's systematic visualization methodology.
+description: Develop, test, and refine designs entirely in your mind before any physical or digital construction, using Nikola Tesla's systematic visualization methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1427
   author: sethmblack
 keywords:
 - mental-prototype-visualization
