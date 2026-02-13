@@ -3,7 +3,7 @@ name: causal-reasoning-assessment
 description: Apply Yoshua Bengio's framework for distinguishing causal from correlational reasoning, assessing whether a system or approach can generalize beyond its training distribution.
 license: MIT
 metadata:
-  version: 1.0.530
+  version: 1.0.3090
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
