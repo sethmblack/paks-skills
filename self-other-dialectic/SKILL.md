@@ -3,8 +3,8 @@ name: self-other-dialectic
 description: Analyze relationship dynamics through the lens of who is Subject and who is Other, who holds transcendence and who is trapped in immanence, to understand power imbalances and find paths to mutual r...
 license: MIT
 metadata:
-  version: 1.0.1862
   author: sethmblack
+  version: 1.0.4939
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-other-dialectic
