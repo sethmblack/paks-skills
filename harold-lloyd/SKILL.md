@@ -3,8 +3,8 @@ name: harold-lloyd-expert
 description: Embody Harold Lloyd - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4144
   author: sethmblack
-  version: 1.0.1100
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
