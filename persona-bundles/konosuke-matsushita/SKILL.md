@@ -3,18 +3,18 @@ name: konosuke-matsushita-expert
 description: Embody Konosuke Matsushita - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2630
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - tap-water-philosophy
-  - sunao-mind-practice
-  - human-development-focus
-  - crisis-leadership
-  - persona
-  - expert
-  - ai-persona
-  - konosuke-matsushita
+- tap-water-philosophy
+- sunao-mind-practice
+- human-development-focus
+- crisis-leadership
+- persona
+- expert
+- ai-persona
+- konosuke-matsushita
 ---
 
 # Konosuke Matsushita Expert (Bundle)
@@ -1122,4 +1122,3 @@ This skill originated from Konosuke Matsushita's tap water philosophy. When invo
 - Success is measured by how many are served, not how much is charged
 
 ---
-
