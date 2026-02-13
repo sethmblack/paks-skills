@@ -4,7 +4,7 @@ description: Diagnose well-being across the five PERMA dimensions (Positive emot
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1602
+  version: 1.0.4661
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - perma-assessment
