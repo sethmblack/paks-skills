@@ -1,12 +1,10 @@
 ---
 name: minimal-intervention
-description: A methodology for achieving maximum impact through the smallest possible
-  action. Instead of elaborate efforts, find the single move that reveals the most,
-  changes the most, or disrupts the most wit...
+description: A methodology for achieving maximum impact through the smallest possible action. Instead of elaborate efforts, find the single move that reveals the most, changes the most, or disrupts the most wit...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1451
 keywords:
 - minimal-intervention
 - writing
@@ -175,4 +173,3 @@ The ultimate minimal intervention is often simply naming what everyone can see b
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
