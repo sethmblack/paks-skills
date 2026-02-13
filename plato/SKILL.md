@@ -4,7 +4,7 @@ description: Embody Plato - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1636
+  version: 1.0.4699
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - plato--tripartite-soul
