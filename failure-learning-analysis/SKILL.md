@@ -3,8 +3,8 @@ name: failure-learning-analysis
 description: Extract maximum learning from failures and setbacks, then design the next experiment based on what was learned. Transform demoralizing defeats into structured knowledge and actionable next steps.
 license: MIT
 metadata:
+  version: 1.0.3975
   author: sethmblack
-  version: 1.0.944
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - failure-learning-analysis
