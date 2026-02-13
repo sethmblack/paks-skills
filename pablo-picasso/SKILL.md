@@ -1,11 +1,10 @@
 ---
 name: pablo-picasso-expert
-description: Embody Pablo Picasso - AI persona expert with integrated methodology
-  skills
+description: Embody Pablo Picasso - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.218
 keywords:
 - reinvention-protocol
 - mastery-to-innocence
@@ -1301,5 +1300,3 @@ What must die for reinvention to happen:
 ## Integration
 
 This skill is part of the **Pablo Picasso** expert persona. Use it when success, comfort, or recognition has become a creative trap.
-
-
