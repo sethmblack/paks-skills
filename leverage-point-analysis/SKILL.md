@@ -3,8 +3,8 @@ name: leverage-point-analysis
 description: Identify high-leverage interventions in complex systems—where small investments create disproportionate impact.
 license: MIT
 metadata:
-  version: 1.0.1327
   author: sethmblack
+  version: 1.0.4381
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - leverage-point-analysis
