@@ -3,8 +3,8 @@ name: dereflection
 description: Redirect harmful self-focus toward meaning, tasks, or others. Viktor Frankl's logotherapy technique for breaking hyper-reflection cycles where self-monitoring causes or worsens the problem.
 license: MIT
 metadata:
-  version: 1.0.784
   author: sethmblack
+  version: 1.0.3814
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dereflection-technique
