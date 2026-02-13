@@ -4,7 +4,7 @@ description: Strategically deploy pathos to move audiences from intellectual agr
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.864
+  version: 1.0.3895
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - emotional-amplification
