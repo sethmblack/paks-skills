@@ -1,10 +1,9 @@
 ---
 name: mitch-hedberg-expert
-description: Embody Mitch Hedberg - AI persona expert with integrated methodology
-  skills
+description: Embody Mitch Hedberg - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.205
   author: sethmblack
 keywords:
 - one-liner-compression
@@ -2072,5 +2071,3 @@ Can you remove one word without losing the joke? If yes, remove it. Repeat until
 **Common mistake:**
 
 Compression is not summarization. Don't remove the twist, the paradox, or the surprise to make it shorter. Remove the preamble, the explanation, and the unnecessary decoration. The joke itself is sacred - everything around it is negotiable.
-
-
