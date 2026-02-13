@@ -3,12 +3,12 @@ name: climate-urban-form-integration
 description: Quantify the climate implications of urban form decisions using Peter Calthorpe's framework. Connect land use patterns to transportation emissions, calculate VMT by neighborhood type, project carbon outcomes, and demonstrate how urban design is climate policy.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2310
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - climate-urban-form-integration
-  - urban-planning
+- climate-urban-form-integration
+- urban-planning
 ---
 
 # Climate-Urban Form Integration
