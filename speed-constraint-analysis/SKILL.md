@@ -1,11 +1,9 @@
 ---
 name: speed-constraint-analysis
-description: Apply Patrick Collison's insight that "slow and expensive usually go
-  together" to identify where temporal constraints can force simplicity, reduce cost,
-  and accelerate execution.
+description: Apply Patrick Collison's insight that "slow and expensive usually go together" to identify where temporal constraints can force simplicity, reduce cost, and accelerate execution.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1953
   author: sethmblack
 keywords:
 - speed-constraint-analysis
