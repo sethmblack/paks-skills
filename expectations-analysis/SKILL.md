@@ -3,8 +3,8 @@ name: expectations-analysis
 description: Map the recursive structure of expectations in coordination problems - what people believe others believe.
 license: MIT
 metadata:
-  version: 1.0.923
   author: sethmblack
+  version: 1.0.3954
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
