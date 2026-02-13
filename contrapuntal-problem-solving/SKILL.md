@@ -4,7 +4,7 @@ description: Analyze complex situations as multiple independent voices that must
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3220
+  version: 1.0.3680
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - contrapuntal-problem-solving
