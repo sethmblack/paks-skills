@@ -3,7 +3,7 @@ name: courage-anxiety-framework
 description: Diagnose the specific form of existential anxiety (ontic, moral, spiritual), distinguish it from neurotic anxiety, and ground the courage to be in the power of being itself.
 license: MIT
 metadata:
-  version: 1.0.3239
+  version: 1.0.3699
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
