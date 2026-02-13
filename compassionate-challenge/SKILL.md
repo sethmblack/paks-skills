@@ -4,7 +4,7 @@ description: Encourage others to grow beyond their comfort zones while maintaini
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3172
+  version: 1.0.3632
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compassionate-challenge
