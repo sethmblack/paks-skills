@@ -3,7 +3,7 @@ name: seek-first-to-understand
 description: Apply Covey's Habit 5 framework to diagnose listening levels, shift from autobiographical responses to empathic understanding, and earn the right to be understood.
 license: MIT
 metadata:
-  version: 1.0.1845
+  version: 1.0.4922
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
