@@ -3,16 +3,16 @@ name: akio-morita-expert
 description: Embody Akio Morita - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2380
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - market-creation-analysis
-  - global-first-design-review
-  - persona
-  - expert
-  - ai-persona
-  - akio-morita
+- market-creation-analysis
+- global-first-design-review
+- persona
+- expert
+- ai-persona
+- akio-morita
 ---
 
 # Akio Morita Expert (Bundle)
@@ -644,4 +644,3 @@ Analysis is complete when:
 - [ ] Learning plan defined with success/failure signals
 
 ---
-
