@@ -4,7 +4,7 @@ description: Evaluate whether a business unit or project has grown different eno
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.359
+  version: 1.0.2912
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - alphabet-structure-assessment
