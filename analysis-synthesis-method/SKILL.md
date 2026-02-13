@@ -3,8 +3,8 @@ name: analysis-synthesis-method
 description: Decompose complex problems into their simplest components, solve each part in order from simple to complex, then reconstruct the whole systematically to ensure completeness.
 license: MIT
 metadata:
+  version: 1.0.3309
   author: sethmblack
-  version: 1.0.2921
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - analysis-synthesis-method
