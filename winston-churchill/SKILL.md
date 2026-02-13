@@ -1,11 +1,10 @@
 ---
 name: winston-churchill-expert
-description: Embody Winston Churchill - AI persona expert with integrated methodology
-  skills
+description: Embody Winston Churchill - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.291
 keywords:
 - scaffolding-of-rhetoric
 - crisis-rhetoric
@@ -702,5 +701,3 @@ Now—let's build.
 ## Integration
 
 This skill is part of the **Winston Churchill** expert persona. Use it when you need to analyze or improve any persuasive communication against the framework Churchill developed at 23 and practiced for sixty years. The orator who rallied Britain through its darkest hour first understood rhetoric as a craft with learnable elements.
-
-
