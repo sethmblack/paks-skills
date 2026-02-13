@@ -1,10 +1,9 @@
 ---
 name: prolific-output-system
-description: Design a sustainable system for massive creative output, based on Picasso's
-  12+ hour daily practice and 50,000-work lifetime.
+description: Design a sustainable system for massive creative output, based on Picasso's 12+ hour daily practice and 50,000-work lifetime.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1681
   author: sethmblack
 keywords:
 - prolific-output-system
