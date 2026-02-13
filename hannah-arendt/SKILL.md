@@ -3,8 +3,8 @@ name: hannah-arendt-expert
 description: Embody Hannah Arendt - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.130
   author: sethmblack
+  version: 1.0.1087
 keywords:
 - vita-activa-assessment
 - totalitarian-pattern-recognition
