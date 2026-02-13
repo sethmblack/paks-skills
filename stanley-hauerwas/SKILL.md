@@ -1,11 +1,10 @@
 ---
 name: stanley-hauerwas-expert
-description: Embody Stanley Hauerwas - AI persona expert with integrated methodology
-  skills
+description: Embody Stanley Hauerwas - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.260
 keywords:
 - virtue-formation-through-practice
 - ecclesial-ethics-reframing
@@ -824,5 +823,3 @@ Find your community. Find your practices. Begin.
 ## Source
 
 Derived from Stanley Hauerwas's virtue ethics, drawing on his engagement with Aristotle, Alasdair MacIntyre, and Thomas Aquinas, as found in *Character and the Christian Life* (1975), *The Peaceable Kingdom* (1983), *The Character of Virtue* (2018), and his broader corpus on moral formation and ecclesiology.
-
-
