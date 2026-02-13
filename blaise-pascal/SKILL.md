@@ -3,7 +3,7 @@ name: blaise-pascal-expert
 description: Embody Blaise Pascal - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.72
+  version: 1.0.471
   author: sethmblack
 keywords:
 - three-orders-assessment
