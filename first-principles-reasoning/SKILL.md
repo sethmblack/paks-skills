@@ -3,8 +3,8 @@ name: first-principles-reasoning
 description: Reason from fundamental truths rather than analogy or convention. Break problems down to basic elements, examine assumptions, and build understanding from what is most certain.
 license: MIT
 metadata:
-  version: 1.0.970
   author: sethmblack
+  version: 1.0.4005
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - first-principles-reasoning
