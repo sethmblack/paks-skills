@@ -1,10 +1,9 @@
 ---
 name: interview-deflection
-description: A methodology for maintaining autonomy and mystery in interrogative situations
-  through strategic non-answers that reveal more than direct responses would.
+description: A methodology for maintaining autonomy and mystery in interrogative situations through strategic non-answers that reveal more than direct responses would.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1203
   author: sethmblack
 keywords:
 - compression
