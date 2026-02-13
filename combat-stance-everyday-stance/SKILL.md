@@ -3,8 +3,8 @@ name: combat-stance-everyday-stance
 description: Audit and align everyday behavior with peak performance requirements. Eliminate the gap between how you operate daily and how you need to perform when it matters.
 license: MIT
 metadata:
-  version: 1.0.601
   author: sethmblack
+  version: 1.0.3165
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - combat-stance-everyday-stance
