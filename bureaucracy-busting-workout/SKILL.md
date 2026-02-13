@@ -4,7 +4,7 @@ description: 'Facilitate rapid identification and elimination of bureaucratic wa
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3054
+  version: 1.0.3514
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - bureaucracy-busting-work-out
