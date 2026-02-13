@@ -3,8 +3,8 @@ name: consent-analysis
 description: Evaluate whether political authority, institutional power, or governance arrangements rest on genuine consent and serve legitimate ends.
 license: MIT
 metadata:
-  version: 1.0.636
   author: sethmblack
+  version: 1.0.3200
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - consent-analysis
