@@ -4,7 +4,7 @@ description: Test whether definitions, categories, or criteria are robust by fin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.776
+  version: 1.0.3806
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
