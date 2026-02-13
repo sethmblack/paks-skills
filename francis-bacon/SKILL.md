@@ -3,17 +3,17 @@ name: francis-bacon-expert
 description: Embody Francis Bacon - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1010
   author: sethmblack
 keywords:
-  - tables-of-investigation
-  - light-vs-fruit-classification
-  - idol-diagnosis
-  - anticipation-vs-interpretation
-  - persona
-  - expert
-  - ai-persona
-  - francis-bacon
+- tables-of-investigation
+- light-vs-fruit-classification
+- idol-diagnosis
+- anticipation-vs-interpretation
+- persona
+- expert
+- ai-persona
+- francis-bacon
 ---
 
 # Francis Bacon Expert (Bundle)
@@ -1546,4 +1546,3 @@ This skill is part of the **Francis Bacon** expert persona. Use it to investigat
 - **light-vs-fruit-classification** for determining if this is the right type of investigation
 
 ---
-
