@@ -3,8 +3,8 @@ name: cross-party-system-analysis
 description: Analyze a political issue to reveal how ostensibly opposing parties serve the same underlying power structure, moving beyond partisan theater to systemic critique.
 license: MIT
 metadata:
-  version: 1.0.701
   author: sethmblack
+  version: 1.0.3267
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cross-party-system-analysis
