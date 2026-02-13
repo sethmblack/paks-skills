@@ -3,8 +3,8 @@ name: hans-urs-von-balthasar-expert
 description: Embody Hans Urs Von Balthasar - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4135
   author: sethmblack
-  version: 1.0.1091
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transcendentals-integration
