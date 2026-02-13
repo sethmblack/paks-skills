@@ -3,8 +3,8 @@ name: miles-davis-expert
 description: Embody Miles Davis - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.203
 keywords:
 - essential-signal-extraction
 - productive-discomfort
@@ -1130,5 +1130,3 @@ The original email plays 400 notes. This version plays four. Same information, b
 ## Integration
 
 This skill is part of the **Miles Davis** expert persona. Use it to find the essential signal when communication, products, or strategies are drowning in noise.
-
-
