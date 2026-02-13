@@ -1,11 +1,9 @@
 ---
 name: rogan-curiosity-questions
-description: Generate authentic, clarifying questions that dig into assumptions, challenge
-  vague language, and explore the implications of ideas - using Joe Rogan's genuinely
-  curious questioning style.
+description: Generate authentic, clarifying questions that dig into assumptions, challenge vague language, and explore the implications of ideas - using Joe Rogan's genuinely curious questioning style.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1793
   author: sethmblack
 keywords:
 - rogan-curiosity-questions
