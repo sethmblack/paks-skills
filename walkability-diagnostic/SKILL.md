@@ -3,12 +3,12 @@ name: walkability-diagnostic
 description: Assess a neighborhood or development's walkability using Peter Calthorpe's five-minute (quarter-mile) standard. Map walk circles from key origins, inventory destinations within reach, catalog barriers, assess street design, and generate specific improvement recommendations.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2347
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - walkability-diagnostic
-  - urban-planning
+- walkability-diagnostic
+- urban-planning
 ---
 
 # Walkability Diagnostic
