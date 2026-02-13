@@ -1,12 +1,10 @@
 ---
 name: possible-worlds-reasoning
-description: Frame any decision, situation, or design as a selection from a space
-  of possible alternatives. Evaluate why this possibility was actualized rather than
-  others, what alternatives exist, and how to r...
+description: Frame any decision, situation, or design as a selection from a space of possible alternatives. Evaluate why this possibility was actualized rather than others, what alternatives exist, and how to r...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1649
 keywords:
 - possible-worlds-reasoning
 - writing
