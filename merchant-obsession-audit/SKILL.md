@@ -4,7 +4,7 @@ description: Evaluate any initiative, feature, or decision through the lens of c
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1430
+  version: 1.0.4484
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - merchant-obsession-audit
