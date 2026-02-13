@@ -3,8 +3,8 @@ name: hetty-green-expert
 description: Embody Hetty Green - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4156
   author: sethmblack
-  version: 1.0.1111
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - crisis-lending-protocol
