@@ -4,7 +4,7 @@ description: Build exhaustive, multi-front arguments for strategic proposals tha
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.615
+  version: 1.0.3179
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comprehensive-argument-construction
