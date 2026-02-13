@@ -1,12 +1,10 @@
 ---
 name: mythic-reframe
-description: Transform mundane or overwhelming situations into their archetypal dimensions—revealing
-  the mythic structure within everyday experience and connecting individual struggles
-  to the universal human st...
+description: Transform mundane or overwhelming situations into their archetypal dimensions—revealing the mythic structure within everyday experience and connecting individual struggles to the universal human st...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1496
 keywords:
 - mythic-reframe
 - storytelling
