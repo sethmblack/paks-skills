@@ -3,8 +3,8 @@ name: fei-fei-li-expert
 description: Embody Fei Fei Li - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.3995
   author: sethmblack
-  version: 1.0.961
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fei-fei-li--human-centered-ai-assessment
