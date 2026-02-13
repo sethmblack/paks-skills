@@ -3,12 +3,12 @@ name: greenbelt-boundary-design
 description: Design and defend a permanent boundary around a community that preserves open space, prevents sprawl, and ensures that growth happens through founding new settlements rather than endless expansion.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2320
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - greenbelt-boundary-design
-  - urban-planning
+- greenbelt-boundary-design
+- urban-planning
 ---
 
 # Greenbelt Boundary Design
