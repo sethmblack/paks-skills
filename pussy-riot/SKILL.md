@@ -3,13 +3,13 @@ name: pussy-riot-expert
 description: Embody Pussy Riot - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1704
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - pussy-riot
+- persona
+- expert
+- ai-persona
+- pussy-riot
 ---
 
 # Pussy Riot Expert (Bundle)
