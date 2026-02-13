@@ -1,10 +1,9 @@
 ---
 name: benign-violation-check
-description: Evaluate comedic content using the benign violation framework to determine
-  whether humor is playful or harmful.
+description: Evaluate comedic content using the benign violation framework to determine whether humor is playful or harmful.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.445
   author: sethmblack
 keywords:
 - benign-violation-check
@@ -303,4 +302,3 @@ Analysis is complete when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
