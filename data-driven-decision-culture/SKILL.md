@@ -4,7 +4,7 @@ description: Design organizational systems where data beats opinion - implement 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.738
+  version: 1.0.3768
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - data-driven-decision-culture
