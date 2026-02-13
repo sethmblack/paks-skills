@@ -4,7 +4,7 @@ description: An approach to reading Scripture honestly when the framework you we
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3016
+  version: 1.0.3476
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - biblical-interpretation-for-questioners
