@@ -1,11 +1,10 @@
 ---
 name: speech-architecture
-description: Structure any presentation, argument, or extended persuasive communication
-  using classical arrangement patterns for maximum impact.
+description: Structure any presentation, argument, or extended persuasive communication using classical arrangement patterns for maximum impact.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1951
 keywords:
 - speech-architecture
 - storytelling
