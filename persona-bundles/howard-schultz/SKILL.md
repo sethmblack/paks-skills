@@ -3,19 +3,19 @@ name: howard-schultz-expert
 description: Embody Howard Schultz - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2556
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - values-based-transformation
-  - third-place-design
-  - partner-investment-analysis
-  - experience-economy-audit
-  - authenticity-brand-test
-  - persona
-  - expert
-  - ai-persona
-  - howard-schultz
+- values-based-transformation
+- third-place-design
+- partner-investment-analysis
+- experience-economy-audit
+- authenticity-brand-test
+- persona
+- expert
+- ai-persona
+- howard-schultz
 ---
 
 # Howard Schultz Expert (Bundle)
@@ -1672,4 +1672,3 @@ This skill is part of the **Howard Schultz** expert methodology. It pairs with:
 - `third-place-design` - physical/digital experience reflects values
 
 ---
-
