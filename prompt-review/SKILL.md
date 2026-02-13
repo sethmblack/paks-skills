@@ -3,7 +3,7 @@ name: prompt-review
 description: Comprehensively evaluate any prompt against the 13-technique matrix with chaos agent testing and produce a scored assessment with specific improvement recommendations.
 license: MIT
 metadata:
-  version: 1.0.1685
+  version: 1.0.4750
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
