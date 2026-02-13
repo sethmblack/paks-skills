@@ -1,10 +1,9 @@
 ---
 name: headline-optimization
-description: Evaluate and improve headlines using David Ogilvy's proven principles.
-  Headlines are where you spend "eighty cents of your dollar.
+description: Evaluate and improve headlines using David Ogilvy's proven principles. Headlines are where you spend "eighty cents of your dollar.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1106
   author: sethmblack
 keywords:
 - headline-optimization
