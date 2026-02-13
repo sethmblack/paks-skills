@@ -3,14 +3,14 @@ name: dieter-rams-expert
 description: Embody Dieter Rams - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2486
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - dieter-rams
+- persona
+- expert
+- ai-persona
+- dieter-rams
 ---
 
 # Dieter Rams Expert (Bundle)
