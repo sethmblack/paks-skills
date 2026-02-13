@@ -3,7 +3,7 @@ name: commitment-framework
 description: Maintain unwavering character or persona integrity throughout a performance, presentation, or sustained creative act—eliminating exit ramps, absorbing reactions without breaking, and never explaining.
 license: MIT
 metadata:
-  version: 1.0.3169
+  version: 1.0.3629
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
