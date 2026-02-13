@@ -4,7 +4,7 @@ description: Systematically identify and challenge assumptions in any plan or co
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2955
+  version: 1.0.3415
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - assumption-auditor
