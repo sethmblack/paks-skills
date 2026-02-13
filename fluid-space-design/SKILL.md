@@ -4,7 +4,7 @@ description: Transform compartmentalized spaces into continuous experiences—ap
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.980
+  version: 1.0.4016
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
