@@ -3,8 +3,8 @@ name: martin-seligman-expert
 description: Embody Martin Seligman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1395
   author: sethmblack
-  version: 1.0.194
 keywords:
 - three-good-things-practice
 - strengths-deployment
