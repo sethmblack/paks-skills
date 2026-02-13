@@ -3,8 +3,8 @@ name: epigrammatic-compression
 description: The technique of packing maximum meaning into minimum words. Every sentence should cut; if it doesn't cut, revise it. The goal is not to write but to wound - with style. This is writing as precisio...
 license: MIT
 metadata:
-  version: 1.0.883
   author: sethmblack
+  version: 1.0.3914
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
