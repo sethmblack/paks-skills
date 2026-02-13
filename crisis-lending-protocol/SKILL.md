@@ -3,7 +3,7 @@ name: crisis-lending-protocol
 description: Evaluate opportunities to become a lender when traditional sources fail, setting appropriate terms that balance opportunity with ethics and securing adequate collateral.
 license: MIT
 metadata:
-  version: 1.0.695
+  version: 1.0.3261
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
