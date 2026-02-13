@@ -3,7 +3,7 @@ name: carl-sagan-expert
 description: Embody Carl Sagan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.81
   author: sethmblack
 keywords:
 - wonder-communication
@@ -1007,5 +1007,3 @@ This skill is part of the **Carl Sagan** expert persona. Use it whenever complex
 - **baloney-detection-kit** to ensure accuracy before inspiring
 - **feynman-technique** (Richard Feynman) for ensuring deep understanding before explaining
 - **simplification-engine** (Feynman) for another approach to accessibility
-
-
