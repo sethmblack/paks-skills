@@ -1,19 +1,27 @@
 ---
 name: essential-signal-extraction
-description: Ruthlessly edit to find the essential signal in noise—what to cut, what
-  to keep, where the real meaning lives in the spaces and silences.
+description: Ruthlessly edit to find the essential signal in noise—what to cut, what to keep, where the real meaning lives in the spaces and silences.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.904
 keywords:
+- clarity
+- editing
 - essential-signal-extraction
-- writing
+- minimalism
+- simplification
 ---
 
 # Essential Signal Extraction
 
-Ruthlessly edit to find the essential signal in noise—what to cut, what to keep, where the real meaning lives in the spaces and silences.
+Ruthlessly edit to find the essential signal in noise, identifying what to cut, what to keep, and where the real meaning lives in the spaces and silences. This methodology embodies Miles Davis's philosophy that "in music, silence is more important than sound." Most people add to show value; this framework removes to create value. The process identifies common noise patterns (defensive qualifications, comprehensiveness bias, throat-clearing, jargon demonstration), finds the essential signal by asking what would remain if you could only say one thing, designs space strategically so silence does the work of words, and tests the edit to ensure meaning is preserved while noise is removed. The result is communication where what remains has maximum impact precisely because of what has been cut away.
+
+---
+
+## Core Principle
+
+"You have to know 400 notes that you can play, then pick the right four." The essential signal is not what you could say but what you must say. Everything else either supports that essential truth or is noise that dilutes it. Space creates emphasis, invitation, trust, and tension; what you do not say shapes what you do say.
 
 ---
 
@@ -115,32 +123,6 @@ Rather than many adequate points, find the single most important truth. Everythi
 
 ---
 
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
-
 ## Output Format
 
 ```markdown
@@ -178,35 +160,44 @@ Create actionable outputs:
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Do not remove content that is genuinely essential for safety or accuracy
+- Acknowledge that some contexts require completeness over brevity
+- Respect that different audiences have different information needs
+- The goal is clarity and impact, not brevity for its own sake
+- Legal or regulatory contexts may require qualifications that seem like noise
+
+---
+
+## Anti-Patterns to Avoid
+
+**1. Cutting essential content**
+- Wrong: Removing safety warnings, caveats, or genuinely necessary context
+- Right: Identifying what is truly essential vs. defensive padding
+- Why: The goal is clarity, not dangerously incomplete communication
+
+**2. One-size-fits-all reduction**
+- Wrong: Assuming every communication should be minimal
+- Right: Matching length and detail to audience and context
+- Why: Technical documentation requires completeness; headlines require brevity
+
+**3. Confusing simplicity with oversimplification**
+- Wrong: Removing nuance that changes the meaning
+- Right: Removing words while preserving the complete truth
+- Why: Miles played few notes, but each was precisely chosen
+
+**4. Cutting without testing**
+- Wrong: Removing content without checking if meaning survives
+- Right: Reading what remains and verifying the signal is clear
+- Why: Aggressive editing can damage as easily as clarify
+
+**5. Adding after extracting**
+- Wrong: Finding the signal then padding it back out
+- Right: Trusting that what remains is enough
+- Why: If you had to add back, you did not find the right signal
+
+---
 
 ## Example
 
@@ -282,3 +273,32 @@ The original email plays 400 notes. This version plays four. Same information, b
 ## Integration
 
 This skill is part of the **Miles Davis** expert persona. Use it to find the essential signal when communication, products, or strategies are drowning in noise.
+
+**Works well with:**
+- `essential-reduction` - For additional reduction of creative work
+- `essay-clarity-rewrite` - For applying Paul Graham clarity principles
+- `silence-as-structure` - For designing intentional space
+
+**When to prefer this over alternatives:**
+- Content, communication, or strategy is overcomplicated
+- Need to find what is essential and cut the rest
+- Presentations, products, or plans have too much going on
+- Need to simplify without losing meaning
+
+**Cautions:**
+- Not all contexts reward brevity; know your audience
+- Essential content includes safety, accuracy, and legal requirements
+- What seems like noise to you may be signal to the reader
+
+---
+
+## Success Criteria
+
+Essential signal extraction is successful when:
+- [ ] Noise patterns are identified specifically
+- [ ] The one essential thing is stated clearly
+- [ ] Supporting elements are justified for their place
+- [ ] Cuts are prioritized by noise type
+- [ ] Space is designed intentionally
+- [ ] Simplified version retains full meaning
+- [ ] The Miles check confirms life remains in the result
