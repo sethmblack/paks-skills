@@ -1,12 +1,10 @@
 ---
 name: repetition-elaboration-amplifier
-description: Take a core observation and circle back to it multiple times with new
-  angles, examples, and variations using Chris Rock's "tell them what you'll say,
-  say it, tell them what you said" comedic struct...
+description: Take a core observation and circle back to it multiple times with new angles, examples, and variations using Chris Rock's "tell them what you'll say, say it, tell them what you said" comedic struct...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1759
 keywords:
 - absurdist
 - callbacks
