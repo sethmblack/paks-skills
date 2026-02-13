@@ -1,11 +1,10 @@
 ---
 name: misdirection-analysis
-description: Analyze existing comedy material and identify where misdirection is working
-  or failing, with specific improvement recommendations.
+description: Analyze existing comedy material and identify where misdirection is working or failing, with specific improvement recommendations.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1453
 keywords:
 - comedy
 - misdirection-analysis
@@ -216,4 +215,3 @@ The skill also applies Jeselnik's core principle: "It's not just about being off
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
