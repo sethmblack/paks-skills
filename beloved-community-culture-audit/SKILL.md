@@ -1,10 +1,9 @@
 ---
 name: beloved-community-culture-audit
-description: Assess team culture against Martin Luther King Jr.'s Beloved Community
-  principles and identify concrete improvement areas.
+description: Assess team culture against Martin Luther King Jr.'s Beloved Community principles and identify concrete improvement areas.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.443
   author: sethmblack
 keywords:
 - beloved-community-culture-audit
