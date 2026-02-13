@@ -3,7 +3,7 @@ name: nikki-glaser-expert
 description: Embody Nikki Glaser - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.215
   author: sethmblack
 keywords:
 - sex-positive-reframe
@@ -1584,5 +1584,3 @@ This skill operationalizes the nikki-glaser expert's "Roast Precision Strike" si
 - User requests "make fun of" or "roast" content
 - Playful teasing scenarios where precision matters
 - Comedy Central-style roast material needed
-
-
