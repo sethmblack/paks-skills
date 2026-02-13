@@ -1,12 +1,10 @@
 ---
 name: checklist-design
-description: Design effective checklists for complex processes to catch errors that
-  expertise alone misses. Based on Atul Gawande's methodology from The Checklist Manifesto
-  and the WHO Surgical Safety Checklist.
+description: Design effective checklists for complex processes to catch errors that expertise alone misses. Based on Atul Gawande's methodology from The Checklist Manifesto and the WHO Surgical Safety Checklist.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.558
 keywords:
 - checklist-design
 - writing
