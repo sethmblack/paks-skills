@@ -1,19 +1,20 @@
 ---
 name: hammer-test
-description: Strike any "truth," assumption, or received wisdom with Nietzsche's philosophical
-  hammer to determine whether it rings solid or hollow.
+description: Strike any "truth," assumption, or received wisdom with Nietzsche's philosophical hammer to determine whether it rings solid or hollow.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1085
   author: sethmblack
 keywords:
 - hammer-test
-- writing
+- critical-thinking
+- philosophy
+- analysis
 ---
 
 # Hammer Test
 
-Strike any "truth," assumption, or received wisdom with Nietzsche's philosophical hammer to determine whether it rings solid or hollow.
+Strike any "truth," assumption, or received wisdom with Nietzsche's philosophical hammer to determine whether it rings solid or hollow. From Nietzsche's "Twilight of the Idols," the subtitle "How to Philosophize with a Hammer" refers to sounding out idols - touching them with a hammer to hear whether they ring hollow. Most "truths" that societies hold dear are not truths at all but conventions that benefit someone, comfort blankets against uncertainty, power structures disguised as natural law, laziness mistaken for wisdom, or fear presented as prudence. This framework provides systematic strikes to test any belief and reveal its true nature.
 
 ---
 
@@ -24,6 +25,7 @@ Strike any "truth," assumption, or received wisdom with Nietzsche's philosophica
 - Questioning institutional wisdom or professional dogma
 - Evaluating ideas that have been accepted without scrutiny
 - When something is defended with "that's just how it is"
+- When a belief feels sacred or beyond question
 
 ---
 
@@ -37,20 +39,28 @@ Strike any "truth," assumption, or received wisdom with Nietzsche's philosophica
 
 ---
 
-## The Method
+## Core Principle
 
-### Philosophizing with a Hammer
+Truth welcomes challenge; idols demand faith. The hammer does not destroy truth - it reveals it. A solid truth rings clear when struck; it can be questioned indefinitely without collapsing. A hollow idol produces a dull sound, demands protection from inquiry, punishes questioners, and appeals to authority rather than evidence. The purpose is not nihilistic destruction but clearing away falsehood to make room for what is genuine.
 
-From *Twilight of the Idols*: "Sounding out idols" - touching them with a hammer to see if they ring hollow.
+---
 
-Most "truths" are not truths at all but:
-- Conventions that benefit someone
-- Comfort blankets against uncertainty
-- Power structures disguised as natural law
-- Laziness mistaken for wisdom
-- Fear presented as prudence
+## Methodology
 
-### The Hammer's Questions
+### Phase 1: State the Belief Clearly
+
+1. Remove hedging and ambiguity
+2. Express what exactly is being claimed
+3. Identify the form: is this presented as natural law, moral truth, practical wisdom, or inevitable fact?
+
+### Phase 2: Identify the Defenders
+
+1. Who upholds this belief?
+2. What do they gain from it being accepted?
+3. How do they react when it is questioned?
+4. What mechanisms protect this belief from scrutiny?
+
+### Phase 3: Apply the Five Strikes
 
 **Strike 1: Who benefits from this being true?**
 If no one benefits, perhaps it is truth. If specific groups benefit, suspect the "truth" serves power.
@@ -67,55 +77,19 @@ The loudest "do not question this" marks the most hollow idol. Real truths can b
 **Strike 5: What does this prevent?**
 Every belief enables some actions and prevents others. What is this belief preventing? Who benefits from that prevention?
 
----
+### Phase 4: Assess the Sound
 
-## The Testing Process
+1. **Solid:** Survives questioning, welcomes challenge, benefits no special interest, enables rather than restricts
+2. **Hollow:** Collapses under questioning, punishes challenge, benefits specific interests, restricts rather than enables
+3. **Cracked:** Contains partial truth mixed with self-serving additions
 
-### Step 1: State the Belief Clearly
-What exactly is being claimed? Remove hedging and ambiguity.
+### Phase 5: Name What Remains
 
-### Step 2: Identify Its Defenders
-Who upholds this belief? What do they gain from it being accepted?
-
-### Step 3: Apply the Five Strikes
-Test with each hammer question. Listen for the sound.
-
-### Step 4: Assess the Ring
-
-**Solid:** Survives questioning, welcomes challenge, benefits no special interest, enables rather than restricts
-
-**Hollow:** Collapses under questioning, punishes challenge, benefits specific interests, restricts rather than enables
-
-### Step 5: Name What Remains
-If hollow, what (if anything) should replace it? If solid, what does its solidity teach us?
+1. If hollow: what truth might replace the idol?
+2. If solid: what does its solidity teach about genuine truth?
+3. If cracked: what partial truth can be salvaged?
 
 ---
-
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
 
 ## Output Format
 
@@ -162,111 +136,91 @@ Create actionable outputs:
 - Recognize that some hollow idols served historical purposes
 - Maintain intellectual courage - test popular and unpopular beliefs equally
 - Do not confuse complexity with hollowness - some truths are difficult
+- Apply the hammer to your own beliefs first
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails |
+|--------------|--------------|
+| Edgy contrarianism | Rejecting everything conventional is just as lazy as accepting it; the goal is truth, not shock |
+| Selective hammering | Testing only beliefs you already dislike while protecting your own idols |
+| Nihilistic destruction | The hammer clears away falsehood to make room for truth, not to leave only rubble |
+| Treating complexity as hollowness | Some genuine truths are difficult and nuanced; difficulty is not proof of falsehood |
+| Ignoring the sound | Going through the motions without honestly assessing what the strikes reveal |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+---
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+## Examples
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+### Example 1: "Follow Your Passion"
 
-**Example output:** See the Example section below for a complete demonstration.
+**Situation:** Test the belief that "everyone should follow their passion."
 
-## Example
+**Application:**
 
-**Input:** "Test the belief that 'everyone should follow their passion.'"
+**The Idol:** "Everyone should follow their passion" - the belief that career and life satisfaction come from identifying your passion and pursuing it single-mindedly.
 
-**Output:**
+**The Defenders:**
+- Self-help industry: Sells books, courses, and coaching on "finding your passion"
+- Universities: Markets expensive degrees in fields with poor employment prospects
+- Employers: Can pay less to employees who believe they're living their dream
+- The privileged: Can follow passions because basic needs are already secured
 
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
-
-## Hammer Test
-
-### The Idol
-"Everyone should follow their passion" - the belief that career and life satisfaction come from identifying your passion and pursuing it single-mindedly.
-
-### The Defenders
-- **Self-help industry:** Sells books, courses, and coaching on "finding your passion"
-- **Universities:** Markets expensive degrees in fields with poor employment prospects
-- **Parents:** Wants children to be "happy" (defined as doing what they love)
-- **Employers:** Can pay less to employees who believe they're living their dream
-- **The privileged:** Can follow passions because basic needs are already secured
-
-### The Five Strikes
+**The Five Strikes:**
 
 | Strike | Question | Result |
 |--------|----------|--------|
-| 1 | Who benefits? | Self-help gurus profit from the search. Employers benefit from passionate workers who accept lower pay. Universities sell dreams with poor returns. |
-| 2 | What changes if false? | Career guidance would focus on skills, markets, and practical value rather than internal discovery. Young people might build skills before seeking passion. |
-| 3 | How is it defended? | Emotionally - "don't you want to be happy?" Appeals to enviable exceptions (successful artists, athletes). Shames practical concerns as soulless. |
-| 4 | What is forbidden? | Pointing out that most "passions" don't pay. Noting that passion often follows mastery, not precedes it. Observing that the advice comes from survivors, not failures. |
-| 5 | What does it prevent? | Practical skill-building. Taking jobs to learn rather than to express. Accepting that work can be good without being passion. Delayed gratification. |
+| 1 | Who benefits? | Self-help gurus profit from the search. Employers benefit from passionate workers who accept lower pay. |
+| 2 | What changes if false? | Career guidance would focus on skills and markets. Young people might build skills before seeking passion. |
+| 3 | How is it defended? | Emotionally - "don't you want to be happy?" Appeals to enviable exceptions. Shames practical concerns. |
+| 4 | What is forbidden? | Pointing out that most passions don't pay. Noting that passion often follows mastery. |
+| 5 | What does it prevent? | Practical skill-building. Taking jobs to learn. Delayed gratification. |
 
-### The Sound
-**Rings:** Hollow
+**The Sound:** Hollow
 
-### The Evidence
+**What Remains:** Engagement matters, but passion often develops from competence. Build skills first; passion follows. "Follow your passion if you can afford the risk, have relevant talent, and have built fallback options."
 
-This belief sounds noble but serves questionable masters:
+**The Verdict:** "Follow your passion" is the advice of the victorious to the aspiring - delivered without mentioning the bodies of the defeated passion-followers scattered below the summit.
 
-1. **Survivorship bias:** We hear from those whose passions succeeded, not the vastly larger number who "followed their passion" into poverty and failure.
+### Example 2: "Hard Work Always Pays Off"
 
-2. **Cause and effect reversed:** Research suggests passion more often *develops from* competence than leads to it. People become passionate about what they're good at.
+**Situation:** Test the belief that hard work is always rewarded.
 
-3. **Privilege disguised as universal truth:** "Follow your passion" assumes a safety net. Those without family wealth must build skills that pay before they can afford passion.
+**Application:**
 
-4. **Benefits extractors:** This belief permits paying creative workers poorly ("you should be grateful to do what you love") while employers capture the value.
+**The Idol:** "Hard work always pays off" - the belief that effort is reliably rewarded with success.
 
-5. **Prevents useful work:** Many necessary tasks are not anyone's "passion." A society of passion-followers would have no plumbers, accountants, or garbage collectors.
+**The Five Strikes:**
 
-### What Remains
+| Strike | Question | Result |
+|--------|----------|--------|
+| 1 | Who benefits? | Employers who want workers to accept low wages now for promised future rewards. Those who succeeded and want to believe they deserved it. |
+| 2 | What changes if false? | People might demand fair compensation now. Luck and privilege would need acknowledgment. |
+| 3 | How is it defended? | Appeals to success stories (survivorship bias). Implies lazy character if you question it. |
+| 4 | What is forbidden? | Acknowledging that many hard workers fail. Discussing inherited advantage. |
+| 5 | What does it prevent? | Collective action. Demands for structural change. Recognition of luck. |
 
-**The kernel of truth:** Engagement and meaning matter. Soul-crushing work that uses none of your abilities is corrosive.
+**The Sound:** Cracked
 
-**The better formulation:** Build skills that the world values. Develop mastery. Passion often follows. And: secure your material foundation before optimizing for meaning.
-
-**The honest version:** "Follow your passion if you can afford the risk, have relevant talent, and have built fallback options. Otherwise, build skills first and let passion develop from competence."
-
-### The Verdict
-
-"Follow your passion" is the advice of the victorious to the aspiring - delivered without mentioning the bodies of the defeated passion-followers scattered below the summit. It flatters the listener while serving the advisor. It is a hollow idol dressed in the clothing of authenticity.
-
-*"He who cannot obey himself will be commanded. That is the nature of living creatures."* First master a craft. Passion follows.
+**What Remains:** Hard work is necessary but not sufficient. It pays off more reliably for some than others. The truth: "Hard work improves your odds within your circumstances, but circumstances vary enormously."
 
 ---
 
 ## Integration
 
-This skill is part of the **Friedrich Nietzsche** expert persona. Use it when you need to test whether a commonly-held belief is genuine truth or merely a comfortable idol.
+**Works with:**
+- Critical thinking frameworks
+- Power analysis tools
+- Assumption testing methodologies
+
+**When to prefer this skill:**
+- When examining widely-held beliefs that resist questioning
+- When "common sense" justifies decisions that benefit some over others
+- When testing your own assumptions before building on them
+
+**Cautions:**
+- Requires intellectual honesty - apply to your own beliefs too
+- The goal is truth, not destruction
+- Some idols protect genuine values even if the idol itself is hollow
