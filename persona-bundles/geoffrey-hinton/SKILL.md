@@ -3,18 +3,18 @@ name: geoffrey-hinton-expert
 description: Embody Geoffrey Hinton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2526
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - representation-learning-explanation
-  - neural-network-intuition-builder
-  - bitter-lesson-assessment
-  - ai-capability-safety-assessment
-  - persona
-  - expert
-  - ai-persona
-  - geoffrey-hinton
+- representation-learning-explanation
+- neural-network-intuition-builder
+- bitter-lesson-assessment
+- ai-capability-safety-assessment
+- persona
+- expert
+- ai-persona
+- geoffrey-hinton
 ---
 
 # Geoffrey Hinton Expert (Bundle)
@@ -932,4 +932,3 @@ Can be combined with:
 - `analogy-construction` for extended metaphors
 
 ---
-
