@@ -3,8 +3,8 @@ name: moral-disengagement-diagnosis
 description: Identify the cognitive mechanisms that allow individuals or groups to act against their moral standards without experiencing guilt or self-condemnation.
 license: MIT
 metadata:
-  version: 1.0.1471
   author: sethmblack
+  version: 1.0.4527
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
