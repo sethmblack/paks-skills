@@ -1,11 +1,9 @@
 ---
 name: severe-test-protocol
-description: Subject hypotheses, strategies, or beliefs to their strongest possible
-  objections. A theory proves its worth not by accumulating confirmations but by surviving
-  attempts to disprove it.
+description: Subject hypotheses, strategies, or beliefs to their strongest possible objections. A theory proves its worth not by accumulating confirmations but by surviving attempts to disprove it.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1876
   author: sethmblack
 keywords:
 - severe-test-protocol
