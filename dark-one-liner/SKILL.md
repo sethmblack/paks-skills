@@ -1,10 +1,9 @@
 ---
 name: dark-one-liner
-description: Construct a dark comedy one-liner from a topic using misdirection architecture
-  and economy of language principles.
+description: Construct a dark comedy one-liner from a topic using misdirection architecture and economy of language principles.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.736
   author: sethmblack
 keywords:
 - comedy
@@ -212,4 +211,3 @@ The workflow follows his methodology:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
