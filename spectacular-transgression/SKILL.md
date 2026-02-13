@@ -1,10 +1,9 @@
 ---
 name: spectacular-transgression
-description: A skill for designing brief, visual interventions in sacred or state
-  spaces that create indelible images and provoke revealing responses.
+description: A skill for designing brief, visual interventions in sacred or state spaces that create indelible images and provoke revealing responses.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1949
   author: sethmblack
 keywords:
 - compression
