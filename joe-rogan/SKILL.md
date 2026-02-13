@@ -3,7 +3,7 @@ name: joe-rogan-expert
 description: Embody Joe Rogan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.159
   author: sethmblack
 keywords:
 - rogan-devils-advocate
@@ -2363,5 +2363,3 @@ This skill extends the joe-rogan expert's Sentence-Level Craft and Long-Form Con
 ---
 
 **Remember:** Real conversation isn't perfect. It loops, it digresses, it backtracks. It has "ums" and "likes" and restarted sentences. Don't smooth out all the rough edges - that's where the authenticity lives. You want it to feel like someone is discovering ideas with you, not presenting polished thoughts to you.
-
-
