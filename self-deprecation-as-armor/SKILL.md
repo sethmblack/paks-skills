@@ -1,18 +1,18 @@
 ---
 name: self-deprecation-as-armor
-description: "Transform personal insecurities and failures into material that disarms criticism before it lands, creating permission for vulnerability and absurdity"
+description: Transform personal insecurities and failures into material that disarms criticism before it lands, creating permission for vulnerability and absurdity
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1851
+  author: Seth Black
 keywords:
-  - comedy
-  - vulnerability
-  - self-deprecation
-  - conan-obrien
-  - confidence
-  - rapport
-  - humor
+- comedy
+- vulnerability
+- self-deprecation
+- conan-obrien
+- confidence
+- rapport
+- humor
 ---
 
 # Self-Deprecation as Armor
