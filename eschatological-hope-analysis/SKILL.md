@@ -1,21 +1,28 @@
 ---
 name: eschatological-hope-analysis
-description: Transform present-bound problems into future-oriented vision by beginning
-  with God's promised future and working backward, revealing how the eschatological
-  horizon transforms engagement with the pr...
+description: Transform present-bound problems into future-oriented vision by beginning with God's promised future and working backward, revealing how the eschatological horizon transforms engagement with the present.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.900
   author: sethmblack
 keywords:
 - eschatological-hope-analysis
+- future-orientation
+- hope
+- theology
 - transformation
-- writing
+- vision
 ---
 
 # Eschatological Hope Analysis
 
-Transform present-bound problems into future-oriented vision by beginning with God's promised future and working backward, revealing how the eschatological horizon transforms engagement with the present.
+Transform present-bound problems into future-oriented vision by beginning with God's promised future and working backward, revealing how the eschatological horizon transforms engagement with the present. This methodology applies Jurgen Moltmann's insight from Theology of Hope that eschatology is not the last chapter of theology but its first principle: the future determines the meaning of the present, not vice versa. The framework first articulates the promised or desired future state with clarity, then identifies how that future contradicts the present, traces implications backward from fulfillment to first steps, identifies anticipatory actions that already participate in the future, and develops practices for sustaining hope against resignation. The result transforms teams stuck in present-bound thinking into communities oriented toward a future that makes the present both unbearable and actionable.
+
+---
+
+## Core Principle
+
+Christian hope is grounded not in optimism (things will get better) but in promise (God has declared what will be). The future breaks into the present through actions that anticipate and embody it. As Moltmann wrote, "The goad of the promised future stabs inexorably into the flesh of every unfulfilled present."
 
 ---
 
@@ -115,32 +122,6 @@ Develop practices for maintaining orientation toward the future:
 
 ---
 
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
-
 ## Output Format
 
 ```markdown
@@ -187,26 +168,34 @@ Create actionable outputs:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+**1. Collapsing hope into optimism**
+- Wrong: "Things will get better because trends are positive"
+- Right: "The promised future contradicts the present and makes action possible"
+- Why: Optimism is based on extrapolation; hope is grounded in promise
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+**2. Escaping to another world**
+- Wrong: "The future replaces this broken reality"
+- Right: "The future transforms this world, not replaces it"
+- Why: Eschatological hope is for renewal, not escape
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+**3. Accepting the present as final**
+- Wrong: "This is just how things are"
+- Right: "This present is unacceptable in light of the promise"
+- Why: The whole point is contradiction of current reality with future vision
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+**4. Vague future vision**
+- Wrong: "Things will be better someday"
+- Right: "Complete flourishing entails specifically [X, Y, Z]"
+- Why: Vague futures generate vague hope and no action
 
-**Example output:** See the Example section below for a complete demonstration.
+**5. Actions disconnected from promise**
+- Wrong: "We should try harder to improve things"
+- Right: "This action participates in and anticipates the promised future"
+- Why: Anticipatory actions flow from the future, not just willpower
+
+---
 
 ## Example
 
@@ -257,8 +246,32 @@ We do not accept that firefighting is our destiny. The future we are promised - 
 
 ## Integration
 
-This skill is part of the **Jurgen Moltmann** expert persona. It applies Moltmann's eschatological methodology from *Theology of Hope* - beginning with the future to transform the present.
+This skill is part of the **Jurgen Moltmann** expert persona. It applies Moltmann's eschatological methodology from Theology of Hope, beginning with the future to transform the present.
 
-For related analysis:
-- Use **cruciform-solidarity-assessment** when the situation involves suffering and godforsakenness
-- Use **perichoretic-community-design** when team structures need reimagining
+**Works well with:**
+- `cruciform-solidarity-assessment` - When the situation involves suffering and godforsakenness
+- `perichoretic-community-design` - When team structures need reimagining
+- `prophetic-critique` - For articulating the contradiction between present and promise
+
+**When to prefer this over alternatives:**
+- Vision-setting and strategic planning sessions
+- When teams feel stuck or resigned to current conditions
+- Long-term planning that needs grounding beyond trend extrapolation
+- When optimism has failed and deeper hope is needed
+
+**Cautions:**
+- This framework is theological; adapt language for secular contexts
+- Hope requires community to sustain; individual hope is fragile
+- The gap between promise and present can cause despair if not managed
+
+---
+
+## Success Criteria
+
+Eschatological hope analysis is successful when:
+- [ ] Eschatological horizon is articulated with clarity and specificity
+- [ ] Contradiction between present and future is named
+- [ ] Implications are traced backward to first visible step
+- [ ] Anticipatory actions are identified and grounded in the promise
+- [ ] Practices for sustaining hope are developed
+- [ ] Hope statement contradicts resignation while remaining grounded in promise
