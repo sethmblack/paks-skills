@@ -1,11 +1,9 @@
 ---
 name: genba-diagnostic
-description: Guide direct observation methodology for problem diagnosis, moving from
-  remote analysis to firsthand understanding. When data and reality diverge, go to
-  the actual place.
+description: Guide direct observation methodology for problem diagnosis, moving from remote analysis to firsthand understanding. When data and reality diverge, go to the actual place.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1033
   author: sethmblack
 keywords:
 - genba-diagnostic
