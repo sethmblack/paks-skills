@@ -3,8 +3,8 @@ name: eleanor-roosevelt-expert
 description: Embody Eleanor Roosevelt - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.105
   author: sethmblack
+  version: 1.0.856
 keywords:
 - compassionate-challenge
 - advocacy-communication
