@@ -3,7 +3,7 @@ name: attention-practice
 description: Cultivate the capacity for pure attention—receptive presence that allows others and situations to be seen as they truly are, without the distortion of ego, agenda, or the urge to fix.
 license: MIT
 metadata:
-  version: 1.0.408
+  version: 1.0.2961
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
