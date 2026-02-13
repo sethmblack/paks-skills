@@ -1,11 +1,9 @@
 ---
 name: causal-diagram-construction
-description: Construct a directed acyclic graph (DAG) representing the causal structure
-  of a problem before any data analysis. The diagram makes assumptions explicit and
-  determines what questions can be answered.
+description: Construct a directed acyclic graph (DAG) representing the causal structure of a problem before any data analysis. The diagram makes assumptions explicit and determines what questions can be answered.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.529
   author: sethmblack
 keywords:
 - causal-diagram-construction
@@ -312,33 +310,21 @@ Can identify X->Y effect via M even with unmeasured U.
 3. [Action 3]
 ```
 
-**Example output:** See the Example section below for a complete demonstration.
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Diagram-free analysis** | Running statistics without explicit causal assumptions | Draw the diagram first, then determine analysis |
+| **Data-driven structure** | Trying to discover causal structure from correlations alone | Use domain knowledge; data cannot prove direction |
+| **Missing unmeasured variables** | Diagrams should include all relevant variables, not just measured ones | Include unmeasured confounders with explicit notation |
+| **Conditioning on colliders** | Opens spurious paths and creates bias | Identify colliders and never condition on them |
+| **Controlling for mediators** | Removes part of the causal effect you're trying to estimate | Control only for confounders, not mediators |
 
 ## Example
 
 **Input:** "We found that people who drink coffee have lower rates of depression. Is coffee protective?"
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Causal Diagram: Coffee and Depression
 
