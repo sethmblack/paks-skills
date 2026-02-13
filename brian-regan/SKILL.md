@@ -4,7 +4,7 @@ description: Embody Brian Regan - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.488
+  version: 1.0.3047
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation-spiral
