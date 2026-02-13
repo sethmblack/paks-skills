@@ -3,8 +3,8 @@ name: aristotle-expert
 description: Embody Aristotle - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2948
   author: sethmblack
+  version: 1.0.3408
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rhetorical-triangle
