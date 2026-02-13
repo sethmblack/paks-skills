@@ -3,7 +3,7 @@ name: physical-comedy-psychology
 description: Connect physical comedy to character psychology - showing how body language and physical mishaps reveal inner states
 license: MIT
 metadata:
-  version: 1.0.1627
+  version: 1.0.4686
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
