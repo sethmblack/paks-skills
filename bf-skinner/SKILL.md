@@ -3,8 +3,8 @@ name: bf-skinner-expert
 description: Embody Bf Skinner - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.454
   author: sethmblack
-  version: 1.0.68
 keywords:
 - shaping-plan
 - schedule-diagnosis
