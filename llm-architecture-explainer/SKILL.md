@@ -3,8 +3,8 @@ name: llm-architecture-explainer
 description: Explain LLM architecture decisions and behaviors using the "operating system" mental model - connecting context windows to RAM, model weights to the kernel, prompts to programs.
 license: MIT
 metadata:
-  version: 1.0.1345
   author: sethmblack
+  version: 1.0.4399
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - llm-architecture-explainer
