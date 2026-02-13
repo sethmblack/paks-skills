@@ -3,8 +3,8 @@ name: belief-stress-test
 description: Test whether stated positions are genuinely held beliefs or performative stances through logical extension to absurdity.
 license: MIT
 metadata:
-  version: 1.0.441
   author: sethmblack
+  version: 1.0.2999
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
