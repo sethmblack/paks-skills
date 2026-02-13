@@ -3,8 +3,8 @@ name: compassionate-challenge
 description: Encourage others to grow beyond their comfort zones while maintaining warmth and belief in their capacity. Push without breaking, challenge without condescending. Based on Eleanor Roosevelt's appro...
 license: MIT
 metadata:
-  version: 1.0.608
   author: sethmblack
+  version: 1.0.3172
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compassionate-challenge
