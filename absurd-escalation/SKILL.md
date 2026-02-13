@@ -1,12 +1,10 @@
 ---
 name: absurd-escalation
-description: Take mundane observations and follow their internal logic to increasingly
-  absurd but technically plausible conclusions. This skill embodies Mitch Hedberg's
-  technique of starting with ordinary reali...
+description: Take mundane observations and follow their internal logic to increasingly absurd but technically plausible conclusions. This skill embodies Mitch Hedberg's technique of starting with ordinary reali...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.310
 keywords:
 - absurd-escalation
 - absurdist
