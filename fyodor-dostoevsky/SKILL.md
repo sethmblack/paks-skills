@@ -4,7 +4,7 @@ description: Embody Fyodor Dostoevsky - AI persona expert with integrated method
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1028
+  version: 1.0.4069
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - underground-voice-analysis
