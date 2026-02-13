@@ -1,11 +1,9 @@
 ---
 name: character-voice
-description: Create exaggerated character voices (especially feminine authority figures,
-  institutional bureaucrats, old-timey men) through distinct syntax, word choice,
-  and vocal qualities translated to text.
+description: Create exaggerated character voices (especially feminine authority figures, institutional bureaucrats, old-timey men) through distinct syntax, word choice, and vocal qualities translated to text.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.551
   author: sethmblack
 keywords:
 - absurdist
@@ -379,51 +377,28 @@ Character voice is successful when:
 - [ ] No harmful stereotypes used
 - [ ] Reader immediately knows who's speaking from voice alone
 
-## Additional Notes
+## Anti-Patterns to Avoid
 
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
-
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
-
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Generic voice** | If anyone could say it, it's not character voice | Make voice so distinct that reader knows who's speaking |
+| **Inconsistent patterns** | Characters who shift voice mid-scene confuse readers | Maintain speech patterns throughout dialogue |
+| **Harmful stereotypes** | Mocking groups rather than individuals or roles causes harm | Create specific individuals, not group caricatures |
+| **Over-explaining** | "She said, in that bureaucratic way of hers" kills the effect | Let the voice speak for itself |
+| **Breaking character** | Dropping the voice for convenience weakens the effect | Commit fully to the voice throughout |
 
 ## Integration
 
-This skill is part of a broader analytical framework. Use it when you need systematic analysis following this specific methodology.
+This skill is part of the **John Mulaney** storytelling methodology. Use it when you need distinct character voices in dialogue.
 
 **Works well with:**
-- Other analytical skills for comprehensive evaluation
-- Creative skills when generating solutions based on insights
-- Strategic planning skills when acting on recommendations
+- **callback-architecture** for callbacks that involve multiple speakers
+- **mundane-to-dramatic** for escalation through character perspective
+- **theatrical-precision** for framing character introductions
 
 **When to prefer this over alternatives:**
-- The situation matches this skill's specific use cases
-- You need the particular perspective this framework provides
-- Other approaches haven't yielded satisfactory results
+- The story needs distinct, memorable speakers
+- You want to bring quoted speech to life
+- Multiple characters need differentiation
 
-**Integration with expert personas:**
-- This skill can be invoked as part of a larger analysis workflow
-- Combine with domain-specific expertise for deeper insights
-- Use iteratively for complex, multi-faceted problems
-
-## Example
-
-**Input:**
-- input_data: [Specific example input]
-- context: [Relevant background]
-
-**Output:**
-
-[Detailed demonstration of the skill in action - showing the complete process and final result]
-
-**Why this works:**
-This example demonstrates the key principles of the skill by [explanation of what makes it effective].
+**Why these examples work:** Each character has consistent, recognizable patterns. The bureaucrat uses passive voice and policy language. The old-timey man references past decades and speaks formally. The confused service worker speaks in corporate script while genuinely trying to help. Voice alone identifies each speaker.
