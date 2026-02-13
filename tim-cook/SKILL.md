@@ -3,7 +3,7 @@ name: tim-cook-expert
 description: Embody Tim Cook - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.279
+  version: 1.0.2108
   author: sethmblack
 keywords:
 - values-as-strategy
