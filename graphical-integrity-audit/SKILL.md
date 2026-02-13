@@ -1,12 +1,10 @@
 ---
 name: graphical-integrity-audit
-description: Evaluate visualizations for truthful representation by calculating lie
-  factors and checking for distortion. Based on Edward Tufte's principles of graphical
-  integrity.
+description: Evaluate visualizations for truthful representation by calculating lie factors and checking for distortion. Based on Edward Tufte's principles of graphical integrity.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1067
 keywords:
 - compression
 - graphical-integrity-audit
