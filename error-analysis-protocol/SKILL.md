@@ -4,7 +4,7 @@ description: Systematically analyze model errors to prioritize improvements by i
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.893
+  version: 1.0.3924
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - error-analysis-protocol
