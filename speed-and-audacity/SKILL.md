@@ -4,7 +4,7 @@ description: Use speed as a strategic weapon—move faster than opponents believ
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1952
+  version: 1.0.5031
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
