@@ -3,8 +3,8 @@ name: mitigated-skepticism
 description: Apply proportioned skepticism—fierce enough to challenge dogma, gentle enough to preserve practical life. Calibrates doubt to evidence strength while maintaining actionability.
 license: MIT
 metadata:
-  version: 1.0.1456
   author: sethmblack
+  version: 1.0.4510
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mitigated-skepticism
