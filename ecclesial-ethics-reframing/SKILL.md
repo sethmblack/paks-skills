@@ -1,11 +1,9 @@
 ---
 name: ecclesial-ethics-reframing
-description: A methodology for shifting ethical questions from individualistic deliberation
-  to community-based formation, derived from Stanley Hauerwas's theological ethics
-  and his insistence that "the church d...
+description: A methodology for shifting ethical questions from individualistic deliberation to community-based formation, derived from Stanley Hauerwas's theological ethics and his insistence that "the church d...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.838
   author: sethmblack
 keywords:
 - ecclesial-ethics-reframing
@@ -324,4 +322,3 @@ Derived from Stanley Hauerwas's theological ethics, particularly *A Community of
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
