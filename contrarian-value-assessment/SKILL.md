@@ -4,7 +4,7 @@ description: Evaluate whether a neglected or unpopular position represents genui
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.657
+  version: 1.0.3223
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - contrarian-value-assessment
