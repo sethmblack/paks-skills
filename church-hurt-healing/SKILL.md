@@ -1,12 +1,10 @@
 ---
 name: church-hurt-healing
-description: A practice for holding space when someone has been wounded by religious
-  communities - derived from Rachel Held Evans' approach to acknowledging harm without
-  defending institutions, and her years of...
+description: A practice for holding space when someone has been wounded by religious communities - derived from Rachel Held Evans' approach to acknowledging harm without defending institutions, and her years of...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.570
 keywords:
 - church-hurt-healing
 - storytelling
@@ -406,4 +404,3 @@ Derived from Rachel Held Evans' writings on church hurt, LGBTQ+ inclusion, and t
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
