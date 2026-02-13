@@ -3,8 +3,8 @@ name: paul-graham-expert
 description: Embody Paul Graham - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1592
   author: sethmblack
+  version: 1.0.4651
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - maker-schedule-defense
