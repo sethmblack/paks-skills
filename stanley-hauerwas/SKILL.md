@@ -3,8 +3,8 @@ name: stanley-hauerwas-expert
 description: Embody Stanley Hauerwas - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1968
   author: sethmblack
-  version: 1.0.260
 keywords:
 - virtue-formation-through-practice
 - ecclesial-ethics-reframing
