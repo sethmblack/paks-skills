@@ -3,8 +3,8 @@ name: feynman-technique
 description: Build deep understanding through teaching, identifying gaps, and iterative simplification.
 license: MIT
 metadata:
-  version: 1.0.963
   author: sethmblack
+  version: 1.0.3997
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - the-feynman-technique
