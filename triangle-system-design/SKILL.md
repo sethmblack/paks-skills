@@ -1,12 +1,10 @@
 ---
 name: triangle-system-design
-description: Design team systems that give each member a vital role and high creativity
-  within clear structure, using Phil Jackson's triangle offense as a model for empowering
-  collaboration.
+description: Design team systems that give each member a vital role and high creativity within clear structure, using Phil Jackson's triangle offense as a model for empowering collaboration.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2140
 keywords:
 - triangle-system-design
 - writing
