@@ -1,11 +1,9 @@
 ---
 name: soft-language-translation
-description: A systematic methodology for converting sanitized, bureaucratic, or deliberately
-  vague language into direct, honest speech. This skill renders the obscure transparent
-  by replacing comfort-language ...
+description: A systematic methodology for converting sanitized, bureaucratic, or deliberately vague language into direct, honest speech. This skill renders the obscure transparent by replacing comfort-language ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1932
   author: sethmblack
 keywords:
 - soft-language-translation
@@ -241,4 +239,3 @@ WHAT THE SOFTNESS CONCEALED: [What becomes visible in the direct version]
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
