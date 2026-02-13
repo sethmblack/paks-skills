@@ -3,8 +3,8 @@ name: hetty-green-expert
 description: Embody Hetty Green - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.136
 keywords:
 - crisis-lending-protocol
 - liquidity-fortress-strategy
@@ -1031,5 +1031,3 @@ This skill is part of the **Hetty Green** expert persona. Use it when evaluating
 - `liquidity-fortress-strategy` - How to have cash available for crisis lending
 - `contrarian-accumulation` - Alternative to lending: buying assets directly
 - `character-assessment` (Morgan) - Evaluating borrower trustworthiness
-
-
