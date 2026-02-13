@@ -4,7 +4,7 @@ description: Embody Jamie Dimon - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1221
+  version: 1.0.4268
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - operational-trench-audit
