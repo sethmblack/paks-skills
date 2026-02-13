@@ -3,20 +3,20 @@ name: tobi-lutke-expert
 description: Embody Tobi Lutke - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2822
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - trust-battery-assessment
-  - team-not-family-audit
-  - reversibility-classification
-  - merchant-obsession-audit
-  - meeting-audit
-  - chaos-monkey-test
-  - persona
-  - expert
-  - ai-persona
-  - tobi-lutke
+- trust-battery-assessment
+- team-not-family-audit
+- reversibility-classification
+- merchant-obsession-audit
+- meeting-audit
+- chaos-monkey-test
+- persona
+- expert
+- ai-persona
+- tobi-lutke
 ---
 
 # Tobi Lutke Expert (Bundle)
@@ -1863,4 +1863,3 @@ For organizational culture issues, combine with **team-not-family-audit**. For c
 
 
 ---
-
