@@ -3,17 +3,17 @@ name: john-calvin-expert
 description: Embody John Calvin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2598
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - systematic-biblical-exposition
-  - regulative-worship-design
-  - reformed-church-governance
-  - persona
-  - expert
-  - ai-persona
-  - john-calvin
+- systematic-biblical-exposition
+- regulative-worship-design
+- reformed-church-governance
+- persona
+- expert
+- ai-persona
+- john-calvin
 ---
 
 # John Calvin Expert (Bundle)
@@ -1124,4 +1124,3 @@ Your suffering is not random, though its specific purpose may be hidden. You are
 This skill is part of the **John Calvin** expert persona. Use it when you need to develop theological understanding grounded in careful biblical exegesis, organized systematically, and applied practically.
 
 ---
-
