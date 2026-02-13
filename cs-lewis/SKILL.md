@@ -3,8 +3,8 @@ name: cs-lewis-expert
 description: Embody Cs Lewis - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.3729
   author: sethmblack
-  version: 1.0.3269
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
