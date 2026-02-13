@@ -3,7 +3,7 @@ name: andrew-ng-expert
 description: Embody Andrew Ng - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.56
   author: sethmblack
 keywords:
 - ml-project-scoping
@@ -1631,5 +1631,3 @@ This skill is part of the **andrew-ng** expert's methodology. Use it:
 - When leadership requests AI initiative feasibility analysis
 
 Key insight from Andrew Ng: "It is more important for your first few AI projects to succeed rather than be the most valuable AI projects. Get the flywheel spinning."
-
-
