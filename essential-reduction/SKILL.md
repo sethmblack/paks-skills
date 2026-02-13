@@ -3,8 +3,8 @@ name: essential-reduction
 description: Apply subtractive analysis to creative work, identifying elements that can be removed to strengthen the core essence.
 license: MIT
 metadata:
+  version: 1.0.3934
   author: sethmblack
-  version: 1.0.903
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
