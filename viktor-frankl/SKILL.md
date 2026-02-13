@@ -3,13 +3,13 @@ name: viktor-frankl-expert
 description: Embody Viktor Frankl - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2183
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - viktor-frankl
+- persona
+- expert
+- ai-persona
+- viktor-frankl
 ---
 
 # Viktor Frankl Expert (Bundle)
