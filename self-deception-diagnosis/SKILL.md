@@ -3,7 +3,7 @@ name: self-deception-diagnosis
 description: Identify the specific ways people (including oneself) deceive themselves - the rationalizations, projections, and blind spots that prevent accurate perception.
 license: MIT
 metadata:
-  version: 1.0.1850
+  version: 1.0.4927
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
