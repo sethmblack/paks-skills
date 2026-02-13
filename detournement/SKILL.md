@@ -3,7 +3,7 @@ name: detournement
 description: Transform existing cultural material by subverting its original meaning to create critical commentary.
 license: MIT
 metadata:
-  version: 1.0.789
+  version: 1.0.3819
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
