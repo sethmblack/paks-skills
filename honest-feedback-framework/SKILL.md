@@ -1,11 +1,10 @@
 ---
 name: honest-feedback-framework
-description: Deliver difficult feedback with directness and humanity, prioritizing
-  the recipient's growth over their comfort.
+description: Deliver difficult feedback with directness and humanity, prioritizing the recipient's growth over their comfort.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1130
 keywords:
 - honest-feedback-framework
 - writing
