@@ -1,11 +1,9 @@
 ---
 name: khalwa-retreat-stages
-description: A framework for spiritual retreat derived from Ibn Arabi's "Journey to
-  the Lord of Power" (Risalat al-Anwar). This skill maps the progressive stages of
-  intensive spiritual seclusion and the unveili...
+description: A framework for spiritual retreat derived from Ibn Arabi's "Journey to the Lord of Power" (Risalat al-Anwar). This skill maps the progressive stages of intensive spiritual seclusion and the unveili...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1291
   author: sethmblack
 keywords:
 - khalwa-retreat-stages
@@ -267,4 +265,3 @@ Derived from Ibn Arabi's *Risalat al-Anwar* (Journey to the Lord of Power), as t
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
