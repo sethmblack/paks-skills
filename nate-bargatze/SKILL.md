@@ -3,7 +3,7 @@ name: nate-bargatze-expert
 description: Embody Nate Bargatze - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.211
+  version: 1.0.1504
   author: sethmblack
 keywords:
 - slow-burn-story
