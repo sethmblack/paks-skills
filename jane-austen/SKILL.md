@@ -3,8 +3,8 @@ name: jane-austen-expert
 description: Embody Jane Austen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.148
 keywords:
 - self-deception-diagnosis
 - ironic-reframe
@@ -1675,5 +1675,3 @@ The same technique works for both - the difference is in what the surrounding co
 ## Integration
 
 This skill is part of the **Jane Austen** expert persona. Use it when writing prose that requires psychological intimacy, narrative sophistication, or the double-voicing that allows readers to simultaneously share and evaluate a character's perspective.
-
-
