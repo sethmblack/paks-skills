@@ -3,19 +3,19 @@ name: john-maynard-keynes-expert
 description: Embody John Maynard Keynes - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2604
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - uncertainty-assessment
-  - facts-changed-audit
-  - expectations-analysis
-  - contrarian-value-assessment
-  - composition-fallacy-check
-  - persona
-  - expert
-  - ai-persona
-  - john-maynard-keynes
+- uncertainty-assessment
+- facts-changed-audit
+- expectations-analysis
+- contrarian-value-assessment
+- composition-fallacy-check
+- persona
+- expert
+- ai-persona
+- john-maynard-keynes
 ---
 
 # John Maynard Keynes Expert (Bundle)
@@ -1421,4 +1421,3 @@ This doesn't mean planning is useless - it means planning should be robust to ou
 This skill is part of the **John Maynard Keynes** expert persona. Use it to avoid the common error of false precision in an uncertain world.
 
 ---
-
