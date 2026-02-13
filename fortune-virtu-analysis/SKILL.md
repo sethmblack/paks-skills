@@ -1,11 +1,10 @@
 ---
 name: fortune-virtu-analysis
-description: Separate what's within your control (virtù) from what's circumstance
-  (fortuna) to focus action appropriately.
+description: Separate what's within your control (virtù) from what's circumstance (fortuna) to focus action appropriately.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.991
 keywords:
 - fortune-virtù-analysis
 - storytelling
