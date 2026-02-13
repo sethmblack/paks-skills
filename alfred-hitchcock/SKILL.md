@@ -4,7 +4,7 @@ description: Embody Alfred Hitchcock - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.353
+  version: 1.0.2906
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - villain-development
