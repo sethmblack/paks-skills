@@ -4,7 +4,7 @@ description: Guide an unplanned exploration of space to reveal hidden emotional 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1697
+  version: 1.0.4762
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - psychogeographic-dérive
