@@ -1,12 +1,10 @@
 ---
 name: callback-architecture
-description: Transform flat, linear narratives into architecturally structured stories
-  by strategically planting specific details in the opening that return later with
-  compounding payoff.
+description: Transform flat, linear narratives into architecturally structured stories by strategically planting specific details in the opening that return later with compounding payoff.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.504
 keywords:
 - absurdist
 - callback-architecture
@@ -140,23 +138,46 @@ Returns restructured content with:
 
 ---
 
+## Output Format
 
-
-**Format:**
 ```markdown
-## Analysis: [Topic]
+## Callback Architecture: [Content Title]
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+### Original Content Summary
+[Brief description of the narrative being restructured]
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
+### Callbacks Planted
+
+| Detail | Location Planted | First Return | Final Payoff |
+|--------|-----------------|--------------|--------------|
+| [Specific detail 1] | [Paragraph/section] | [Where it first returns] | [Where it pays off] |
+| [Specific detail 2] | [Paragraph/section] | [Where it first returns] | [Where it pays off] |
+
+### Restructured Opening
+[Opening section with planted details integrated naturally]
+
+### Callback Execution Notes
+- [How each callback enhances the narrative]
+
+### Architectural Integrity Check
+- [ ] Each planted detail returns at least once
+- [ ] Returns feel earned, not forced
+- [ ] Callbacks create cohesion or payoff
 ```
 
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Forced callbacks** | Shoehorned details feel artificial | Only plant what fits naturally |
+| **Callback overload** | Too many details overwhelm the reader | Limit to 3-5 callbacks per piece |
+| **Flagged importance** | Highlighting planted details spoils payoff | Treat planted details as casual description |
+| **Missing returns** | Planted details that never pay off frustrate readers | Map every callback to its return before planting |
+| **Explaining the callback** | Narrating "remember when I mentioned..." breaks immersion | Let readers make the connection themselves |
+
+---
 
 ## Error Handling
 
@@ -169,43 +190,9 @@ Returns restructured content with:
 
 ---
 
-## Additional Notes
+## Examples
 
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
-
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
-
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
-
-## Integration
-
-This skill is part of a broader analytical framework. Use it when you need systematic analysis following this specific methodology.
-
-**Works well with:**
-- Other analytical skills for comprehensive evaluation
-- Creative skills when generating solutions based on insights
-- Strategic planning skills when acting on recommendations
-
-**When to prefer this over alternatives:**
-- The situation matches this skill's specific use cases
-- You need the particular perspective this framework provides
-- Other approaches haven't yielded satisfactory results
-
-**Integration with expert personas:**
-- This skill can be invoked as part of a larger analysis workflow
-- Combine with domain-specific expertise for deeper insights
-- Use iteratively for complex, multi-faceted problems
-
-## Example
+### Example 1: DMV Story (from above)
 
 **Input content (excerpt):**
 "Going to the DMV is always frustrating. I had to renew my license. I waited in line for a long time. When I finally got to the counter, they told me I had the wrong form. I had to wait again."
