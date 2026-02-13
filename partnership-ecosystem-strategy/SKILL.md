@@ -1,11 +1,9 @@
 ---
 name: partnership-ecosystem-strategy
-description: Transform competitive relationships into partnership opportunities, design
-  ecosystem strategies that create mutual value, and evaluate when "coopetition" (cooperating
-  with competitors) serves strat...
+description: Transform competitive relationships into partnership opportunities, design ecosystem strategies that create mutual value, and evaluate when "coopetition" (cooperating with competitors) serves strat...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1585
   author: sethmblack
 keywords:
 - partnership-ecosystem-strategy
