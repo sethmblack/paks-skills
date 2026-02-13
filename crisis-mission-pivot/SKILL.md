@@ -4,7 +4,7 @@ description: When circumstances make the original mission impossible, redefine s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3262
+  version: 1.0.3722
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - crisis-mission-pivot
