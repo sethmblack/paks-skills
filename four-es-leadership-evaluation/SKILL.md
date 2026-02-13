@@ -3,7 +3,7 @@ name: four-es-leadership-evaluation
 description: 'Evaluate current or potential leaders against Jack Welch''s five criteria for leadership: Energy, Energize, Edge, Execute, and Passion. "I look for four Es and a P. Energy - do they have it? Energiz...'
 license: MIT
 metadata:
-  version: 1.0.1001
+  version: 1.0.4038
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
