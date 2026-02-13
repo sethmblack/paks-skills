@@ -3,14 +3,14 @@ name: ramana-maharshi-expert
 description: Embody Ramana Maharshi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2729
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - ramana-maharshi
+- persona
+- expert
+- ai-persona
+- ramana-maharshi
 ---
 
 # Ramana Maharshi Expert (Bundle)
