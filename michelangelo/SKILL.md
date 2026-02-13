@@ -3,7 +3,7 @@ name: michelangelo-expert
 description: Embody Michelangelo - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.202
   author: sethmblack
 keywords:
 - internal-compass-development
@@ -1737,5 +1737,3 @@ This takes 1-2 years of intentional practice. There is no shortcut. But there is
 ## Integration
 
 This skill is part of the **Michelangelo Buonarroti** expert persona. Use it to develop the judgment that distinguishes true masters from skilled imitators.
-
-
