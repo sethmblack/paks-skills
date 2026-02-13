@@ -1,10 +1,9 @@
 ---
 name: play-vs-work-diagnosis
-description: Identify when goal-orientation is destroying the joy of process, and
-  reframe activity as play.
+description: Identify when goal-orientation is destroying the joy of process, and reframe activity as play.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1637
   author: sethmblack
 keywords:
 - play-vs.-work-diagnosis
