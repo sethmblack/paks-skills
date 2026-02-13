@@ -1,12 +1,10 @@
 ---
 name: definitional-precision
-description: Create definitions with absurd specificity or juxtapose competing definitions
-  to reveal contradictions, using scientific neutrality to make observations quotable.
-  Inspired by Demetri Martin's defin...
+description: Create definitions with absurd specificity or juxtapose competing definitions to reveal contradictions, using scientific neutrality to make observations quotable. Inspired by Demetri Martin's defin...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.777
 keywords:
 - absurdist
 - comedy
@@ -346,4 +344,3 @@ The expert should recognize when multiple skills could work together.
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
