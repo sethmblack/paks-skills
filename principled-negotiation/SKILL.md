@@ -1,20 +1,20 @@
 ---
 name: principled-negotiation
-description: Distinguish between non-negotiable principles and flexible tactics to
-  negotiate effectively without compromising core values.
+description: Distinguish between non-negotiable principles and flexible tactics to negotiate effectively without compromising core values. Be firm on principles, flexible on tactics.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1672
 keywords:
-- principled-negotiation-stance
+- principled-negotiation
+- leadership
 - transformation
 - writing
 ---
 
 # Principled Negotiation Stance
 
-Distinguish between non-negotiable principles and flexible tactics to negotiate effectively without compromising core values.
+Nelson Mandela was uncompromising on fundamental principles - human dignity, racial equality, democratic governance - while being remarkably flexible on tactics - armed struggle vs. negotiation, timing of transition, power-sharing mechanisms, amnesty processes. This combination made him "the greatest negotiator of the twentieth century." The skill distinguishes between what you will never compromise on (principles) and what you're willing to discuss (tactics). Confusing the two creates either rigidity (treating preferences as sacred) or spinelessness (trading away what matters). Know the difference, and you can be both principled and effective.
 
 ---
 
@@ -41,114 +41,58 @@ Distinguish between non-negotiable principles and flexible tactics to negotiate 
 
 ---
 
-## The Mandela Philosophy
+## Core Principle
 
-"An issue is not a question of principle; it is a question of tactics."
-
-Mandela was uncompromising on fundamental principles:
-- Human dignity is inviolable
-- Racial equality is non-negotiable
-- Democratic governance is essential
-- All people deserve freedom
-
-But he was remarkably flexible on tactics:
-- Armed struggle or negotiation—whichever worked
-- Timing and sequencing of change
-- Economic arrangements
-- Amnesty processes
-- Power-sharing mechanisms
-
-This combination—principled firmness with tactical flexibility—made him "the greatest negotiator of the twentieth century."
-
-### The Core Insight
-
-Confusing principles with tactics creates two failure modes:
-
-**Too Rigid:** Treating tactical preferences as principles. Refusing to compromise on things that don't actually matter. Losing opportunities for agreement.
-
-**Too Flexible:** Treating principles as negotiable tactics. Compromising on core values. Winning agreements that hollow out what you're fighting for.
+Confusing principles with tactics creates two failure modes: Too rigid (treating tactical preferences as principles, refusing to compromise on things that don't actually matter) and Too flexible (treating principles as negotiable tactics, compromising on core values). The key is sorting: principles are identity-defining commitments that, if violated, make "winning" actually losing. Tactics are means to principled ends that can take many forms.
 
 ---
 
-## The Principles vs. Tactics Framework
+## Methodology
 
-### Step 1: Clarify Your Principles
+### Phase 1: Clarify Your Principles
+1. List what you believe you cannot compromise on
+2. For each item, ask: "If I compromised on this and got everything else, would I feel like I won?"
+3. If no: It's a principle. If yes: It may be a tactic.
+4. Identify the core values beneath each principle
 
-Principles are:
+**Principles are:**
 - Core values you will not violate
 - Fundamental needs that cannot be traded away
 - Identity-defining commitments
 - Lines that, if crossed, make "winning" actually losing
 
-**Test:** "If I compromised on this and got everything else I wanted, would I still feel like I won?"
+### Phase 2: Identify Your Tactics
+1. For each position you hold, ask: "Is there another way to achieve what I really need?"
+2. If yes: It's a tactic - a means to an end
+3. Identify what underlying principle each tactic serves
+4. Generate alternative tactics that could serve the same principle
 
-If no: It's a principle.
-
-### Step 2: Identify Your Tactics
-
-Tactics are:
+**Tactics are:**
 - Means to achieve principled ends
 - Positions you've taken but could change
 - Specific demands that could be met other ways
 - Preferences that are not identity-defining
 
-**Test:** "Is there another way to achieve what I really need?"
+### Phase 3: Sort Your Positions
+For each element of your position, apply the sorting questions:
+- Could I achieve my core values another way? (Yes = Tactic)
+- Would compromising here violate who I am? (Yes = Principle)
+- Is this a means or an end? (Means = Tactic)
+- Would getting this without my deeper goals feel empty? (Yes = Tactic)
 
-If yes: It's a tactic.
+### Phase 4: Create Your Negotiation Stance
+1. State principles clearly and early - explain why they're non-negotiable
+2. Signal tactical flexibility - invite creative solutions
+3. Map the trade space - what can you give, what can you get, what's off the table
+4. Define walk-away conditions - what demands would violate principles
 
-### Step 3: The Sorting Exercise
-
-For each element of your position, ask:
-
-| Question | If Yes = | If No = |
-|----------|----------|---------|
-| Could I achieve my core values another way? | Tactic | Principle |
-| Would compromising here violate who I am? | Principle | Tactic |
-| Is this a means or an end? | Tactic | Principle |
-| Would getting this without my deeper goals feel empty? | Tactic | Principle |
-| Would losing this but achieving my core goals feel acceptable? | Tactic | Principle |
-
-### Step 4: Create Your Negotiation Stance
-
-**Principled Firmness:**
-- State principles clearly and early
-- Explain why these are non-negotiable
-- Be willing to walk away if principles are violated
-- Don't apologize for having principles
-
-**Tactical Flexibility:**
-- Explicitly open multiple paths to agreement
-- Invite creative solutions to meet both parties' principles
-- Show willingness to compromise on how, not on what
-- Reframe disputes as tactical problems to solve together
+### Phase 5: Prepare for Common Confusions
+1. Position vs. Interest: "I need $100K" (tactic) vs. "I need financial security" (closer to principle)
+2. Method vs. Outcome: "We must do it this way" (tactic) vs. "We must achieve this outcome" (may be principle)
+3. Timeline vs. Result: "By Tuesday" (tactic) vs. "It must happen" (may be principle)
+4. Form vs. Substance: "Public apology" (tactic) vs. "Acknowledgment of harm" (closer to principle)
 
 ---
-
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
 
 ## Output Format
 
@@ -186,7 +130,6 @@ Create actionable outputs:
 
 **Can Actively Trade:**
 - [Lower-value tactic]
-- [Lower-value tactic]
 
 ### Opening Stance
 
@@ -210,7 +153,7 @@ Create actionable outputs:
 ### Walking Away
 
 **When to Walk Away:**
-[What would they have to demand that violates principles?]
+[What demands would violate principles?]
 
 **Alternative if No Agreement:**
 [What happens if you don't reach agreement?]
@@ -221,218 +164,113 @@ Create actionable outputs:
 
 ---
 
-## Common Principle vs. Tactic Confusions
-
-### Position vs. Interest
-"I need $100,000" might be a tactic.
-"I need financial security for my family" is closer to a principle.
-
-### Method vs. Outcome
-"We must do it this way" is usually a tactic.
-"We must achieve this outcome" might be a principle.
-
-### Timeline vs. Result
-"It must happen by Tuesday" is usually a tactic.
-"It must happen" might be a principle.
-
-### Form vs. Substance
-"I need a public apology" might be a tactic.
-"I need acknowledgment of harm" is closer to a principle.
-
-### Your Solution vs. Your Problem
-"They must implement my solution" is a tactic.
-"The underlying problem must be solved" is closer to a principle.
-
----
-
-## Mandela's Examples
-
-### Principled Firmness
-
-**Non-Negotiable:** One person, one vote. No amount of tactical accommodation could include accepting minority rule. This was identity-defining for the movement.
-
-**Non-Negotiable:** End of apartheid. Not "better apartheid" or "softer apartheid." Complete end of racial governance.
-
-**Non-Negotiable:** Democratic governance. Not a transition to ANC authoritarian rule. Genuine democracy.
-
-### Tactical Flexibility
-
-**Flexible:** Violence vs. nonviolence. "Nonviolence was not a moral principle but a strategy; there is no moral goodness in using an ineffective weapon."
-
-**Flexible:** Timing of transition. Could happen fast or slow, depending on what worked.
-
-**Flexible:** Economic arrangements. Willing to discuss guarantees for white economic interests.
-
-**Flexible:** Amnesty. Created truth and reconciliation rather than trials—different tactic, same principle (accountability).
-
-**Flexible:** Power-sharing. Willing to include former apartheid leaders in government.
-
----
-
-## Warning Signs
-
-### Signs You're Treating Tactics as Principles:
-- "We've always done it this way"
-- "I've already committed to this approach"
-- "It's the only fair way"
-- "They should have to do it our way"
-- Refusing to discuss alternative means to your ends
-
-### Signs You're Treating Principles as Tactics:
-- "Well, maybe just this once..."
-- "They'll never agree unless I give on this"
-- "It's not that important in this case"
-- Rationalizing compromises that feel wrong
-- Post-agreement regret about what you gave away
-
----
-
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Don't confuse stubbornness with principle
+- Don't signal flexibility on principles even under pressure
+- Ensure you've genuinely sorted principles from tactics
+- Acknowledge that some situations require principled refusal
+- Recognize when the other party is operating from principles vs. tactics
+- Consider the cost of walking away before entering negotiation
 
-## Example
+---
 
-**Input:** "I'm negotiating a job offer. They want me to relocate to their headquarters. I don't want to move my family. But it's a great opportunity and they seem firm on relocation."
+## Anti-Patterns to Avoid
 
-**Output:**
+- **Treating Preferences as Principles**: "We've always done it this way" or "I've already committed to this approach" are not principles. Ask: Does this define who I am, or is it just my current preference?
 
+- **Treating Principles as Tactics**: "Maybe just this once..." or "They'll never agree unless I give on this" are warning signs. If it feels wrong to compromise, it may be a principle you're about to violate.
 
+- **Rigidity Disguised as Principle**: Refusing to discuss alternatives because you're attached to your position, not because the principle requires it. True principles have no alternatives; tactics have many.
 
-**Why this works:**
+- **Flexibility Disguised as Strategy**: Compromising on principles because you're tired, because they're pushing hard, or because you want the deal done. That's not strategy; that's capitulation.
 
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
+- **Not Knowing the Difference**: Entering negotiation without having sorted principles from tactics. This leads to ad-hoc decisions under pressure, which tend to be regrettable.
 
-**Alternative applications:**
+---
 
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
+## Examples
 
+### Example 1: Job Offer Relocation
 
-## Principled Negotiation Stance
+**Situation**: Offered a dream job requiring relocation. Don't want to disrupt family. Company seems firm on relocation.
 
-### Context
-**Negotiation:** Job offer negotiation
-**Your Position:** Want the job, don't want to relocate
-**Other Party:** Prospective employer requiring relocation
+**Application**:
+- Principle: Family stability - being present for family
+- Tactic: "No relocation at all" - this is a means to family stability
+- Alternative tactics: Partial presence, hybrid arrangements, delayed relocation, frequent travel
 
-### Principles (Non-Negotiable)
-
-| Principle | Why It's Non-Negotiable | What Compromising Would Mean |
-|-----------|------------------------|------------------------------|
-| Family stability | Children in school, partner has career, support network in current location | Disrupting family for job would create resentment and risk relationships |
-| Work-life integration | Need to be present for family, not just earning | Job that costs family defeats the purpose |
-
-### Tactics (Flexible)
-
-| Current Position | Why It's Tactical | Alternative Approaches |
-|------------------|-------------------|----------------------|
-| No relocation at all | It's a means to family stability | Could consider partial presence, seasonal visits, eventual relocation with family readiness |
-| 100% remote | It's a means to presence | Could consider hybrid, regional office, flexible schedule |
-| Current location forever | It's a means to current family setup | Could consider relocation after kids graduate, or when partner's career allows |
-
-### The Flexibility Map
-
-**Will Not Compromise On:**
-- Being present for family (definition of "present" negotiable)
+**Output**:
+Principles (Non-negotiable):
+- Being present for family (definition of "present" is negotiable)
 - Not forcing family to move before they're ready
-- Having a real family life, not just a salary
 
-**Willing to Discuss:**
-- Frequency of travel to headquarters
-- Hybrid arrangements
-- Timeline for potential future relocation
-- Regional hub vs. headquarters
+Tactics (Flexible):
+- Current position: No relocation at all
+- Alternatives: Hybrid with monthly on-site weeks; delayed relocation after school year; regional hub instead of HQ
 
-**Can Actively Trade:**
-- Higher travel budget for fewer required office days
-- Flexibility in when I'm present (e.g., certain weeks rather than certain days)
-- Performance metrics to demonstrate remote effectiveness
+Opening: "My family's stability is non-negotiable - that's not something I can trade. But I'm genuinely creative about how we solve the presence problem. Let me understand what you actually need from co-location."
 
-### Opening Stance
+### Example 2: Partnership Terms
 
-**How to Communicate Principles:**
-"My family's stability is non-negotiable—that's not something I can trade. But I'm genuinely creative about how we solve the presence problem. Let me understand what you actually need from co-location."
+**Situation**: Negotiating partnership with larger company. They want exclusivity; you want to maintain independence.
 
-**How to Signal Flexibility:**
-"I'm committed to being effective in this role. Let's talk about what problems relocation solves and whether there are other solutions."
+**Application**:
+- Principle: Company independence - ability to make your own strategic decisions
+- Tactic: "No exclusivity" - this is one way to protect independence
+- Alternative tactics: Limited exclusivity (time-bound, category-specific, with exits)
 
-### Potential Trade Space
+**Output**:
+Principles (Non-negotiable):
+- Strategic independence - you cannot be acquired through the back door of a partnership
+- Exit path - you must be able to leave if the partnership isn't working
 
-**What You Might Get:**
-- Remote role with regular travel
-- Hybrid with one week per month on-site
-- Delayed relocation with performance milestones
-- Role redesign that requires less headquarters presence
+Tactics (Flexible):
+- Current position: No exclusivity at all
+- Alternatives: 2-year exclusivity with renewal option; category-specific exclusivity; exclusivity with performance triggers
 
-**What You Might Give:**
-- Commitment to frequent travel
-- Availability for critical in-person moments
-- Open discussion of future relocation when family situation changes
-- Enhanced communication/collaboration practices
+Opening: "We need to maintain our strategic independence - that's why we're partnering, not merging. But we're flexible on how to structure exclusivity so you get the commitment you need while we retain the autonomy we require."
 
-**What's Off the Table:**
-- Immediate family relocation
-- Arrangements that mean effectively never seeing family
-- Pretending relocation will work and then failing
+### Example 3: Salary Negotiation
 
-### Walking Away
+**Situation**: Negotiating salary. You have a number in mind. They've offered 20% less.
 
-**When to Walk Away:**
-If they require immediate full relocation with no alternatives, this is not the right opportunity. A job that costs your family is not worth taking.
+**Application**:
+- Principle: Financial security for family (if this is truly non-negotiable for survival)
+- Tactic: The specific number - this is a means to financial security
+- Alternative tactics: Different base with bonus; equity; signing bonus; review in 6 months
 
-**Alternative if No Agreement:**
-Other opportunities. Current role. The risk of a bad decision is worse than missing this specific opportunity.
+**Output**:
+Sorting exercise:
+- Is "$X salary" a principle or tactic?
+- If there's a minimum below which you cannot accept (rent, obligations), that minimum is closer to principle
+- If it's your ideal number but you could live with less, it's a tactic
 
-### Mandela's Counsel
+Principles (if applicable):
+- I cannot accept below $X because that's the minimum I need for financial security
 
-"An issue is not a question of principle; it is a question of tactics."
+Tactics:
+- Base salary (flexible if total comp is right)
+- Timing of increases (can negotiate)
+- Non-cash compensation (equity, benefits, flexibility)
 
-Your principle is family presence and stability. Relocation is their tactic for solving a problem—likely needing you engaged with headquarters. Ask what problem they're solving. Then offer alternative tactics.
-
-Be firm: "I won't compromise on being present for my family."
-Be flexible: "I'm open to many ways of being effective in this role. Help me understand what you need."
-
-If they demand the tactic (relocation) without engaging on the underlying problem (your effectiveness), that tells you something about how they'll treat you as an employee.
-
-"Difficulties break some men but make others." The right opportunity will create space for both your career and your family. Don't accept a false choice.
+Opening: "I need to reach total compensation of $X to meet my financial obligations - that's a real constraint. How we get there is a conversation."
 
 ---
 
 ## Integration
 
-This skill is part of the **Nelson Mandela** expert persona. Use it to negotiate with principled firmness and tactical flexibility.
+**Works with:**
+- **preparation-audit**: Ensures you've prepared both principles and tactics
+- **precedent-analysis**: Some negotiations set precedent that constrains future flexibility
+- **premeditatio-malorum**: Envision worst case to clarify what you truly cannot accept
+
+**When to prefer this skill:**
+- Before any significant negotiation
+- When feeling pressure to compromise and unsure if you should
+- When negotiations have deadlocked over positions
+
+**Cautions:**
+- Sorting principles from tactics requires honest self-examination
+- Some principles only become clear under pressure
+- Don't over-communicate principles early - it can limit creative exploration
