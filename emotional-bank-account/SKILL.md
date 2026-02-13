@@ -1,11 +1,10 @@
 ---
 name: emotional-bank-account
-description: Diagnose relationship health using Covey's trust metaphor and prescribe
-  specific deposits to rebuild or strengthen connection.
+description: Diagnose relationship health using Covey's trust metaphor and prescribe specific deposits to rebuild or strengthen connection.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.865
 keywords:
 - emotional-bank-account
 - writing
