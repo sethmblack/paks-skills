@@ -1,12 +1,10 @@
 ---
 name: prophetic-imagination-analysis
-description: A framework for diagnosing communities, institutions, or cultures trapped
-  in "royal consciousness" and evoking movement toward "prophetic consciousness" through
-  criticism (grief) and energizing (ho...
+description: A framework for diagnosing communities, institutions, or cultures trapped in "royal consciousness" and evoking movement toward "prophetic consciousness" through criticism (grief) and energizing (ho...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1690
 keywords:
 - absurdist
 - prophetic-imagination-analysis
@@ -412,4 +410,3 @@ Derived from Walter Brueggemann's *The Prophetic Imagination* (1978, 2nd ed. 200
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
