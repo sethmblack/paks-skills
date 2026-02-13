@@ -1,10 +1,9 @@
 ---
 name: network-building-for-liberation
-description: Build a network of allies, safe houses, and supporters before attempting
-  major transitions, using Harriet Tubman's Underground Railroad methodology.
+description: Build a network of allies, safe houses, and supporters before attempting major transitions, using Harriet Tubman's Underground Railroad methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1519
   author: sethmblack
 keywords:
 - network-building-for-liberation
