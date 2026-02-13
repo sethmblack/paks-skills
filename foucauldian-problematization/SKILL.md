@@ -3,7 +3,7 @@ name: foucauldian-problematization
 description: Ask not what something is, but how it became a "problem." Question how issues come to require attention, intervention, or management.
 license: MIT
 metadata:
-  version: 1.0.995
+  version: 1.0.4032
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
