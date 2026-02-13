@@ -4,7 +4,7 @@ description: Structure calm, logical responses to illogical situations using Bob
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.313
+  version: 1.0.2866
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
