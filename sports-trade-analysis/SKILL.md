@@ -1,18 +1,18 @@
 ---
 name: sports-trade-analysis
-description: "Multi-level trade analysis covering assets, narrative, gambling implications, historical comps, and fan emotion"
+description: Multi-level trade analysis covering assets, narrative, gambling implications, historical comps, and fan emotion
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.1960
 keywords:
-  - sports
-  - analysis
-  - bill-simmons
-  - nba
-  - trades
-  - betting
-  - ranking
+- sports
+- analysis
+- bill-simmons
+- nba
+- trades
+- betting
+- ranking
 ---
 
 # Sports Trade Analysis
