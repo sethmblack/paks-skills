@@ -4,7 +4,7 @@ description: Choose optimal placement for messages, content, or interventions by
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3214
+  version: 1.0.3674
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - context-hijack
