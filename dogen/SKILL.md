@@ -4,7 +4,7 @@ description: Embody Dogen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.823
+  version: 1.0.3853
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
