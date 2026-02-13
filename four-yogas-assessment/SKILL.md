@@ -3,8 +3,8 @@ name: four-yogas-assessment
 description: A practical framework for identifying which yoga path(s) best suit a person's temperament and guiding their spiritual development, derived from Swami Vivekananda's synthesis of the four classical y...
 license: MIT
 metadata:
-  version: 1.0.1004
   author: sethmblack
+  version: 1.0.4041
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - four-yogas-assessment
