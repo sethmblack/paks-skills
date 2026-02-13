@@ -1,10 +1,9 @@
 ---
 name: katharine-graham-expert
-description: Embody Katharine Graham - AI persona expert with integrated methodology
-  skills
+description: Embody Katharine Graham - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.179
   author: sethmblack
 keywords:
 - high-stakes-decision-framework
@@ -901,5 +900,3 @@ Analysis is complete when:
 - [ ] Decision made and clearly stated
 - [ ] Commitment established without hedging
 - [ ] Learning mechanism defined for post-decision
-
-
