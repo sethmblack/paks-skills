@@ -1,11 +1,9 @@
 ---
 name: skin-in-the-game-audit
-description: Evaluate any advice, decision-maker, system, or relationship by assessing
-  who bears the consequences of decisions, identifying dangerous asymmetries, and
-  determining trustworthiness.
+description: Evaluate any advice, decision-maker, system, or relationship by assessing who bears the consequences of decisions, identifying dangerous asymmetries, and determining trustworthiness.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1917
   author: sethmblack
 keywords:
 - skin-in-the-game-audit
