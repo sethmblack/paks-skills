@@ -4,7 +4,7 @@ description: 'Systematically improve any product, process, or system by followin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.977
+  version: 1.0.4013
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - five-step-algorithm
