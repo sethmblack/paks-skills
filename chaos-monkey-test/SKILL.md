@@ -1,11 +1,9 @@
 ---
 name: chaos-monkey-test
-description: Design deliberate disruptions to test organizational, team, or system
-  resilience. Identify what to break, predict what might fail, and use results to
-  strengthen the system.
+description: Design deliberate disruptions to test organizational, team, or system resilience. Identify what to break, predict what might fail, and use results to strengthen the system.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.538
   author: sethmblack
 keywords:
 - chaos-monkey-test
