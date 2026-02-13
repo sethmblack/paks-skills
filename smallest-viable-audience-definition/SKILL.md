@@ -3,7 +3,7 @@ name: smallest-viable-audience-definition
 description: Define the minimum viable audience for a product, service, or initiative to succeed, based on Seth Godin's "This is Marketing" methodology.
 license: MIT
 metadata:
-  version: 1.0.1925
+  version: 1.0.5003
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
