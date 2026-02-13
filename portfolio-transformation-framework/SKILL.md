@@ -3,8 +3,8 @@ name: portfolio-transformation-framework
 description: Systematically evaluate and transform a product/service portfolio toward healthier, more sustainable offerings without abandoning heritage brands.
 license: MIT
 metadata:
+  version: 1.0.4711
   author: sethmblack
-  version: 1.0.1647
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - portfolio-transformation-framework
