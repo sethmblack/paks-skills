@@ -3,8 +3,8 @@ name: john-boyd-expert
 description: Embody John Boyd - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1245
   author: sethmblack
-  version: 1.0.161
 keywords:
 - to-be-or-to-do-assessment
 - orientation-audit
