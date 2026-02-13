@@ -1,10 +1,9 @@
 ---
 name: psychological-safety-creation
-description: Create conditions where another person feels safe enough to be honest,
-  vulnerable, and explore difficult material without fear of judgment.
+description: Create conditions where another person feels safe enough to be honest, vulnerable, and explore difficult material without fear of judgment.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1698
   author: sethmblack
 keywords:
 - comedy
