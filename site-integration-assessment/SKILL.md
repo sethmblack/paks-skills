@@ -1,11 +1,10 @@
 ---
 name: site-integration-assessment
-description: Evaluate how well a design integrates with its context and recommend
-  improvements for achieving organic fit—where design and site enhance each other.
+description: Evaluate how well a design integrates with its context and recommend improvements for achieving organic fit—where design and site enhance each other.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1912
 keywords:
 - site-integration-assessment
 - structure
