@@ -3,8 +3,8 @@ name: adaptive-audience-presentation
 description: Tailor communication, presentation, and framing to specific audiences, speaking to each in their own "language" - cultural, professional, and personal.
 license: MIT
 metadata:
+  version: 1.0.2879
   author: sethmblack
-  version: 1.0.326
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - adaptive-audience-presentation
