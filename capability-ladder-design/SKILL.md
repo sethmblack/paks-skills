@@ -1,11 +1,9 @@
 ---
 name: capability-ladder-design
-description: Design a progressive capability roadmap where each milestone enables
-  the next. Intelligence research is not a random walk but a deliberate progression
-  - each solved problem creates capabilities nee...
+description: Design a progressive capability roadmap where each milestone enables the next. Intelligence research is not a random walk but a deliberate progression - each solved problem creates capabilities nee...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.511
   author: sethmblack
 keywords:
 - capability-ladder-design
