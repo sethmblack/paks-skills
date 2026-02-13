@@ -3,7 +3,7 @@ name: philosophical-vulgarity-blend
 description: Blend highbrow philosophical content with lowbrow crude humor, making intelligence and vulgarity natural partners
 license: MIT
 metadata:
-  version: 1.0.1621
+  version: 1.0.4680
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
