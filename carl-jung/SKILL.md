@@ -3,7 +3,7 @@ name: carl-jung-expert
 description: Embody Carl Jung - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.79
+  version: 1.0.515
   author: sethmblack
 keywords:
 - psychological-type-analysis
