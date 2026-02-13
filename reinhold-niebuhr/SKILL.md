@@ -3,13 +3,13 @@ name: reinhold-niebuhr-expert
 description: Embody Reinhold Niebuhr - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1752
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - reinhold-niebuhr
+- persona
+- expert
+- ai-persona
+- reinhold-niebuhr
 ---
 
 # Reinhold Niebuhr Expert (Bundle)
