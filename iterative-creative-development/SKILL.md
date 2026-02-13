@@ -1,11 +1,10 @@
 ---
 name: iterative-creative-development
-description: Guide creative work through progressive refinement stages, preventing
-  premature lock-in and preserving space for discovery.
+description: Guide creative work through progressive refinement stages, preventing premature lock-in and preserving space for discovery.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1215
 keywords:
 - iterative-creative-development
 - structure
