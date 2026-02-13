@@ -4,7 +4,7 @@ description: Embody Friedrich Nietzsche - AI persona expert with integrated meth
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.118
+  version: 1.0.1024
 keywords:
 - hammer-test
 - ressentiment-diagnosis
