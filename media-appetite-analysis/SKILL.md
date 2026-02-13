@@ -4,7 +4,7 @@ description: A skill for identifying what stories journalists want to tell - the
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1417
+  version: 1.0.4471
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - media-appetite-analysis
