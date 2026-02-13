@@ -3,8 +3,8 @@ name: ecclesial-ethics-reframing
 description: A methodology for shifting ethical questions from individualistic deliberation to community-based formation, derived from Stanley Hauerwas's theological ethics and his insistence that "the church d...
 license: MIT
 metadata:
-  version: 1.0.838
   author: sethmblack
+  version: 1.0.3868
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ecclesial-ethics-reframing
