@@ -3,14 +3,14 @@ name: zach-galifianakis-expert
 description: Embody Zach Galifianakis - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2847
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - zach-galifianakis
+- persona
+- expert
+- ai-persona
+- zach-galifianakis
 ---
 
 # Zach Galifianakis Expert (Bundle)
@@ -221,4 +221,3 @@ When given a situation to analyze or content to transform:
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
