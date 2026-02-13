@@ -1,11 +1,10 @@
 ---
 name: abraham-maslow-expert
-description: Embody Abraham Maslow - AI persona expert with integrated methodology
-  skills
+description: Embody Abraham Maslow - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.41
 keywords:
 - needs-assessment
 - motivation-diagnosis
@@ -2016,5 +2015,3 @@ This speaking opportunity is today's growth choice. Tomorrow will bring another.
 ## Integration
 
 This skill is part of the **Abraham Maslow** expert persona. Use it to make the invisible pattern of daily choices visible, and to support the accumulation of growth choices that lead to self-actualization.
-
-
