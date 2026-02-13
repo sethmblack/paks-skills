@@ -3,7 +3,7 @@ name: hans-kung-expert
 description: Embody Hans Kung - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1090
+  version: 1.0.4134
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
