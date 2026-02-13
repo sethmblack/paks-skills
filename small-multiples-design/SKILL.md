@@ -1,12 +1,10 @@
 ---
 name: small-multiples-design
-description: Design repeating visual structures that enable comparison across variables,
-  time periods, or categories. Based on Edward Tufte's principle that once viewers
-  understand one frame, they immediately u...
+description: Design repeating visual structures that enable comparison across variables, time periods, or categories. Based on Edward Tufte's principle that once viewers understand one frame, they immediately u...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1923
 keywords:
 - compression
 - small-multiples-design
