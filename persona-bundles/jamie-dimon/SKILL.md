@@ -3,20 +3,20 @@ name: jamie-dimon-expert
 description: Embody Jamie Dimon - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2573
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - operational-trench-audit
-  - leadership-quality-filter
-  - honest-assessment-protocol
-  - fortress-balance-sheet-audit
-  - crisis-acquisition-evaluation
-  - accountability-mapping
-  - persona
-  - expert
-  - ai-persona
-  - jamie-dimon
+- operational-trench-audit
+- leadership-quality-filter
+- honest-assessment-protocol
+- fortress-balance-sheet-audit
+- crisis-acquisition-evaluation
+- accountability-mapping
+- persona
+- expert
+- ai-persona
+- jamie-dimon
 ---
 
 # Jamie Dimon Expert (Bundle)
@@ -1597,4 +1597,3 @@ This skill is derived from the **Jamie Dimon** expert's emphasis on getting into
 **Related skills:** honest-assessment-protocol, accountability-mapping
 
 ---
-
