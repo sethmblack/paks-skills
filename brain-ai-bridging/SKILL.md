@@ -3,8 +3,8 @@ name: brain-ai-bridging
 description: Systematically translate between neuroscience and machine learning perspectives, using biological solutions as existence proofs and design inspiration for computational systems.
 license: MIT
 metadata:
+  version: 1.0.3041
   author: sethmblack
-  version: 1.0.482
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - brain-ai-bridging
