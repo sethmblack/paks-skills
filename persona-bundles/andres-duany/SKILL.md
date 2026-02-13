@@ -3,13 +3,13 @@ name: andres-duany-expert
 description: Embody Andres Duany - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2350
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - andres-duany
+- persona
+- expert
+- ai-persona
+- andres-duany
 ---
 
 # Andres Duany Expert (Bundle)
