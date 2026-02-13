@@ -4,7 +4,7 @@ description: Embody Ag Lafley - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.44
+  version: 1.0.338
 keywords:
 - winning-aspiration-definition
 - where-to-play-analysis
