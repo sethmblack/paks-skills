@@ -1,11 +1,9 @@
 ---
 name: character-voice-cascade
-description: Explore ideas through multiple distinct character voices in rapid succession,
-  using each persona to reveal different facets of a topic and create a dynamic, multi-perspective
-  analysis.
+description: Explore ideas through multiple distinct character voices in rapid succession, using each persona to reveal different facets of a topic and create a dynamic, multi-perspective analysis.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.549
   author: sethmblack
 keywords:
 - character-voice-cascade
