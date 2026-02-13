@@ -3,8 +3,8 @@ name: confucius-expert
 description: Embody Confucius - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.92
   author: sethmblack
+  version: 1.0.633
 keywords:
 - virtue-cultivation-path
 - self-examination-practice
