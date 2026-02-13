@@ -3,8 +3,8 @@ name: ronny-chieng-expert
 description: Embody Ronny Chieng - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.244
 keywords:
 - confrontational-reframe
 - persona
@@ -598,5 +598,3 @@ Add these when appropriate to increase confrontational impact:
 This skill is part of the **Patrice O'Neal** expert persona. Use it when communication needs to land with force, when politeness is obscuring truth, when boundaries need to be unmistakable, or when someone needs to stop hedging and state their actual position.
 
 The goal isn't to be a jerk - it's to be clear. Sometimes kindness is clarity.
-
-
