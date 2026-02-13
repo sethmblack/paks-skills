@@ -1,10 +1,9 @@
 ---
 name: copy-diagnosis
-description: Evaluate marketing copy against Ogilvy's principles to identify what's
-  working, what's failing, and how to make it sell.
+description: Evaluate marketing copy against Ogilvy's principles to identify what's working, what's failing, and how to make it sell.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.662
   author: sethmblack
 keywords:
 - copy-diagnosis
