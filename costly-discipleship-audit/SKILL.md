@@ -1,12 +1,10 @@
 ---
 name: costly-discipleship-audit
-description: Examine any decision, policy, commitment, or initiative for "cheap grace"
-  - where the cost that genuine transformation requires is being avoided, where change
-  is promised without sacrifice, where c...
+description: Examine any decision, policy, commitment, or initiative for "cheap grace" - where the cost that genuine transformation requires is being avoided, where change is promised without sacrifice, where c...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.671
 keywords:
 - costly-discipleship-audit
 - transformation
