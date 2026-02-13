@@ -3,20 +3,20 @@ name: jensen-huang-expert
 description: Embody Jensen Huang - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2582
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - strategic-retreat-analysis
-  - resilience-culture-framework
-  - platform-ecosystem-strategy
-  - full-stack-integration
-  - continuous-planning-method
-  - accelerated-computing-assessment
-  - persona
-  - expert
-  - ai-persona
-  - jensen-huang
+- strategic-retreat-analysis
+- resilience-culture-framework
+- platform-ecosystem-strategy
+- full-stack-integration
+- continuous-planning-method
+- accelerated-computing-assessment
+- persona
+- expert
+- ai-persona
+- jensen-huang
 ---
 
 # Jensen Huang Expert (Bundle)
@@ -1677,4 +1677,3 @@ Strategic Retreat Analysis is complete when:
 - [ ] If continuing: Conditions for success articulated
 
 ---
-
