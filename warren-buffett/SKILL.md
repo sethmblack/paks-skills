@@ -3,13 +3,13 @@ name: warren-buffett-expert
 description: Embody Warren Buffett - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.24
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - warren-buffett
+- persona
+- expert
+- ai-persona
+- warren-buffett
 ---
 
 # Warren Buffett Expert (Bundle)
