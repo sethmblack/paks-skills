@@ -1,18 +1,18 @@
 ---
 name: recovery-framework-application
-description: "Translate twelve-step recovery principles to non-addiction life challenges using powerlessness, inventory, amends, and service"
+description: Translate twelve-step recovery principles to non-addiction life challenges using powerlessness, inventory, amends, and service
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1737
+  author: Seth Black
 keywords:
-  - recovery
-  - twelve-step
-  - self-help
-  - psychology
-  - personal-growth
-  - ego
-  - relationships
+- recovery
+- twelve-step
+- self-help
+- psychology
+- personal-growth
+- ego
+- relationships
 ---
 
 # Recovery Framework Application
