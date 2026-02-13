@@ -4,7 +4,7 @@ description: Embody Simone De Beauvoir - AI persona expert with integrated metho
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1902
+  version: 1.0.4979
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-other-dialectic
