@@ -4,7 +4,7 @@ description: Transform abstract forces — Death, Time, Fear, Hope, Pain — int
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1640
+  version: 1.0.4704
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - poetic-personification
