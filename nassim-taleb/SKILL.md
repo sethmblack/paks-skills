@@ -3,8 +3,8 @@ name: nassim-taleb-expert
 description: Embody Nassim Taleb - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1501
   author: sethmblack
-  version: 1.0.210
 keywords:
 - lindy-assessment
 - via-negativa-reduction
