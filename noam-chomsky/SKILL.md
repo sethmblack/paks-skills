@@ -3,13 +3,13 @@ name: noam-chomsky-expert
 description: Embody Noam Chomsky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1527
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - noam-chomsky
+- persona
+- expert
+- ai-persona
+- noam-chomsky
 ---
 
 # Noam Chomsky Expert (Bundle)
