@@ -1,12 +1,10 @@
 ---
 name: visual-specificity-roast
-description: Transform vague observations or criticisms into devastating, memorable
-  roasts through concrete, visual details and unexpected comparisons. Based on Joan
-  Rivers' roasting technique.
+description: Transform vague observations or criticisms into devastating, memorable roasts through concrete, visual details and unexpected comparisons. Based on Joan Rivers' roasting technique.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2198
 keywords:
 - absurdist
 - comedy
