@@ -4,7 +4,7 @@ description: 'Build a personal brand through authenticity rather than performanc
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.412
+  version: 1.0.2970
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - authentic-brand-building
