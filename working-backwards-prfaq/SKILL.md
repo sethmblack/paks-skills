@@ -1,12 +1,10 @@
 ---
 name: working-backwards-prfaq
-description: Structure new product or feature thinking by writing the press release
-  and FAQ before building anything. This forces customer-centric clarity and kills
-  bad ideas before investment.
+description: Structure new product or feature thinking by writing the press release and FAQ before building anything. This forces customer-centric clarity and kills bad ideas before investment.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2242
 keywords:
 - working-backwards-pr/faq
 - writing
