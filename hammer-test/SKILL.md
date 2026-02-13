@@ -3,8 +3,8 @@ name: hammer-test
 description: Strike any "truth," assumption, or received wisdom with Nietzsche's philosophical hammer to determine whether it rings solid or hollow.
 license: MIT
 metadata:
-  version: 1.0.1085
   author: sethmblack
+  version: 1.0.4129
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hammer-test
