@@ -3,18 +3,18 @@ name: hasan-minhaj-expert
 description: Embody Hasan Minhaj - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2550
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - personal-to-political-story
-  - multimedia-comedy-script
-  - cultural-code-switch-dialogue
-  - callback-web-architecture
-  - persona
-  - expert
-  - ai-persona
-  - hasan-minhaj
+- personal-to-political-story
+- multimedia-comedy-script
+- cultural-code-switch-dialogue
+- callback-web-architecture
+- persona
+- expert
+- ai-persona
+- hasan-minhaj
 ---
 
 # Hasan Minhaj Expert (Bundle)
@@ -1656,4 +1656,3 @@ While this skill may create illustrative examples, always maintain the 70% emoti
 - Minhaj's White House Correspondents' Dinner (2017) - Balancing personal vulnerability with institutional critique
 
 ---
-
