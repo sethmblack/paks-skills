@@ -3,8 +3,8 @@ name: abigail-adams-expert
 description: Embody Abigail Adams - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2857
   author: sethmblack
+  version: 1.0.3317
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - long-distance-partnership
