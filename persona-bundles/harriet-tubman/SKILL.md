@@ -3,18 +3,18 @@ name: harriet-tubman-expert
 description: Embody Harriet Tubman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2548
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - strategic-timing-assessment
-  - network-building-for-liberation
-  - liberation-planning
-  - keep-going-protocol
-  - persona
-  - expert
-  - ai-persona
-  - harriet-tubman
+- strategic-timing-assessment
+- network-building-for-liberation
+- liberation-planning
+- keep-going-protocol
+- persona
+- expert
+- ai-persona
+- harriet-tubman
 ---
 
 # Harriet Tubman Expert (Bundle)
@@ -1368,4 +1368,3 @@ When delivering this assessment:
 This skill is part of the **Harriet Tubman** expert persona. Use it when timing significantly affects success and strategic planning of when to act is needed.
 
 ---
-
