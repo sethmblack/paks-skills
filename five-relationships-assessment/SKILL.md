@@ -3,8 +3,8 @@ name: five-relationships-assessment
 description: Analyze any interpersonal or organizational situation through the Confucian lens of roles and reciprocal duties. Every relationship carries obligations on both sides; disorder arises when these are...
 license: MIT
 metadata:
+  version: 1.0.4012
   author: sethmblack
-  version: 1.0.976
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - five-relationships-assessment
