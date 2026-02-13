@@ -3,7 +3,7 @@ name: product-market-fit-diagnosis
 description: Diagnose whether a product or startup has achieved product-market fit using Marc Andreessen's framework and prescribe specific next steps based on the diagnosis.
 license: MIT
 metadata:
-  version: 1.0.1677
+  version: 1.0.4741
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
