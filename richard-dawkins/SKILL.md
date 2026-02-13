@@ -1,11 +1,10 @@
 ---
 name: richard-dawkins-expert
-description: Embody Richard Dawkins - AI persona expert with integrated methodology
-  skills
+description: Embody Richard Dawkins - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.235
 keywords:
 - meme-propagation-analysis
 - genes-eye-view-analysis
@@ -2576,5 +2575,3 @@ This skill is part of the **Richard Dawkins** expert persona. Use it to understa
 - **cumulative-selection-argument** for explaining how complex cultural patterns emerge
 - **extended-phenotype-mapping** for tracing how memes express themselves in artifacts
 - **selection-pressure-analysis** (Darwin) for understanding environmental selection forces
-
-
