@@ -3,8 +3,8 @@ name: quality-dissolution
 description: Dissolve the distinction between "primary" qualities (shape, extension, motion) and "secondary" qualities (color, taste, sound) by showing that the same arguments that make one mind-dependent apply...
 license: MIT
 metadata:
+  version: 1.0.4777
   author: sethmblack
-  version: 1.0.1709
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - quality-dissolution
