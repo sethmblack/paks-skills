@@ -3,8 +3,8 @@ name: bureaucracy-busting-workout
 description: 'Facilitate rapid identification and elimination of bureaucratic waste through structured team sessions with real-time decision-making. Based on Jack Welch''s Work-Out methodology: "Get a bunch of pe...'
 license: MIT
 metadata:
-  version: 1.0.494
   author: sethmblack
+  version: 1.0.3054
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - bureaucracy-busting-work-out
