@@ -3,8 +3,8 @@ name: arms-race-dynamics-analysis
 description: Analyze competitive dynamics where adaptations on one side drive counter-adaptations on the other, creating escalation cycles. Predict trajectories using the life-dinner and rare-enemy principles.
 license: MIT
 metadata:
-  version: 1.0.2949
   author: sethmblack
+  version: 1.0.3409
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - arms-race-dynamics-analysis
