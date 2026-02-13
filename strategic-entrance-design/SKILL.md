@@ -4,7 +4,7 @@ description: Design first impressions and initial presentations that establish f
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1991
+  version: 1.0.5070
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-entrance-design
