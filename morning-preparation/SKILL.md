@@ -4,7 +4,7 @@ description: Pre-visualize potential difficulties before they occur to build res
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1477
+  version: 1.0.4533
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - morning-preparation-(premeditatio-malorum)
