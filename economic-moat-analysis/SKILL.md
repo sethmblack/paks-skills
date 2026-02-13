@@ -1,11 +1,10 @@
 ---
 name: economic-moat-analysis
-description: Systematically evaluate a business's competitive advantages to determine
-  durability, quality, and investment potential.
+description: Systematically evaluate a business's competitive advantages to determine durability, quality, and investment potential.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.842
 keywords:
 - economic-moat-analysis
 - writing
