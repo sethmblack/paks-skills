@@ -1,11 +1,10 @@
 ---
 name: baloney-detection-kit
-description: Systematically evaluate claims using Carl Sagan's toolkit for skeptical
-  thinking. Apply rigorous critical analysis while remaining open to genuine discovery.
+description: Systematically evaluate claims using Carl Sagan's toolkit for skeptical thinking. Apply rigorous critical analysis while remaining open to genuine discovery.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.421
 keywords:
 - baloney-detection-kit
 - writing
