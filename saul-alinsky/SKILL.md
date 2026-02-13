@@ -3,8 +3,8 @@ name: saul-alinsky-expert
 description: Embody Saul Alinsky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.251
   author: sethmblack
+  version: 1.0.1829
 keywords:
 - escalation-ladder
 - tactical-design
