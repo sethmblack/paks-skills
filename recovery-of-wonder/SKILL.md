@@ -3,7 +3,7 @@ name: recovery-of-wonder
 description: Restore astonishment at ordinary things. Based on G.K. Chesterton's philosophy that the world has not become less wonderful - we have merely become too jaded to notice.
 license: MIT
 metadata:
-  version: 1.0.1738
+  version: 1.0.4808
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
