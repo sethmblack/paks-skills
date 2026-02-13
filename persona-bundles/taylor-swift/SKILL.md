@@ -3,17 +3,17 @@ name: taylor-swift-expert
 description: Embody Taylor Swift - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2798
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - story-arc-structure
-  - specific-universal-transform
-  - satirical-reclamation
-  - persona
-  - expert
-  - ai-persona
-  - taylor-swift
+- story-arc-structure
+- specific-universal-transform
+- satirical-reclamation
+- persona
+- expert
+- ai-persona
+- taylor-swift
 ---
 
 # Taylor Swift Expert (Bundle)
@@ -684,4 +684,3 @@ This skill handles macro-level narrative structure. For sentence-level emotional
 **Expert voice:** When invoked by the Taylor Swift expert, emphasize emotional turns, bridge pivots, and bookend callbacks.
 
 ---
-
