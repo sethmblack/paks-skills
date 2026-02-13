@@ -1,11 +1,10 @@
 ---
 name: central-position-strategy
-description: When facing multiple competitors or threats, identify how to position
-  yourself to defeat each in sequence rather than facing all simultaneously.
+description: When facing multiple competitors or threats, identify how to position yourself to defeat each in sequence rather than facing all simultaneously.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.534
 keywords:
 - central-position-strategy
 - writing
