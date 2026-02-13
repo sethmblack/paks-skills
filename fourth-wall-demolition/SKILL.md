@@ -3,7 +3,7 @@ name: fourth-wall-demolition
 description: Break the illusion of narrative by having characters acknowledge their constructed nature and negotiate with it
 license: MIT
 metadata:
-  version: 1.0.1006
+  version: 1.0.4043
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
