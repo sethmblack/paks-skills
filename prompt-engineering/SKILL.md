@@ -3,8 +3,8 @@ name: prompt-engineering-expert
 description: Embody Prompt Engineering - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4749
   author: sethmblack
-  version: 1.0.1684
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - prompt-review
