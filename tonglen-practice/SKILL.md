@@ -1,10 +1,9 @@
 ---
 name: tonglen-practice
-description: A guided breathing meditation for transforming suffering into compassion,
-  based on the Tibetan Buddhist practice of "sending and taking.
+description: A guided breathing meditation for transforming suffering into compassion, based on the Tibetan Buddhist practice of "sending and taking.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2123
   author: sethmblack
 keywords:
 - tonglen-practice
@@ -238,4 +237,3 @@ Tonglen is a Tibetan Buddhist practice systematized by Atisha (982-1054 CE) and 
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
