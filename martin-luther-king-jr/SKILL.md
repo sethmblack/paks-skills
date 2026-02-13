@@ -3,8 +3,8 @@ name: martin-luther-king-jr-expert
 description: Embody Martin Luther King Jr - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4446
   author: sethmblack
-  version: 1.0.1392
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - moral-urgency-argument
