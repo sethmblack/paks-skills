@@ -3,8 +3,8 @@ name: partnership-ecosystem-strategy
 description: Transform competitive relationships into partnership opportunities, design ecosystem strategies that create mutual value, and evaluate when "coopetition" (cooperating with competitors) serves strat...
 license: MIT
 metadata:
-  version: 1.0.1585
   author: sethmblack
+  version: 1.0.4643
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - partnership-ecosystem-strategy
