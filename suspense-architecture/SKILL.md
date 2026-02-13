@@ -1,10 +1,9 @@
 ---
 name: suspense-architecture
-description: Design information revelation to maximize audience tension through anticipation
-  rather than shock.
+description: Design information revelation to maximize audience tension through anticipation rather than shock.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2031
   author: sethmblack
 keywords:
 - escalation
