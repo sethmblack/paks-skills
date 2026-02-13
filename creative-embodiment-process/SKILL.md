@@ -4,7 +4,7 @@ description: Transform understanding into expression, moving from insight to emb
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.684
+  version: 1.0.3250
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - creative-embodiment-process
