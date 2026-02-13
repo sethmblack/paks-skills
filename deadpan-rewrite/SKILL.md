@@ -1,10 +1,9 @@
 ---
 name: deadpan-rewrite
-description: Transform generic or overly-enthusiastic content into Hannibal Buress's
-  laid-back, deadpan style with hyper-specific details and understated delivery.
+description: Transform generic or overly-enthusiastic content into Hannibal Buress's laid-back, deadpan style with hyper-specific details and understated delivery.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.751
   author: sethmblack
 keywords:
 - comedy
