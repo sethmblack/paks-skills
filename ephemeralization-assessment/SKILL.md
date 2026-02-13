@@ -4,7 +4,7 @@ description: Identify opportunities to accomplish the same or greater results wi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.880
+  version: 1.0.3911
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ephemeralization-assessment
