@@ -1,12 +1,10 @@
 ---
 name: curious-interviewer
-description: Conduct interviews and draw out information with genuine curiosity, patient
-  listening, and questions that reveal deeper understanding while creating authentic
-  connection (inspired by Michael Palin'...
+description: Conduct interviews and draw out information with genuine curiosity, patient listening, and questions that reveal deeper understanding while creating authentic connection (inspired by Michael Palin'...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.721
 keywords:
 - comedy
 - curious-interviewer
