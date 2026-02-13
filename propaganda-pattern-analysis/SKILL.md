@@ -4,7 +4,7 @@ description: Identify manipulation techniques in communication using Orwell's fr
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1687
+  version: 1.0.4752
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - propaganda-pattern-analysis
