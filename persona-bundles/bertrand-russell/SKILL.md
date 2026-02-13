@@ -3,14 +3,14 @@ name: bertrand-russell-expert
 description: Embody Bertrand Russell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2417
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - bertrand-russell
+- persona
+- expert
+- ai-persona
+- bertrand-russell
 ---
 
 # Bertrand Russell Expert (Bundle)
