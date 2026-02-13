@@ -4,7 +4,7 @@ description: Identify why strategies fail in implementation and create an action
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.918
+  version: 1.0.3949
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
