@@ -3,7 +3,7 @@ name: crisis-decision-framework
 description: Make high-stakes decisions when waiting is dangerous but action is also risky. Determine when bold action is necessary and how to commit fully.
 license: MIT
 metadata:
-  version: 1.0.693
+  version: 1.0.3259
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
