@@ -3,13 +3,13 @@ name: simon-bolivar-expert
 description: Embody Simon Bolivar - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1900
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - simon-bolivar
+- persona
+- expert
+- ai-persona
+- simon-bolivar
 ---
 
 # Simon Bolivar Expert (Bundle)
