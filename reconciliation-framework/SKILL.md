@@ -3,8 +3,8 @@ name: reconciliation-framework
 description: Transform adversarial relationships into partnerships through understanding, symbolic action, and principled flexibility.
 license: MIT
 metadata:
-  version: 1.0.1736
   author: sethmblack
+  version: 1.0.4806
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - reconciliation-framework
