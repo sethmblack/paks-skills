@@ -4,7 +4,7 @@ description: Design learning experiences that follow natural development, priori
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1506
+  version: 1.0.4562
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - natural-education-design
