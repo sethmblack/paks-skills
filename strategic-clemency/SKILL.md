@@ -1,11 +1,10 @@
 ---
 name: strategic-clemency
-description: Use mercy as a strategic instrument to convert defeated opponents into
-  obligated allies. Spare enemies to bind them; elevation creates debt.
+description: Use mercy as a strategic instrument to convert defeated opponents into obligated allies. Spare enemies to bind them; elevation creates debt.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1990
 keywords:
 - storytelling
 - strategic-clemency
