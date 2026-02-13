@@ -1,11 +1,10 @@
 ---
 name: dip-analysis
-description: Determine whether to persist or quit a venture, project, or skill based
-  on Seth Godin's strategic quitting framework from "The Dip.
+description: Determine whether to persist or quit a venture, project, or skill based on Seth Godin's strategic quitting framework from "The Dip.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.805
 keywords:
 - dip-analysis
 - writing
