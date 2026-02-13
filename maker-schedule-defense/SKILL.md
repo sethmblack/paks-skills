@@ -1,10 +1,9 @@
 ---
 name: maker-schedule-defense
-description: Analyze schedules for maker-time violations and restructure to protect
-  deep work blocks.
+description: Analyze schedules for maker-time violations and restructure to protect deep work blocks.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1368
   author: sethmblack
 keywords:
 - maker-schedule-defense
