@@ -3,7 +3,7 @@ name: seth-godin-expert
 description: Embody Seth Godin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.253
   author: sethmblack
 keywords:
 - tribe-building-framework
@@ -2459,5 +2459,3 @@ Diagnosis is complete when:
 - [ ] Current ladder position identified
 - [ ] Specific, actionable recommendations provided
 - [ ] User understands the permission they have (or don't have)
-
-
