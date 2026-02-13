@@ -4,7 +4,7 @@ description: Reveal God's maternal nature for those who struggle with paternal i
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1405
+  version: 1.0.4459
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - maternal-god-meditation
