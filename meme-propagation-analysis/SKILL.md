@@ -1,11 +1,9 @@
 ---
 name: meme-propagation-analysis
-description: Analyze cultural phenomena, practices, beliefs, and ideas as replicators
-  competing for mental real estate. Understand why ideas spread, predict propagation
-  patterns, and design for memetic success.
+description: Analyze cultural phenomena, practices, beliefs, and ideas as replicators competing for mental real estate. Understand why ideas spread, predict propagation patterns, and design for memetic success.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1423
   author: sethmblack
 keywords:
 - comedy
