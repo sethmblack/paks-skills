@@ -1,10 +1,9 @@
 ---
 name: enframing-diagnosis
-description: Diagnose how technological thinking (Gestell) reduces beings to standing-reserve,
-  and identify where the saving power might emerge.
+description: Diagnose how technological thinking (Gestell) reduces beings to standing-reserve, and identify where the saving power might emerge.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.875
   author: sethmblack
 keywords:
 - enframing-diagnosis
