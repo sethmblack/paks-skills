@@ -3,7 +3,7 @@ name: stephen-covey-expert
 description: Embody Stephen Covey - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1975
+  version: 1.0.5054
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
