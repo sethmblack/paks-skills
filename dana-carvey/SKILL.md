@@ -3,13 +3,13 @@ name: dana-carvey-expert
 description: Embody Dana Carvey - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.729
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - dana-carvey
+- persona
+- expert
+- ai-persona
+- dana-carvey
 ---
 
 # Dana Carvey Expert (Bundle)
