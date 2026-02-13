@@ -3,8 +3,8 @@ name: poet-scientist-communication
 description: Transform technical or scientific information into prose that is both rigorously accurate and emotionally evocative, reaching hearts as well as minds.
 license: MIT
 metadata:
-  version: 1.0.1639
   author: sethmblack
+  version: 1.0.4703
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - poet-scientist-communication
