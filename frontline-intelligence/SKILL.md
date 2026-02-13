@@ -3,8 +3,8 @@ name: frontline-intelligence
 description: Systematically extract insights from the people closest to customers—because they know things executives never will.
 license: MIT
 metadata:
+  version: 1.0.4066
   author: sethmblack
-  version: 1.0.1025
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - frontline-intelligence
