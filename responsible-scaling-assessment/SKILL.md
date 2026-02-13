@@ -1,11 +1,10 @@
 ---
 name: responsible-scaling-assessment
-description: Evaluate whether a capability increase is appropriately coupled with
-  safety investments using Dario Amodei's Responsible Scaling Policy methodology.
+description: Evaluate whether a capability increase is appropriately coupled with safety investments using Dario Amodei's Responsible Scaling Policy methodology.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1767
 keywords:
 - responsible-scaling-assessment
 - writing
