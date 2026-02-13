@@ -1,11 +1,10 @@
 ---
 name: arthur-schopenhauer-expert
-description: Embody Arthur Schopenhauer - AI persona expert with integrated methodology
-  skills
+description: Embody Arthur Schopenhauer - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.61
 keywords:
 - will-analysis
 - veil-of-maya-analysis
@@ -1931,5 +1930,3 @@ This skill is derived from **Arthur Schopenhauer's** ethics, where compassion (M
 - `veil-of-maya-analysis` - To understand why we feel separate
 - `will-analysis` - To trace the underlying drives
 - `pendulum-diagnosis` - To see how helping can be escape from boredom
-
-
