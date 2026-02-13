@@ -3,14 +3,14 @@ name: peter-drucker-expert
 description: Embody Peter Drucker - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2717
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - peter-drucker
+- persona
+- expert
+- ai-persona
+- peter-drucker
 ---
 
 # Peter Drucker Expert (Bundle)
