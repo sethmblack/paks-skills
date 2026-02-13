@@ -1,11 +1,10 @@
 ---
 name: spontaneous-order-assessment
-description: Distinguish between designed order and emergent order in any system,
-  and identify what rules would enable beneficial spontaneous coordination.
+description: Distinguish between designed order and emergent order in any system, and identify what rules would enable beneficial spontaneous coordination.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1959
 keywords:
 - spontaneous-order-assessment
 - writing
