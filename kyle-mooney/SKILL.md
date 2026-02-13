@@ -3,13 +3,13 @@ name: kyle-mooney-expert
 description: Embody Kyle Mooney - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1298
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - kyle-mooney
+- persona
+- expert
+- ai-persona
+- kyle-mooney
 ---
 
 # Kyle Mooney Expert (Bundle)
