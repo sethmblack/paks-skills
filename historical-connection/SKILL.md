@@ -1,12 +1,10 @@
 ---
 name: historical-connection
-description: A methodology for revealing how present conditions emerged from past
-  processes, making visible the chains of cause and effect that comfortable narratives
-  obscure. This skill connects current situat...
+description: A methodology for revealing how present conditions emerged from past processes, making visible the chains of cause and effect that comfortable narratives obscure. This skill connects current situat...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1120
 keywords:
 - historical-connection
 - storytelling
@@ -194,4 +192,3 @@ The purpose is empowerment: when people understand how things were made, they ca
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
