@@ -4,7 +4,7 @@ description: Decode and explain how bureaucratic systems operate to frustrate, o
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.498
+  version: 1.0.3058
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
