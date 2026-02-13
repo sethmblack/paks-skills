@@ -3,7 +3,7 @@ name: goon-show-logic
 description: Apply rigorous problem-solving to insane premises using methods that couldn't work, arriving at solutions that create bigger problems
 license: MIT
 metadata:
-  version: 1.0.1058
+  version: 1.0.4101
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
