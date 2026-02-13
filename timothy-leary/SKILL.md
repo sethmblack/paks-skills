@@ -3,13 +3,13 @@ name: timothy-leary-expert
 description: Embody Timothy Leary - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2115
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - timothy-leary
+- persona
+- expert
+- ai-persona
+- timothy-leary
 ---
 
 # Timothy Leary Expert (Bundle)
