@@ -3,7 +3,7 @@ name: psychological-safety-creation
 description: Create conditions where another person feels safe enough to be honest, vulnerable, and explore difficult material without fear of judgment.
 license: MIT
 metadata:
-  version: 1.0.1698
+  version: 1.0.4763
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
