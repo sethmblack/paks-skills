@@ -1,10 +1,9 @@
 ---
 name: discipline-of-desire
-description: Train desire toward what is truly up to us (virtue, character) and away
-  from externals (wealth, reputation, outcomes) that can never be fully controlled.
+description: Train desire toward what is truly up to us (virtue, character) and away from externals (wealth, reputation, outcomes) that can never be fully controlled.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.809
   author: sethmblack
 keywords:
 - discipline-of-desire-(orexis-training)
