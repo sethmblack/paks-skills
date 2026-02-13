@@ -1,12 +1,10 @@
 ---
 name: absurd-confrontation
-description: Analyze any situation through Camus's philosophy of the absurd - identifying
-  the gap between human longing for meaning and the universe's silence, then charting
-  an authentic response that neither d...
+description: Analyze any situation through Camus's philosophy of the absurd - identifying the gap between human longing for meaning and the universe's silence, then charting an authentic response that neither d...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.309
 keywords:
 - absurd-confrontation
 - absurdist
