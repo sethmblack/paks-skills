@@ -3,8 +3,8 @@ name: augustine-of-hippo-ordo-amoris-audit
 description: Examine any decision, system, or organization to identify disordered loves - where lesser things are being loved more than greater, or ends are being confused with means.
 license: MIT
 metadata:
-  version: 1.0.2260
   author: sethmblack
+  version: 1.0.2967
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ordo-amoris-audit
