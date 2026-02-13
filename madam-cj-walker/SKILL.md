@@ -4,7 +4,7 @@ description: Embody Madam Cj Walker - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1365
+  version: 1.0.4419
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - grassroots-adoption-strategy
