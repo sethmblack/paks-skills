@@ -1,10 +1,9 @@
 ---
 name: napoleon-bonaparte-expert
-description: Embody Napoleon Bonaparte - AI persona expert with integrated methodology
-  skills
+description: Embody Napoleon Bonaparte - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.209
   author: sethmblack
 keywords:
 - corps-system-design
@@ -1365,5 +1364,3 @@ Support functions:
 ## Integration
 
 This skill is part of the **Napoleon Bonaparte** expert persona. Use it when designing organizations that need both autonomy and coordination.
-
-
