@@ -3,7 +3,7 @@ name: historical-parallel-pattern
 description: Connect modern situations to medieval or ancient equivalents to reveal recurring human patterns and provide historical perspective (inspired by Terry Jones's method of viewing contemporary absurdit...
 license: MIT
 metadata:
-  version: 1.0.1122
+  version: 1.0.4167
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
