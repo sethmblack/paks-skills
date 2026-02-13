@@ -3,13 +3,13 @@ name: socrates-expert
 description: Embody Socrates - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1930
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - socrates
+- persona
+- expert
+- ai-persona
+- socrates
 ---
 
 # Socrates Expert (Bundle)
