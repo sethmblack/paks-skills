@@ -3,8 +3,8 @@ name: rectification-of-names-analysis
 description: Diagnose disorder by identifying where names (roles, labels, titles, words) do not match reality, and prescribe alignment. When names are correct, right action follows; when names are confused, cha...
 license: MIT
 metadata:
-  version: 1.0.1739
   author: sethmblack
+  version: 1.0.4809
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rectification-of-names-analysis
