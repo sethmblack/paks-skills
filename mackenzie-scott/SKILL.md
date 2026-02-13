@@ -3,8 +3,8 @@ name: mackenzie-scott-expert
 description: Embody Mackenzie Scott - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.186
   author: sethmblack
+  version: 1.0.1363
 keywords:
 - trust-based-resource-allocation
 - seeding-by-ceding-assessment
