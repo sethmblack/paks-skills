@@ -3,7 +3,7 @@ name: add-anxious-precision
 description: Take a simple worry or concern and drill into increasingly specific layers of overthinking until the neurosis itself becomes funny through meticulous, escalating detail.
 license: MIT
 metadata:
-  version: 1.0.327
+  version: 1.0.2880
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
