@@ -4,7 +4,7 @@ description: Transform idioms, expressions, and instructions by taking them at a
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1343
+  version: 1.0.4397
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
