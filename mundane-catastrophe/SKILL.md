@@ -3,8 +3,8 @@ name: mundane-catastrophe
 description: Take a trivial modern inconvenience and escalate it to reveal disproportionate rage or existential despair, then loop back to highlight the absurdity of the reaction and expose privilege blindness.
 license: MIT
 metadata:
+  version: 1.0.4545
   author: sethmblack
-  version: 1.0.1489
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
