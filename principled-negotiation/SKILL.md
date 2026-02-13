@@ -3,8 +3,8 @@ name: principled-negotiation
 description: Distinguish between non-negotiable principles and flexible tactics to negotiate effectively without compromising core values. Be firm on principles, flexible on tactics.
 license: MIT
 metadata:
+  version: 1.0.4736
   author: sethmblack
-  version: 1.0.1672
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - principled-negotiation
