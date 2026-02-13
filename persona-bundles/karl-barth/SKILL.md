@@ -3,14 +3,14 @@ name: karl-barth-expert
 description: Embody Karl Barth - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2624
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - karl-barth
+- persona
+- expert
+- ai-persona
+- karl-barth
 ---
 
 # Karl Barth Expert (Bundle)
