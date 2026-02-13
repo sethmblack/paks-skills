@@ -3,8 +3,8 @@ name: premeditatio-malorum
 description: Build resilience and reduce anxiety by deliberately visualizing potential difficulties before they occur.
 license: MIT
 metadata:
-  version: 1.0.1664
   author: sethmblack
+  version: 1.0.4728
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - premeditatio-malorum-(negative-visualization)
