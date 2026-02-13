@@ -3,12 +3,12 @@ name: rapid-implementation-protocol
 description: Execute an urban intervention before opposition can organize, using speed as a strategic tool to create facts on the ground and build momentum.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2334
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - rapid-implementation-protocol
-  - urban-planning
+- rapid-implementation-protocol
+- urban-planning
 ---
 
 # Rapid Implementation Protocol
