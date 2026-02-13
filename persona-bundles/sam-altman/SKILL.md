@@ -3,17 +3,17 @@ name: sam-altman-expert
 description: Embody Sam Altman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2759
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - ten-x-transformation-test
-  - fake-work-detector
-  - compounding-activity-prioritization
-  - persona
-  - expert
-  - ai-persona
-  - sam-altman
+- ten-x-transformation-test
+- fake-work-detector
+- compounding-activity-prioritization
+- persona
+- expert
+- ai-persona
+- sam-altman
 ---
 
 # Sam Altman Expert (Bundle)
@@ -941,4 +941,3 @@ Analysis is complete when:
 - [ ] Compressed insight is quotable and memorable
 
 ---
-
