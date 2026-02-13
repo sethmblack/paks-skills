@@ -3,7 +3,7 @@ name: plato-divided-line
 description: Apply Plato's Divided Line framework to classify knowledge claims and determine appropriate levels of certainty.
 license: MIT
 metadata:
-  version: 1.0.2279
+  version: 1.0.4696
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
