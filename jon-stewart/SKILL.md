@@ -3,8 +3,8 @@ name: jon-stewart-expert
 description: Embody Jon Stewart - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1264
   author: sethmblack
+  version: 1.0.4315
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
