@@ -1,10 +1,9 @@
 ---
 name: congruence-check
-description: Assess the alignment between inner experience and outer expression, identifying
-  where incongruence may be causing difficulty.
+description: Assess the alignment between inner experience and outer expression, identifying where incongruence may be causing difficulty.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.634
   author: sethmblack
 keywords:
 - congruence-check
@@ -194,35 +193,28 @@ Create actionable outputs:
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Congruence is about alignment, not judgment of feelings as good or bad
+- Some professional contexts genuinely require personas; the question is sustainability
+- Full congruence may not be safe in all contexts (abusive relationships, hostile workplaces)
+- This framework reveals gaps; what to do about them requires further exploration
+- Conditions of worth are identified to understand, not to blame family or culture
+- Moving toward congruence is a process, not a single decision
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Demanding instant authenticity** | Congruence develops gradually; forced authenticity can be another performance | Take small steps; notice patterns before trying to change them |
+| **Judging feelings** | "I shouldn't feel this way" is itself a form of incongruence | All feelings are valid data; the question is what they mean |
+| **Ignoring context** | Some contexts genuinely require personas; the issue is chronic incongruence | Distinguish temporary role-playing from unsustainable performance |
+| **Blaming conditions of worth** | Understanding origins is different from using them as excuses | Use insight to choose differently now, not to assign blame |
+| **Equating congruence with comfort** | Living authentically may mean leaving situations, disappointing people | Congruence often requires courage, not just awareness |
+
+---
 
 ## Example
 
