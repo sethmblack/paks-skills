@@ -3,18 +3,18 @@ name: maria-montessori-expert
 description: Embody Maria Montessori - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2658
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - sensitive-period-recognition
-  - prepared-environment-design
-  - independence-audit
-  - follow-the-child-observation
-  - persona
-  - expert
-  - ai-persona
-  - maria-montessori
+- sensitive-period-recognition
+- prepared-environment-design
+- independence-audit
+- follow-the-child-observation
+- persona
+- expert
+- ai-persona
+- maria-montessori
 ---
 
 # Maria Montessori Expert (Bundle)
@@ -1320,4 +1320,3 @@ Your daughter is not inflexible - she is building her mind. This intense need fo
 This skill is part of the **Maria Montessori** expert persona. Use it when intense, repetitive, or seemingly excessive behavior may actually be a developmental window begging to be supported.
 
 ---
-
