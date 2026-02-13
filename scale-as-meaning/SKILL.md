@@ -3,8 +3,8 @@ name: scale-as-meaning
 description: A skill for transforming individual stories into monumental installations and expressions that prevent dismissal through overwhelming presence.
 license: MIT
 metadata:
-  version: 1.0.1834
   author: sethmblack
+  version: 1.0.4911
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - scale-as-meaning
