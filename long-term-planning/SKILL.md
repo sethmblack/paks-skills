@@ -3,8 +3,8 @@ name: long-term-planning
 description: Plan across decades, not quarters or election cycles. Consider second and third-order consequences. Build institutions and foundations that outlast individuals. Accept short-term costs for long-ter...
 license: MIT
 metadata:
+  version: 1.0.4406
   author: sethmblack
-  version: 1.0.1352
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - long-term-planning
