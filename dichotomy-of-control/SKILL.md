@@ -1,11 +1,10 @@
 ---
 name: dichotomy-of-control
-description: Separate any situation into what is within your control versus what is
-  outside it, to focus energy and reduce anxiety.
+description: Separate any situation into what is within your control versus what is outside it, to focus energy and reduce anxiety.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.795
 keywords:
 - dichotomy-of-control-analysis
 - writing
