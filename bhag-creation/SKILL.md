@@ -4,7 +4,7 @@ description: Create compelling Big Hairy Audacious Goals (BHAGs) - bold 10-25 ye
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.455
+  version: 1.0.3013
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
