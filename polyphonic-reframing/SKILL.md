@@ -1,11 +1,9 @@
 ---
 name: polyphonic-reframing
-description: Transform one-sided arguments or monologic presentations into genuine
-  dialogues where multiple voices argue with full force. Apply Mikhail Bakhtin's analysis
-  of Dostoevsky's polyphonic novel to ens...
+description: Transform one-sided arguments or monologic presentations into genuine dialogues where multiple voices argue with full force. Apply Mikhail Bakhtin's analysis of Dostoevsky's polyphonic novel to ens...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1642
   author: sethmblack
 keywords:
 - polyphonic-reframing
