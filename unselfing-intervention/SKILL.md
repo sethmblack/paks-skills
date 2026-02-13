@@ -1,11 +1,10 @@
 ---
 name: unselfing-intervention
-description: Interrupt ego-centered rumination and redirect attention to reality through
-  beauty, outward attention, or focused engagement with the real world.
+description: Interrupt ego-centered rumination and redirect attention to reality through beauty, outward attention, or focused engagement with the real world.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2167
 keywords:
 - unselfing-intervention
 - writing
