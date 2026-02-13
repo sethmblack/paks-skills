@@ -1,10 +1,9 @@
 ---
 name: eleanor-roosevelt-expert
-description: Embody Eleanor Roosevelt - AI persona expert with integrated methodology
-  skills
+description: Embody Eleanor Roosevelt - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.105
   author: sethmblack
 keywords:
 - compassionate-challenge
@@ -1349,5 +1348,3 @@ Compassionate challenge goes both ways. You're asking them to grow. Model that g
 ## Integration
 
 This skill is part of the **Eleanor Roosevelt** expert persona. Use it whenever you need to push someone toward growth while maintaining respect and relationship. Roosevelt believed deeply in human potential—and held people to that potential with warmth, directness, and genuine faith in their capacity to rise.
-
-
