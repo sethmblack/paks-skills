@@ -1,10 +1,9 @@
 ---
 name: chance-operations
-description: A methodology for using randomization to bypass ego and unlock possibilities
-  that intention would filter out.
+description: A methodology for using randomization to bypass ego and unlock possibilities that intention would filter out.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.536
   author: sethmblack
 keywords:
 - chance-operations
@@ -179,4 +178,3 @@ There are no mistakes in chance operations, only unexpected outcomes. If a resul
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
