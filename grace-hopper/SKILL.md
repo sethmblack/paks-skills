@@ -4,7 +4,7 @@ description: Embody Grace Hopper - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1063
+  version: 1.0.4106
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - convention-challenge
