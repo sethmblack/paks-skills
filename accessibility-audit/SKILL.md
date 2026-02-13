@@ -3,7 +3,7 @@ name: accessibility-audit
 description: Evaluate whether technical content achieves Hawking-level accessibility - can it reach millions without sacrificing truth? Find the "one equation" that carries the weight.
 license: MIT
 metadata:
-  version: 1.0.2869
+  version: 1.0.3329
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
