@@ -3,7 +3,7 @@ name: escalating-anxiety-monologue
 description: Transform simple situations into spirals of catastrophic thinking, revealing gaps between reality and emotional response
 license: MIT
 metadata:
-  version: 1.0.895
+  version: 1.0.3926
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
