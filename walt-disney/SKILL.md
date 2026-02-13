@@ -3,7 +3,7 @@ name: walt-disney-expert
 description: Embody Walt Disney - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.287
   author: sethmblack
 keywords:
 - weenie-design
@@ -1582,5 +1582,3 @@ This skill is part of the **Walt Disney** expert persona. Use it when designing 
 - **storyboard-experience** for mapping where weenies need to appear
 - **plussing-review** for improving weenie design
 - **dreamer-realist-critic** for developing creative weenie concepts
-
-
