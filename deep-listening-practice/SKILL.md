@@ -4,7 +4,7 @@ description: A complete methodology for compassionate listening that heals relat
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.766
+  version: 1.0.3796
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - deep-listening-practice
