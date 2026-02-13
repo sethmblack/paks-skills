@@ -3,7 +3,7 @@ name: nelson-touch-command
 description: Lead distributed teams through shared intent rather than detailed orders. Empower people to execute your purpose when they cannot see your signals.
 license: MIT
 metadata:
-  version: 1.0.1517
+  version: 1.0.4573
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
