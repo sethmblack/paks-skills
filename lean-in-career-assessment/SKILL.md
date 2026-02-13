@@ -4,7 +4,7 @@ description: Assess current career stance using Sheryl Sandberg's Lean In framew
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1316
+  version: 1.0.4370
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - lean-in-career-assessment
