@@ -1,10 +1,9 @@
 ---
 name: one-true-sentence
-description: Find the truest, most essential sentence that captures what you're trying
-  to say. Build from there.
+description: Find the truest, most essential sentence that captures what you're trying to say. Build from there.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1551
   author: sethmblack
 keywords:
 - one-true-sentence
