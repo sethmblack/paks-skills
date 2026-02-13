@@ -1,10 +1,9 @@
 ---
 name: persistence-protocol
-description: Transform rejection and failure into fuel for continued effort using
-  Estee Lauder's proven system for turning obstacles into opportunities.
+description: Transform rejection and failure into fuel for continued effort using Estee Lauder's proven system for turning obstacles into opportunities.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1604
   author: sethmblack
 keywords:
 - persistence-protocol
