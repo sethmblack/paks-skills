@@ -3,8 +3,8 @@ name: sophisticated-bumbling
 description: Deploy elevated language to describe increasingly chaotic situations, creating comedy through linguistic precision meeting physical disaster
 license: MIT
 metadata:
-  version: 1.0.1938
   author: Seth Black
+  version: 1.0.5016
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
