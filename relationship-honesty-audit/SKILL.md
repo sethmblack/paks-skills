@@ -3,7 +3,7 @@ name: relationship-honesty-audit
 description: Audit relationship communication patterns to identify where comfortable lies are being maintained instead of hard truths, then provide framework for radical honesty. Based on Patrice O'Neal's "Blac...
 license: MIT
 metadata:
-  version: 1.0.1754
+  version: 1.0.4825
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
