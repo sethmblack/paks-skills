@@ -4,7 +4,7 @@ description: 'Design and protect the conditions required for deep creative workâ
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3251
+  version: 1.0.3711
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - creative-solitude-design
