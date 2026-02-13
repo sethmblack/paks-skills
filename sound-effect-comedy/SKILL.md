@@ -3,7 +3,7 @@ name: sound-effect-comedy
 description: Disrupt narrative flow and create humor through sonic elements - onomatopoeia, verbal explosions, and sound-based language
 license: MIT
 metadata:
-  version: 1.0.1941
+  version: 1.0.5019
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
