@@ -3,15 +3,15 @@ name: steven-wright-expert
 description: Embody Steven Wright - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2793
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - deadpan-one-liner-constructor
-  - persona
-  - expert
-  - ai-persona
-  - steven-wright
+- deadpan-one-liner-constructor
+- persona
+- expert
+- ai-persona
+- steven-wright
 ---
 
 # Steven Wright Expert (Bundle)
@@ -505,4 +505,3 @@ When the Steven Wright expert identifies comedy construction opportunities, invo
 - **No explanation in output** - The one-liner itself must stand alone; structure notes are meta-commentary only
 
 ---
-
