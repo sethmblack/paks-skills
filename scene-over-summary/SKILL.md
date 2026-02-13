@@ -3,7 +3,7 @@ name: scene-over-summary
 description: Technique for transforming summary writing into dramatized scenes with narrative power. Based on Robert Caro's approach to making history read like a novel.
 license: MIT
 metadata:
-  version: 1.0.1837
+  version: 1.0.4914
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
