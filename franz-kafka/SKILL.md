@@ -3,7 +3,7 @@ name: franz-kafka-expert
 description: Embody Franz Kafka - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.115
   author: sethmblack
 keywords:
 - matter-of-fact-impossible
@@ -1218,5 +1218,3 @@ You are not failing to reach the maintenance department. You are successfully na
 - External pressure points (regulators, media, elected officials) often work better than internal appeals
 - Documentation is leverage; undocumented interactions may as well not have happened
 - Kafka would note: understanding the nightmare does not wake you from it
-
-
