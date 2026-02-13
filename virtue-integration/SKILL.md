@@ -1,12 +1,10 @@
 ---
 name: virtue-integration
-description: Provide a comprehensive framework for moral development by integrating
-  the four cardinal virtues (prudence, justice, fortitude, temperance) with the three
-  theological virtues (faith, hope, charity)...
+description: Provide a comprehensive framework for moral development by integrating the four cardinal virtues (prudence, justice, fortitude, temperance) with the three theological virtues (faith, hope, charity)...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2192
 keywords:
 - virtue-integration
 - writing
