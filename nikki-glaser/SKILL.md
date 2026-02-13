@@ -3,8 +3,8 @@ name: nikki-glaser-expert
 description: Embody Nikki Glaser - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.215
   author: sethmblack
+  version: 1.0.1523
 keywords:
 - sex-positive-reframe
 - roast-precision-generator
