@@ -1,10 +1,9 @@
 ---
 name: carson-interview-architecture
-description: 'Create interviews that balance genuine curiosity with entertainment
-  value using Carson''s four-phase framework: Story → Angle → Setup → Exit.'
+description: 'Create interviews that balance genuine curiosity with entertainment value using Carson''s four-phase framework: Story → Angle → Setup → Exit.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.522
   author: sethmblack
 keywords:
 - absurdist
