@@ -3,8 +3,8 @@ name: recuperation-audit
 description: Assess how radical ideas, movements, or critiques have been (or will be) absorbed and commodified by the system.
 license: MIT
 metadata:
-  version: 1.0.1740
   author: sethmblack
+  version: 1.0.4810
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - recuperation-audit
