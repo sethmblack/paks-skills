@@ -1,11 +1,9 @@
 ---
 name: social-reform-narrative
-description: Transform statistics, policy critiques, and systemic issues into emotionally
-  compelling individual stories that move readers to action, following Dickens's method
-  of showing systems through souls.
+description: Transform statistics, policy critiques, and systemic issues into emotionally compelling individual stories that move readers to action, following Dickens's method of showing systems through souls.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1928
   author: sethmblack
 keywords:
 - absurdist
