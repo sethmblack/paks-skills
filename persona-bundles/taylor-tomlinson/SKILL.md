@@ -3,19 +3,19 @@ name: taylor-tomlinson-expert
 description: Embody Taylor Tomlinson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2799
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - inject-therapy-language
-  - deconstruct-dating-apps
-  - apply-generational-contradiction
-  - apply-dark-turn
-  - add-anxious-precision
-  - persona
-  - expert
-  - ai-persona
-  - taylor-tomlinson
+- inject-therapy-language
+- deconstruct-dating-apps
+- apply-generational-contradiction
+- apply-dark-turn
+- add-anxious-precision
+- persona
+- expert
+- ai-persona
+- taylor-tomlinson
 ---
 
 # Taylor Tomlinson Expert (Bundle)
@@ -1222,4 +1222,3 @@ A successful therapy language injection:
 - ✓ Maintains accessibility without over-explaining
 
 ---
-
