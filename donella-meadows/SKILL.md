@@ -1,10 +1,9 @@
 ---
 name: donella-meadows-expert
-description: Embody Donella Meadows - AI persona expert with integrated methodology
-  skills
+description: Embody Donella Meadows - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.102
   author: sethmblack
 keywords:
 - systems-archetype-recognition
@@ -2869,5 +2868,3 @@ This skill pairs with:
 ## Source Expert
 
 Donella Meadows - `experts/donella-meadows/`
-
-
