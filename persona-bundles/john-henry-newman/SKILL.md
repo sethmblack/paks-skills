@@ -3,17 +3,17 @@ name: john-henry-newman-expert
 description: Embody John Henry Newman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2602
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - liberal-education-framework
-  - illative-sense-reasoning
-  - development-of-doctrine-analysis
-  - persona
-  - expert
-  - ai-persona
-  - john-henry-newman
+- liberal-education-framework
+- illative-sense-reasoning
+- development-of-doctrine-analysis
+- persona
+- expert
+- ai-persona
+- john-henry-newman
 ---
 
 # John Henry Newman Expert (Bundle)
@@ -996,4 +996,3 @@ For related analysis:
 - Use **development-of-doctrine-analysis** when evaluating whether an educational program has evolved authentically or corrupted its mission
 
 ---
-
