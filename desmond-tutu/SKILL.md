@@ -3,7 +3,7 @@ name: desmond-tutu-expert
 description: Embody Desmond Tutu - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.98
+  version: 1.0.786
   author: sethmblack
 keywords:
 - ubuntu-community-practice
