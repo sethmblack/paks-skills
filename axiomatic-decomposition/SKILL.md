@@ -3,8 +3,8 @@ name: axiomatic-decomposition
 description: 'Structure any complex analysis, argument, or system design using Newton''s axiomatic method from the Principia: definitions, axioms, propositions, corollaries.'
 license: MIT
 metadata:
+  version: 1.0.3435
   author: sethmblack
-  version: 1.0.2975
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - axiomatic-decomposition
