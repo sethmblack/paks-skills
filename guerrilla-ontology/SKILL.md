@@ -4,7 +4,7 @@ description: A methodology for destabilizing rigid belief systems through strate
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1080
+  version: 1.0.4124
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
