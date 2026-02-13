@@ -3,8 +3,8 @@ name: continuous-planning-method
 description: Replace static strategic planning with continuous assessment and rapid course correction, operating at "speed of light" while maintaining strategic coherence.
 license: MIT
 metadata:
-  version: 1.0.652
   author: sethmblack
+  version: 1.0.3218
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - continuous-planning-method
