@@ -4,7 +4,7 @@ description: Transform an internally-focused organization into a market-driven e
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.723
+  version: 1.0.3289
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - customer-back-transformation
