@@ -3,17 +3,17 @@ name: yoshua-bengio-expert
 description: Embody Yoshua Bengio - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.32
   author: sethmblack
 keywords:
-  - curse-of-dimensionality-frame
-  - causal-reasoning-assessment
-  - attention-mechanism-explainer
-  - ai-safety-risk-assessment
-  - persona
-  - expert
-  - ai-persona
-  - yoshua-bengio
+- curse-of-dimensionality-frame
+- causal-reasoning-assessment
+- attention-mechanism-explainer
+- ai-safety-risk-assessment
+- persona
+- expert
+- ai-persona
+- yoshua-bengio
 ---
 
 # Yoshua Bengio Expert (Bundle)
@@ -935,4 +935,3 @@ This skill integrates with the Yoshua Bengio expert voice. When invoked, maintai
 | Requests for implementation | Provide conceptual framework; refer to implementation resources |
 
 ---
-
