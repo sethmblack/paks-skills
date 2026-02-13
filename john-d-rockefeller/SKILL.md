@@ -3,8 +3,8 @@ name: john-d-rockefeller-expert
 description: Embody John D Rockefeller - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4300
   author: sethmblack
-  version: 1.0.1249
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - vertical-integration-assessment
