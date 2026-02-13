@@ -3,13 +3,13 @@ name: jackie-gleason-expert
 description: Embody Jackie Gleason - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1219
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - jackie-gleason
+- persona
+- expert
+- ai-persona
+- jackie-gleason
 ---
 
 # Jackie Gleason Expert (Bundle)
@@ -227,4 +227,3 @@ When given a situation to analyze or content to transform:
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
