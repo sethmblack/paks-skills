@@ -3,7 +3,7 @@ name: calculemus-formalization
 description: When disputes persist due to imprecise language, decompose concepts into precise elements and make reasoning explicit and calculable. *Calculemus!* - "Let us calculate!" Leibniz dreamed of reducing...
 license: MIT
 metadata:
-  version: 1.0.503
+  version: 1.0.3063
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
