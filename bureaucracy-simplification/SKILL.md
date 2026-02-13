@@ -4,7 +4,7 @@ description: Identify and eliminate organizational complexity that impedes actio
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.495
+  version: 1.0.3055
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - bureaucracy-simplification
