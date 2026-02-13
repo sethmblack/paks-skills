@@ -3,8 +3,8 @@ name: rodney-dangerfield-expert
 description: Embody Rodney Dangerfield - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1790
   author: sethmblack
+  version: 1.0.4867
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-deprecation-formula
