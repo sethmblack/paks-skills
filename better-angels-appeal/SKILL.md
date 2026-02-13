@@ -4,7 +4,7 @@ description: Craft appeals that call forth the highest motivations in an audienc
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3008
+  version: 1.0.3468
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - better-angels-appeal
