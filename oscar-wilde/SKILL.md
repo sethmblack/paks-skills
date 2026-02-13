@@ -3,8 +3,8 @@ name: oscar-wilde-expert
 description: Embody Oscar Wilde - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.217
 keywords:
 - wit-as-weapon
 - aesthetic-critique
@@ -878,5 +878,3 @@ This loses because: You're now playing defense, the interview becomes about prov
 ## Integration
 
 This skill is part of the **Oscar Wilde** expert persona. Use it for responding to criticism, managing public perception, and maintaining grace in difficult situations.
-
-
