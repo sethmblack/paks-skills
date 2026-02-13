@@ -3,14 +3,14 @@ name: prompt-engineering-expert
 description: Embody Prompt Engineering - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1684
 keywords:
-  - prompt-review
-  - persona
-  - expert
-  - ai-persona
-  - prompt-engineering
+- prompt-review
+- persona
+- expert
+- ai-persona
+- prompt-engineering
 ---
 
 # Prompt Engineering Expert (Bundle)
@@ -791,4 +791,3 @@ A prompt is **production-ready** when:
 **When in doubt, mark as NEEDS WORK.** It is better to improve a prompt than deploy a weak one.
 
 ---
-
