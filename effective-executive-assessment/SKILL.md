@@ -1,10 +1,9 @@
 ---
 name: effective-executive-assessment
-description: Assess and improve your personal effectiveness using Drucker's five practices
-  for executive effectiveness.
+description: Assess and improve your personal effectiveness using Drucker's five practices for executive effectiveness.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.849
   author: sethmblack
 keywords:
 - effective-executive-assessment
