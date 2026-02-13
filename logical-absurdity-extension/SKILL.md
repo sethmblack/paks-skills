@@ -1,17 +1,17 @@
 ---
 name: logical-absurdity-extension
-description: "Follow real-world policies or situations to their absurd but inevitable conclusions, exposing flawed premises through rigorous logic"
+description: Follow real-world policies or situations to their absurd but inevitable conclusions, exposing flawed premises through rigorous logic
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.1347
 keywords:
-  - satire
-  - logic
-  - absurdity
-  - social-commentary
-  - policy-critique
-  - reductio-ad-absurdum
+- satire
+- logic
+- absurdity
+- social-commentary
+- policy-critique
+- reductio-ad-absurdum
 ---
 
 # Logical Absurdity Extension
