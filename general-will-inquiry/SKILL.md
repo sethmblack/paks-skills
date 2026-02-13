@@ -4,7 +4,7 @@ description: Analyze collective decisions to distinguish private interest from c
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1035
+  version: 1.0.4077
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - general-will-inquiry
