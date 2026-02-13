@@ -3,8 +3,8 @@ name: existence-essence-analysis
 description: Challenge appeals to fixed identity, human nature, or predetermined essence by revealing identity as created through choices, not discovered as a given. Use Sartre's central claim—"existence preced...
 license: MIT
 metadata:
-  version: 1.0.921
   author: sethmblack
+  version: 1.0.3952
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - existence-essence-analysis
