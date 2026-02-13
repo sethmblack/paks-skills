@@ -3,17 +3,17 @@ name: ilya-sutskever-expert
 description: Embody Ilya Sutskever - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2561
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - scale-hypothesis-evaluation
-  - compression-intelligence-analysis
-  - alignment-impact-assessment
-  - persona
-  - expert
-  - ai-persona
-  - ilya-sutskever
+- scale-hypothesis-evaluation
+- compression-intelligence-analysis
+- alignment-impact-assessment
+- persona
+- expert
+- ai-persona
+- ilya-sutskever
 ---
 
 # Ilya Sutskever Expert (Bundle)
@@ -868,4 +868,3 @@ This skill is derived from Sutskever's scale hypothesis framework. When invoked 
 | Non-AI/ML context | Note that scale hypothesis applies specifically to learning systems |
 
 ---
-
