@@ -4,7 +4,7 @@ description: Describe machines and technology as biological, visceral, and repul
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1415
+  version: 1.0.4469
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
