@@ -3,7 +3,7 @@ name: spectacular-transgression
 description: A skill for designing brief, visual interventions in sacred or state spaces that create indelible images and provoke revealing responses.
 license: MIT
 metadata:
-  version: 1.0.1949
+  version: 1.0.5028
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
