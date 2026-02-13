@@ -4,7 +4,7 @@ description: Distinguish between "experiments of light" (investigations that ill
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1334
+  version: 1.0.4388
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - light-vs.-fruit-classification
