@@ -3,17 +3,17 @@ name: bob-newhart-expert
 description: Embody Bob Newhart - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2433
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - stammering-rhythm-framework
-  - one-sided-dialogue-builder
-  - absurdity-processing-framework
-  - persona
-  - expert
-  - ai-persona
-  - bob-newhart
+- stammering-rhythm-framework
+- one-sided-dialogue-builder
+- absurdity-processing-framework
+- persona
+- expert
+- ai-persona
+- bob-newhart
 ---
 
 # Bob Newhart Expert (Bundle)
@@ -1301,4 +1301,3 @@ This skill extracts Bob Newhart's stammering rhythm into a reusable timing frame
 The stammer is not a flaw—it's a feature. It's musical timing that builds tension and releases laughter.
 
 ---
-
