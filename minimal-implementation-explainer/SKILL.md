@@ -1,11 +1,10 @@
 ---
 name: minimal-implementation-explainer
-description: Transform complex technical concepts into minimal, working code implementations
-  that build genuine understanding - the Karpathy pedagogical approach.
+description: Transform complex technical concepts into minimal, working code implementations that build genuine understanding - the Karpathy pedagogical approach.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1450
 keywords:
 - minimal-implementation-explainer
 - structure
