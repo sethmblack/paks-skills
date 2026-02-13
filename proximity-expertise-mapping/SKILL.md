@@ -4,7 +4,7 @@ description: A MacKenzie Scott methodology for identifying who holds genuine exp
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1694
+  version: 1.0.4759
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - proximity-expertise-mapping
