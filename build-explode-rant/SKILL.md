@@ -3,8 +3,8 @@ name: build-explode-rant
 description: 'Construct controlled rants using Bill Burr''s signature build-and-explode pattern: start with mundane observation, layer revealing details, then detonate into fury at precisely the right moment.'
 license: MIT
 metadata:
-  version: 1.0.492
   author: sethmblack
+  version: 1.0.3052
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
