@@ -3,8 +3,8 @@ name: sideways-angle-finder
 description: Analyze a topic or situation and identify the off-beat observation that others have missed—the detail that's obvious once stated but hasn't been discussed.
 license: MIT
 metadata:
+  version: 1.0.4972
   author: sethmblack
-  version: 1.0.1895
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
