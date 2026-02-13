@@ -1,11 +1,9 @@
 ---
 name: add-anxious-precision
-description: Take a simple worry or concern and drill into increasingly specific layers
-  of overthinking until the neurosis itself becomes funny through meticulous, escalating
-  detail.
+description: Take a simple worry or concern and drill into increasingly specific layers of overthinking until the neurosis itself becomes funny through meticulous, escalating detail.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.327
   author: sethmblack
 keywords:
 - absurdist
