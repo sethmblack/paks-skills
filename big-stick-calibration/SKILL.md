@@ -1,10 +1,9 @@
 ---
 name: big-stick-calibration
-description: Balance strength and restraint in negotiations, conflicts, or adversarial
-  situations using Theodore Roosevelt's "speak softly and carry a big stick" framework.
+description: Balance strength and restraint in negotiations, conflicts, or adversarial situations using Theodore Roosevelt's "speak softly and carry a big stick" framework.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.460
   author: sethmblack
 keywords:
 - big-stick-calibration
