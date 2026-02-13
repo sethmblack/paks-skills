@@ -1,17 +1,17 @@
 ---
 name: object-personification
-description: "Give voice and personality to inanimate objects, tools, and systems, letting them speak about their experience and frustrations"
+description: Give voice and personality to inanimate objects, tools, and systems, letting them speak about their experience and frustrations
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1532
+  author: Seth Black
 keywords:
-  - anthropomorphism
-  - personification
-  - technical-writing
-  - comedy
-  - debugging
-  - winters
+- anthropomorphism
+- personification
+- technical-writing
+- comedy
+- debugging
+- winters
 ---
 
 # Object Personification
