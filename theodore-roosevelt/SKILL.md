@@ -4,7 +4,7 @@ description: Embody Theodore Roosevelt - AI persona expert with integrated metho
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.273
+  version: 1.0.2085
 keywords:
 - square-deal-arbitration
 - big-stick-calibration
