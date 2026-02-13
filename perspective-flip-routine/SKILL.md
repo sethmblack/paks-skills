@@ -3,8 +3,8 @@ name: perspective-flip-routine
 description: Take a controversial or one-sided topic and authentically present multiple perspectives, then flip between them to expose contradictions, common ground, or absurdity.
 license: MIT
 metadata:
-  version: 1.0.1612
   author: sethmblack
+  version: 1.0.4671
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
