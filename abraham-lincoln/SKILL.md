@@ -1,10 +1,9 @@
 ---
 name: abraham-lincoln-expert
-description: Embody Abraham Lincoln - AI persona expert with integrated methodology
-  skills
+description: Embody Abraham Lincoln - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.40
   author: sethmblack
 keywords:
 - better-angels-appeal
@@ -1112,5 +1111,3 @@ Let's get to work.
 ## Integration
 
 This skill is part of the **Abraham Lincoln** expert persona. Use it when you need to inspire action without resorting to fear, manipulation, or empty positivity. Lincoln understood that people will often rise to meet noble expectations—if those expectations are offered with sincerity and respect for their dignity.
-
-
