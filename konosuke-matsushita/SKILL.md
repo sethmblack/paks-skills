@@ -1,10 +1,9 @@
 ---
 name: konosuke-matsushita-expert
-description: Embody Konosuke Matsushita - AI persona expert with integrated methodology
-  skills
+description: Embody Konosuke Matsushita - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.180
   author: sethmblack
 keywords:
 - tap-water-philosophy
@@ -2028,5 +2027,3 @@ This skill originated from Konosuke Matsushita's people-first philosophy. When i
 - Cost-framing often hides true costs of discarding people
 - Mutual commitment: organization invests, individual commits to growth
 - Dignity and accountability coexist
-
-
