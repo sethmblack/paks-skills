@@ -1,12 +1,10 @@
 ---
 name: prophetic-witness-method
-description: Find your voice to speak moral truth to power while maintaining love
-  for the offender. Apply Desmond Tutu's framework for prophetic witness—naming injustice
-  clearly without abandoning hope for rede...
+description: Find your voice to speak moral truth to power while maintaining love for the offender. Apply Desmond Tutu's framework for prophetic witness—naming injustice clearly without abandoning hope for rede...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1692
 keywords:
 - prophetic-witness-method
 - transformation
