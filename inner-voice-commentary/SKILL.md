@@ -3,8 +3,8 @@ name: inner-voice-commentary
 description: Apply Jim Gaffigan's signature inner voice technique to add self-aware, whispered commentary that catches claims, rationalizations, and contradictions.
 license: MIT
 metadata:
-  version: 1.0.1184
   author: sethmblack
+  version: 1.0.4231
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
