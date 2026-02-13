@@ -3,7 +3,7 @@ name: behavioral-experiment-design
 description: Design a real-world test to gather evidence about a belief that persists despite verbal challenging. Based on Aaron Beck's behavioral experiment methodology in cognitive therapy.
 license: MIT
 metadata:
-  version: 1.0.437
+  version: 1.0.2995
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
