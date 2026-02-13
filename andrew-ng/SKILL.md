@@ -4,7 +4,7 @@ description: Embody Andrew Ng - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2927
+  version: 1.0.3387
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ml-project-scoping
