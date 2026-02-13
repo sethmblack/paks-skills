@@ -3,7 +3,7 @@ name: sara-blakely-expert
 description: Embody Sara Blakely - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.249
   author: sethmblack
 keywords:
 - oops-meeting-design
@@ -2527,5 +2527,3 @@ Related skills:
 - `failure-reframe` - For fear of failure before action
 - `persistence-protocol` - For maintaining effort through rejection (Estee Lauder)
 - `obstacle-to-opportunity` - For Stoic approach to obstacles (Marcus Aurelius)
-
-
