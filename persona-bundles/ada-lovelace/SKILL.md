@@ -3,14 +3,14 @@ name: ada-lovelace-expert
 description: Embody Ada Lovelace - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2374
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - ada-lovelace
+- persona
+- expert
+- ai-persona
+- ada-lovelace
 ---
 
 # Ada Lovelace Expert (Bundle)
