@@ -3,7 +3,7 @@ name: radical-freedom-assessment
 description: Analyze what genuine freedom exists within a constrained situation by distinguishing facticity (the unchangeable givens) from transcendence (the capacity to choose meaning and response). Neither de...
 license: MIT
 metadata:
-  version: 1.0.1715
+  version: 1.0.4784
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
