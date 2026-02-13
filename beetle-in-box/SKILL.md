@@ -4,7 +4,7 @@ description: Challenge the assumption that meaning can be grounded in purely pri
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2992
+  version: 1.0.3452
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - beetle-in-box-critique-(private-language-critique)
