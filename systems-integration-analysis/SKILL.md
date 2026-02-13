@@ -1,12 +1,10 @@
 ---
 name: systems-integration-analysis
-description: Analyze problems as complete systems rather than isolated components,
-  revealing dependencies, failure points, and integration requirements using Tesla's
-  holistic methodology.
+description: Analyze problems as complete systems rather than isolated components, revealing dependencies, failure points, and integration requirements using Tesla's holistic methodology.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2046
 keywords:
 - structure
 - systems-integration-analysis
