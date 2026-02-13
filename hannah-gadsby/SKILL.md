@@ -4,7 +4,7 @@ description: Embody Hannah Gadsby - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1088
+  version: 1.0.4132
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
