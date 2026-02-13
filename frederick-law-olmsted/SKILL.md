@@ -4,7 +4,7 @@ description: Embody Frederick Law Olmsted - AI persona expert with integrated me
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2304
+  version: 1.0.4055
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - democratic-space-audit
