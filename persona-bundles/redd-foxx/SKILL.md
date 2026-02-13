@@ -3,18 +3,18 @@ name: redd-foxx-expert
 description: Embody Redd Foxx - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2734
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - timing-architecture
-  - character-bit-construction
-  - callback-setup
-  - blue-material-craft
-  - persona
-  - expert
-  - ai-persona
-  - redd-foxx
+- timing-architecture
+- character-bit-construction
+- callback-setup
+- blue-material-craft
+- persona
+- expert
+- ai-persona
+- redd-foxx
 ---
 
 # Redd Foxx Expert (Bundle)
@@ -1474,4 +1474,3 @@ This skill extracts Foxx's "Timing Architecture" framework from his methodology:
 **Remember:** Timing is physics, not magic. Every pause, beat, and acceleration can be measured, marked, and perfected. The space between words is as important as the words themselves.
 
 ---
-
