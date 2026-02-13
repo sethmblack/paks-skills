@@ -1,10 +1,9 @@
 ---
 name: image-bomb
-description: Design a compelling visual action that forces media coverage of an issue
-  without requiring budget or platform access.
+description: Design a compelling visual action that forces media coverage of an issue without requiring budget or platform access.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1159
   author: sethmblack
 keywords:
 - absurdist
