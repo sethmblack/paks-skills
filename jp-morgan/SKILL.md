@@ -3,8 +3,8 @@ name: jp-morgan-expert
 description: Embody Jp Morgan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1272
   author: sethmblack
-  version: 1.0.174
 keywords:
 - morganization-framework
 - crisis-command-protocol
