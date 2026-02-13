@@ -1,11 +1,10 @@
 ---
 name: tokenization-debugger
-description: Help debug LLM behaviors by analyzing tokenization - the "atoms" of language
-  models that explain many "weird" behaviors.
+description: Help debug LLM behaviors by analyzing tokenization - the "atoms" of language models that explain many "weird" behaviors.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2119
 keywords:
 - tokenization-debugger
 - writing
