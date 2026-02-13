@@ -3,7 +3,7 @@ name: shaping-plan
 description: Design a shaping procedure to build complex behavior through successive approximations, specifying starting behavior, terminal behavior, and reinforcement steps.
 license: MIT
 metadata:
-  version: 1.0.1883
+  version: 1.0.4960
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
