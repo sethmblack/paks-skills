@@ -3,13 +3,13 @@ name: colin-jost-expert
 description: Embody Colin Jost - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.597
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - colin-jost
+- persona
+- expert
+- ai-persona
+- colin-jost
 ---
 
 # Colin Jost Expert (Bundle)
