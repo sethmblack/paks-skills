@@ -1,11 +1,10 @@
 ---
 name: ruthless-prioritization-audit
-description: Audit current priorities and ruthlessly cut to the top 2-3 highest-impact
-  items using Sheryl Sandberg's operational discipline from scaling Facebook.
+description: Audit current priorities and ruthlessly cut to the top 2-3 highest-impact items using Sheryl Sandberg's operational discipline from scaling Facebook.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1814
 keywords:
 - escalation
 - ruthless-prioritization-audit
