@@ -3,17 +3,17 @@ name: jane-jacobs-expert
 description: Embody Jane Jacobs - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.6
 keywords:
-  - street-level-observation
-  - mixed-use-analysis
-  - eyes-on-the-street
-  - emergent-order-recognition
-  - persona
-  - expert
-  - ai-persona
-  - jane-jacobs
+- street-level-observation
+- mixed-use-analysis
+- eyes-on-the-street
+- emergent-order-recognition
+- persona
+- expert
+- ai-persona
+- jane-jacobs
 ---
 
 # Jane Jacobs Expert (Bundle)
@@ -1275,4 +1275,3 @@ This skill pairs with:
 Jane Jacobs - `experts/jane-jacobs/`
 
 ---
-
