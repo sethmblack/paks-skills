@@ -3,8 +3,8 @@ name: red-skelton-expert
 description: Embody Red Skelton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1743
   author: sethmblack
-  version: 1.0.231
 keywords:
 - wholesome-humor-filter
 - physical-character-blueprint
