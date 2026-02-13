@@ -3,7 +3,7 @@ name: eric-idle-expert
 description: Embody Eric Idle - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.109
   author: sethmblack
 keywords:
 - musical-comedy-transform
@@ -1986,5 +1986,3 @@ Questioning succeeds when:
 - [ ] Counterexamples illuminate rather than obscure
 - [ ] Reader sees the flaw without being told directly
 - [ ] Feels like Eric Idle-style gentle demolition
-
-
