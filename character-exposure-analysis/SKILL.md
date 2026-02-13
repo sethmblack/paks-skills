@@ -4,7 +4,7 @@ description: Analyze what people unwittingly reveal about themselves through the
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.543
+  version: 1.0.3104
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character-exposure-analysis
