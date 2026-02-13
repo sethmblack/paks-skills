@@ -3,8 +3,8 @@ name: benjamin-franklin-expert
 description: Embody Benjamin Franklin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.3004
   author: sethmblack
+  version: 1.0.3464
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - diplomatic-persuasion
