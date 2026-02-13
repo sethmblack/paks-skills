@@ -3,8 +3,8 @@ name: daily-masterpiece-method
 description: Shift focus from overwhelming long-term goals to concrete daily actions, providing structure for today's effort using John Wooden's "Make Each Day Your Masterpiece" philosophy.
 license: MIT
 metadata:
-  version: 1.0.725
   author: sethmblack
+  version: 1.0.3291
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - daily-masterpiece-method
