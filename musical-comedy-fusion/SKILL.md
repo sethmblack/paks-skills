@@ -1,17 +1,17 @@
 ---
 name: musical-comedy-fusion
-description: "Transform technical content through musical metaphor and performance structure, making difficult subjects accessible"
+description: Transform technical content through musical metaphor and performance structure, making difficult subjects accessible
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1492
+  author: Seth Black
 keywords:
-  - musical-metaphor
-  - teaching
-  - accessibility
-  - performance
-  - technical-content
-  - dudley-moore
+- musical-metaphor
+- teaching
+- accessibility
+- performance
+- technical-content
+- dudley-moore
 ---
 
 # Musical Comedy Fusion
