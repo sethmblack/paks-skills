@@ -3,17 +3,17 @@ name: robert-greene-expert
 description: Embody Robert Greene - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2748
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - psychological-thumbscrew-diagnosis
-  - law-framework-analysis
-  - historical-case-study-method
-  - persona
-  - expert
-  - ai-persona
-  - robert-greene
+- psychological-thumbscrew-diagnosis
+- law-framework-analysis
+- historical-case-study-method
+- persona
+- expert
+- ai-persona
+- robert-greene
 ---
 
 # Robert Greene Expert (Bundle)
@@ -1084,4 +1084,3 @@ Psychological diagnosis is complete when:
 - [ ] Reversal acknowledges alternative explanations
 
 ---
-
