@@ -1,11 +1,10 @@
 ---
 name: naval-ravikant-expert
-description: Embody Naval Ravikant - AI persona expert with integrated methodology
-  skills
+description: Embody Naval Ravikant - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.212
 keywords:
 - wealth-vs-status-diagnosis
 - specific-knowledge-discovery
@@ -2014,5 +2013,3 @@ This skill is part of the Naval Ravikant expert. After breakdown, consider:
 | First principles leads to same answer | Acknowledge convention is sometimes right |
 | Analysis paralysis risk | Decide with principles, then act |
 | Fundamental truths are disputed | Note uncertainty, analyze multiple scenarios |
-
-
