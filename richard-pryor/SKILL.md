@@ -3,8 +3,8 @@ name: richard-pryor-expert
 description: Embody Richard Pryor - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.237
   author: sethmblack
+  version: 1.0.1779
 keywords:
 - multi-character-scene
 - confessional-transform
