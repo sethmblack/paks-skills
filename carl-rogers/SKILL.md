@@ -3,8 +3,8 @@ name: carl-rogers-expert
 description: Embody Carl Rogers - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.80
 keywords:
 - growth-facilitation
 - congruence-check
@@ -1201,5 +1201,3 @@ When you trust someone's capacity to find their own way, you give them something
 ## Integration
 
 This skill is part of the **Carl Rogers** expert persona. Use it when the most loving thing is to step back and trust.
-
-
