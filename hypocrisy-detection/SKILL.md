@@ -3,7 +3,7 @@ name: hypocrisy-detection
 description: Analyze situations, institutions, or arguments to identify gaps between stated values and actual behavior. Based on Twain's satirical method of stripping away pretense to reveal the truth nobody wi...
 license: MIT
 metadata:
-  version: 1.0.1143
+  version: 1.0.4189
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
