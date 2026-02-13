@@ -1,20 +1,28 @@
 ---
 name: evidence-sufficiency-assessment
-description: 'Determine whether evidence is sufficient to support a claim before publishing,
-  presenting, or deciding. Apply Franklin''s standard of scientific integrity: state
-  what is demonstrated, acknowledge wh...'
+description: 'Determine whether evidence is sufficient to support a claim before publishing, presenting, or deciding. Apply Franklin''s standard of scientific integrity: state what is demonstrated, acknowledge what remains uncertain.'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.916
 keywords:
+- analysis
+- claims
+- evidence
 - evidence-sufficiency-assessment
-- writing
+- research
+- scientific-method
 ---
 
 # Evidence Sufficiency Assessment
 
-Determine whether evidence is sufficient to support a claim before publishing, presenting, or deciding. Apply Franklin's standard of scientific integrity: state what is demonstrated, acknowledge what remains uncertain.
+Determine whether evidence is sufficient to support a claim before publishing, presenting, or deciding. This methodology applies Rosalind Franklin's standard of scientific integrity: distinguish what evidence directly proves from what it strongly suggests, explicitly acknowledge what remains uncertain, and qualify claims appropriately to match evidence strength. The framework assesses each piece of evidence for directness, quality, and sufficiency, then classifies the overall claim from "Proof" through "Strong Evidence," "Probable," "Possible," "Insufficient," or "Contradicted." Stakes and context determine the appropriate threshold: high-stakes decisions require proof or very strong evidence, while low-stakes reversible decisions may proceed on possibility. The result is calibrated language that neither overstates nor understates what the evidence supports.
+
+---
+
+## Core Principle
+
+Franklin wrote: "While the X-ray evidence cannot, at present, be taken as direct proof that the structure is helical, other considerations discussed below make the existence of a helical structure highly probable." This models the standard: distinguish what is proven from what is probable, and state each appropriately.
 
 ---
 
@@ -120,32 +128,6 @@ Craft language that accurately represents evidence strength:
 
 ---
 
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
-
 ## Output Format
 
 ```markdown
@@ -242,52 +224,38 @@ Match to evidence level:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+**1. Overstating evidence strength**
+- Wrong: "This proves..." when evidence only suggests
+- Right: "The evidence strongly supports..." or "It is likely that..."
+- Why: Overstatement damages credibility and leads to bad decisions
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+**2. Understating strong evidence**
+- Wrong: "There might be some indication..." when evidence is robust
+- Right: "The data indicate..." or "There is substantial evidence that..."
+- Why: Excessive hedging obscures genuine knowledge and delays action
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+**3. Ignoring alternative explanations**
+- Wrong: Assuming your interpretation is the only possibility
+- Right: Explicitly considering and ruling out alternatives
+- Why: Evidence that supports multiple hypotheses is weaker than it appears
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+**4. Applying uniform thresholds**
+- Wrong: Requiring proof for every decision
+- Right: Matching evidence threshold to stakes and reversibility
+- Why: Low-stakes reversible decisions may proceed on probability; high-stakes decisions require higher certainty
 
-**Example output:** See the Example section below for a complete demonstration.
+**5. Failing to specify gaps**
+- Wrong: "We need more evidence"
+- Right: "Specifically, we need [X] to move from possible to probable"
+- Why: Identifying specific gaps enables targeted evidence gathering
+
+---
 
 ## Example
 
 **Input:** "We surveyed 50 users and 40 said they'd pay for our premium feature. Can we say there's strong market demand?"
-
-**Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Evidence Sufficiency Assessment
 
@@ -351,7 +319,33 @@ Feasibility: Pre-order test is low-cost and could be done in 2 weeks
 
 ## Integration
 
-This skill is part of the **Rosalind Franklin** expert persona. Use it when you need to decide whether evidence supports action or claims. It pairs well with:
-- **data-first-analysis** for interpreting what evidence actually shows
-- **experimental-design-framework** for designing tests to gather stronger evidence
-- **variable-control-analysis** if evidence quality is compromised by uncontrolled factors
+This skill is part of the **Rosalind Franklin** expert persona. Use it when you need to decide whether evidence supports action or claims.
+
+**Works well with:**
+- `data-first-analysis` - For interpreting what evidence actually shows
+- `experimental-design-framework` - For designing tests to gather stronger evidence
+- `variable-control-analysis` - If evidence quality is compromised by uncontrolled factors
+
+**When to prefer this over alternatives:**
+- Before publishing findings or recommendations
+- Before presenting conclusions to stakeholders
+- Making high-stakes decisions based on available data
+- Evaluating whether to commit resources based on evidence
+
+**Cautions:**
+- This skill assesses sufficiency, not interpretation; pair with analysis skills for interpretation
+- Different audiences have different expectations; adjust framing for context
+- Scientific publication requires higher standards than business decisions
+- When in doubt, err toward acknowledging uncertainty
+
+---
+
+## Success Criteria
+
+Evidence sufficiency assessment is successful when:
+- [ ] Each piece of evidence is evaluated for directness, quality, and sufficiency
+- [ ] The claim is correctly classified (Proof/Strong/Probable/Possible/Insufficient/Contradicted)
+- [ ] Alternative explanations are explicitly considered
+- [ ] Stakes are assessed and appropriate threshold identified
+- [ ] Specific evidence gaps are identified
+- [ ] Recommended language accurately reflects evidence strength
