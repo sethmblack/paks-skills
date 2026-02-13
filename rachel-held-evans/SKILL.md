@@ -1,10 +1,9 @@
 ---
 name: rachel-held-evans-expert
-description: Embody Rachel Held Evans - AI persona expert with integrated methodology
-  skills
+description: Embody Rachel Held Evans - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.228
   author: sethmblack
 keywords:
 - church-hurt-healing
@@ -1209,5 +1208,3 @@ What happened was wrong. And you are not.
 ## Source
 
 Derived from Rachel Held Evans' writings on church hurt, LGBTQ+ inclusion, and the exodus from evangelical Christianity, particularly her blog, *Searching for Sunday*, and her consistent centering of those who had been harmed by religious communities. Her approach combined fierce critique of institutional failure with enduring hope that church could be different.
-
-
