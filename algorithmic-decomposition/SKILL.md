@@ -3,7 +3,7 @@ name: algorithmic-decomposition
 description: Break complex problems into fundamental operations, identifying recursive structures, base cases, and step-by-step computational approaches - just as Ada Lovelace decomposed the Bernoulli number ca...
 license: MIT
 metadata:
-  version: 1.0.2907
+  version: 1.0.3308
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:

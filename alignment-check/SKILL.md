@@ -3,8 +3,8 @@ name: alignment-check
 description: Rapidly assess whether a team or organization is aligned around a common vision, strategy, and understanding of roles through a structured diagnostic protocol.
 license: MIT
 metadata:
+  version: 1.0.3308
   author: sethmblack
-  version: 1.0.2909
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - alignment-check
