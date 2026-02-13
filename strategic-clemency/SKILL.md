@@ -3,8 +3,8 @@ name: strategic-clemency
 description: Use mercy as a strategic instrument to convert defeated opponents into obligated allies. Spare enemies to bind them; elevation creates debt.
 license: MIT
 metadata:
+  version: 1.0.5069
   author: sethmblack
-  version: 1.0.1990
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
