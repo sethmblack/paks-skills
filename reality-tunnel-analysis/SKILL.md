@@ -1,11 +1,10 @@
 ---
 name: reality-tunnel-analysis
-description: A methodology for identifying, mapping, and navigating the belief systems
-  that shape how individuals and groups perceive reality.
+description: A methodology for identifying, mapping, and navigating the belief systems that shape how individuals and groups perceive reality.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1734
 keywords:
 - absurdist
 - reality-tunnel-analysis
@@ -173,4 +172,3 @@ Practice moving between tunnels:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
