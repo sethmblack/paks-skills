@@ -4,7 +4,7 @@ description: Design dense, layered information displays that respect the viewer'
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1115
+  version: 1.0.4160
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - high-resolution-thinking
