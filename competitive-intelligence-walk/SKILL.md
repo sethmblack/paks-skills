@@ -1,11 +1,10 @@
 ---
 name: competitive-intelligence-walk
-description: Systematically learn from competitors by observing what they do *better*
-  than you, not their weaknesses.
+description: Systematically learn from competitors by observing what they do *better* than you, not their weaknesses.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.610
 keywords:
 - competitive-intelligence-walk
 - writing
@@ -176,48 +175,52 @@ Create actionable outputs:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Looking for weaknesses** | Ego-driven analysis misses the learning opportunity | Document only strengths; this is about learning, not feeling superior |
+| **One-time visit** | Competitors change; single observation is snapshot, not pattern | Visit constantly; make it a habit, not an event |
+| **Executive-level only** | Strategic analysis misses operational details | Talk to frontline people who know what actually works |
+| **Noting without adapting** | Ideas without implementation are worthless | Every observation should answer: "What would we try?" |
+| **Assuming you can't learn from them** | Arrogance blinds you to improvement opportunities | Everyone survives for a reason; find that reason |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
-## Constraints
-
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+---
 
 ## Example
 
-**Input:**
-- input_data: [Specific example input]
-- context: [Relevant background]
+**Input:** "I run a regional coffee chain. Starbucks just opened three locations in our area. How do I learn from them instead of just resenting them?"
 
 **Output:**
 
-[Detailed demonstration of the skill in action - showing the complete process and final result]
+## Competitive Intelligence Walk: Starbucks (Downtown Location)
 
-**Why this works:**
-This example demonstrates the key principles of the skill by [explanation of what makes it effective].
+**Date:** Tuesday, 7:30 AM (peak commute)
+**Location/Context:** New downtown Starbucks, one block from our flagship store
+
+### Strengths Observed
+
+| What They Do | Why It Works | Our Gap | Could We Adapt? |
+|--------------|--------------|---------|-----------------|
+| Mobile order pickup is separate area | No line confusion; mobile customers in/out in 30 seconds | We have one line for everything | Yes - designate pickup zone |
+| Staff greets by name (mobile orders) | Personal connection despite volume; loyalty reinforced | We don't track customer names | Partial - could on regulars |
+| Menu board shows 4 items max at eye level | Reduces decision paralysis; speeds ordering | Our board has 20+ items displayed | Yes - simplify display |
+| Every drink announced when ready | Customer doesn't have to watch; can sit | We just call names | Yes - simple change |
+| Bathroom requires code on receipt | Reduces non-customer loitering; bathroom cleaner | Anyone can use ours | Consider - might feel unwelcoming |
+
+### Top 3 Ideas to Borrow
+
+1. **Separate mobile pickup zone:** Even without an app, we could designate a "phone order pickup" area and promote phone-ahead ordering. Reduces line anxiety.
+
+2. **Simplified display menu:** Our visual complexity is overwhelming. Test showing 4 signature drinks prominently; full menu available but not screaming.
+
+3. **Drink announcement protocol:** Announce drink and name clearly when ready. Simple operational change, immediate improvement.
+
+### What I'd Try First
+
+**Mobile pickup zone.** We already have phone orders; we just make them wait in the same line. Dedicating a corner with a sign "Phone Orders: Pick Up Here" costs nothing and immediately improves experience for our fastest customers.
+
+---
 
 ## Integration
 
