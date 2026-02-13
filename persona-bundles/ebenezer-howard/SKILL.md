@@ -3,8 +3,8 @@ name: ebenezer-howard-expert
 description: Embody Ebenezer Howard - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.2493
   author: sethmblack
-  version: 1.0.2354
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
