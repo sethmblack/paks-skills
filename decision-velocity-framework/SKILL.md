@@ -3,7 +3,7 @@ name: decision-velocity-framework
 description: Break through analysis paralysis and chronic organizational indecision to enable forward movement while maintaining decision quality.
 license: MIT
 metadata:
-  version: 1.0.758
+  version: 1.0.3788
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
