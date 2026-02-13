@@ -4,7 +4,7 @@ description: 'Analyze how someone is (or isn''t) applying leverage to their work
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1326
+  version: 1.0.4380
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - leverage-audit
