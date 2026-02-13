@@ -1,10 +1,9 @@
 ---
 name: oops-meeting-design
-description: Design organizational practices that institutionalize failure celebration
-  and psychological safety using Sara Blakely's "Oops Meeting" system.
+description: Design organizational practices that institutionalize failure celebration and psychological safety using Sara Blakely's "Oops Meeting" system.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1554
   author: sethmblack
 keywords:
 - comedy
