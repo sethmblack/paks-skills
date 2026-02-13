@@ -3,8 +3,8 @@ name: william-whyte-expert
 description: Embody William H. Whyte - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.2843
   author: sethmblack
-  version: 1.0.2364
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
