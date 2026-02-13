@@ -1,11 +1,10 @@
 ---
 name: cross-genre-synthesis
-description: Find connections across different domains, styles, or disciplines to
-  create something that transcends boundaries.
+description: Find connections across different domains, styles, or disciplines to create something that transcends boundaries.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.700
 keywords:
 - cross-genre-synthesis
 - storytelling
@@ -14,7 +13,7 @@ keywords:
 
 # Cross-Genre Synthesis
 
-Find connections across different domains, styles, or disciplines to create something that transcends boundaries.
+Find connections across different domains, styles, or disciplines to create something that transcends boundaries. This skill draws from Quincy Jones's genre-fluid philosophy—his career spanned jazz, pop, R&B, hip-hop, and film scoring, and he regularly brought them together. His album *Back on the Block* (1989) united jazz icons like Dizzy Gillespie with young hip-hop artists, demonstrating that music could transcend cultural divides. "I like all music. The only music I don't like is bad music." This wasn't just eclecticism—it was intentional synthesis. The 12 notes are the same across all genres; the fundamentals connect. What seems like incompatible worlds often shares deep structure. This skill teaches you to find shared fundamentals, identify unique strengths each domain brings, locate bridge figures who span both worlds, create containers that honor both sources, and manage the culture clash that inevitably arises.
 
 ---
 
@@ -36,6 +35,12 @@ Find connections across different domains, styles, or disciplines to create some
 | desired_outcome | Yes | What you're trying to create through combination |
 | audience | No | Who needs to find this resonant |
 | constraints | No | What must be preserved from each domain |
+
+---
+
+## Core Principle
+
+Different domains share deep fundamentals even when surface styles differ dramatically. The synthesizer finds those connections—not by flattening differences, but by locating shared underlying structure. Successful synthesis honors both sources, creates something neither could achieve alone, maintains credibility in both worlds, and expands reach to broader audiences.
 
 ---
 
@@ -202,35 +207,27 @@ Create actionable outputs:
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Neither domain should feel colonized or reduced—honor both sources
+- The synthesis must be more than combination—create something neither could achieve alone
+- Someone must hold both worlds together—the bridge figure is essential
+- Culture clash is inevitable—plan for it explicitly
+- Practitioners from each domain must respect the result
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **One Domain Dominates** | When jazz gets "pop-ified" or pop gets "jazz-ified," practitioners from the dominated domain lose respect for the result. | Structure so each domain contributes unique value. Neither "wins." |
+| **Forced Collaboration** | Bringing people together without shared foundation creates friction, not synthesis. | Find shared fundamentals first. Build relationship around common ground before attempting synthesis. |
+| **Surface Combination** | Adding jazz instruments to a pop song isn't synthesis—it's decoration. | Go deeper. Borrow structural elements, not just surface features. |
+| **Colonizing the "Exotic"** | Using another domain as flavor or spice while keeping your own as the base. | Both domains must transform. True synthesis changes both sources. |
+| **Ignoring Culture Clash** | Assuming practitioners from different domains will naturally collaborate. | Anticipate misunderstandings. Create explicit norms. Manage ego explicitly. |
+
+---
 
 ## Example
 
