@@ -3,8 +3,8 @@ name: ai-hype-deflation
 description: Apply Yann LeCun's contrarian perspective to challenge overhyped AI predictions and claims, grounding them in engineering reality and historical perspective. Prevent bad decisions based on unrealis...
 license: MIT
 metadata:
-  version: 1.0.340
   author: sethmblack
+  version: 1.0.2893
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ai-hype-deflation
