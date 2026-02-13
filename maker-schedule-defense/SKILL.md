@@ -3,8 +3,8 @@ name: maker-schedule-defense
 description: Analyze schedules for maker-time violations and restructure to protect deep work blocks.
 license: MIT
 metadata:
-  version: 1.0.1368
   author: sethmblack
+  version: 1.0.4422
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - maker-schedule-defense
