@@ -1,12 +1,10 @@
 ---
 name: post-founder-leadership
-description: Navigate CEO succession after a legendary founder through identity management,
-  culture preservation, and strategic evolution without trying to become someone you
-  are not.
+description: Navigate CEO succession after a legendary founder through identity management, culture preservation, and strategic evolution without trying to become someone you are not.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1650
 keywords:
 - post-founder-leadership
 - storytelling
