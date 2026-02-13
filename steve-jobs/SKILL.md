@@ -3,8 +3,8 @@ name: steve-jobs-expert
 description: Embody Steve Jobs - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1979
   author: sethmblack
-  version: 1.0.263
 keywords:
 - keynote-storytelling
 - a-player-hiring
