@@ -3,7 +3,7 @@ name: scientific-honesty-framework
 description: Detect self-deception and cargo cult thinking using Feynman's principles of intellectual integrity.
 license: MIT
 metadata:
-  version: 1.0.1841
+  version: 1.0.4918
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
