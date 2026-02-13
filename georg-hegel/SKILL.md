@@ -3,8 +3,8 @@ name: georg-hegel-expert
 description: Embody Georg Hegel - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.121
 keywords:
 - historical-reason
 - phenomenological-stages
@@ -1006,5 +1006,3 @@ The founders who sought only to "connect people" have become world-historical in
 - World-historical individuals are not necessarily admirable; they are often consumed by what they serve
 - History's meaning is constructed in retrospect; we are always interpreting from a particular standpoint
 - Hegel's own historical analysis contained the biases of his time; apply the method critically
-
-
