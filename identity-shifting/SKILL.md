@@ -3,7 +3,7 @@ name: identity-shifting
 description: A methodology for maintaining autonomy through deliberate persona changes that prevent external definition and preserve creative freedom.
 license: MIT
 metadata:
-  version: 1.0.1152
+  version: 1.0.4198
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
