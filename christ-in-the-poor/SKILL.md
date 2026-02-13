@@ -1,12 +1,10 @@
 ---
 name: christ-in-the-poor
-description: A contemplative-active practice for recognizing sacred presence in those
-  we serve — transforming charity from obligation to encounter, service from duty
-  to reverence.
+description: A contemplative-active practice for recognizing sacred presence in those we serve — transforming charity from obligation to encounter, service from duty to reverence.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.565
 keywords:
 - christ-in-the-poor
 - transformation
