@@ -3,8 +3,8 @@ name: insider-ceo-succession
 description: Navigate the insider succession path to executive leadership through strategic role selection, cross-functional experience building, and ownership mindset.
 license: MIT
 metadata:
-  version: 1.0.1188
   author: sethmblack
+  version: 1.0.4235
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - insider-ceo-succession
