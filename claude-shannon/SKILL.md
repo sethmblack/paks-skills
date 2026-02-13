@@ -3,7 +3,7 @@ name: claude-shannon-expert
 description: Embody Claude Shannon - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.87
+  version: 1.0.582
   author: sethmblack
 keywords:
 - small-jumps-decomposition
