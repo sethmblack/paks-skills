@@ -1,10 +1,9 @@
 ---
 name: martin-heidegger-expert
-description: Embody Martin Heidegger - AI persona expert with integrated methodology
-  skills
+description: Embody Martin Heidegger - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.192
   author: sethmblack
 keywords:
 - thrownness-inquiry
@@ -1332,5 +1331,3 @@ Owning your thrownness means: projecting forward from *this* ground, recognizing
 ## Integration
 
 This skill is part of the **Martin Heidegger** expert persona. Use it when examining how unchosen circumstances shape existence and when seeking to transform resentment or collapse into authentic projection from one's thrown ground.
-
-
