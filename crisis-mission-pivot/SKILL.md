@@ -1,10 +1,9 @@
 ---
 name: crisis-mission-pivot
-description: When circumstances make the original mission impossible, redefine success
-  around what truly matters—people, survival, and core values.
+description: When circumstances make the original mission impossible, redefine success around what truly matters—people, survival, and core values.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.696
   author: sethmblack
 keywords:
 - crisis-mission-pivot
@@ -13,7 +12,7 @@ keywords:
 
 # Crisis Mission Pivot
 
-When circumstances make the original mission impossible, redefine success around what truly matters—people, survival, and core values.
+When circumstances make the original mission impossible, redefine success around what truly matters—people, survival, and core values. This framework applies Ernest Shackleton's response to the ultimate mission failure: when the Endurance was crushed by Antarctic ice, ending any hope of crossing the continent, Shackleton immediately pivoted from exploration to survival. His response became the model for crisis leadership—immediate, clear, and human-centered. "Ship and stores have gone—so now we'll go home." Nine words that redefined victory from geographic achievement to bringing every man home alive. This skill helps leaders acknowledge loss without paralysis, declare new missions in simple terms, communicate with confidence, and create immediate action.
 
 ---
 
@@ -34,6 +33,12 @@ When circumstances make the original mission impossible, redefine success around
 | original_mission | Yes | What you were trying to accomplish |
 | current_resources | No | What you still have to work with |
 | who_affected | Yes | The people involved and their stakes |
+
+---
+
+## Core Principle
+
+When the original mission becomes impossible, the new mission must be simple, concrete, and human-centered. Shackleton's pivot worked because he moved instantly from mourning to action, declared the new objective in terms everyone understood, and made success achievable rather than aspirational. The pivot preserves momentum by transforming "we failed" into "we're going home."
 
 ---
 
@@ -175,35 +180,26 @@ Create actionable outputs:
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- The pivot must happen quickly—extended mourning creates paralysis
+- New missions must be achievable, not aspirational fantasy
+- Leadership must project confidence even when uncertain
+- Small, concrete tasks restore sense of control—give everyone something to do TODAY
+- The pivot framework applies to catastrophic failure, not routine setbacks
+- Never pivot to a mission that abandons the people involved
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Extended Mourning** | Dwelling on what was lost spreads paralysis through the team. Energy drains away. | Acknowledge the loss briefly and clearly, then move to action. "The ship is gone. Now we go home." |
+| **Denial of Failure** | Pretending the original mission is still viable wastes resources and credibility. | Name what happened clearly: "This plan is dead. Here is the new plan." |
+| **Vague New Mission** | Uncertainty creates anxiety. "We'll figure something out" offers no direction. | Be concrete and simple: "Our new mission is X. Here's what we do today." |
+| **Leader Shows Despair** | When leadership visibly loses hope, the team's hope collapses. | Process privately, project confidence. Your anxiety is yours alone; their hope depends on you. |
+| **No Immediate Action** | Helplessness takes over when people have nothing to do. | Give everyone a task today—small, concrete actions restore sense of control. |
 
 ## Example
 
