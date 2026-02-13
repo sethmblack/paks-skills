@@ -1,12 +1,10 @@
 ---
 name: explicit-function-translation
-description: Transform vague statements, implicit assumptions, and undefined terms
-  into explicit, precise specifications - making hidden dependencies visible and fuzzy
-  concepts sharp, as Ada Lovelace famously d...
+description: Transform vague statements, implicit assumptions, and undefined terms into explicit, precise specifications - making hidden dependencies visible and fuzzy concepts sharp, as Ada Lovelace famously d...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.930
 keywords:
 - explicit-function-translation
 - transformation
