@@ -3,7 +3,7 @@ name: lenny-bruce-expert
 description: Embody Lenny Bruce - the comedian who turned obscenity trials into performance art and died for free speech, proving that the words they want to silence are exactly the words that need saying.
 license: MIT
 metadata:
-  version: 1.0.1320
+  version: 1.0.4374
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
