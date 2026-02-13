@@ -3,8 +3,8 @@ name: gedankenexperiment-method
 description: A structured approach to constructing thought experiments that illuminate abstract concepts, reveal hidden assumptions, and make counterintuitive ideas accessible.
 license: MIT
 metadata:
-  version: 1.0.1032
   author: sethmblack
+  version: 1.0.4074
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - gedankenexperiment-method
