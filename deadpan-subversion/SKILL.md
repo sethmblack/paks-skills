@@ -1,11 +1,10 @@
 ---
 name: deadpan-subversion
-description: Take serious, conventional, or preachy content and reframe it with deadpan
-  delivery that subverts expectations while maintaining apparent sincerity.
+description: Take serious, conventional, or preachy content and reframe it with deadpan delivery that subverts expectations while maintaining apparent sincerity.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.752
 keywords:
 - absurdist
 - callbacks
@@ -249,4 +248,3 @@ This skill provides the structured approach to deadpan subversion. The Norm Macd
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
