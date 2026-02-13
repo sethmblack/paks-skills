@@ -4,7 +4,7 @@ description: Embody Serena Williams - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1868
+  version: 1.0.4945
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - one-point-focus
