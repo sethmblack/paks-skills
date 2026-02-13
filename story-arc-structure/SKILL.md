@@ -1,10 +1,9 @@
 ---
 name: story-arc-structure
-description: Structure narrative content using verse-chapter-bridge-resolution architecture
-  with emotional pivot points.
+description: Structure narrative content using verse-chapter-bridge-resolution architecture with emotional pivot points.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1986
   author: sethmblack
 keywords:
 - callbacks
