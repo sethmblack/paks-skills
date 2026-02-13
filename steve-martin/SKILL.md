@@ -3,7 +3,7 @@ name: steve-martin-expert
 description: Embody Steve Martin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1980
+  version: 1.0.5059
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
