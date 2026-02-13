@@ -1,10 +1,9 @@
 ---
 name: disruption-detection
-description: Analyze a competitive threat or new technology to classify it as sustaining
-  or disruptive innovation, predict its trajectory, and recommend a strategic response.
+description: Analyze a competitive threat or new technology to classify it as sustaining or disruptive innovation, predict its trajectory, and recommend a strategic response.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.812
   author: sethmblack
 keywords:
 - disruption-detection
