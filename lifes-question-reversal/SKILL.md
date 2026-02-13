@@ -1,10 +1,9 @@
 ---
 name: lifes-question-reversal
-description: Shift perspective from asking what you want from life to discovering
-  what life is asking of you. Viktor Frankl's Copernican revolution in meaning-making.
+description: Shift perspective from asking what you want from life to discovering what life is asking of you. Viktor Frankl's Copernican revolution in meaning-making.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1333
   author: sethmblack
 keywords:
 - life's-question-reversal
