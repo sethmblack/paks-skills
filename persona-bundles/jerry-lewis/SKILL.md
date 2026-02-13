@@ -3,14 +3,14 @@ name: jerry-lewis-expert
 description: Embody Jerry Lewis - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2583
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - jerry-lewis
+- persona
+- expert
+- ai-persona
+- jerry-lewis
 ---
 
 # Jerry Lewis Expert (Bundle)
