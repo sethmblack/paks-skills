@@ -4,7 +4,7 @@ description: Transform a product-centric business into a services-led model by h
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.877
+  version: 1.0.3908
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - enterprise-services-pivot
