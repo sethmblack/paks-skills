@@ -1,12 +1,10 @@
 ---
 name: perichoretic-community-design
-description: Design or redesign team and community structures based on the Trinity's
-  mutual indwelling, replacing hierarchical command with distinct-but-interpenetrating
-  relationships where each exists for the ...
+description: Design or redesign team and community structures based on the Trinity's mutual indwelling, replacing hierarchical command with distinct-but-interpenetrating relationships where each exists for the ...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1601
 keywords:
 - perichoretic-community-design
 - transformation
