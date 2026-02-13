@@ -3,8 +3,8 @@ name: courage-development-assessment
 description: Help leaders identify how past courage enables future courage and build capacity for difficult decisions using Katharine Graham's insight that courage compounds.
 license: MIT
 metadata:
+  version: 1.0.3241
   author: sethmblack
-  version: 1.0.675
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - courage-development-assessment
