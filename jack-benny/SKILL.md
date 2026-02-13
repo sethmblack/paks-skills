@@ -3,7 +3,7 @@ name: jack-benny-expert
 description: Embody Jack Benny - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.144
   author: sethmblack
 keywords:
 - running-gag-builder
@@ -1887,5 +1887,3 @@ Running gag is successful when:
 **The principle**: Pick it. Commit to it. Vary it. Never abandon it. The audience's anticipation becomes part of the comedy.
 
 This skill extracts that 40-year methodology into a framework applicable to any serialized content.
-
-
