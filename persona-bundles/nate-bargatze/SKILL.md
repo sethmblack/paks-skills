@@ -3,18 +3,18 @@ name: nate-bargatze-expert
 description: Embody Nate Bargatze - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2692
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - slow-burn-story
-  - self-deprecation-undercut
-  - everyday-observation-finder
-  - clean-comedy-rewrite
-  - persona
-  - expert
-  - ai-persona
-  - nate-bargatze
+- slow-burn-story
+- self-deprecation-undercut
+- everyday-observation-finder
+- clean-comedy-rewrite
+- persona
+- expert
+- ai-persona
+- nate-bargatze
 ---
 
 # Nate Bargatze Expert (Bundle)
@@ -1595,4 +1595,3 @@ This skill directly implements Nate's signature storytelling technique:
 7. **Read it out loud.** Slow-burn stories should sound like natural speech, not written prose.
 
 ---
-
