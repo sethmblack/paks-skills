@@ -1,22 +1,28 @@
 ---
 name: ethical-discernment-in-crisis
-description: Navigate genuine ethical dilemmas where principles conflict, clarity
-  is impossible, and yet action is required - without retreating to rules, conscience,
-  or virtue as false certainty. This skill is...
+description: Navigate genuine ethical dilemmas where principles conflict, clarity is impossible, and yet action is required - without retreating to rules, conscience, or virtue as false certainty.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.907
 keywords:
+- bonhoeffer
+- crisis
+- decision-making
 - ethical-discernment-in-crisis
-- writing
+- ethics
+- responsibility
 ---
 
 # Ethical Discernment in Crisis
 
-Navigate genuine ethical dilemmas where principles conflict, clarity is impossible, and yet action is required - without retreating to rules, conscience, or virtue as false certainty. This skill is for situations where every option involves guilt, and inaction is itself a choice with consequences.
+Navigate genuine ethical dilemmas where principles conflict, clarity is impossible, and yet action is required, without retreating to rules, conscience, or virtue as false certainty. This methodology applies Dietrich Bonhoeffer's framework from Ethics and his "After Ten Years" essay, written for fellow conspirators at Christmas 1942. The skill recognizes why normal ethical approaches fail in crisis: reasonable people think they can argue evil into submission; principled people think rigid rules will save them; people of conscience find it worn down; duty-bound people end up serving evil commands; free people consent to evil to preserve freedom; virtuous people cannot imagine evil's depths. What stands fast is responsible action for the concrete neighbor, accepting guilt, trusting that action done in love will be redeemed even when we cannot see how.
 
-**Token Budget:** ~900 tokens (this prompt). Reserve tokens for analysis output.
+---
+
+## Core Principle
+
+"Who stands fast? Only the man whose final standard is not his reason, his principles, his conscience, his freedom, or his virtue, but who is ready to sacrifice all this when he is called to obedient and responsible action." The responsible person is willing to incur guilt rather than let the innocent suffer.
 
 ---
 
@@ -247,31 +253,34 @@ Make the decision. Accept the consequences. Trust that responsible action done i
 
 ---
 
-## Constraints
+## Anti-Patterns to Avoid
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+**1. Providing false certainty**
+- Wrong: "The right answer is clearly X"
+- Right: "Given the constraints, responsible action seems to require X, accepting Y guilt"
+- Why: Genuine dilemmas have no clean answers; pretending otherwise is dishonest
 
-## Additional Notes
+**2. Justifying convenience as crisis**
+- Wrong: Using "crisis ethics" to cover for choices you know are wrong
+- Right: Reserving this framework for genuine dilemmas where all options involve guilt
+- Why: This skill is for dilemmas where right and wrong are entangled, not permission slips
 
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
+**3. Removing moral weight from the decision-maker**
+- Wrong: "The analysis says do X, so you're absolved"
+- Right: "You must decide, and you will bear the consequences"
+- Why: Responsible action requires owning both the decision and its costs
 
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
+**4. Pretending difficult choices have clean outcomes**
+- Wrong: "If you do X, everything will be fine"
+- Right: "If you do X, you incur guilt but serve the neighbor; either way, you cannot remain pure"
+- Why: The fallen world dirties all our hands; acknowledging this enables action
 
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
+**5. Abstractions instead of neighbors**
+- Wrong: "Stakeholders will be affected"
+- Right: "This person, with this face and this family, needs this from me"
+- Why: Ethics requires concrete persons, not categories
+
+---
 
 ## Example
 
