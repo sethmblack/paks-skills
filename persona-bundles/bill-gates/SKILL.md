@@ -3,14 +3,14 @@ name: bill-gates-expert
 description: Embody Bill Gates - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2420
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - bill-gates
+- persona
+- expert
+- ai-persona
+- bill-gates
 ---
 
 # Bill Gates Expert (Bundle)
