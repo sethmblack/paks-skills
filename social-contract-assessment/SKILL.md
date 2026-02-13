@@ -4,7 +4,7 @@ description: Evaluate whether an arrangement, institution, or authority has genu
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1927
+  version: 1.0.5005
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - social-contract-assessment
