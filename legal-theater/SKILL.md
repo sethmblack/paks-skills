@@ -3,8 +3,8 @@ name: legal-theater
 description: Transform adversarial proceedings into performance art. Use formal processes, hearings, trials, or institutional confrontations as stages where the prosecution itself becomes the performance and op...
 license: MIT
 metadata:
+  version: 1.0.4373
   author: sethmblack
-  version: 1.0.1319
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
