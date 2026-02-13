@@ -4,7 +4,7 @@ description: Find and articulate the luminous moments within ordinary experience
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1465
+  version: 1.0.4521
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - moment-of-being-capture
