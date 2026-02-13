@@ -3,7 +3,7 @@ name: extended-phenotype-mapping
 description: Map the effects of replicators (genes, memes, cultural patterns, code) beyond their immediate containers into environmental modifications, artifacts, and actions at a distance. Understand how organ...
 license: MIT
 metadata:
-  version: 1.0.933
+  version: 1.0.3964
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
