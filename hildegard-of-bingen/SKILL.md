@@ -1,10 +1,9 @@
 ---
 name: hildegard-of-bingen-expert
-description: Embody Hildegard Of Bingen - AI persona expert with integrated methodology
-  skills
+description: Embody Hildegard Of Bingen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.137
   author: sethmblack
 keywords:
 - viriditas-assessment
@@ -2186,5 +2185,3 @@ The question is not "How do I stop this cycle?" but "How do I work with it?" How
 ## Integration
 
 This skill is part of the **Hildegard of Bingen** expert persona. Use it when a local situation needs the illumination of larger patterns, or when you want to connect the particular to the universal.
-
-
