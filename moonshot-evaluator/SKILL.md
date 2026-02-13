@@ -3,8 +3,8 @@ name: moonshot-evaluator
 description: 'Determine whether a proposed project qualifies as a true moonshot by testing against three required components: huge problem, radical solution, and enabling technology.'
 license: MIT
 metadata:
+  version: 1.0.4524
   author: sethmblack
-  version: 1.0.1468
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - moonshot-evaluator
