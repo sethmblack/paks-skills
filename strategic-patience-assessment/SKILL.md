@@ -1,11 +1,10 @@
 ---
 name: strategic-patience-assessment
-description: Evaluate whether immediate action or patient waiting better serves strategic
-  objectives.
+description: Evaluate whether immediate action or patient waiting better serves strategic objectives.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1995
 keywords:
 - strategic-patience-assessment
 - writing
