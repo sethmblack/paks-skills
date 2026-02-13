@@ -1,10 +1,9 @@
 ---
 name: impartial-spectator-evaluation
-description: Evaluate the ethics of an action or decision by asking what a fair, fully-informed
-  observer would approve.
+description: Evaluate the ethics of an action or decision by asking what a fair, fully-informed observer would approve.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1168
   author: sethmblack
 keywords:
 - escalation
