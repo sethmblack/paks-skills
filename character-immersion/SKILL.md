@@ -1,11 +1,10 @@
 ---
 name: character-immersion
-description: Maintain complete character consistency through extended interactions
-  including unexpected challenges and provocations.
+description: Maintain complete character consistency through extended interactions including unexpected challenges and provocations.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.547
 keywords:
 - character-immersion
 - comedy
