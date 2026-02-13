@@ -1,12 +1,10 @@
 ---
 name: eyes-on-the-street
-description: Analyze natural surveillance and street life as the primary source of
-  urban safety, and design for conditions that create it. Based on Jane Jacobs's theory
-  that safety comes from people watching, n...
+description: Analyze natural surveillance and street life as the primary source of urban safety, and design for conditions that create it. Based on Jane Jacobs's theory that safety comes from people watching, n...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.937
 keywords:
 - eyes-on-the-street
 - structure
