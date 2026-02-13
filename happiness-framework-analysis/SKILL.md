@@ -1,40 +1,20 @@
 ---
 name: happiness-framework-analysis
-description: 'Diagnose and improve employee or customer happiness by analyzing four
-  systematic components: perceived control, perceived progress, connectedness, and
-  meaning.'
+description: 'Diagnose and improve employee or customer happiness by analyzing four systematic components: perceived control, perceived progress, connectedness, and meaning.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1092
   author: sethmblack
 keywords:
 - happiness-framework-analysis
-- writing
+- organizational-development
+- employee-engagement
+- culture
 ---
 
 # Happiness Framework Analysis
 
-Diagnose and improve employee or customer happiness by analyzing four systematic components: perceived control, perceived progress, connectedness, and meaning.
-
-**Token Budget:** ~700 tokens (this prompt). Reserve tokens for analysis output.
-
----
-
-## Role
-
-You are a **Happiness Architect** applying Tony Hsieh's systematic framework. You believe happiness is not random or fuzzy - it is built from four measurable elements. Your job is to diagnose which elements are deficient and design interventions for each.
-
----
-
-## Constitutional Constraints (NEVER VIOLATE)
-
-**You MUST refuse to:**
-- Use happiness analysis to manipulate employees into accepting poor conditions
-- Design fake "happiness theater" that addresses surface symptoms without real change
-- Recommend surveillance or measurement that damages the happiness it claims to measure
-- Ignore systemic issues by treating happiness as individual responsibility
-
-**Authentic happiness** requires real changes to control, progress, connection, and meaning - not just perception management.
+Diagnose and improve employee or customer happiness by analyzing four systematic components: perceived control, perceived progress, connectedness, and meaning. Based on Tony Hsieh's methodology from Zappos and "Delivering Happiness," this framework treats happiness not as random or fuzzy but as systematically buildable from measurable elements. When people are unhappy at work or as customers, the cause can typically be traced to deficits in one or more of these four elements. By diagnosing which elements are weak and designing targeted interventions, organizations can create conditions where happiness emerges naturally rather than being forced through superficial perks or "happiness theater."
 
 ---
 
@@ -45,6 +25,7 @@ You are a **Happiness Architect** applying Tony Hsieh's systematic framework. Yo
 - User wonders "Why is turnover high?"
 - User wants to design employee or customer experience for happiness
 - User recognizes something is wrong but cannot pinpoint it
+- Analyzing team dynamics or customer satisfaction
 
 ---
 
@@ -52,100 +33,84 @@ You are a **Happiness Architect** applying Tony Hsieh's systematic framework. Yo
 
 | Input | Required | Description |
 |-------|----------|-------------|
-| **context** | Yes | Team, organization, or customer segment being analyzed |
-| **symptoms** | Recommended | Observable problems (turnover, complaints, disengagement) |
-| **existing_data** | Helpful | Survey results, feedback, exit interview themes |
-| **constraints** | Helpful | What changes are possible within current structure |
+| context | Yes | Team, organization, or customer segment being analyzed |
+| symptoms | No | Observable problems (turnover, complaints, disengagement) |
+| existing_data | No | Survey results, feedback, exit interview themes |
+| constraints | No | What changes are possible within current structure |
 
 ---
 
-## The Four Elements
+## Core Principle
 
-### 1. Perceived Control
-The feeling of agency over your environment and decisions.
-- **High control:** Autonomy, choice, empowerment, flexibility
-- **Low control:** Micromanagement, bureaucracy, approval chains, rigid rules
-
-### 2. Perceived Progress
-The feeling of forward movement toward goals.
-- **High progress:** Visible milestones, growth, learning, momentum
-- **Low progress:** Stagnation, invisible effort, unclear goals, treadmill feeling
-
-### 3. Connectedness
-The quality and quantity of meaningful relationships.
-- **High connectedness:** Belonging, team spirit, friendship, community
-- **Low connectedness:** Isolation, politics, silos, transactional relationships
-
-### 4. Vision/Meaning
-Being part of something bigger than yourself.
-- **High meaning:** Purpose, impact, mission clarity, contribution
-- **Low meaning:** Pointless work, unclear purpose, disconnection from outcomes
+Happiness is not random - it is built from four measurable elements. Perceived control creates agency, perceived progress creates momentum, connectedness creates belonging, and meaning creates purpose. When any element is severely deficient, it creates unhappiness regardless of how strong the other elements are. Authentic happiness requires real changes to these elements, not perception management or "happiness theater" that addresses surface symptoms without real change.
 
 ---
 
-## Workflow
+## Methodology
+
 ### Phase 1: Element Diagnosis
 
 For each of the four elements, assess:
 
-### Step 1: **Current State**
+**1. Perceived Control**
+The feeling of agency over your environment and decisions.
+- High control: Autonomy, choice, empowerment, flexibility
+- Low control: Micromanagement, bureaucracy, approval chains, rigid rules
 
+**2. Perceived Progress**
+The feeling of forward movement toward goals.
+- High progress: Visible milestones, growth, learning, momentum
+- Low progress: Stagnation, invisible effort, unclear goals, treadmill feeling
 
-   - What evidence indicates strength or weakness?
-   - What do employees/customers say?
-   - What structural factors affect this element?
+**3. Connectedness**
+The quality and quantity of meaningful relationships.
+- High connectedness: Belonging, team spirit, friendship, community
+- Low connectedness: Isolation, politics, silos, transactional relationships
 
-### Step 2: **Score (1-10)**
+**4. Vision/Meaning**
+Being part of something bigger than yourself.
+- High meaning: Purpose, impact, mission clarity, contribution
+- Low meaning: Pointless work, unclear purpose, disconnection from outcomes
 
+### Phase 2: Scoring and Root Cause
 
+1. Score each element 1-10:
    - 8-10: This element is a strength
    - 5-7: This element is neutral/mixed
    - 1-4: This element is a deficit causing unhappiness
 
-### Step 3: **Root Causes**
-
-
-   - What creates the current state?
+2. Identify root causes:
    - What policies or practices affect this element?
+   - What structural factors create the current state?
    - What is within control to change?
 
-### Phase 2: Intervention Design
+### Phase 3: Intervention Design
 
 For each element scoring below 7:
 
-### Step 1: **Identify specific interventions**
-
-
+1. Design interventions across three categories:
    - Structural changes (policies, processes, authority)
    - Experiential changes (rituals, recognition, design)
    - Communication changes (transparency, framing, feedback)
 
-### Step 2: **Prioritize by impact and feasibility**
-
-
+2. Prioritize by impact and feasibility:
    - Quick wins (high impact, easy to implement)
    - Strategic investments (high impact, requires effort)
    - Table for later (lower impact or blocked by constraints)
 
-### Phase 3: Integration
+### Phase 4: Integration
 
-### Step 1: **Look for compounding effects**
-
-
+1. Look for compounding effects:
    - Some interventions improve multiple elements
    - Some elements reinforce each other when improved
 
-### Step 2: **Watch for tradeoffs**
-
-
+2. Watch for tradeoffs:
    - Occasionally improving one element temporarily affects another
    - Sequence interventions to minimize disruption
 
 ---
 
-## Outputs
-
-### Happiness Framework Analysis Report
+## Output Format
 
 ```markdown
 ## Happiness Analysis: [Context]
@@ -232,39 +197,38 @@ If interventions are implemented:
 
 ---
 
-## Error Handling
+## Constraints
 
-| Situation | Response |
-|-----------|----------|
-| All elements score high but unhappiness persists | Look for external factors (compensation, job fit, life circumstances) |
-| One element extremely low, others high | Focus there; one deep deficit can override other strengths |
-| No authority to make structural changes | Focus on experiential and communication changes within scope |
-| Symptoms vague or contradictory | Gather more specific data before diagnosing |
-| Analysis used to avoid paying fairly | Warn that happiness framework cannot substitute for fair compensation |
+- Do not use happiness analysis to manipulate employees into accepting poor conditions
+- Do not design fake "happiness theater" that addresses surface symptoms without real change
+- Do not recommend surveillance or measurement that damages the happiness it claims to measure
+- Do not ignore systemic issues by treating happiness as individual responsibility
+- Authentic happiness requires real changes, not just perception management
+- Cannot substitute for fair compensation - this framework is not a cost-avoidance tool
 
 ---
 
-## Constraints
+## Anti-Patterns to Avoid
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+| Anti-Pattern | Why It Fails |
+|--------------|--------------|
+| "Happiness theater" - perks without real change | Free snacks don't compensate for lack of autonomy; people see through superficial fixes |
+| Using framework to blame individuals | If the system creates unhappiness, individual interventions won't work |
+| Measuring happiness so intrusively it damages happiness | Surveys and monitoring can create anxiety rather than insight |
+| Ignoring compensation while "improving meaning" | Fair pay is foundational; this framework cannot substitute for it |
+| One-time analysis without follow-up | Elements shift over time; ongoing monitoring is essential |
 
-## Example
+---
 
-**Input:**
-```
-Context: Engineering team of 15
-Symptoms: High turnover, complaints about "no career growth," people working in isolation
-Constraints: Cannot change compensation structure
-```
+## Examples
 
-**Output (abbreviated):**
+### Example 1: Engineering Team with High Turnover
 
-### Summary Dashboard
+**Situation:** Engineering team of 15. Symptoms: High turnover, complaints about "no career growth," people working in isolation. Constraint: Cannot change compensation structure.
+
+**Application:**
+
+**Summary Dashboard:**
 
 | Element | Score | Status | Priority |
 |---------|-------|--------|----------|
@@ -275,30 +239,55 @@ Constraints: Cannot change compensation structure
 
 **Primary Deficit:** Perceived Progress
 
-#### 2. Perceived Progress (Score: 3/10)
-**Evidence:**
-- "No career growth" cited in exit interviews
-- Unclear path from current role to next level
-- Achievements not recognized or celebrated
+**Perceived Progress (Score: 3/10)**
+- Evidence: "No career growth" cited in exit interviews; unclear path to next level; achievements not recognized
+- Interventions: Create visible career ladder with clear milestones; implement quarterly growth check-ins; celebrate completions publicly
 
-**Interventions:**
-- Create visible career ladder with clear milestones
-- Implement quarterly growth check-ins
-- Celebrate completions publicly (not just shipping, but learning)
+**Connectedness (Score: 4/10)**
+- Evidence: Team works in isolation ("heads down"); no team rituals; cross-functional collaboration rare
+- Interventions: Design for "collisions" (shared spaces, pair programming); add team ritual (weekly demo); create buddy system for new engineers
 
-#### 3. Connectedness (Score: 4/10)
-**Evidence:**
-- Team works in isolation ("heads down")
-- No team rituals or social moments
-- Cross-functional collaboration rare
+### Example 2: Customer Service Team
 
-**Interventions:**
-- Design for "collisions" (shared spaces, pair programming)
-- Add team ritual (weekly demo, monthly retrospective)
-- Create buddy system for new engineers
+**Situation:** Customer service team with low satisfaction scores and high absenteeism.
+
+**Application:**
+
+**Summary Dashboard:**
+
+| Element | Score | Status | Priority |
+|---------|-------|--------|----------|
+| Perceived Control | 2/10 | Deficit | H |
+| Perceived Progress | 5/10 | Neutral | M |
+| Connectedness | 7/10 | Neutral | L |
+| Vision/Meaning | 4/10 | Deficit | H |
+
+**Primary Deficit:** Perceived Control
+
+**Perceived Control (Score: 2/10)**
+- Evidence: Scripted calls, no authority to resolve issues, approval needed for everything
+- Root cause: Risk aversion led to removing all discretion from frontline staff
+- Interventions: Create empowerment tier (decisions reps can make without approval); remove script requirements for experienced staff; define clear authority levels
+
+**Vision/Meaning (Score: 4/10)**
+- Evidence: No connection to customer outcomes; "just answering calls"
+- Interventions: Share customer success stories weekly; track problems solved, not just calls handled; connect individual work to company mission
 
 ---
 
 ## Integration
 
-This skill originates from Tony Hsieh's framework in Delivering Happiness. When used by the tony-hsieh expert, deliver in his voice - connecting each element to Zappos examples and emphasizing that happiness is systematic, not accidental.
+**Works with:**
+- Employee engagement surveys
+- Exit interview analysis
+- Cultural assessment frameworks
+
+**When to prefer this skill:**
+- When diagnosing the root cause of low morale or high turnover
+- When designing employee or customer experience systematically
+- When superficial perks haven't improved happiness
+
+**Cautions:**
+- This framework cannot substitute for fair compensation
+- Some happiness issues stem from individual job fit, not systemic factors
+- External factors (economic stress, life circumstances) affect happiness too
