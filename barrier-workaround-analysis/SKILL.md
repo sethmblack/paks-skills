@@ -4,7 +4,7 @@ description: Systematically identify alternatives when traditional paths are blo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.428
+  version: 1.0.2986
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - barrier-workaround-analysis
