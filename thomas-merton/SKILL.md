@@ -3,8 +3,8 @@ name: thomas-merton-expert
 description: Embody Thomas Merton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.278
   author: sethmblack
+  version: 1.0.2097
 keywords:
 - true-self-inquiry
 - contemplation-introduction
