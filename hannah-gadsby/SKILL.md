@@ -3,13 +3,13 @@ name: hannah-gadsby-expert
 description: Embody Hannah Gadsby - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1088
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - hannah-gadsby
+- persona
+- expert
+- ai-persona
+- hannah-gadsby
 ---
 
 # Hannah Gadsby Expert (Bundle)
@@ -222,4 +222,3 @@ When given a situation involving communication, storytelling, or marginalized ex
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
