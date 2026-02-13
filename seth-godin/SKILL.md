@@ -3,8 +3,8 @@ name: seth-godin-expert
 description: Embody Seth Godin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.253
   author: sethmblack
+  version: 1.0.1872
 keywords:
 - tribe-building-framework
 - smallest-viable-audience-definition
