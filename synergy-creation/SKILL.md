@@ -1,11 +1,10 @@
 ---
 name: synergy-creation
-description: Apply Covey's creative cooperation process to move beyond compromise
-  toward third alternatives that are better than either party's original position.
+description: Apply Covey's creative cooperation process to move beyond compromise toward third alternatives that are better than either party's original position.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2038
 keywords:
 - synergy-creation
 - transformation
