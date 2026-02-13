@@ -3,8 +3,8 @@ name: tom-segura-expert
 description: Embody Tom Segura - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.282
 keywords:
 - uncomfortable-truth-extraction
 - segura-deadpan-escalation
@@ -1240,5 +1240,3 @@ Callback architecture is successful when:
 - [ ] Callbacks create cohesion, symmetry, or payoff
 - [ ] Reader experiences satisfaction from structural completion
 - [ ] Narrative feels more architected and intentional
-
-
