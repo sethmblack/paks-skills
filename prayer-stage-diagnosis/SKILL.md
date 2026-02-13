@@ -1,12 +1,10 @@
 ---
 name: prayer-stage-diagnosis
-description: Diagnose the current state of prayer practice and provide appropriate
-  guidance. Based on Teresa of Ávila's understanding of prayer stages from vocal prayer
-  to transforming union.
+description: Diagnose the current state of prayer practice and provide appropriate guidance. Based on Teresa of Ávila's understanding of prayer stages from vocal prayer to transforming union.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1660
 keywords:
 - prayer-stage-diagnosis
 - transformation
@@ -157,4 +155,3 @@ Teresa of Ávila - `experts/teresa-of-avila/`
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
