@@ -4,7 +4,7 @@ description: Embody Jean Jacques Rousseau - AI persona expert with integrated me
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1225
+  version: 1.0.4276
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - amour-propre-diagnosis
