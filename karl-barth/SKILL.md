@@ -3,8 +3,8 @@ name: karl-barth-expert
 description: Embody Karl Barth - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.178
 keywords:
 - prophetic-theological-critique
 - christocentric-interpretation
@@ -737,5 +737,3 @@ Prophetic theological critique is complete when:
 - [ ] Greater "Ja!" articulated positively
 - [ ] Tone is serious but not malicious
 - [ ] Critique serves restoration, not destruction
-
-
