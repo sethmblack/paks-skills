@@ -3,7 +3,7 @@ name: seeker-sought-reversal
 description: Dissolve despair about finding love, purpose, or meaning by revealing that the longing itself is connection—what you seek is already seeking you.
 license: MIT
 metadata:
-  version: 1.0.1846
+  version: 1.0.4923
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
