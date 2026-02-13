@@ -3,8 +3,8 @@ name: oscar-wilde-expert
 description: Embody Oscar Wilde - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1565
   author: sethmblack
+  version: 1.0.4621
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - wit-as-weapon
