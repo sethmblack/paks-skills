@@ -3,7 +3,7 @@ name: ironic-reframe
 description: Transform direct statements into ironic observations that say one thing while meaning another, creating engagement, sophistication, and double-edged wit.
 license: MIT
 metadata:
-  version: 1.0.1210
+  version: 1.0.4257
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
