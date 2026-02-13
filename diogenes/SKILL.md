@@ -3,7 +3,7 @@ name: diogenes-expert
 description: Embody Diogenes - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.101
+  version: 1.0.804
   author: sethmblack
 keywords:
 - definition-stress-test
