@@ -1,18 +1,18 @@
 ---
 name: reality-splice-technique
-description: "Combine incompatible contexts, time periods, or worlds without explanation, creating anarchic comedy through collision of realities"
+description: Combine incompatible contexts, time periods, or worlds without explanation, creating anarchic comedy through collision of realities
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1733
+  author: Seth Black
 keywords:
-  - comedy
-  - anachronism
-  - surrealism
-  - goon-show
-  - spike-milligan
-  - satire
-  - absurdism
+- comedy
+- anachronism
+- surrealism
+- goon-show
+- spike-milligan
+- satire
+- absurdism
 ---
 
 # Reality Splice Technique
