@@ -1,11 +1,9 @@
 ---
 name: defensive-investor-screening
-description: Apply Benjamin Graham's seven criteria to identify stocks suitable for
-  conservative, safety-focused investors who want adequate returns with minimal effort
-  and risk.
+description: Apply Benjamin Graham's seven criteria to identify stocks suitable for conservative, safety-focused investors who want adequate returns with minimal effort and risk.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.773
   author: sethmblack
 keywords:
 - defensive-investor-screening
