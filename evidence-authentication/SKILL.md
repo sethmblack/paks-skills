@@ -1,20 +1,27 @@
 ---
 name: evidence-authentication
-description: Assess documentary evidence for credibility, completeness, and persuasive
-  power before disclosure or publication.
+description: Assess documentary evidence for credibility, completeness, and persuasive power before disclosure or publication.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.915
   author: sethmblack
 keywords:
+- disclosure
 - evidence-authentication
-- storytelling
-- writing
+- investigation
+- journalism
+- whistleblowing
 ---
 
 # Evidence Authentication
 
-Assess documentary evidence for credibility, completeness, and persuasive power before disclosure or publication.
+Assess documentary evidence for credibility, completeness, and persuasive power before disclosure or publication. This methodology applies Daniel Ellsberg's principle that "documents speak louder than claims," evaluating evidence across five levels: source credibility (where did this come from and can you prove it), internal consistency (does it make sense on its own terms), corroboration (can this be confirmed through other sources), deniability analysis (how will opponents attack and can they succeed), and completeness (do you have enough to prove the claim, not just make an accusation). The goal is evidence so strong that the story tells itself, as with the Pentagon Papers: 7,000 pages of the government's own records, internally consistent, corroborated by each other, and undeniable.
+
+---
+
+## Core Principle
+
+"Documents speak louder than claims." The power of documentary evidence comes from its authenticity and completeness. The Ellsberg standard requires evidence that is self-corroborating, with documents that reference each other and build a consistent narrative. Don't release evidence you haven't authenticated; it damages all future credibility.
 
 ---
 
@@ -232,26 +239,36 @@ Create actionable outputs:
 
 ---
 
-## Outputs
+---
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+## Anti-Patterns to Avoid
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+**1. Convincing yourself weak evidence is strong**
+- Wrong: Rationalizing gaps because you want the story to be true
+- Right: Honest assessment of what evidence actually proves
+- Why: Releasing weak evidence damages credibility and harms future disclosures
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+**2. Releasing evidence without authentication**
+- Wrong: Dumping documents because they seem important
+- Right: Completing all five levels of authentication first
+- Why: One fake or misunderstood document contaminates the entire release
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+**3. Ignoring deniability analysis**
+- Wrong: Assuming evidence speaks for itself
+- Right: Anticipating every attack vector and preparing defenses
+- Why: Opponents will find vulnerabilities; find them first
 
-**Example output:** See the Example section below for a complete demonstration.
+**4. Confusing suspicion with proof**
+- Wrong: "These emails show they discussed it, therefore they did it"
+- Right: Distinguishing what is proven from what is strongly suggested
+- Why: The gap between discussion and action is where defenses live
+
+**5. Over-interpreting documents**
+- Wrong: Adding meaning that isn't clearly in the text
+- Right: Letting documents speak for themselves
+- Why: Overreach undermines credibility even when the core claim is valid
+
+---
 
 ## Example
 
@@ -344,4 +361,32 @@ Company executives deliberately misclassified chemicals to avoid EPA reporting r
 
 ## Integration
 
-This skill is part of the **Daniel Ellsberg** expert persona. Ellsberg understood that the Pentagon Papers' power came from their authenticity and completeness—7,000 pages of the government's own records, internally consistent, corroborated by each other, undeniable. "I knew that the documents would speak for themselves. I didn't need to interpret them—they were the government's own words about their own lies." Evidence authentication ensures your disclosure has that same undeniable quality.
+This skill is part of the **Daniel Ellsberg** expert persona. Ellsberg understood that the Pentagon Papers' power came from their authenticity and completeness.
+
+**Works well with:**
+- `disclosure-timing-strategy` - For determining when to release evidence
+- `journalist-partnership` - For working with media on investigations
+- `legal-risk-assessment` - For understanding exposure before disclosure
+
+**When to prefer this over alternatives:**
+- Evaluating documents before releasing them
+- Preparing a disclosure package for journalists or investigators
+- Assessing whether you have what you need to prove a claim
+- Identifying weaknesses in evidence before opponents do
+
+**Cautions:**
+- This assessment must be honest; don't convince yourself weak evidence is strong
+- The standard depends on use; legal cases require more than journalism
+- If you can't prove something, say you can't prove it
+
+---
+
+## Success Criteria
+
+Evidence authentication is successful when:
+- [ ] All five levels are assessed (source, consistency, corroboration, deniability, completeness)
+- [ ] Each level has clear Strong/Moderate/Weak rating with justification
+- [ ] Attack vectors are anticipated with specific defenses
+- [ ] Gaps are identified with recommendations for strengthening
+- [ ] Overall recommendation is clear (release/wait/abandon)
+- [ ] Preparation recommendations are actionable
