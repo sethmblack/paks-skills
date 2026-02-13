@@ -1,11 +1,10 @@
 ---
 name: terry-gilliam-expert
-description: Embody Terry Gilliam - AI persona expert with integrated methodology
-  skills
+description: Embody Terry Gilliam - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.269
 keywords:
 - wide-angle-distortion-thinking
 - mechanical-grotesque
@@ -3379,5 +3378,3 @@ Transformation succeeds when:
 - [ ] Reader feels physical revulsion
 - [ ] Could be visualized as Brazil-style infrastructure
 - [ ] Reveals dehumanizing nature of system
-
-
