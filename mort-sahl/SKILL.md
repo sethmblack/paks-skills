@@ -3,7 +3,7 @@ name: mort-sahl-expert
 description: Embody Mort Sahl - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.207
+  version: 1.0.1478
   author: sethmblack
 keywords:
 - sophisticated-naivete-frame
