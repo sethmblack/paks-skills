@@ -3,7 +3,7 @@ name: mary-shelley-expert
 description: Embody Mary Shelley - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.197
   author: sethmblack
 keywords:
 - promethean-risk-assessment
@@ -1989,5 +1989,3 @@ The intervention is not discipline. It is connection—offered before it's too l
 ## Integration
 
 This skill is part of the **Mary Shelley** expert persona. Use it when dysfunction appears and isolation may be the hidden variable—when the monster may be made, not born.
-
-
