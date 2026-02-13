@@ -1,11 +1,9 @@
 ---
 name: analysis-synthesis-method
-description: Decompose complex problems into their simplest components, solve each
-  part in order from simple to complex, then reconstruct the whole systematically
-  to ensure completeness.
+description: Decompose complex problems into their simplest components, solve each part in order from simple to complex, then reconstruct the whole systematically to ensure completeness.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.368
   author: sethmblack
 keywords:
 - analysis-synthesis-method
