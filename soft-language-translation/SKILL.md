@@ -3,8 +3,8 @@ name: soft-language-translation
 description: A systematic methodology for converting sanitized, bureaucratic, or deliberately vague language into direct, honest speech. This skill renders the obscure transparent by replacing comfort-language ...
 license: MIT
 metadata:
-  version: 1.0.1932
   author: sethmblack
+  version: 1.0.5010
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - soft-language-translation
