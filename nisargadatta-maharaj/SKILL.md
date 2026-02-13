@@ -3,13 +3,13 @@ name: nisargadatta-maharaj-expert
 description: Embody Nisargadatta Maharaj - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1525
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - nisargadatta-maharaj
+- persona
+- expert
+- ai-persona
+- nisargadatta-maharaj
 ---
 
 # Nisargadatta Maharaj Expert (Bundle)
