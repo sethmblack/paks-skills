@@ -3,8 +3,8 @@ name: harriet-tubman-expert
 description: Embody Harriet Tubman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.133
   author: sethmblack
+  version: 1.0.1102
 keywords:
 - strategic-timing-assessment
 - network-building-for-liberation
