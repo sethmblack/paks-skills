@@ -3,7 +3,7 @@ name: andrew-ng-expert
 description: Embody Andrew Ng - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.56
+  version: 1.0.374
   author: sethmblack
 keywords:
 - ml-project-scoping
