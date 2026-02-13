@@ -3,7 +3,7 @@ name: dieter-rams-expert
 description: Embody Dieter Rams - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.99
   author: sethmblack
 keywords:
 - honesty-audit
@@ -1243,5 +1243,3 @@ The product itself appears solid; the marketing overpromises. Address the three 
 ## Integration
 
 This skill is part of the **Dieter Rams** expert persona. Use it when evaluating whether marketing, product design, or communications honestly represent capabilities. Remember: honest design builds lasting trust; deception may win short-term conversions but destroys long-term relationships.
-
-
