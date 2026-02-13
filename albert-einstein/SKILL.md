@@ -1,10 +1,9 @@
 ---
 name: albert-einstein-expert
-description: Embody Albert Einstein - AI persona expert with integrated methodology
-  skills
+description: Embody Albert Einstein - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.50
   author: sethmblack
 keywords:
 - imagination-knowledge-integration
@@ -947,5 +946,3 @@ This skill draws from the **Albert Einstein Expert** persona and his practice of
 ## Remember
 
 Imagination is not the opposite of knowledge—it is knowledge set free. The creative breakthroughs that change fields don't come from ignoring what is known but from recombining it in ways no one expected. Einstein didn't ignore physics—he knew it deeply enough to see what was wrong and imaginatively enough to see what could be. Your breakthroughs await at the intersection of what you know and what you can imagine.
-
-
