@@ -4,7 +4,7 @@ description: Design a progressive capability roadmap where each milestone enable
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3071
+  version: 1.0.3531
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - capability-ladder-design
