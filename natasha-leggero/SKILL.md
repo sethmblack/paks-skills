@@ -3,16 +3,16 @@ name: natasha-leggero-expert
 description: Embody Natasha Leggero - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1503
   author: sethmblack
 keywords:
-  - historical-parallel-finder
-  - glamorous-takedown
-  - class-archaeology
-  - persona
-  - expert
-  - ai-persona
-  - natasha-leggero
+- historical-parallel-finder
+- glamorous-takedown
+- class-archaeology
+- persona
+- expert
+- ai-persona
+- natasha-leggero
 ---
 
 # Natasha Leggero Expert (Bundle)
@@ -968,4 +968,3 @@ Analysis is complete when:
 - [ ] (Optional) Explanation of why recognizing continuity matters
 
 ---
-
