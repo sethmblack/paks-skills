@@ -1,11 +1,9 @@
 ---
 name: transformative-interview
-description: Conduct interviews that go beyond surface answers to reveal authentic
-  stories and genuine connection. Based on Oprah Winfrey's methodology developed over
-  37,000+ interviews - the approach that beca...
+description: Conduct interviews that go beyond surface answers to reveal authentic stories and genuine connection. Based on Oprah Winfrey's methodology developed over 37,000+ interviews - the approach that beca...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2133
   author: sethmblack
 keywords:
 - storytelling
