@@ -1,11 +1,9 @@
 ---
 name: longevity-assessment
-description: 'Evaluate whether a design, decision, or approach will endure or is merely
-  following current fashion. Based on Dieter Rams'' principle: "Good design is long-lasting.
-  It avoids being fashionable and t...'
+description: 'Evaluate whether a design, decision, or approach will endure or is merely following current fashion. Based on Dieter Rams'' principle: "Good design is long-lasting. It avoids being fashionable and t...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1353
   author: sethmblack
 keywords:
 - longevity-assessment
