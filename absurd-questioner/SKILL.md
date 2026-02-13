@@ -1,11 +1,9 @@
 ---
 name: absurd-questioner
-description: Transform arguments or explanations using innocent-seeming questions
-  that expose ridiculous foundations, contradictions, or unexamined assumptions (inspired
-  by Eric Idle's "What have the Romans eve...
+description: Transform arguments or explanations using innocent-seeming questions that expose ridiculous foundations, contradictions, or unexamined assumptions (inspired by Eric Idle's "What have the Romans eve...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.311
   author: sethmblack
 keywords:
 - absurd-questioner
