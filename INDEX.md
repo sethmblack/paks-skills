@@ -1,7 +1,7 @@
 # Paks-Ready Skills Index
 
-**Last Updated:** 2026-02-11 18:40:29  
-**Total Skills Converted:** 1445  
+**Last Updated:** 2026-02-13
+**Total Skills Converted:** 1446  
 **Conversion Success Rate:** 99.86% (1,445/1,447)  
 **Format:** Paks-compatible SKILL.md with YAML frontmatter
 
@@ -62,7 +62,7 @@ Each SKILL.md now includes:
 
 ---
 
-## All Converted Skills (1445)
+## All Converted Skills (1446)
 
 
 ### #
@@ -1053,6 +1053,7 @@ Each SKILL.md now includes:
 
 ### P
 
+- [pak-publish-workflow](pak-publish-workflow/SKILL.md)
 - [pain-reflection-progress](pain-reflection-progress/SKILL.md)
 - [pain-to-power-alchemy](pain-to-power-alchemy/SKILL.md)
 - [panoramic-to-particular-rendering](panoramic-to-particular-rendering/SKILL.md)
