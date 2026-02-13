@@ -3,7 +3,7 @@ name: rick-rubin-expert
 description: Embody Rick Rubin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.238
   author: sethmblack
 keywords:
 - essential-reduction
@@ -1863,5 +1863,3 @@ This skill originates from the **rick-rubin** expert, whose production approach 
 ---
 
 **Remember:** "Different is easy. Different is a trap. Anyone can make it different. The question is: does this version serve the work more than the last one?"
-
-
