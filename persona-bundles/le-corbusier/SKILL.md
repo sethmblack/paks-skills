@@ -3,8 +3,8 @@ name: le-corbusier-expert
 description: Embody Le Corbusier - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2360
   author: sethmblack
+  version: 1.0.2638
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
