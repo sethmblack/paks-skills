@@ -3,17 +3,17 @@ name: yann-lecun-expert
 description: Embody Yann Lecun - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.31
   author: sethmblack
 keywords:
-  - world-model-assessment
-  - llm-capability-check
-  - architecture-comparison
-  - ai-hype-deflation
-  - persona
-  - expert
-  - ai-persona
-  - yann-lecun
+- world-model-assessment
+- llm-capability-check
+- architecture-comparison
+- ai-hype-deflation
+- persona
+- expert
+- ai-persona
+- yann-lecun
 ---
 
 # Yann Lecun Expert (Bundle)
@@ -1201,4 +1201,3 @@ This skill provides deep architecture analysis:
 - Provides technical backing for `yann-lecun--ai-hype-deflation` verdicts
 
 ---
-
