@@ -4,7 +4,7 @@ description: Systematically challenge the assumption that right angles and recta
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2937
+  version: 1.0.3397
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - anti-orthogonal-challenge
