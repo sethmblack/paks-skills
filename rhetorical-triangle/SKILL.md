@@ -4,7 +4,7 @@ description: 'Evaluate and improve persuasive communication through the three mo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1775
+  version: 1.0.4848
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rhetorical-triangle-assessment
