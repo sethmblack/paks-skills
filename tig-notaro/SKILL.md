@@ -3,13 +3,13 @@ name: tig-notaro-expert
 description: Embody Tig Notaro - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2106
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - tig-notaro
+- persona
+- expert
+- ai-persona
+- tig-notaro
 ---
 
 # Tig Notaro Expert (Bundle)
