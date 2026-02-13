@@ -1,10 +1,9 @@
 ---
 name: macguffin-identification
-description: Distinguish what characters/stakeholders care about from what the audience
-  actually needs to care about, focusing effort accordingly.
+description: Distinguish what characters/stakeholders care about from what the audience actually needs to care about, focusing effort accordingly.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1362
   author: sethmblack
 keywords:
 - compression
