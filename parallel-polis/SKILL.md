@@ -4,7 +4,7 @@ description: A skill for designing authentic structures alongside official ones 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1580
+  version: 1.0.4637
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - parallel-polis
