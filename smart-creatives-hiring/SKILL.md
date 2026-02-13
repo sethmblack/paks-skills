@@ -1,10 +1,9 @@
 ---
 name: smart-creatives-hiring
-description: Design and evaluate hiring processes that attract and select smart creatives
-  - employees who combine deep technical knowledge, business savvy, and creative energy.
+description: Design and evaluate hiring processes that attract and select smart creatives - employees who combine deep technical knowledge, business savvy, and creative energy.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1926
   author: sethmblack
 keywords:
 - smart-creatives-hiring
