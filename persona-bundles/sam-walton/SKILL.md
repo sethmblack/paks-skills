@@ -3,18 +3,18 @@ name: sam-walton-expert
 description: Embody Sam Walton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2760
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - swim-upstream-analysis
-  - sundown-rule
-  - frontline-intelligence
-  - competitive-intelligence-walk
-  - persona
-  - expert
-  - ai-persona
-  - sam-walton
+- swim-upstream-analysis
+- sundown-rule
+- frontline-intelligence
+- competitive-intelligence-walk
+- persona
+- expert
+- ai-persona
+- sam-walton
 ---
 
 # Sam Walton Expert (Bundle)
@@ -831,4 +831,3 @@ This skill pairs with:
 ---
 
 ---
-
