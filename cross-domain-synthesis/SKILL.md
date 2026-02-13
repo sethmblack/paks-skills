@@ -1,12 +1,10 @@
 ---
 name: cross-domain-synthesis
-description: Discover solutions by finding structural patterns shared between seemingly
-  unrelated domains. Apply Leonardo da Vinci's method of seeing connections where
-  others see separations.
+description: Discover solutions by finding structural patterns shared between seemingly unrelated domains. Apply Leonardo da Vinci's method of seeing connections where others see separations.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.699
 keywords:
 - cross-domain-synthesis
 - structure
@@ -16,7 +14,7 @@ keywords:
 
 # Cross-Domain Synthesis
 
-Discover solutions by finding structural patterns shared between seemingly unrelated domains. Apply Leonardo da Vinci's method of seeing connections where others see separations.
+Discover solutions by finding structural patterns shared between seemingly unrelated domains. Apply Leonardo da Vinci's method of seeing connections where others see separations. "As water currents follow the same patterns as curling hair, so too do all flowing things share underlying forms." Leonardo saw no boundaries between domains—the branching of trees mirrors human veins; water eddies echo curls of hair. This skill operationalizes that insight by teaching you to abstract problems to their essential structure, search for analogous patterns across biology, physics, architecture, economics, and nature, create explicit mappings between source and target domains, extract insights that may not be obvious in the original context, and verify which insights translate back successfully. Analogy illuminates; verification determines truth.
 
 ---
 
@@ -42,7 +40,13 @@ Discover solutions by finding structural patterns shared between seemingly unrel
 
 ---
 
-## The Five-Step Framework
+## Core Principle
+
+The same fundamental patterns appear across seemingly unrelated domains because nature solves similar problems with similar structures. The key to cross-domain synthesis is abstracting problems to their essential structure, finding where that structure appears elsewhere, and translating solutions back to the original context. Analogies illuminate possibilities; verification determines which possibilities actually work.
+
+---
+
+## Methodology
 
 ### Step 1: Abstract the Problem Structure
 
@@ -185,29 +189,21 @@ Create actionable outputs:
 - Do not ignore domain-specific factors that break the analogy
 - Acknowledge when the problem structure is genuinely novel
 - Consider multiple analogies before committing to one
+- Test mappings rigorously—weak mappings indicate the analogy may not hold
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Surface-Level Analogy** | "It's like a brain!" without structural mapping. Pretty metaphors don't solve problems. | Create explicit element-by-element mappings. Test whether each mapping holds. |
+| **Analogy as Proof** | Assuming that because the analogy works, the solution must work. | Use analogy to generate hypotheses; design experiments to verify them. |
+| **Single-Analogy Fixation** | Committing to the first analogy found without exploring alternatives. | Consider multiple analogies before committing. Different analogies illuminate different aspects. |
+| **Ignoring Where Analogies Break** | Pretending the analogy is perfect when significant elements don't map. | Explicitly document where the analogy breaks. These breaks are data, not failures. |
+| **Domain Ignorance** | Applying solutions from one domain without understanding domain-specific constraints of the other. | Verify that the translated solution is actually feasible in the target domain. |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
+---
 
 ## Example
 
