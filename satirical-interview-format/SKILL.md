@@ -3,7 +3,7 @@ name: satirical-interview-format
 description: Build dialogues where absurd claims are treated with complete seriousness through professional interview structure
 license: MIT
 metadata:
-  version: 1.0.1825
+  version: 1.0.4902
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
