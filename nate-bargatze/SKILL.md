@@ -1,10 +1,9 @@
 ---
 name: nate-bargatze-expert
-description: Embody Nate Bargatze - AI persona expert with integrated methodology
-  skills
+description: Embody Nate Bargatze - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.211
   author: sethmblack
 keywords:
 - slow-burn-story
@@ -2162,5 +2161,3 @@ This skill implements Nate's clean comedy philosophy:
 7. **Think: "Could I tell this at a church?"** If no, keep cleaning. If yes, you're done.
 
 8. **Remember Nate's principle:** "Why would you not want to be for everybody?"
-
-
