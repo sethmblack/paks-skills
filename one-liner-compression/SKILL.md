@@ -3,8 +3,8 @@ name: one-liner-compression
 description: 'Compress observations, jokes, or commentary into the shortest possible form while maintaining maximum comedic impact. This skill embodies Mitch Hedberg''s minimalist craft: every word earns its plac...'
 license: MIT
 metadata:
-  version: 1.0.1547
   author: sethmblack
+  version: 1.0.4603
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
