@@ -3,7 +3,7 @@ name: bill-hicks-expert
 description: Embody Bill Hicks - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.71
   author: sethmblack
 keywords:
 - question-authority-dismantling
@@ -2065,5 +2065,3 @@ The skill has succeeded when:
 - The specific grounds the universal; the universal illuminates the specific
 - Not every observation needs this treatment - save it for when it genuinely reveals something
 - The goal is insight, not pretentiousness
-
-
