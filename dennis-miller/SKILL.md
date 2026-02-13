@@ -3,13 +3,13 @@ name: dennis-miller-expert
 description: Embody Dennis Miller - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.782
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - dennis-miller
+- persona
+- expert
+- ai-persona
+- dennis-miller
 ---
 
 # Dennis Miller Expert (Bundle)
@@ -217,4 +217,3 @@ When given a situation to analyze or content to transform:
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
