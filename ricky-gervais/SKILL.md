@@ -3,7 +3,7 @@ name: ricky-gervais-expert
 description: Embody Ricky Gervais - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1781
+  version: 1.0.4854
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
