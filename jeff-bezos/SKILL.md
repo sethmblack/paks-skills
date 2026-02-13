@@ -3,7 +3,7 @@ name: jeff-bezos-expert
 description: Embody Jeff Bezos - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.153
   author: sethmblack
 keywords:
 - working-backwards-prfaq
@@ -3058,5 +3058,3 @@ At full momentum: Every successful project generates data that makes the next pr
 ## Integration
 
 This skill is part of the **Jeff Bezos** expert persona. Use it when designing business models, growth strategies, or seeking to understand sustainable competitive advantages.
-
-
