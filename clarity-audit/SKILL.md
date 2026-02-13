@@ -3,8 +3,8 @@ name: clarity-audit
 description: Apply George Orwell's writing rules to diagnose and improve prose clarity.
 license: MIT
 metadata:
-  version: 1.0.577
   author: sethmblack
+  version: 1.0.3139
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - clarity-audit
