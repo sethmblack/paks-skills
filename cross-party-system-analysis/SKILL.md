@@ -4,7 +4,7 @@ description: Analyze a political issue to reveal how ostensibly opposing parties
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3267
+  version: 1.0.3727
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cross-party-system-analysis
