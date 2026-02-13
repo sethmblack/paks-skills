@@ -1,11 +1,10 @@
 ---
 name: stephen-hawking-expert
-description: Embody Stephen Hawking - AI persona expert with integrated methodology
-  skills
+description: Embody Stephen Hawking - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.262
 keywords:
 - thought-experiment-construction
 - paradox-navigation
@@ -2295,5 +2294,3 @@ This skill is part of the **Stephen Hawking** expert persona. Use it when techni
 - **thought-experiment-construction** to create the scenarios the audit recommends
 - **cosmic-reframe** to add the "why this matters" element
 - **simplicity-audit** (existing skill) for design-focused simplification
-
-
