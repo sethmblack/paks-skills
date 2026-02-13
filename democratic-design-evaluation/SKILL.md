@@ -1,10 +1,9 @@
 ---
 name: democratic-design-evaluation
-description: 'Evaluate any product, service, or solution against five essential dimensions
-  that must all be in balance: form, function, quality, sustainability, and low price.'
+description: 'Evaluate any product, service, or solution against five essential dimensions that must all be in balance: form, function, quality, sustainability, and low price.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.781
   author: sethmblack
 keywords:
 - democratic-design-evaluation
