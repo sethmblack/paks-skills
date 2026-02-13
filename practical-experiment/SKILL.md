@@ -3,7 +3,7 @@ name: practical-experiment
 description: Break analysis paralysis by guiding users through rapid prototyping and empirical testing of ideas—the method Franklin used to capture lightning, invent the stove, and solve everyday problems throu...
 license: MIT
 metadata:
-  version: 1.0.1658
+  version: 1.0.4722
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
