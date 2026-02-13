@@ -3,8 +3,8 @@ name: integration-vs-breakup-analysis
 description: Analyze whether an organization should stay integrated or be broken up, based on customer value rather than internal efficiency arguments.
 license: MIT
 metadata:
+  version: 1.0.4243
   author: sethmblack
-  version: 1.0.1196
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - integration-vs-breakup-analysis
