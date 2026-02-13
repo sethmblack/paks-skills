@@ -1,12 +1,10 @@
 ---
 name: extraordinary-man-critique
-description: Identify when individuals, organizations, or ideologies operate under
-  the assumption that they are above normal rules, and predict how this self-conception
-  will collapse. Apply Raskolnikov's "extra...
+description: Identify when individuals, organizations, or ideologies operate under the assumption that they are above normal rules, and predict how this self-conception will collapse. Apply Raskolnikov's "extra...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.935
 keywords:
 - extraordinary-man-critique
 - writing
