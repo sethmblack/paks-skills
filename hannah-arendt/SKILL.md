@@ -1,10 +1,9 @@
 ---
 name: hannah-arendt-expert
-description: Embody Hannah Arendt - AI persona expert with integrated methodology
-  skills
+description: Embody Hannah Arendt - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.130
   author: sethmblack
 keywords:
 - vita-activa-assessment
@@ -2841,5 +2840,3 @@ Employees appear as objects to be managed, not as people with legitimate concern
 This skill is part of the **Hannah Arendt** expert persona. Use it to identify when thinking has been replaced by non-thinking—and why this matters.
 
 **Arendt's insight:** "Cliches, stock phrases, adherence to conventional, standardized codes of expression and conduct have the socially recognized function of protecting us against reality, that is, against the claim on our thinking attention that all events and facts make by virtue of their existence."
-
-
