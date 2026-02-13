@@ -1,18 +1,18 @@
 ---
 name: vocal-psychology-analysis
-description: "Analyze how someone speaks to reveal what they're protecting, aspiring to, or unconsciously signaling about status and identity"
+description: Analyze how someone speaks to reveal what they're protecting, aspiring to, or unconsciously signaling about status and identity
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.2202
+  author: Seth Black
 keywords:
-  - psychology
-  - communication
-  - analysis
-  - peter-sellers
-  - voice
-  - status
-  - behavior
+- psychology
+- communication
+- analysis
+- peter-sellers
+- voice
+- status
+- behavior
 ---
 
 # Vocal Psychology Analysis
