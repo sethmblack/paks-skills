@@ -3,7 +3,7 @@ name: andrew-carnegie-expert
 description: Embody Andrew Carnegie - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.55
+  version: 1.0.373
   author: sethmblack
 keywords:
 - vertical-integration-analysis
