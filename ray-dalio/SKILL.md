@@ -4,7 +4,7 @@ description: Embody Ray Dalio - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.229
+  version: 1.0.1727
 keywords:
 - root-cause-diagnosis
 - principle-creation
