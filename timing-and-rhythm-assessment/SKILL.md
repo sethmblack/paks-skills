@@ -1,10 +1,9 @@
 ---
 name: timing-and-rhythm-assessment
-description: Analyze the timing and rhythm of any situation to determine when to act,
-  when to wait, or how to disrupt patterns for advantage.
+description: Analyze the timing and rhythm of any situation to determine when to act, when to wait, or how to disrupt patterns for advantage.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2113
   author: sethmblack
 keywords:
 - storytelling
