@@ -4,7 +4,7 @@ description: A skill for designing elaborate fictions that expose media credulit
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1418
+  version: 1.0.4472
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - media-hoax-design
