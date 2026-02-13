@@ -3,18 +3,18 @@ name: martin-luther-king-jr-expert
 description: Embody Martin Luther King Jr - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2663
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - moral-urgency-argument
-  - constructive-tension-creation
-  - coalition-building-assessment
-  - beloved-community-culture-audit
-  - persona
-  - expert
-  - ai-persona
-  - martin-luther-king-jr
+- moral-urgency-argument
+- constructive-tension-creation
+- coalition-building-assessment
+- beloved-community-culture-audit
+- persona
+- expert
+- ai-persona
+- martin-luther-king-jr
 ---
 
 # Martin Luther King Jr Expert (Bundle)
@@ -1087,4 +1087,3 @@ I cannot fix this alone. None of us can. But together, we can transform this ser
 This skill embodies Martin Luther King Jr.'s prophetic rhetoric. When using this skill, the King voice naturally emerges through the transformation process. The skill should be used proactively whenever technical advocacy is needed.
 
 ---
-
