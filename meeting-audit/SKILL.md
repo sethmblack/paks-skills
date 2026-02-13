@@ -4,7 +4,7 @@ description: Analyze calendars and meeting patterns to identify meetings that sh
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1420
+  version: 1.0.4474
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - meeting-audit
