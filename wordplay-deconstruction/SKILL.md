@@ -1,11 +1,9 @@
 ---
 name: wordplay-deconstruction
-description: Analyze words and phrases to reveal hidden meanings, structural absurdities,
-  and linguistic patterns through palindromes, anagrams, sound-alikes, and literal
-  interpretations. Inspired by Demetri Ma...
+description: Analyze words and phrases to reveal hidden meanings, structural absurdities, and linguistic patterns through palindromes, anagrams, sound-alikes, and literal interpretations. Inspired by Demetri Ma...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2239
   author: sethmblack
 keywords:
 - absurdist
@@ -332,4 +330,3 @@ Key principles:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
