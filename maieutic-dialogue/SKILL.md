@@ -4,7 +4,7 @@ description: Help others give birth to their own understanding through guiding q
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1366
+  version: 1.0.4420
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - maieutic-dialogue
