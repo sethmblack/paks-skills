@@ -3,7 +3,7 @@ name: greg-giraldo-expert
 description: Embody Greg Giraldo - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.128
   author: sethmblack
 keywords:
 - rapid-fire-roast
@@ -2293,5 +2293,3 @@ A successful compound insult:
 - [ ] Makes you think while making you laugh
 - [ ] Could not be written by a hack comedian
 - [ ] Respects ethical boundaries (no punching down)
-
-
