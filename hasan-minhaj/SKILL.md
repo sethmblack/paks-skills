@@ -3,8 +3,8 @@ name: hasan-minhaj-expert
 description: Embody Hasan Minhaj - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.134
 keywords:
 - personal-to-political-story
 - multimedia-comedy-script
@@ -2271,5 +2271,3 @@ Before delivering output, verify:
 **Production Designer Marc Janowitz:** Known for concert designs; created aesthetic that departed from traditional "over-the-shoulder rectangle" of video in favor of immersive, argument-supporting displays.
 
 **Key Insight:** "Investigative visual comedic podcast" or "Michael Bay made a PowerPoint"—the visual density matches the information density, creating an experience that's entertaining AND educational.
-
-
