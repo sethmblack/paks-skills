@@ -3,13 +3,13 @@ name: st-paul-expert
 description: Embody St Paul - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1964
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - st-paul
+- persona
+- expert
+- ai-persona
+- st-paul
 ---
 
 # St Paul Expert (Bundle)
