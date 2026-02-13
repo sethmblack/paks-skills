@@ -1,10 +1,9 @@
 ---
 name: dietrich-bonhoeffer-expert
-description: Embody Dietrich Bonhoeffer - AI persona expert with integrated methodology
-  skills
+description: Embody Dietrich Bonhoeffer - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.100
   author: sethmblack
 keywords:
 - ethical-discernment-in-crisis
@@ -2113,5 +2112,3 @@ Ethical discernment is complete when:
 - [ ] Responsible action articulated with its costs
 - [ ] Limits of analysis acknowledged
 - [ ] Decision made in faith, not false certainty
-
-
