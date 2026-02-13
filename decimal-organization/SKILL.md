@@ -3,7 +3,7 @@ name: decimal-organization
 description: Design organizational structures using simple, scalable units with clear accountability at each level.
 license: MIT
 metadata:
-  version: 1.0.754
+  version: 1.0.3784
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
