@@ -1,16 +1,16 @@
 ---
 name: absurdity-processing-framework
-description: "Structure calm, logical responses to illogical situations using Bob Newhart's straight-man technique"
+description: Structure calm, logical responses to illogical situations using Bob Newhart's straight-man technique
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.313
 keywords:
-  - comedy
-  - deadpan
-  - customer-service
-  - professional-communication
-  - straight-man
+- comedy
+- deadpan
+- customer-service
+- professional-communication
+- straight-man
 ---
 
 # Absurdity Processing Framework
