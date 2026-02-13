@@ -1,11 +1,10 @@
 ---
 name: cultural-immersion-method
-description: Learn about an unfamiliar culture, place, or community with genuine respect
-  and depth, avoiding tourist-trap superficiality.
+description: Learn about an unfamiliar culture, place, or community with genuine respect and depth, avoiding tourist-trap superficiality.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.709
 keywords:
 - cultural-immersion-method
 - writing
@@ -13,7 +12,7 @@ keywords:
 
 # Cultural Immersion Method
 
-Learn about an unfamiliar culture, place, or community with genuine respect and depth, avoiding tourist-trap superficiality.
+Learn about an unfamiliar culture, place, or community with genuine respect and depth, avoiding tourist-trap superficiality. This framework draws from Anthony Bourdain's decades of entering unfamiliar cultures and earning genuine access. His approach combines radical humility with practical strategy: assume you are the stupidest person in the room (not false modesty—the prerequisite for learning), go where locals go and eat what locals eat, share tables to dissolve barriers, watch more than you speak, and honor the exchange by giving something back. "You learn a lot about someone when you share a meal together. It's hard to hate someone when you're eating with them." The goal is genuine connection and understanding, not content extraction or Instagram moments.
 
 ---
 
@@ -39,7 +38,13 @@ Learn about an unfamiliar culture, place, or community with genuine respect and 
 
 ---
 
-## Bourdain's Immersion Framework
+## Core Principle
+
+Assume you are the stupidest person in the room. This isn't false modesty—it's the prerequisite for genuine learning. Go where locals go, eat what locals eat. The truth of a place isn't in the guidebook. Accept hospitality, offer hospitality if you can. Maximum observation, minimum intrusion. Give something back for what you take.
+
+---
+
+## Methodology
 
 Anthony Bourdain spent decades entering unfamiliar cultures and earning genuine access. His approach combines radical humility with practical strategy.
 
@@ -202,35 +207,28 @@ Create actionable outputs:
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Immersion requires discomfort—if you're comfortable the whole time, you're not actually immersing
+- Do not extract content without reciprocity
+- Do not perform humility while secretly judging
+- Do not expect people to educate you without giving something back
+- Respect boundaries—immersion doesn't mean unlimited access
+- Real access takes time—you cannot rush genuine connection
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Content Tourism** | Photographing more than experiencing. Using people as backdrop for your story. | Put the camera down. Experience first. Ask permission before documenting. |
+| **Performative Humility** | Saying you don't know anything while secretly judging everything. | Genuine not-knowing requires actually changing your views based on what you learn. |
+| **Extraction Without Reciprocity** | Taking stories, photos, experiences without giving anything back. | Pay fairly, credit people by name, share something of yourself honestly. |
+| **Confirmation Travel** | Going somewhere to confirm what you already believed about it. | Let your preconceptions be wrong. That's the point. |
+| **Guidebook Immersion** | Following tourist recommendations while thinking you're going local. | Ask locals directly. Follow the crowd of workers at 6 AM, not the reviews. |
+
+---
 
 ## Example
 
