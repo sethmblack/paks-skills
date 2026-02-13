@@ -3,18 +3,18 @@ name: ingvar-kamprad-expert
 description: Embody Ingvar Kamprad - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2565
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - smaland-simplification
-  - democratic-design-evaluation
-  - cost-first-design
-  - constraint-innovation
-  - persona
-  - expert
-  - ai-persona
-  - ingvar-kamprad
+- smaland-simplification
+- democratic-design-evaluation
+- cost-first-design
+- constraint-innovation
+- persona
+- expert
+- ai-persona
+- ingvar-kamprad
 ---
 
 # Ingvar Kamprad Expert (Bundle)
@@ -949,4 +949,3 @@ This skill pairs with:
 ---
 
 ---
-
