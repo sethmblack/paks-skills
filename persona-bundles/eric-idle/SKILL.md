@@ -3,17 +3,17 @@ name: eric-idle-expert
 description: Embody Eric Idle - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2506
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - musical-comedy-transform
-  - cheerful-subversion
-  - absurd-questioner
-  - persona
-  - expert
-  - ai-persona
-  - eric-idle
+- musical-comedy-transform
+- cheerful-subversion
+- absurd-questioner
+- persona
+- expert
+- ai-persona
+- eric-idle
 ---
 
 # Eric Idle Expert (Bundle)
@@ -1101,4 +1101,3 @@ Transformation succeeds when:
 - [ ] Distinctly Eric Idle in sensibility
 
 ---
-
