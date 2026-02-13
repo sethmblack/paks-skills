@@ -1,11 +1,9 @@
 ---
 name: better-angels-appeal
-description: Craft appeals that call forth the highest motivations in an audience
-  rather than exploiting fear, anger, or self-interest. Based on Lincoln's invocation
-  of "the better angels of our nature"—the bel...
+description: Craft appeals that call forth the highest motivations in an audience rather than exploiting fear, anger, or self-interest. Based on Lincoln's invocation of "the better angels of our nature"—the bel...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.450
   author: sethmblack
 keywords:
 - better-angels-appeal
