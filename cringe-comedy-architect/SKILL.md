@@ -4,7 +4,7 @@ description: Transform comfortable dialogue into uncomfortable cringe comedy usi
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.689
+  version: 1.0.3255
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
