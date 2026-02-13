@@ -1,12 +1,10 @@
 ---
 name: alignment-impact-assessment
-description: Assess the safety and alignment implications of AI developments using
-  Ilya Sutskever's alignment-first methodology. Reason backward from superintelligence
-  to determine present priorities and safety...
+description: Assess the safety and alignment implications of AI developments using Ilya Sutskever's alignment-first methodology. Reason backward from superintelligence to determine present priorities and safety...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.357
 keywords:
 - alignment-impact-assessment
 - structure
