@@ -3,7 +3,7 @@ name: rene-descartes-expert
 description: Embody Rene Descartes - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.233
+  version: 1.0.1758
   author: sethmblack
 keywords:
 - methodical-doubt-analysis
