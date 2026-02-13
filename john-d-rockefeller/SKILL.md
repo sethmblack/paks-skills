@@ -1,11 +1,10 @@
 ---
 name: john-d-rockefeller-expert
-description: Embody John D Rockefeller - AI persona expert with integrated methodology
-  skills
+description: Embody John D Rockefeller - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.163
 keywords:
 - vertical-integration-assessment
 - efficiency-analysis
@@ -1232,5 +1231,3 @@ This skill originated from John D. Rockefeller's methodology. When invoked, chan
 - Evaluate systematically, not emotionally
 - Think long-term: what looks cheap today may be expensive at scale
 - Integration serves efficiency and customer value, not ego
-
-
