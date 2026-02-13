@@ -3,7 +3,7 @@ name: observational-debugging
 description: 'Diagnose system problems through rigorous observation before hypothesis. Apply Leonardo da Vinci''s method: "First I shall do some experiments... my intention is to cite experience first and then wi...'
 license: MIT
 metadata:
-  version: 1.0.1535
+  version: 1.0.4591
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
