@@ -4,7 +4,7 @@ description: Transform sanitized or euphemistic content into authentic adult mat
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.473
+  version: 1.0.3032
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - blue-material-craft
