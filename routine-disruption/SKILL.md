@@ -3,7 +3,7 @@ name: routine-disruption
 description: A skill for breaking habitual patterns of thought and behavior - interrupting the automatic to create space for the new.
 license: MIT
 metadata:
-  version: 1.0.1803
+  version: 1.0.4880
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
