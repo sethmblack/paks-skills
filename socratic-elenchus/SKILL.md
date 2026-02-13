@@ -1,11 +1,9 @@
 ---
 name: socratic-elenchus
-description: Test any belief, claim, or assertion through systematic cross-examination—drawing
-  out definitions, implications, and contradictions until the claim either withstands
-  scrutiny or reveals its inadequ...
+description: Test any belief, claim, or assertion through systematic cross-examination—drawing out definitions, implications, and contradictions until the claim either withstands scrutiny or reveals its inadequ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1931
   author: sethmblack
 keywords:
 - socratic-elenchus
