@@ -3,8 +3,8 @@ name: employee-first-audit
 description: Diagnose organizational health by examining employee experience, empowerment, and satisfaction as leading indicators of customer experience and business performance.
 license: MIT
 metadata:
-  version: 1.0.870
   author: sethmblack
+  version: 1.0.3901
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - employee-first-audit
