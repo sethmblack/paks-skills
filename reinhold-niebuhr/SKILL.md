@@ -4,7 +4,7 @@ description: Embody Reinhold Niebuhr - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1752
+  version: 1.0.4823
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
