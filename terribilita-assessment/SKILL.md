@@ -1,10 +1,9 @@
 ---
 name: terribilita-assessment
-description: Evaluate whether work achieves genuine impact and emotional power, or
-  merely adequate execution--pushing toward the sublime and away from the merely pleasant.
+description: Evaluate whether work achieves genuine impact and emotional power, or merely adequate execution--pushing toward the sublime and away from the merely pleasant.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2072
   author: sethmblack
 keywords:
 - terribilita-assessment
