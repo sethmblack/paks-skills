@@ -4,7 +4,7 @@ description: 'Structure any complex analysis, argument, or system design using N
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.417
+  version: 1.0.2975
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - axiomatic-decomposition
