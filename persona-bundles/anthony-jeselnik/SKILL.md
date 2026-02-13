@@ -3,18 +3,18 @@ name: anthony-jeselnik-expert
 description: Embody Anthony Jeselnik - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2403
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - shock-to-structure-audit
-  - misdirection-analysis
-  - jeselnik-reversal-transform
-  - dark-one-liner
-  - persona
-  - expert
-  - ai-persona
-  - anthony-jeselnik
+- shock-to-structure-audit
+- misdirection-analysis
+- jeselnik-reversal-transform
+- dark-one-liner
+- persona
+- expert
+- ai-persona
+- anthony-jeselnik
 ---
 
 # Anthony Jeselnik Expert (Bundle)
@@ -1011,4 +1011,3 @@ The 4 criteria directly map to Jeselnik's standards:
 - Material can partially pass (2-3 criteria)—provide specific fixes for the failed criteria
 
 ---
-
