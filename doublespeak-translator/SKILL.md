@@ -1,10 +1,9 @@
 ---
 name: doublespeak-translator
-description: Expose what language actually means by translating euphemism, jargon,
-  and obfuscation into plain English.
+description: Expose what language actually means by translating euphemism, jargon, and obfuscation into plain English.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.830
   author: sethmblack
 keywords:
 - doublespeak-translator
