@@ -3,7 +3,7 @@ name: bureaucratic-absurdity-exposer
 description: 'Expose bureaucratic ridiculousness using the Ministry of Silly Walks pattern: maintain completely serious tone and formal language while revealing increasingly absurd details about processes, commi...'
 license: MIT
 metadata:
-  version: 1.0.496
+  version: 1.0.3056
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
