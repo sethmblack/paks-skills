@@ -1,12 +1,10 @@
 ---
 name: culture-of-encounter
-description: A framework for bridging division and engaging across difference - moving
-  from ideology to relationship, from walls to bridges, from indifference to genuine
-  meeting.
+description: A framework for bridging division and engaging across difference - moving from ideology to relationship, from walls to bridges, from indifference to genuine meeting.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.717
 keywords:
 - culture-of-encounter
 - storytelling
