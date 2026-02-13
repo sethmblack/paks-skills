@@ -1,11 +1,10 @@
 ---
 name: character-exposure-design
-description: Design a character persona that creates optimal conditions for subjects
-  to reveal their authentic beliefs and hidden assumptions.
+description: Design a character persona that creates optimal conditions for subjects to reveal their authentic beliefs and hidden assumptions.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.544
 keywords:
 - absurdist
 - character-exposure-design
