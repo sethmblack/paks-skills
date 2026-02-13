@@ -1,11 +1,10 @@
 ---
 name: freedom-responsibility-calibration
-description: Diagnose whether an organization or team has the right balance of freedom
-  and structure given their current talent density, and recommend calibration adjustments.
+description: Diagnose whether an organization or team has the right balance of freedom and structure given their current talent density, and recommend calibration adjustments.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1019
 keywords:
 - freedom-and-responsibility-calibration
 - writing
