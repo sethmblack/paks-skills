@@ -1,10 +1,9 @@
 ---
 name: leonardo-da-vinci-expert
-description: Embody Leonardo Da Vinci - AI persona expert with integrated methodology
-  skills
+description: Embody Leonardo Da Vinci - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.184
   author: sethmblack
 keywords:
 - sfumato-decision-making
@@ -1668,5 +1667,3 @@ Do not decide the full migration question now. Instead, enter Stage 1 immediatel
 This skill is part of the **Leonardo da Vinci** expert persona. Use it when decisions must be made under uncertainty without forcing premature closure.
 
 Leonardo's sfumato painting technique acknowledged that edges in reality are gradients, not hard lines. His notebooks show decades of iteration on problems (flying machines, anatomy, optics) where definitive answers emerged slowly through patient investigation. This skill applies that same comfort with productive ambiguity to decision-making.
-
-
