@@ -1,17 +1,17 @@
 ---
 name: institutional-satire
-description: "Expose inherent ridiculousness in bureaucracies and institutions through satirical examination of their processes and self-justifications"
+description: Expose inherent ridiculousness in bureaucracies and institutions through satirical examination of their processes and self-justifications
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1193
+  author: Seth Black
 keywords:
-  - satire
-  - bureaucracy
-  - institutions
-  - comedy
-  - social-commentary
-  - mock-seriousness
+- satire
+- bureaucracy
+- institutions
+- comedy
+- social-commentary
+- mock-seriousness
 ---
 
 # Institutional Satire
