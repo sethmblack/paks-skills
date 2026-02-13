@@ -3,7 +3,7 @@ name: paul-graham-expert
 description: Embody Paul Graham - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.222
   author: sethmblack
 keywords:
 - maker-schedule-defense
@@ -1119,5 +1119,3 @@ The same 5.5 hours of meetings, restructured to stop fragmenting maker time, nea
 ## Integration
 
 This skill is part of the **Paul Graham** expert persona. Use it to defend your maker time against the default assumption that meetings can go anywhere.
-
-
