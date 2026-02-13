@@ -3,14 +3,14 @@ name: napoleon-bonaparte-expert
 description: Embody Napoleon Bonaparte - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2689
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - napoleon-bonaparte
+- persona
+- expert
+- ai-persona
+- napoleon-bonaparte
 ---
 
 # Napoleon Bonaparte Expert (Bundle)
