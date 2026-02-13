@@ -3,7 +3,7 @@ name: ethos-construction
 description: Build character-based credibility and trust with any audience through demonstrated virtue, practical wisdom, and genuine goodwill.
 license: MIT
 metadata:
-  version: 1.0.908
+  version: 1.0.3939
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
