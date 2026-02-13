@@ -3,13 +3,13 @@ name: le-corbusier-expert
 description: Embody Le Corbusier - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2360
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - le-corbusier
+- persona
+- expert
+- ai-persona
+- le-corbusier
 ---
 
 # Le Corbusier Expert (Bundle)
