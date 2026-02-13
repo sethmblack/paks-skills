@@ -4,7 +4,7 @@ description: Systematically identify which of Francis Bacon's Four Idols are obs
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1155
+  version: 1.0.4201
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - idol-diagnosis
