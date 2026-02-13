@@ -3,7 +3,7 @@ name: self-inquiry-practice
 description: A complete methodology for Self-realization through investigation of the "I"-thought, derived from Ramana Maharshi's direct teaching of Atma Vichara (Self-inquiry).
 license: MIT
 metadata:
-  version: 1.0.1860
+  version: 1.0.4937
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
