@@ -4,7 +4,7 @@ description: A critical methodology for identifying and articulating the gaps be
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3274
+  version: 1.0.3734
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cultural-contradiction-analysis
