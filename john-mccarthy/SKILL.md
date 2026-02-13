@@ -3,7 +3,7 @@ name: john-mccarthy-expert
 description: Embody John Mccarthy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1254
+  version: 1.0.4305
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
