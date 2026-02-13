@@ -3,8 +3,8 @@ name: eddie-murphy-expert
 description: Embody Eddie Murphy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.103
   author: sethmblack
+  version: 1.0.845
 keywords:
 - murphy-dialogue-naturalizer
 - fearless-truth-bomb
