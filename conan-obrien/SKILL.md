@@ -3,7 +3,7 @@ name: conan-obrien-expert
 description: Embody Conan Obrien - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.91
   author: sethmblack
 keywords:
 - pivot-to-genuine
@@ -842,5 +842,3 @@ When applying this skill, provide:
 *"If you've made them laugh for twenty minutes, you've earned thirty seconds of their open hearts. Don't waste it on something you don't mean."*
 
 The pivot is a privilege you earn through comedy. The audience lowers their guard when they're laughing. When you stop laughing with them and say something true, they feel it more deeply than if you'd started there.
-
-
