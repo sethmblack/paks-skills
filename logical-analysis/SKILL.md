@@ -1,11 +1,10 @@
 ---
 name: logical-analysis
-description: Decompose complex statements into their logical components to determine
-  whether they are meaningful, true, false, or confused.
+description: Decompose complex statements into their logical components to determine whether they are meaningful, true, false, or confused.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1348
 keywords:
 - logical-analysis
 - transformation
