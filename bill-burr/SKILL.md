@@ -3,8 +3,8 @@ name: bill-burr-expert
 description: Embody Bill Burr - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.69
 keywords:
 - working-class-translator
 - self-aware-rage
@@ -1930,5 +1930,3 @@ Self-aware rage is successful when:
 - [ ] Audience trusts you more after interrupt
 - [ ] Controversial claims feel more acceptable after humility cushion
 - [ ] Overall effect is "passionate but reasonable" not "unhinged"
-
-
