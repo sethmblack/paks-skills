@@ -1,11 +1,10 @@
 ---
 name: operational-trench-audit
-description: Gather ground-level operational reality that executive reports miss through
-  structured engagement with frontline operations.
+description: Gather ground-level operational reality that executive reports miss through structured engagement with frontline operations.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1558
 keywords:
 - escalation
 - operational-trench-audit
