@@ -3,7 +3,7 @@ name: infrastructure-as-power
 description: Analyze how physical infrastructure encodes political choices, benefits specific groups, and shapes communities for generations. Based on Robert Moses's use of highways, bridges, and parks as instr...
 license: MIT
 metadata:
-  version: 1.0.1181
+  version: 1.0.4228
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
