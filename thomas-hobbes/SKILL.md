@@ -3,8 +3,8 @@ name: thomas-hobbes-expert
 description: Embody Thomas Hobbes - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.276
   author: sethmblack
+  version: 1.0.2095
 keywords:
 - sovereign-design
 - covenant-assessment
