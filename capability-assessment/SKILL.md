@@ -4,7 +4,7 @@ description: Precisely define what a system, technology, or approach can and can
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.510
+  version: 1.0.3070
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - capability-assessment
