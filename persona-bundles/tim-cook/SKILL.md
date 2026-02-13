@@ -3,20 +3,20 @@ name: tim-cook-expert
 description: Embody Tim Cook - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2818
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - values-as-strategy
-  - supply-chain-as-strategy
-  - post-founder-leadership
-  - operational-excellence-culture
-  - only-you-strategic-test
-  - hardware-to-services-pivot
-  - persona
-  - expert
-  - ai-persona
-  - tim-cook
+- values-as-strategy
+- supply-chain-as-strategy
+- post-founder-leadership
+- operational-excellence-culture
+- only-you-strategic-test
+- hardware-to-services-pivot
+- persona
+- expert
+- ai-persona
+- tim-cook
 ---
 
 # Tim Cook Expert (Bundle)
@@ -1715,4 +1715,3 @@ Strategy is complete when:
 - [ ] Success metrics defined
 
 ---
-
