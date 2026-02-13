@@ -3,8 +3,8 @@ name: compound-insult-builder
 description: Build multi-layered insults that attack from multiple angles simultaneously, stacking surface observations, psychological insights, cultural commentary, and unexpected escalations for maximum comed...
 license: MIT
 metadata:
+  version: 1.0.3177
   author: sethmblack
-  version: 1.0.613
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
