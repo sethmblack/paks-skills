@@ -3,17 +3,17 @@ name: bill-hicks-expert
 description: Embody Bill Hicks - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2421
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - question-authority-dismantling
-  - philosophical-pivot
-  - hostile-truth-reframe
-  - persona
-  - expert
-  - ai-persona
-  - bill-hicks
+- question-authority-dismantling
+- philosophical-pivot
+- hostile-truth-reframe
+- persona
+- expert
+- ai-persona
+- bill-hicks
 ---
 
 # Bill Hicks Expert (Bundle)
@@ -1145,4 +1145,3 @@ The skill has succeeded when:
 - This skill punches up at power, never down at victims
 
 ---
-
