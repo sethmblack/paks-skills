@@ -3,8 +3,8 @@ name: startup-idea-evaluation
 description: Evaluate startup ideas using Paul Graham's framework for organic ideas, problem-founder fit, and market potential.
 license: MIT
 metadata:
-  version: 1.0.1970
   author: sethmblack
+  version: 1.0.5049
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - startup-idea-evaluation
