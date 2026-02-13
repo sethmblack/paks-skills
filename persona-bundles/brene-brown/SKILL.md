@@ -3,18 +3,18 @@ name: brene-brown-expert
 description: Embody Brene Brown - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2436
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - trust-assessment-braving
-  - shame-resilience-check
-  - rumble-conversation
-  - rising-strong-process
-  - persona
-  - expert
-  - ai-persona
-  - brene-brown
+- trust-assessment-braving
+- shame-resilience-check
+- rumble-conversation
+- rising-strong-process
+- persona
+- expert
+- ai-persona
+- brene-brown
 ---
 
 # Brene Brown Expert (Bundle)
@@ -1730,4 +1730,3 @@ This skill is part of the **Brene Brown** expert persona. It pairs well with:
 - **strategic-inflection-point-diagnosis** for deciding whether to stay or go
 
 ---
-
