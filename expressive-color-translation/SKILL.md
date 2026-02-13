@@ -3,8 +3,8 @@ name: expressive-color-translation
 description: Transform neutral or literal descriptions into emotionally resonant color language that communicates feeling rather than mere appearance, following van Gogh's methodology.
 license: MIT
 metadata:
-  version: 1.0.932
   author: sethmblack
+  version: 1.0.3963
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - expressive-color-translation
