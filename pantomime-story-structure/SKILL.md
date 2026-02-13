@@ -4,7 +4,7 @@ description: Tell a complete story using only physical movement, gesture, and fa
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1572
+  version: 1.0.4629
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
