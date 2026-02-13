@@ -4,7 +4,7 @@ description: Embody Alan Turing - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.346
+  version: 1.0.2899
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - imitation-game-evaluation
