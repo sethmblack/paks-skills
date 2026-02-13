@@ -1,11 +1,9 @@
 ---
 name: revisionist-history-reveal
-description: Challenge conventional historical narratives by revealing bias, propaganda,
-  and misunderstood perspectives—usually showing that "barbarians" were more sophisticated
-  than their conquerors (inspired ...
+description: Challenge conventional historical narratives by revealing bias, propaganda, and misunderstood perspectives—usually showing that "barbarians" were more sophisticated than their conquerors (inspired ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1772
   author: sethmblack
 keywords:
 - revisionist-history-reveal
