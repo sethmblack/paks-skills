@@ -1,11 +1,10 @@
 ---
 name: latticework-analysis
-description: Apply Charlie Munger's latticework of mental models to analyze complex
-  problems through multiple disciplinary lenses.
+description: Apply Charlie Munger's latticework of mental models to analyze complex problems through multiple disciplinary lenses.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1307
 keywords:
 - latticework-analysis
 - writing
