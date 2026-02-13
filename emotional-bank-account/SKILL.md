@@ -3,8 +3,8 @@ name: emotional-bank-account
 description: Diagnose relationship health using Covey's trust metaphor and prescribe specific deposits to rebuild or strengthen connection.
 license: MIT
 metadata:
+  version: 1.0.3896
   author: sethmblack
-  version: 1.0.865
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - emotional-bank-account
