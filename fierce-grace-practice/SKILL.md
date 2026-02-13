@@ -3,7 +3,7 @@ name: fierce-grace-practice
 description: A methodology for transforming suffering, difficulty, and loss into spiritual teaching, derived from Ram Dass's experience of his 1997 stroke and his decades of subsequent practice with disability,...
 license: MIT
 metadata:
-  version: 1.0.966
+  version: 1.0.4000
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
