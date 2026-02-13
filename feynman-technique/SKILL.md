@@ -1,10 +1,9 @@
 ---
 name: feynman-technique
-description: Build deep understanding through teaching, identifying gaps, and iterative
-  simplification.
+description: Build deep understanding through teaching, identifying gaps, and iterative simplification.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.963
   author: sethmblack
 keywords:
 - the-feynman-technique
