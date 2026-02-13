@@ -3,12 +3,12 @@ name: plaza-observation-method
 description: Teach and apply William H. Whyte's systematic observation methodology for evaluating public spaces.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2328
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - plaza-observation-method
-  - urban-planning
+- plaza-observation-method
+- urban-planning
 ---
 
 # Plaza Observation Method
