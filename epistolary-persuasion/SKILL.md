@@ -3,7 +3,7 @@ name: epistolary-persuasion
 description: Structure communication that addresses difficult issues with communities or individuals, combining theological/principled grounding with pastoral care and practical guidance.
 license: MIT
 metadata:
-  version: 1.0.886
+  version: 1.0.3917
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
