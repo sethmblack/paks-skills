@@ -3,8 +3,8 @@ name: authentic-brand-building
 description: 'Build a personal brand through authenticity rather than performance. Based on Oprah Winfrey''s approach: "I had no idea that being my authentic self could make me as rich as I''ve become. If I had kn...'
 license: MIT
 metadata:
+  version: 1.0.3430
   author: sethmblack
-  version: 1.0.2970
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - authentic-brand-building
