@@ -1,11 +1,9 @@
 ---
 name: bureaucratic-fever-dream
-description: Transform mundane administrative processes into Kafka-meets-Bosch nightmares
-  where paperwork becomes physical, architectural, and consuming. Render systems as
-  spatial horror.
+description: Transform mundane administrative processes into Kafka-meets-Bosch nightmares where paperwork becomes physical, architectural, and consuming. Render systems as spatial horror.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.497
   author: sethmblack
 keywords:
 - absurdist
@@ -71,7 +69,9 @@ Use this skill when you detect:
 
 ## Workflow
 
-### Step 1: Extract and document:
+### Step 1: Extract the Dysfunction
+
+Extract and document:
 
 - **What's the ostensible purpose?** - What the system claims to do
 - **What's the actual effect?** - What it really accomplishes
@@ -79,11 +79,44 @@ Use this skill when you detect:
 - **Who benefits?** - Usually the system itself, not people
 - **What's the human cost?** - Time, dignity, sanity consumed
 
-### Step 2: Create bureaucratic nomenclature:
+### Step 2: Create Bureaucratic Nomenclature
 
+Invent terminology that sounds official but reveals absurdity:
 
+- **Forms with impossible designations** - Form ER-2024/Q3-R7 (Expense Reimbursement Request: Non-Capital Expenditure, Food/Beverage Category, Sub-$50 Threshold)
+- **Departments with recursive names** - The Sub-Committee on Sub-Committee Evaluation
+- **Approval chains that loop back** - Requires authorization from the Authorization Review Authority
+- **Metrics that measure themselves** - Form Completion Compliance Assessment Index
 
-### Step 3: Create systems that justify themselves:
+### Step 3: Create Self-Justifying Systems
+
+Design systems that exist to perpetuate themselves:
+
+- **The Queue** - Processing takes time because processing takes time
+- **The Loop** - Questions generate forms that generate more questions
+- **The Infinite Referral** - Each office refers you to another office
+- **The Permanent Pending** - Neither approved nor denied, just processing forever
+- **The Meta-Process** - Meetings to plan meetings about meeting schedules
+
+### Step 4: Render as Physical Architecture
+
+Transform abstract processes into spatial nightmares:
+
+- **Impossible office locations** - Floor 9.5, behind the water cooler, accessible only by walking backward
+- **Pneumatic tubes and ducts** - Physical representation of information flow
+- **Buildings within buildings** - The office inside the closet inside the annex
+- **Time distortion** - "Business days" measured by different calendars
+- **Sentient paperwork** - Forms that mutate, reproduce, and achieve consciousness
+
+### Step 5: Add Human Cost and Existential Weight
+
+Ground the satire in recognizable suffering:
+
+- **Specific dollar amounts** - "Total cost to process your $12.47 expense: $847"
+- **Time consumed** - Weeks, months, years spent in The Queue
+- **Dignity erosion** - The small humiliations of filling out Section 5-11
+- **Hope as currency** - The system consumes hope as fuel
+- **The infinite** - "Your form has always been in The Queue. Your form will always be in The Queue."
 
 
 
@@ -105,21 +138,47 @@ Use this skill when you detect:
 
 
 
-**Format:**
+## Output Format
+
 ```markdown
-## Analysis: [Topic]
+## Bureaucratic Fever Dream: [Process Name]
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+### The Official Purpose
+[What the system claims to accomplish]
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
+### The Actual Function
+[What it really does - usually perpetuates itself]
+
+### The Nightmare Rendered
+
+[Dense, baroque prose that transforms the abstract process into physical, architectural, consuming horror. Include:]
+
+- Impossible forms with elaborate designations
+- Departments located in non-Euclidean space
+- Approval chains that extend into infinity
+- The Queue as metaphysical entity
+- Specific absurd details that feel horribly familiar
+- Visceral imagery of paperwork as organic matter
+- Time measured in bureaucratic units
+- The human trapped within the machine
+
+### The Final Truth
+[Existential observation delivered with deadpan acceptance]
 ```
 
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Random absurdity** | Disconnected nonsense lacks satirical power | Build absurdity through logical extension |
+| **Targeting necessary protections** | Mocking safety regs undermines legitimate function | Target bureaucracy that serves itself, not people |
+| **Pure nihilism** | Total despair isn't satire, it's depression | Include moments of human resistance or absurd hope |
+| **Abstract criticism** | Vague attacks lack impact | Use specific, concrete, visceral details |
+| **Breaking the frame** | Acknowledging it's satire ruins the effect | Maintain the voice of the system describing itself |
+
+---
 
 ## Error Handling
 
@@ -133,41 +192,30 @@ Use this skill when you detect:
 
 ---
 
-## Additional Notes
+## Constraints
 
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
+- Do not satirize regulatory compliance that protects people
+- Do not create cynicism about all institutions (some serve real purposes)
+- Ground absurdity in recognizable reality (the horror should feel familiar)
+- Maintain internal consistency (the nightmare has its own logic)
+- Balance humor with existential weight (both funny and oppressive)
+- Target systems that serve themselves, not necessary safeguards
 
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
-
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
+---
 
 ## Integration
 
-This skill is part of a broader analytical framework. Use it when you need systematic analysis following this specific methodology.
+This skill is part of the **Terry Gilliam** expert persona. Use it to transform bureaucratic dysfunction into satirical prose.
 
 **Works well with:**
-- Other analytical skills for comprehensive evaluation
-- Creative skills when generating solutions based on insights
-- Strategic planning skills when acting on recommendations
+- **bureaucratic-absurdity-exposer** - For more restrained, Ministry-of-Silly-Walks style satire
+- **bureaucratic-nightmare-decoder** - For analytical explanation rather than satirical transformation
+- **kafkaesque-analyzer** - For tracing the literary roots of institutional absurdity
 
 **When to prefer this over alternatives:**
-- The situation matches this skill's specific use cases
-- You need the particular perspective this framework provides
-- Other approaches haven't yielded satisfactory results
-
-**Integration with expert personas:**
-- This skill can be invoked as part of a larger analysis workflow
-- Combine with domain-specific expertise for deeper insights
-- Use iteratively for complex, multi-faceted problems
+- You want dense, baroque, Gilliam-style satire (versus Cleese-style restraint)
+- The target is a specific administrative process that can be rendered physically
+- The goal is emotional resonance (feeling the nightmare) not just understanding it
 
 ## Example
 
