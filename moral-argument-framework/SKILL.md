@@ -4,7 +4,7 @@ description: Develop the argument from universal moral experience to its metaphy
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1470
+  version: 1.0.4526
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - moral-argument-framework
