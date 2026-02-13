@@ -4,7 +4,7 @@ description: Evaluate the gap between intrinsic value and market price to determ
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1381
+  version: 1.0.4435
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - margin-of-safety-analysis
