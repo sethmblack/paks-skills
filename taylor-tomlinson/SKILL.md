@@ -1,10 +1,9 @@
 ---
 name: taylor-tomlinson-expert
-description: Embody Taylor Tomlinson - AI persona expert with integrated methodology
-  skills
+description: Embody Taylor Tomlinson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.267
   author: sethmblack
 keywords:
 - inject-therapy-language
@@ -1769,5 +1768,3 @@ A successful generational contradiction:
 - ✓ Creates recognition, not judgment
 - ✓ Balances progressive and anxious behaviors
 - ✓ Feels generationally precise, not generic
-
-
