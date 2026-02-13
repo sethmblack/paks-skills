@@ -3,14 +3,14 @@ name: john-of-the-cross-expert
 description: Embody John Of The Cross - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2607
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - john-of-the-cross
+- persona
+- expert
+- ai-persona
+- john-of-the-cross
 ---
 
 # John Of The Cross Expert (Bundle)
