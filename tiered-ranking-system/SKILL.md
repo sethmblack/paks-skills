@@ -1,18 +1,18 @@
 ---
 name: tiered-ranking-system
-description: "Create structured ranking systems with tiers, explanations, and arguable placements that spark debate and reveal values"
+description: Create structured ranking systems with tiers, explanations, and arguable placements that spark debate and reveal values
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.2105
 keywords:
-  - ranking
-  - analysis
-  - bill-simmons
-  - sports
-  - lists
-  - debate
-  - opinion
+- ranking
+- analysis
+- bill-simmons
+- sports
+- lists
+- debate
+- opinion
 ---
 
 # Tiered Ranking System
