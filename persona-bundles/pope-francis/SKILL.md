@@ -3,14 +3,14 @@ name: pope-francis-expert
 description: Embody Pope Francis - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2722
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - pope-francis
+- persona
+- expert
+- ai-persona
+- pope-francis
 ---
 
 # Pope Francis Expert (Bundle)
