@@ -1,10 +1,9 @@
 ---
 name: uncertainty-assessment
-description: Distinguish genuine uncertainty from calculable risk, and select the
-  appropriate decision-making framework.
+description: Distinguish genuine uncertainty from calculable risk, and select the appropriate decision-making framework.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2159
   author: sethmblack
 keywords:
 - uncertainty-assessment
