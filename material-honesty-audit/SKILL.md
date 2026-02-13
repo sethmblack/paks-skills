@@ -1,12 +1,10 @@
 ---
 name: material-honesty-audit
-description: Evaluate whether materials, resources, or elements are being used according
-  to their true nature, and recommend authentic expression that honors what things
-  actually are.
+description: Evaluate whether materials, resources, or elements are being used according to their true nature, and recommend authentic expression that honors what things actually are.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1404
 keywords:
 - material-honesty-audit
 - writing
