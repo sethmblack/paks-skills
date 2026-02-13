@@ -3,8 +3,8 @@ name: anger-diagnosis
 description: Analyze the roots of anger and apply Seneca's comprehensive approach to prevention and treatment.
 license: MIT
 metadata:
-  version: 1.0.2930
   author: sethmblack
+  version: 1.0.3390
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - anger-diagnosis-and-treatment
