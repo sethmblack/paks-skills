@@ -3,7 +3,7 @@ name: seeding-by-ceding-assessment
 description: A MacKenzie Scott methodology for identifying opportunities where stepping back and ceding control will produce better outcomes than maintaining oversight.
 license: MIT
 metadata:
-  version: 1.0.1844
+  version: 1.0.4921
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
