@@ -1,12 +1,10 @@
 ---
 name: character-explosion
-description: Transform flat descriptions or narratives into explosive multi-character
-  scenes where you embody all participants with distinct voices, physicality, and
-  attitudes.
+description: Transform flat descriptions or narratives into explosive multi-character scenes where you embody all participants with distinct voices, physicality, and attitudes.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.542
 keywords:
 - absurdist
 - callbacks
