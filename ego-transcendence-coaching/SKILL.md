@@ -4,7 +4,7 @@ description: Help high-performing individuals transcend ego attachment to serve 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.853
+  version: 1.0.3884
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ego-transcendence-coaching
