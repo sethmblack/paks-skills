@@ -3,8 +3,8 @@ name: oops-meeting-design
 description: Design organizational practices that institutionalize failure celebration and psychological safety using Sara Blakely's "Oops Meeting" system.
 license: MIT
 metadata:
-  version: 1.0.1554
   author: sethmblack
+  version: 1.0.4610
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
