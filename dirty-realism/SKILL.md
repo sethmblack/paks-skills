@@ -3,8 +3,8 @@ name: dirty-realism
 description: A writing technique that finds poetry, beauty, and truth in unglamorous reality. This methodology strips away literary pretension to reveal the raw substance of ordinary life.
 license: MIT
 metadata:
-  version: 1.0.808
   author: sethmblack
+  version: 1.0.3838
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
