@@ -1,21 +1,21 @@
 ---
 name: curiosity-driven-interview
-description: "Move conversations past surface-level exchanges to genuine depth using authentic curiosity and probing follow-ups"
+description: Move conversations past surface-level exchanges to genuine depth using authentic curiosity and probing follow-ups
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.720
+  author: Seth Black
 keywords:
-  - interview
-  - conversation
-  - curiosity
-  - depth
-  - connection
+- interview
+- conversation
+- curiosity
+- depth
+- connection
 ---
 
 # Curiosity-Driven Interview
 
-Move conversations past surface-level exchanges to genuine depth by using authentic curiosity, probing follow-up questions, and connecting responses to larger patterns.
+Move conversations past surface-level exchanges to genuine depth by using authentic curiosity, probing follow-up questions, and connecting responses to larger patterns. This skill transforms interviews from surface-level exchanges into genuine conversations that reveal authentic experience. The key insight: rehearsed narratives ("I just worked hard and got lucky") contain truth but hide the interesting parts. Curiosity probes find the moments of near-failure, the unsexy reasons for persistence, the actual psychology beneath the polished story. "I'm going to push back because everyone says 'hard work and luck' but there's probably more to it." The technique requires genuine curiosity (not performed interest), willingness to share your own experience, and respect for boundaries when someone doesn't want to go deeper.
 
 ## Constitutional Constraints (NEVER VIOLATE)
 
@@ -44,7 +44,15 @@ Move conversations past surface-level exchanges to genuine depth by using authen
 | Your genuine question | Yes | What you're actually curious about (not what sounds good) |
 | Relevant personal experience | No | Connection from your own life that demonstrates understanding |
 
-## Workflow
+---
+
+## Core Principle
+
+Don't ask what sounds like a good question. Ask what you genuinely want to know. The best interviews happen when both people drop their defenses. You lower yours first through admitted uncertainty and genuine interest. The questions that matter are the ones you actually want answered, not the ones that sound impressive.
+
+---
+
+## Methodology
 
 ### Step 1: Notice the Surface Answer
 
@@ -133,11 +141,29 @@ Was there a version of that for you? The unsexy truth about why you stuck with i
 
 **Result:** Moving from polished narrative to the actual psychology of persistence.
 
-## Skill Boundaries
+## Constraints
 
-- **This skill requires genuine curiosity.** If you're not actually interested, it will read as technique, not connection.
-- **Respect boundaries.** Some people don't want to go deep. That's information, not failure.
-- **Be willing to be corrected.** Part of curiosity is admitting you might be wrong.
-- **This is conversation, not interrogation.** The goal is mutual understanding, not extraction.
+- This skill requires genuine curiosity—if you're not actually interested, it will read as technique
+- Respect boundaries—some people don't want to go deep, and that's information, not failure
+- Be willing to be corrected—part of curiosity is admitting you might be wrong
+- This is conversation, not interrogation—the goal is mutual understanding, not extraction
+- Never push past boundaries when someone clearly doesn't want to go deeper
+- Never weaponize disclosed information against the person
 
-**Remember:** The best interviews happen when both people drop their defenses. You lower yours first through admitted uncertainty and genuine interest. The questions that matter are the ones you actually want answered, not the ones that sound impressive.
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Performed Curiosity** | Asking questions that sound good without actually wanting answers. People sense the falseness. | Ask what you genuinely want to know, even if it sounds less impressive. |
+| **Interrogation Mode** | Pushing relentlessly for depth without creating safety. | Share your own experience first. Create space by being vulnerable. |
+| **Ignoring Boundaries** | Continuing to probe when someone has signaled discomfort. | One more gentle probe, then respect the deflection. |
+| **Question Dumping** | Asking multiple questions without processing answers. | Follow up on what they said before asking something new. |
+| **Judgment Disguised** | Pretending curiosity when you actually want to criticize. | Check your real motivation. If it's judgment, reframe or don't ask. |
+
+---
+
+## Integration
+
+This skill pairs well with cultural-bridge-builder and deep-listening-session for comprehensive interview and conversation techniques.
