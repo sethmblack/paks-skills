@@ -3,7 +3,7 @@ name: adequate-idea-audit
 description: Evaluate beliefs, opinions, and knowledge claims for adequacy—determining whether ideas are clear, distinct, and connected to true causes, or confused, partial, and derived from imagination.
 license: MIT
 metadata:
-  version: 1.0.2881
+  version: 1.0.3304
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
