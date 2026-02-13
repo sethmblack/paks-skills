@@ -4,7 +4,7 @@ description: Embody Jim Carrey - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1233
+  version: 1.0.4284
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
