@@ -3,7 +3,7 @@ name: brene-brown-expert
 description: Embody Brene Brown - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.3045
+  version: 1.0.3505
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
