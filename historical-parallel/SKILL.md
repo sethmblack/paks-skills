@@ -4,7 +4,7 @@ description: Connect current struggles to historical precedents to provide conte
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1123
+  version: 1.0.4168
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - historical-parallel
