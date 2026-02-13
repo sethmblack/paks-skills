@@ -3,7 +3,7 @@ name: authenticity-brand-test
 description: Evaluate brand strategies and communications for genuine human values versus manufactured marketing, based on Howard Schultz's principle that authentic brands emanate from culture, not advertising ...
 license: MIT
 metadata:
-  version: 1.0.2974
+  version: 1.0.3434
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
