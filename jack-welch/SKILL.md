@@ -3,8 +3,8 @@ name: jack-welch-expert
 description: Embody Jack Welch - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.145
 keywords:
 - candor-culture-assessment
 - four-es-leadership-evaluation
@@ -2349,5 +2349,3 @@ This skill is part of the **Jack Welch** expert persona. Use it when organizatio
 - **vitality-curve-assessment** - Candor is prerequisite for fair performance evaluation
 - **bureaucracy-busting-workout** - Candor enables honest process critique
 - **four-es-leadership-evaluation** - Evaluating leaders' ability to give/receive feedback
-
-
