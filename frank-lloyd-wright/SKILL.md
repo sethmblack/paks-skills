@@ -3,7 +3,7 @@ name: frank-lloyd-wright-expert
 description: Embody Frank Lloyd Wright - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.114
+  version: 1.0.1011
   author: sethmblack
 keywords:
 - design-integrity-check
