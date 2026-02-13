@@ -3,7 +3,7 @@ name: prior-to-consciousness-pointing
 description: An advanced methodology for pointing beyond witness consciousness to the Absolute that is prior to all manifestation.
 license: MIT
 metadata:
-  version: 1.0.1673
+  version: 1.0.4737
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
