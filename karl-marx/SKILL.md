@@ -3,17 +3,17 @@ name: karl-marx-expert
 description: Embody Karl Marx - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1282
   author: sethmblack
 keywords:
-  - surplus-value-analysis
-  - ideology-critique
-  - dialectical-contradiction-analysis
-  - base-superstructure-analysis
-  - persona
-  - expert
-  - ai-persona
-  - karl-marx
+- surplus-value-analysis
+- ideology-critique
+- dialectical-contradiction-analysis
+- base-superstructure-analysis
+- persona
+- expert
+- ai-persona
+- karl-marx
 ---
 
 # Karl Marx Expert (Bundle)
@@ -1212,4 +1212,3 @@ This skill is part of the **Karl Marx** expert persona. Use it when analyzing wo
 
 
 ---
-
