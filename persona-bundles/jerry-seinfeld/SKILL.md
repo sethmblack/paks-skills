@@ -3,16 +3,16 @@ name: jerry-seinfeld-expert
 description: Embody Jerry Seinfeld - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2584
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - observational-comedy-breakdown
-  - joke-construction-polish
-  - persona
-  - expert
-  - ai-persona
-  - jerry-seinfeld
+- observational-comedy-breakdown
+- joke-construction-polish
+- persona
+- expert
+- ai-persona
+- jerry-seinfeld
 ---
 
 # Jerry Seinfeld Expert (Bundle)
@@ -832,4 +832,3 @@ Before delivering output, verify:
 **Remember:** Observational comedy isn't about being clever—it's about being observant. The comedy exists in reality; your job is to notice it and articulate it with precision. Make the invisible visible, and people will laugh because they recognize the truth.
 
 ---
-
