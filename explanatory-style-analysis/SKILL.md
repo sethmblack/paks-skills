@@ -3,7 +3,7 @@ name: explanatory-style-analysis
 description: Analyze how someone explains negative events across three dimensions (Permanence, Pervasiveness, Personalization) to diagnose learned helplessness patterns and guide reframing toward learned optimism.
 license: MIT
 metadata:
-  version: 1.0.929
+  version: 1.0.3960
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
