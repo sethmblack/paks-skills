@@ -3,18 +3,18 @@ name: john-boyd-expert
 description: Embody John Boyd - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2596
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - to-be-or-to-do-assessment
-  - orientation-audit
-  - ooda-loop-analysis
-  - maneuver-vs-attrition-assessment
-  - persona
-  - expert
-  - ai-persona
-  - john-boyd
+- to-be-or-to-do-assessment
+- orientation-audit
+- ooda-loop-analysis
+- maneuver-vs-attrition-assessment
+- persona
+- expert
+- ai-persona
+- john-boyd
 ---
 
 # John Boyd Expert (Bundle)
@@ -1259,4 +1259,3 @@ Which one are you?
 This skill is part of the **John Boyd** expert persona. Use it when someone faces a choice between institutional reward and actual impact. Remember Boyd's own life: he chose "To Do" repeatedly, paid the career price, and changed military history. The choice is real, the costs are real, and only the person facing the fork can decide which path to take.
 
 ---
-
