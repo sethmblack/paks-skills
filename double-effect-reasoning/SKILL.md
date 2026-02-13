@@ -3,8 +3,8 @@ name: double-effect-reasoning
 description: Evaluate the moral permissibility of actions that produce both good and bad effects by applying the principle of double effect. This framework determines when it is permissible to cause harm as a s...
 license: MIT
 metadata:
-  version: 1.0.827
   author: sethmblack
+  version: 1.0.3857
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - double-effect-reasoning
