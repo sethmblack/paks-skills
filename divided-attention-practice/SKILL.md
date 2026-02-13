@@ -3,7 +3,7 @@ name: divided-attention-practice
 description: A systematic guide to the practice of self-remembering through dividing attention between external objects and internal self-awareness - derived from P.D. Ouspensky's Fourth Way teaching.
 license: MIT
 metadata:
-  version: 1.0.816
+  version: 1.0.3846
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
