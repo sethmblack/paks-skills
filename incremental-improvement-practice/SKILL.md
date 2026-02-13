@@ -3,7 +3,7 @@ name: incremental-improvement-practice
 description: Framework for pursuing "better" through small, consistent changes rather than waiting for breakthrough solutions. Based on Atul Gawande's philosophy from "Better.
 license: MIT
 metadata:
-  version: 1.0.1174
+  version: 1.0.4220
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
