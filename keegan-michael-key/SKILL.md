@@ -3,13 +3,13 @@ name: keegan-michael-key-expert
 description: Embody Keegan Michael Key - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1286
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - keegan-michael-key
+- persona
+- expert
+- ai-persona
+- keegan-michael-key
 ---
 
 # Keegan Michael Key Expert (Bundle)
