@@ -1,11 +1,10 @@
 ---
 name: charles-darwin-expert
-description: Embody Charles Darwin - AI persona expert with integrated methodology
-  skills
+description: Embody Charles Darwin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.82
 keywords:
 - severe-test-protocol
 - analogical-bridge
@@ -1816,5 +1815,3 @@ This skill is part of the **Charles Darwin** expert persona. Use it before commi
 - **patient-accumulation-method** to gather evidence needed for testing
 - **variation-mapping** to identify which variants of the hypothesis might survive
 - **selection-pressure-analysis** to understand what forces will test the hypothesis in practice
-
-
