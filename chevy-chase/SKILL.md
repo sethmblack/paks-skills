@@ -3,7 +3,7 @@ name: chevy-chase-expert
 description: Embody Chevy Chase - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.3123
+  version: 1.0.3583
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
