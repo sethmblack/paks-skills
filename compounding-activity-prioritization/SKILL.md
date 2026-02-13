@@ -3,7 +3,7 @@ name: compounding-activity-prioritization
 description: Identify which activities compound over time versus remain linear, enabling ruthless prioritization toward exponential returns.
 license: MIT
 metadata:
-  version: 1.0.3178
+  version: 1.0.3638
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
