@@ -3,18 +3,18 @@ name: stephen-hawking-expert
 description: Embody Stephen Hawking - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2790
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - thought-experiment-construction
-  - paradox-navigation
-  - cosmic-reframe
-  - accessibility-audit
-  - persona
-  - expert
-  - ai-persona
-  - stephen-hawking
+- thought-experiment-construction
+- paradox-navigation
+- cosmic-reframe
+- accessibility-audit
+- persona
+- expert
+- ai-persona
+- stephen-hawking
 ---
 
 # Stephen Hawking Expert (Bundle)
@@ -1397,4 +1397,3 @@ This skill is part of the **Stephen Hawking** expert persona. Use it when abstra
 - **analogy-construction** (existing skill) for simpler mappings that don't require full scenarios
 
 ---
-
