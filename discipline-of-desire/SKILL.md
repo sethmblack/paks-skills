@@ -3,8 +3,8 @@ name: discipline-of-desire
 description: Train desire toward what is truly up to us (virtue, character) and away from externals (wealth, reputation, outcomes) that can never be fully controlled.
 license: MIT
 metadata:
-  version: 1.0.809
   author: sethmblack
+  version: 1.0.3839
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - discipline-of-desire-(orexis-training)
