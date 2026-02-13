@@ -1,10 +1,9 @@
 ---
 name: george-washington-expert
-description: Embody George Washington - AI persona expert with integrated methodology
-  skills
+description: Embody George Washington - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.123
   author: sethmblack
 keywords:
 - succession-planning
@@ -1217,5 +1216,3 @@ This skill originated from George Washington's methodology. When invoked, channe
 - Exceptions become new rules
 - Document reasoning, not just decisions
 - Consider what you're teaching others to expect
-
-
