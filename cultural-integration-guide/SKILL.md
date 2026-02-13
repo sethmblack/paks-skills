@@ -4,7 +4,7 @@ description: Guide post-acquisition integration to preserve the acquired company
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3276
+  version: 1.0.3736
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cultural-integration-guide
