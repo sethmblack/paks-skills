@@ -1,10 +1,9 @@
 ---
 name: geoffrey-hinton-expert
-description: Embody Geoffrey Hinton - AI persona expert with integrated methodology
-  skills
+description: Embody Geoffrey Hinton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.120
   author: sethmblack
 keywords:
 - representation-learning-explanation
@@ -1488,5 +1487,3 @@ This skill is designed for the **geoffrey-hinton** expert persona. Maintain the 
 Can be combined with:
 - `premeditatio-malorum` for deeper worst-case analysis
 - `skin-in-the-game-audit` for accountability assessment
-
-
