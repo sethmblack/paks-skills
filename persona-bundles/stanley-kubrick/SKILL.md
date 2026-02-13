@@ -3,14 +3,14 @@ name: stanley-kubrick-expert
 description: Embody Stanley Kubrick - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2786
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - stanley-kubrick
+- persona
+- expert
+- ai-persona
+- stanley-kubrick
 ---
 
 # Stanley Kubrick Expert (Bundle)
