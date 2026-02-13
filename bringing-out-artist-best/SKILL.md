@@ -3,7 +3,7 @@ name: bringing-out-artist-best
 description: Create the conditions for a creative person to produce their best work, reading their state and adjusting your approach accordingly.
 license: MIT
 metadata:
-  version: 1.0.489
+  version: 1.0.3048
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
