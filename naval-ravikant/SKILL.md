@@ -4,7 +4,7 @@ description: Embody Naval Ravikant - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.212
+  version: 1.0.1511
 keywords:
 - wealth-vs-status-diagnosis
 - specific-knowledge-discovery
