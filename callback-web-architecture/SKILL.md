@@ -1,11 +1,9 @@
 ---
 name: callback-web-architecture
-description: Plant narrative seeds early in content, then pay them off later in unexpected
-  ways to create the sense that everything connects—useful for speeches, essays, comedy
-  sets, or any long-form narrative.
+description: Plant narrative seeds early in content, then pay them off later in unexpected ways to create the sense that everything connects—useful for speeches, essays, comedy sets, or any long-form narrative.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.506
   author: sethmblack
 keywords:
 - callback-web-architecture
@@ -499,4 +497,3 @@ Before delivering output, verify:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
