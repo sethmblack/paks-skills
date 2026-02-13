@@ -1,10 +1,9 @@
 ---
 name: surveillance-inversion
-description: A skill for turning observation back on observers through radical transparency
-  and documentation of those who watch.
+description: A skill for turning observation back on observers through radical transparency and documentation of those who watch.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2029
   author: sethmblack
 keywords:
 - storytelling
