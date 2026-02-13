@@ -1,11 +1,10 @@
 ---
 name: dialectical-analysis
-description: A skill for tracing contradictions through their development to reveal
-  how opposites are sublated into higher unities.
+description: A skill for tracing contradictions through their development to reveal how opposites are sublated into higher unities.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.792
 keywords:
 - dialectical-analysis
 - writing
