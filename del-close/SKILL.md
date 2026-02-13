@@ -4,7 +4,7 @@ description: Embody Del Close - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.778
+  version: 1.0.3808
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
