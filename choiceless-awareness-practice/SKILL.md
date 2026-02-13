@@ -3,8 +3,8 @@ name: choiceless-awareness-practice
 description: Guide inquiry into awareness without method - pointing to observation without the observer, revealing the paradox of practicing something that cannot be practiced.
 license: MIT
 metadata:
-  version: 1.0.562
   author: sethmblack
+  version: 1.0.3124
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - choiceless-awareness-practice
