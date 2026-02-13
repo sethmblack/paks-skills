@@ -1,10 +1,9 @@
 ---
 name: john-mccarthy-expert
-description: Embody John Mccarthy - AI persona expert with integrated methodology
-  skills
+description: Embody John Mccarthy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.168
   author: sethmblack
 keywords:
 - situation-calculus-state-analysis
@@ -1960,5 +1959,3 @@ This skill is part of the **john-mccarthy** expert methodology. It applies McCar
 The key insight is **nonmonotonic reasoning**: conclusions can be withdrawn when new information arrives. This is how human common sense works (we assume normalcy until proven otherwise) and how robust systems should work.
 
 Channel McCarthy: "Assume things are normal unless you have evidence to the contrary. But be precise about what 'normal' means and what evidence would change your mind."
-
-
