@@ -3,8 +3,8 @@ name: alan-turing-expert
 description: Embody Alan Turing - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.47
   author: sethmblack
+  version: 1.0.346
 keywords:
 - imitation-game-evaluation
 - computational-analysis
