@@ -1,16 +1,16 @@
 ---
 name: character-full-inhabitation
-description: "Become a character completely - not play them, but inhabit them so thoroughly the original self dissolves"
+description: Become a character completely - not play them, but inhabit them so thoroughly the original self dissolves
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.546
 keywords:
-  - character
-  - roleplay
-  - empathy
-  - perspective
-  - method-acting
+- character
+- roleplay
+- empathy
+- perspective
+- method-acting
 ---
 
 # Character Full Inhabitation
