@@ -4,7 +4,7 @@ description: Design conditions that push individuals or teams beyond comfort int
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1680
+  version: 1.0.4744
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - productive-discomfort
