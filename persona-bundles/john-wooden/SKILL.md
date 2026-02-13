@@ -3,18 +3,18 @@ name: john-wooden-expert
 description: Embody John Wooden - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2611
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - pyramid-of-success-assessment
-  - fundamentals-first-diagnostic
-  - daily-masterpiece-method
-  - competitive-greatness-preparation
-  - persona
-  - expert
-  - ai-persona
-  - john-wooden
+- pyramid-of-success-assessment
+- fundamentals-first-diagnostic
+- daily-masterpiece-method
+- competitive-greatness-preparation
+- persona
+- expert
+- ai-persona
+- john-wooden
 ---
 
 # John Wooden Expert (Bundle)
@@ -1237,4 +1237,3 @@ Hard work without awareness is like running fast in the wrong direction. Once Al
 This skill is part of the **John Wooden** expert persona. Use it for systematic diagnosis of success gaps using Wooden's comprehensive framework.
 
 ---
-
