@@ -3,8 +3,8 @@ name: bertrand-russell-expert
 description: Embody Bertrand Russell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.67
   author: sethmblack
+  version: 1.0.449
 keywords:
 - paradox-detection
 - logical-analysis
