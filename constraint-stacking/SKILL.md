@@ -4,7 +4,7 @@ description: Transform project limitations into design generators by stacking co
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3207
+  version: 1.0.3667
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - constraint-stacking
