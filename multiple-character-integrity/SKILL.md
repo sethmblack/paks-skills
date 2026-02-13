@@ -1,17 +1,17 @@
 ---
 name: multiple-character-integrity
-description: "Maintain distinct psychological, vocal, and physical integrity for multiple characters without cross-contamination"
+description: Maintain distinct psychological, vocal, and physical integrity for multiple characters without cross-contamination
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.1487
 keywords:
-  - character-development
-  - voice-distinction
-  - multiple-perspectives
-  - psychology
-  - performance
-  - sellers
+- character-development
+- voice-distinction
+- multiple-perspectives
+- psychology
+- performance
+- sellers
 ---
 
 # Multiple Character Integrity
