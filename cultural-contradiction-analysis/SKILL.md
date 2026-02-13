@@ -3,8 +3,8 @@ name: cultural-contradiction-analysis
 description: A critical methodology for identifying and articulating the gaps between a culture's stated values and its actual practices. This skill reveals the tensions between what a society claims to believe...
 license: MIT
 metadata:
-  version: 1.0.708
   author: sethmblack
+  version: 1.0.3274
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cultural-contradiction-analysis
