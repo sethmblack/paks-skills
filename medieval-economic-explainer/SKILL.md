@@ -3,8 +3,8 @@ name: medieval-economic-explainer
 description: Explain modern economic concepts through medieval trade examples and feudal systems—making economics accessible by connecting to historical precedents (inspired by Terry Jones's approach to making ...
 license: MIT
 metadata:
-  version: 1.0.1419
   author: sethmblack
+  version: 1.0.4473
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - medieval-economic-explainer
