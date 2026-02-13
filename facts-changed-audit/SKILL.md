@@ -4,7 +4,7 @@ description: Systematically review whether facts underlying a current position h
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.942
+  version: 1.0.3973
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - facts-changed-audit
