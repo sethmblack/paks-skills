@@ -3,8 +3,8 @@ name: concrete-detail-conversion
 description: Replace abstract language with concrete, sensory details that readers can perceive directly.
 license: MIT
 metadata:
+  version: 1.0.3647
   author: sethmblack
-  version: 1.0.3187
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - concrete-detail-conversion
