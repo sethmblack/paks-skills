@@ -1,10 +1,9 @@
 ---
 name: groundlessness-practice
-description: A practice for relaxing into uncertainty and impermanence rather than
-  grasping for solid ground that doesn't exist.
+description: A practice for relaxing into uncertainty and impermanence rather than grasping for solid ground that doesn't exist.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1075
   author: sethmblack
 keywords:
 - groundlessness-practice
@@ -259,4 +258,3 @@ Groundlessness teachings draw from the Buddhist understanding of shunyata (empti
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
