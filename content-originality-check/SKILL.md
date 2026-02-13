@@ -4,7 +4,7 @@ description: Verify that expert content is original, properly attributed, and do
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.647
+  version: 1.0.3213
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - content-originality-check
