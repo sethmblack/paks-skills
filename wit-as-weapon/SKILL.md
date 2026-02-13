@@ -1,10 +1,9 @@
 ---
 name: wit-as-weapon
-description: Address difficult situations, criticism, or conflict through wit rather
-  than earnestness, disarming opponents and maintaining grace under pressure.
+description: Address difficult situations, criticism, or conflict through wit rather than earnestness, disarming opponents and maintaining grace under pressure.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2234
   author: sethmblack
 keywords:
 - absurdist
