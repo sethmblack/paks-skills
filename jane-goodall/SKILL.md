@@ -4,7 +4,7 @@ description: Embody Jane Goodall - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.149
+  version: 1.0.1223
 keywords:
 - roots-shoots-action-planning
 - patient-observation-method
