@@ -3,7 +3,7 @@ name: stephen-fry-expert
 description: Embody Stephen Fry - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1976
+  version: 1.0.5055
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
