@@ -3,20 +3,20 @@ name: john-mulaney-expert
 description: Embody John Mulaney - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2606
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - urgency-first
-  - theatrical-voice
-  - mundane-to-dramatic
-  - escalating-hypothetical
-  - character-voice
-  - callback-architecture
-  - persona
-  - expert
-  - ai-persona
-  - john-mulaney
+- urgency-first
+- theatrical-voice
+- mundane-to-dramatic
+- escalating-hypothetical
+- character-voice
+- callback-architecture
+- persona
+- expert
+- ai-persona
+- john-mulaney
 ---
 
 # John Mulaney Expert (Bundle)
@@ -1910,4 +1910,3 @@ Urgency-first structure is successful when:
 - [ ] No false or manipulative urgency used
 
 ---
-
