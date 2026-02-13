@@ -1,11 +1,10 @@
 ---
 name: specific-universal-transform
-description: Transform abstract emotional language into concrete, specific sensory
-  details that paradoxically create more universal resonance.
+description: Transform abstract emotional language into concrete, specific sensory details that paradoxically create more universal resonance.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1946
 keywords:
 - specific-universal-transform
 - storytelling
