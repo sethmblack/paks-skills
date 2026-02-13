@@ -1,11 +1,10 @@
 ---
 name: circle-of-competence-assessment
-description: Evaluate whether an opportunity, decision, or investment falls within
-  your area of genuine understanding—and guide appropriate action based on that assessment.
+description: Evaluate whether an opportunity, decision, or investment falls within your area of genuine understanding—and guide appropriate action based on that assessment.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.571
 keywords:
 - circle-of-competence-assessment
 - transformation
@@ -186,52 +185,23 @@ Create actionable outputs:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **FOMO-driven analysis** | Fear of missing out overrides honest assessment; you convince yourself you understand enough | Start with honest "what would I need to know?" before evaluating the opportunity's attractiveness |
+| **Secondhand confidence** | Trusting others' excitement ("my friend says it's great") as substitute for your own understanding | Distinguish access from insight; knowing someone in a domain doesn't mean you understand the domain |
+| **Confusing familiarity with competence** | Using products/services makes you feel you understand the business | Ask: "Could I predict how this business would perform in different scenarios?" |
+| **Complexity denial** | Assuming complex domains can be quickly learned ("I'll figure it out") | Acknowledge that genuine competence in specialized domains takes years, not weeks |
+| **Boundary blindness** | Not knowing where your knowledge ends; overestimating reach | Force yourself to articulate specific gaps before claiming understanding |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+---
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
-## Example
+## Example 1: Biotech Investment
 
 **Input:** "My friend works at a biotech startup developing a new cancer treatment. They're raising a seed round and offering me a chance to invest. The science sounds promising."
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Circle of Competence Assessment
 
@@ -271,6 +241,59 @@ Early-stage investment in a biotech startup developing cancer treatment technolo
 **Rationale:** "The science sounds promising" is exactly the kind of secondhand opinion that Buffett warns against. I have no way to evaluate the core value proposition. Being friends with an employee provides access, not insight. The domain requires years of specialized knowledge I don't have.
 
 **Reframe:** This isn't a missed opportunity—it's an opportunity I was never qualified to evaluate. There will be opportunities inside my circle. My friend's success or failure will tell me nothing about whether my decision was correct.
+
+---
+
+## Example 2: Consumer Retail Investment
+
+**Input:** "I've shopped at Costco for 20 years and love the company. Should I invest in the stock?"
+
+**Output:**
+
+## Circle of Competence Assessment
+
+### Opportunity Summary
+Public equity investment in Costco Wholesale Corporation, a membership warehouse retailer.
+
+### Knowledge Requirements
+| Domain Knowledge | Required Understanding | Why It Matters |
+|------------------|----------------------|----------------|
+| Retail operations | Membership model, inventory turns, supplier relationships | Core business mechanics |
+| Competitive positioning | Walmart, Amazon, Target dynamics | Moat durability |
+| Financial analysis | Revenue per square foot, membership renewal rates, margins | Valuation basis |
+| Consumer behavior | Why members stay loyal, pricing perception | Revenue predictability |
+| Real estate strategy | Owned vs. leased, location selection | Asset value and expansion |
+
+### Your Competence Assessment
+| Knowledge Area | Your Level | Evidence | Gaps |
+|----------------|------------|----------|------|
+| Retail operations | Boundary | Understand customer experience; see inventory management in action | Don't know supplier contracts or regional variation |
+| Competitive positioning | Inside | Shop at competitors too; understand value proposition differences | Limited view on B2B/international |
+| Financial analysis | Boundary | Can read 10-K; understand membership metrics | Need deeper analysis of comparable valuations |
+| Consumer behavior | Inside | 20 years observing my own and others' behavior; understand the psychology | Anecdotal, not systematic |
+| Real estate strategy | Outside | Know my local stores; no visibility into acquisition strategy | Significant gap |
+
+### Overall Assessment
+**Position:** At the Boundary
+**Confidence:** Medium
+**Key reasoning:** Long experience as customer provides genuine insight into value proposition and customer loyalty. Can understand core business model. Gaps exist in financial valuation and real estate strategy, but these are learnable with standard investor research.
+
+### Risk Assessment
+- **Downside if wrong:** Public equity is liquid; can exit
+- **Reversibility:** High—can sell at market price any time
+- **Proportionality:** Position sizing can reflect uncertainty
+
+### Recommended Action
+**Decision:** Learn then act
+**Rationale:** Customer insight is valuable but insufficient. Need to complement with financial analysis. The domain is accessible with standard investment research—not requiring years of specialized training.
+
+**Learning path:**
+1. Read last 3 annual reports and investor presentations
+2. Study membership renewal trends and comparable valuations
+3. Understand margin structure compared to Walmart and Target
+4. Size position modestly given remaining gaps
+
+**Key insight:** Being a devoted customer provides genuine edge in understanding value proposition and competitive moat—but doesn't replace financial analysis. This is different from biotech: the domain IS accessible with reasonable study.
 
 ---
 
