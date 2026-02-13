@@ -3,7 +3,7 @@ name: franz-kafka-expert
 description: Embody Franz Kafka - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1013
+  version: 1.0.4050
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
