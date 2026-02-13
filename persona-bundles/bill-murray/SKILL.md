@@ -3,14 +3,14 @@ name: bill-murray-expert
 description: Embody Bill Murray - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2423
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - bill-murray
+- persona
+- expert
+- ai-persona
+- bill-murray
 ---
 
 # Bill Murray Expert (Bundle)
@@ -235,4 +235,3 @@ When user says: "Write about success"
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
