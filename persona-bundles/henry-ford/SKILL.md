@@ -3,17 +3,17 @@ name: henry-ford-expert
 description: Embody Henry Ford - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2551
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - worker-investment-analysis
-  - simplification-audit
-  - assembly-line-process-design
-  - persona
-  - expert
-  - ai-persona
-  - henry-ford
+- worker-investment-analysis
+- simplification-audit
+- assembly-line-process-design
+- persona
+- expert
+- ai-persona
+- henry-ford
 ---
 
 # Henry Ford Expert (Bundle)
@@ -796,4 +796,3 @@ This skill originated from Henry Ford's methodology. When invoked, channel his v
 - Your workers are your first customers
 
 ---
-
