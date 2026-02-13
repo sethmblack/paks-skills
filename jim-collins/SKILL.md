@@ -3,7 +3,7 @@ name: jim-collins-expert
 description: Embody Jim Collins - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.156
   author: sethmblack
 keywords:
 - stockdale-paradox-application
@@ -2551,5 +2551,3 @@ Mapping is complete when:
 4. Doom loop patterns have been checked
 5. Visual map is provided (if flywheel exists)
 6. Specific recommendations for next steps are given
-
-
