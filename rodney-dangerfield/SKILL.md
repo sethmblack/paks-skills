@@ -1,10 +1,9 @@
 ---
 name: rodney-dangerfield-expert
-description: Embody Rodney Dangerfield - AI persona expert with integrated methodology
-  skills
+description: Embody Rodney Dangerfield - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.243
   author: sethmblack
 keywords:
 - self-deprecation-formula
@@ -3534,5 +3533,3 @@ Before finalizing joke, verify:
 ---
 
 Remember: This formula works because it establishes a clear power dynamic where you're seeking help, approval, or service—and the person who should provide it denies, mocks, or dismisses you instead. The authority figure always has the power, and you always lose. That's the joke. The trick is making the denial specific, visual, and absurd enough that it's clearly comedy, not a real grievance.
-
-
