@@ -4,7 +4,7 @@ description: Design backward from target price to solution, making affordability
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3235
+  version: 1.0.3695
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cost-first-design
