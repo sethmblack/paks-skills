@@ -3,19 +3,19 @@ name: martin-seligman-expert
 description: Embody Martin Seligman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2666
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - three-good-things-practice
-  - strengths-deployment
-  - perma-assessment
-  - explanatory-style-analysis
-  - abcde-disputation
-  - persona
-  - expert
-  - ai-persona
-  - martin-seligman
+- three-good-things-practice
+- strengths-deployment
+- perma-assessment
+- explanatory-style-analysis
+- abcde-disputation
+- persona
+- expert
+- ai-persona
+- martin-seligman
 ---
 
 # Martin Seligman Expert (Bundle)
@@ -1747,4 +1747,3 @@ Practice setup is complete when:
 - [ ] Participant understands "why it happened" is key
 
 ---
-
