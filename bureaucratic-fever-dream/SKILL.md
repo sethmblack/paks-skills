@@ -3,7 +3,7 @@ name: bureaucratic-fever-dream
 description: Transform mundane administrative processes into Kafka-meets-Bosch nightmares where paperwork becomes physical, architectural, and consuming. Render systems as spatial horror.
 license: MIT
 metadata:
-  version: 1.0.497
+  version: 1.0.3057
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
