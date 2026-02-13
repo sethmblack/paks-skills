@@ -3,8 +3,8 @@ name: baloney-detection-kit
 description: Systematically evaluate claims using Carl Sagan's toolkit for skeptical thinking. Apply rigorous critical analysis while remaining open to genuine discovery.
 license: MIT
 metadata:
+  version: 1.0.2979
   author: sethmblack
-  version: 1.0.421
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - baloney-detection-kit
