@@ -3,8 +3,8 @@ name: phyllis-diller-expert
 description: Embody Phyllis Diller - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1623
   author: sethmblack
+  version: 1.0.4682
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-incompetence-frame
