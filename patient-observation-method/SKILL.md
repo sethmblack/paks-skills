@@ -3,8 +3,8 @@ name: patient-observation-method
 description: Apply Jane Goodall's patient observation methodology to deeply understand complex situations, people, or systems that resist quick analysis. What you see in a moment is not what you understand over...
 license: MIT
 metadata:
-  version: 1.0.1588
   author: sethmblack
+  version: 1.0.4646
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - patient-observation-method
