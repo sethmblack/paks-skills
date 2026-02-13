@@ -3,13 +3,13 @@ name: kristen-wiig-expert
 description: Embody Kristen Wiig - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1296
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - kristen-wiig
+- persona
+- expert
+- ai-persona
+- kristen-wiig
 ---
 
 # Kristen Wiig Expert (Bundle)
