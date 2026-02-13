@@ -3,8 +3,8 @@ name: character-full-inhabitation
 description: Become a character completely - not play them, but inhabit them so thoroughly the original self dissolves
 license: MIT
 metadata:
+  version: 1.0.3107
   author: Seth Black
-  version: 1.0.546
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character
