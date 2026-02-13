@@ -3,8 +3,8 @@ name: punk-accessibility
 description: A skill for creating protest forms anyone can replicate without resources, training, or permission.
 license: MIT
 metadata:
-  version: 1.0.1702
   author: sethmblack
+  version: 1.0.4770
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - punk-accessibility
