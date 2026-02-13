@@ -3,8 +3,8 @@ name: rumi-expert
 description: Embody Rumi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4885
   author: sethmblack
-  version: 1.0.1808
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - field-beyond-judgment
