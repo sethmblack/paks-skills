@@ -1,12 +1,10 @@
 ---
 name: bureaucratic-nightmare-decoder
-description: Decode and explain how bureaucratic systems operate to frustrate, obstruct,
-  and perpetuate themselves—using frameworks from *The Trial* and *The Castle* to
-  illuminate the logic beneath the apparent...
+description: Decode and explain how bureaucratic systems operate to frustrate, obstruct, and perpetuate themselves—using frameworks from *The Trial* and *The Castle* to illuminate the logic beneath the apparent...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.498
 keywords:
 - absurdist
 - bureaucratic-nightmare-decoder
