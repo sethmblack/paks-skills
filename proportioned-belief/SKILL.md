@@ -1,10 +1,9 @@
 ---
 name: proportioned-belief
-description: Evaluate claims and proportion confidence to available evidence, avoiding
-  both credulity and excessive skepticism.
+description: Evaluate claims and proportion confidence to available evidence, avoiding both credulity and excessive skepticism.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1693
   author: sethmblack
 keywords:
 - observational
