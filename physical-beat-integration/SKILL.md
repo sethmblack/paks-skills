@@ -1,17 +1,17 @@
 ---
 name: physical-beat-integration
-description: "Add physical comedy elements (gestures, expressions, movement) to verbal comedy material, enhancing humor through body language"
+description: Add physical comedy elements (gestures, expressions, movement) to verbal comedy material, enhancing humor through body language
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.1624
 keywords:
-  - physical-comedy
-  - stage-directions
-  - performance
-  - gestures
-  - timing
-  - elmaleh
+- physical-comedy
+- stage-directions
+- performance
+- gestures
+- timing
+- elmaleh
 ---
 
 # Physical Beat Integration
