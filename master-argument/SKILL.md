@@ -1,11 +1,9 @@
 ---
 name: master-argument
-description: Test whether something can coherently be said to exist independently
-  of all perception by exposing the self-contradictory nature of conceiving something
-  as existing unconceived.
+description: Test whether something can coherently be said to exist independently of all perception by exposing the self-contradictory nature of conceiving something as existing unconceived.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1400
   author: sethmblack
 keywords:
 - master-argument-(conceivability-test)
