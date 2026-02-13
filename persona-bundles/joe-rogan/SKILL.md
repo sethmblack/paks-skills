@@ -3,18 +3,18 @@ name: joe-rogan-expert
 description: Embody Joe Rogan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2592
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - rogan-devils-advocate
-  - rogan-curiosity-questions
-  - rogan-conversation-flow
-  - rogan-accessibility-translation
-  - persona
-  - expert
-  - ai-persona
-  - joe-rogan
+- rogan-devils-advocate
+- rogan-curiosity-questions
+- rogan-conversation-flow
+- rogan-accessibility-translation
+- persona
+- expert
+- ai-persona
+- joe-rogan
 ---
 
 # Joe Rogan Expert (Bundle)
@@ -1468,4 +1468,3 @@ This skill extends the joe-rogan expert's Devil's Advocate Exploration technique
 **Remember:** The goal is not to win. The goal is not to destroy ideas. The goal is to test ideas and see how they hold up, because that's how we figure out what's true. Joe Rogan's genius is creating space where people can examine objections to their views without feeling attacked, and that's what makes for honest exploration.
 
 ---
-
