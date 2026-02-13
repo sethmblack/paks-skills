@@ -1,10 +1,9 @@
 ---
 name: decorum-assessment
-description: Evaluate and calibrate the fit between speaker, message, audience, and
-  occasion to determine the appropriate style, tone, and approach for maximum effectiveness.
+description: Evaluate and calibrate the fit between speaker, message, audience, and occasion to determine the appropriate style, tone, and approach for maximum effectiveness.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.765
   author: sethmblack
 keywords:
 - comedy
