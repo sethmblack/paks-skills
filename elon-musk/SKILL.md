@@ -3,8 +3,8 @@ name: elon-musk-expert
 description: Embody Elon Musk - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.860
   author: sethmblack
-  version: 1.0.106
 keywords:
 - physics-limit-analysis
 - idiot-index-analysis
