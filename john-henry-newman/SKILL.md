@@ -3,7 +3,7 @@ name: john-henry-newman-expert
 description: Embody John Henry Newman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.165
+  version: 1.0.1251
   author: sethmblack
 keywords:
 - liberal-education-framework
