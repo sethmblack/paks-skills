@@ -4,7 +4,7 @@ description: Embody Maria Bamford - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1383
+  version: 1.0.4437
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - spiral-confession
