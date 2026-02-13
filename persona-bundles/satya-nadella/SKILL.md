@@ -3,20 +3,20 @@ name: satya-nadella-expert
 description: Embody Satya Nadella - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2763
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - strategic-pivot-framework
-  - partnership-ecosystem-strategy
-  - growth-mindset-diagnosis
-  - empathy-driven-innovation
-  - cultural-transformation-framework
-  - acquisition-evaluation-framework
-  - persona
-  - expert
-  - ai-persona
-  - satya-nadella
+- strategic-pivot-framework
+- partnership-ecosystem-strategy
+- growth-mindset-diagnosis
+- empathy-driven-innovation
+- cultural-transformation-framework
+- acquisition-evaluation-framework
+- persona
+- expert
+- ai-persona
+- satya-nadella
 ---
 
 # Satya Nadella Expert (Bundle)
@@ -1687,4 +1687,3 @@ This skill is part of the **Satya Nadella** expert methodology. Use when facing 
 - `partnership-ecosystem-strategy` when partnerships enable faster pivot
 
 ---
-
