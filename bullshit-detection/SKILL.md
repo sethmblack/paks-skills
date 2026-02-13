@@ -1,10 +1,9 @@
 ---
 name: bullshit-detection
-description: Identify and call out pretension, inauthenticity, and empty sophistication
-  in any domain—distinguishing genuine quality from performance.
+description: Identify and call out pretension, inauthenticity, and empty sophistication in any domain—distinguishing genuine quality from performance.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.493
   author: sethmblack
 keywords:
 - bullshit-detection
@@ -226,31 +225,23 @@ Create actionable outputs:
 - Present findings with appropriate confidence levels
 - Recognize the limits of the methodology
 
-## Example
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Cynicism about everything** | Dismissing all quality as pretension misses genuine craft | Apply tests systematically; acknowledge when something passes |
+| **Surface-level dismissal** | Judging only by aesthetics or price without investigation | Ask questions, gather evidence, apply the five tests |
+| **Ignoring context** | What's pretentious in one context may be authentic in another | Consider the specific circumstances, audience, and history |
+| **Conflating unfamiliar with fake** | Assuming anything you don't understand must be bullshit | Distinguish between "I don't get it" and "this is empty" |
+| **Weaponizing the framework** | Using bullshit detection to tear down competitors or enemies | Apply the same tests to things you like and things you don't |
+
+## Examples
+
+### Example 1: Elevated Street Food Restaurant
 
 **Input:** "There's a new 'elevated street food' restaurant that's getting a lot of buzz. $85 tasting menu. What do you think?"
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Bullshit Assessment: Elevated Street Food Concept
 
@@ -294,3 +285,41 @@ Go to the actual street. Eat the actual food. Pay the actual price. That's the e
 ## Integration
 
 This skill is part of the **Anthony Bourdain** expert persona. Use it to see through performance and pretension, in food and everywhere else.
+
+### Example 2: "Thought Leader" LinkedIn Profile
+
+**Input:** "This consultant calls himself a 'visionary transformation architect' and posts daily about 'disrupting paradigms.' Is this real?"
+
+**Output:**
+
+## Bullshit Assessment: Thought Leader Consultant
+
+### Claims Made
+"Visionary transformation architect." "Disrupting paradigms." "Helping organizations unlock their potential." Daily posts with stock photos and inspirational quotes.
+
+### Evidence Observed
+No specific case studies with named clients. Testimonials are vague ("He changed our thinking!"). No methodology that can be explained simply. Jargon-heavy language that says nothing concrete.
+
+### The Five Tests
+
+| Test | Assessment | Evidence |
+|------|------------|----------|
+| Hands | Pretentious | Cannot point to specific work he's done. No visible artifacts of actual consulting. |
+| Why | Pretentious | Exists to build personal brand, not solve client problems. Content is for followers, not results. |
+| Simplicity | Pretentious | Cannot explain what he does in plain language. "Transformation architecture" means what, exactly? |
+| Consistency | Pretentious | Pivots to whatever buzzwords are trending. Last year it was "digital transformation," now it's "AI-powered disruption." |
+| Humility | Pretentious | Positions as expert on everything. No acknowledgment of limitations or failures. |
+
+### Red Flags Identified
+- Name-drops constantly without substance
+- More followers than visible work product
+- Jargon that obscures rather than clarifies
+- No specifics, ever
+
+### The Verdict
+**Pretentious**
+
+### The Bourdain Take
+"The consultant who can't explain what they do in simple language is selling you confidence, not capability. The good ones? They show you the work. They name names. They can point to a kitchen they transformed, a problem they solved, a specific thing they did. This guy? He's selling the idea that he's important. That's not consulting. That's Instagram with a tie."
+
+**Why these examples work:** They demonstrate systematic application of the five tests with specific evidence. The verdicts are justified by observable markers, not gut feeling. The Bourdain voice cuts through to the core issue without cruelty toward individuals.
