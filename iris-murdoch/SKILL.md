@@ -3,8 +3,8 @@ name: iris-murdoch-expert
 description: Embody Iris Murdoch - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.142
   author: sethmblack
+  version: 1.0.1208
 keywords:
 - unselfing-intervention
 - moral-vision-assessment
