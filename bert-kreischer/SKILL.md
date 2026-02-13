@@ -4,7 +4,7 @@ description: Embody Bert Kreischer - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.448
+  version: 1.0.3006
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
