@@ -1,11 +1,9 @@
 ---
 name: visual-comedy-diagram
-description: Convert concepts into visual diagrams (Venn diagrams, pie charts, graphs,
-  bar charts) that reveal absurdity through literal representation. Inspired by Demetri
-  Martin's visual comedy technique.
+description: Convert concepts into visual diagrams (Venn diagrams, pie charts, graphs, bar charts) that reveal absurdity through literal representation. Inspired by Demetri Martin's visual comedy technique.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2195
   author: sethmblack
 keywords:
 - absurdist
@@ -270,4 +268,3 @@ The expert maintains deadpan delivery when introducing the diagram:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
