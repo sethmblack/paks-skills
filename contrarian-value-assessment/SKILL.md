@@ -3,8 +3,8 @@ name: contrarian-value-assessment
 description: Evaluate whether a neglected or unpopular position represents genuine value or justified rejection.
 license: MIT
 metadata:
+  version: 1.0.3683
   author: sethmblack
-  version: 1.0.3223
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - contrarian-value-assessment
