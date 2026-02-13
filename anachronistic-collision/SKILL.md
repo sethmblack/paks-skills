@@ -3,8 +3,8 @@ name: anachronistic-collision
 description: Smash incompatible time periods together to expose how power structures persist across eras. Medieval meets 1980s. Victorian plumbing entangles dystopian technology. Past and future collapse into a...
 license: MIT
 metadata:
-  version: 1.0.3309
   author: sethmblack
+  version: 1.0.3377
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
