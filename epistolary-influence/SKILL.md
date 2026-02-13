@@ -1,11 +1,9 @@
 ---
 name: epistolary-influence
-description: Craft written communication that influences, persuades, and maintains
-  relationships—using Abigail Adams's letter-writing techniques that shaped a Founding
-  Father and preserved history. The art of i...
+description: Craft written communication that influences, persuades, and maintains relationships—using Abigail Adams's letter-writing techniques that shaped a Founding Father and preserved history. The art of i...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.885
   author: sethmblack
 keywords:
 - epistolary-influence
