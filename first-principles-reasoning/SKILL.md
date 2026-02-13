@@ -1,11 +1,9 @@
 ---
 name: first-principles-reasoning
-description: Reason from fundamental truths rather than analogy or convention. Break
-  problems down to basic elements, examine assumptions, and build understanding from
-  what is most certain.
+description: Reason from fundamental truths rather than analogy or convention. Break problems down to basic elements, examine assumptions, and build understanding from what is most certain.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.970
   author: sethmblack
 keywords:
 - first-principles-reasoning
