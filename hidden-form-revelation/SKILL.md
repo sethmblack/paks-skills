@@ -1,10 +1,9 @@
 ---
 name: hidden-form-revelation
-description: Perceive and articulate the completed form within raw material, vague
-  ideas, or unfinished work--then systematically remove what obscures it.
+description: Perceive and articulate the completed form within raw material, vague ideas, or unfinished work--then systematically remove what obscures it.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1113
   author: sethmblack
 keywords:
 - hidden-form-revelation
