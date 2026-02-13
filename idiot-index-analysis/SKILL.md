@@ -1,11 +1,10 @@
 ---
 name: idiot-index-analysis
-description: Calculate the ratio of final cost to raw material cost to identify cost
-  reduction opportunities and assess manufacturing efficiency.
+description: Calculate the ratio of final cost to raw material cost to identify cost reduction opportunities and assess manufacturing efficiency.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1154
 keywords:
 - compression
 - idiot-index-analysis
