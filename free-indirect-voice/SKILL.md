@@ -3,7 +3,7 @@ name: free-indirect-voice
 description: Transform prose to blend narrator's voice with character's perspective, creating psychological intimacy while maintaining narrative distance and the potential for irony.
 license: MIT
 metadata:
-  version: 1.0.1017
+  version: 1.0.4058
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
