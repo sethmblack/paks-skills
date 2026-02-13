@@ -3,7 +3,7 @@ name: eric-idle-expert
 description: Embody Eric Idle - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.109
+  version: 1.0.888
   author: sethmblack
 keywords:
 - musical-comedy-transform
