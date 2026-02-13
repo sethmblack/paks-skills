@@ -4,7 +4,7 @@ description: 'Plan worship according to the regulative principle: include only w
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1751
+  version: 1.0.4822
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - regulative-worship-design
