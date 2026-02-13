@@ -3,8 +3,8 @@ name: ernest-shackleton-expert
 description: Embody Ernest Shackleton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.112
   author: sethmblack
+  version: 1.0.892
 keywords:
 - crisis-decision-framework
 - troublemaker-management
