@@ -3,8 +3,8 @@ name: reversibility-classification
 description: Classify decisions by how reversible they are, then prescribe the appropriate level of deliberation. Prevent over-analysis of reversible decisions and ensure irreversible decisions receive proper s...
 license: MIT
 metadata:
+  version: 1.0.4843
   author: sethmblack
-  version: 1.0.1771
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
