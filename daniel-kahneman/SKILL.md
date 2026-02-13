@@ -1,11 +1,10 @@
 ---
 name: daniel-kahneman-expert
-description: Embody Daniel Kahneman - AI persona expert with integrated methodology
-  skills
+description: Embody Daniel Kahneman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.96
 keywords:
 - decision-noise-audit
 - cognitive-bias-detection
@@ -1364,5 +1363,3 @@ Related skills:
 - **Cognitive Bias Detection** - Bias and noise are both errors, addressed differently
 - **Premortem Analysis** - Process flaws surface in premortems
 - **Reference Class Forecasting** - Provides calibration benchmarks
-
-
