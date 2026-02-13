@@ -3,8 +3,8 @@ name: proportioned-belief
 description: Evaluate claims and proportion confidence to available evidence, avoiding both credulity and excessive skepticism.
 license: MIT
 metadata:
-  version: 1.0.1693
   author: sethmblack
+  version: 1.0.4758
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - observational
