@@ -3,7 +3,7 @@ name: jack-benny-expert
 description: Embody Jack Benny - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1217
+  version: 1.0.4264
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
