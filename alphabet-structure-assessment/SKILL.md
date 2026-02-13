@@ -3,8 +3,8 @@ name: alphabet-structure-assessment
 description: Evaluate whether a business unit or project has grown different enough from the core to warrant structural independence with its own CEO and culture.
 license: MIT
 metadata:
+  version: 1.0.3372
   author: sethmblack
-  version: 1.0.3308
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - alphabet-structure-assessment
