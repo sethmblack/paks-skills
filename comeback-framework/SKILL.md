@@ -4,7 +4,7 @@ description: Transform major setbacks into the foundation for your greatest succ
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3166
+  version: 1.0.3626
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comeback-framework
