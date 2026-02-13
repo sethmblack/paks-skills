@@ -3,8 +3,8 @@ name: tony-hsieh-expert
 description: Embody Tony Hsieh - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.2125
   author: sethmblack
-  version: 1.0.284
 keywords:
 - wow-service-design
 - happiness-framework-analysis
