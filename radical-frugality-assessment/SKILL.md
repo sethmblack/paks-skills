@@ -1,12 +1,10 @@
 ---
 name: radical-frugality-assessment
-description: Evaluate whether expenditures are truly necessary, distinguishing between
-  essential spending, optional spending, and wasteful display, to maximize capital
-  available for investment.
+description: Evaluate whether expenditures are truly necessary, distinguishing between essential spending, optional spending, and wasteful display, to maximize capital available for investment.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1716
 keywords:
 - radical-frugality-assessment
 - writing
