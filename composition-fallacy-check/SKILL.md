@@ -1,10 +1,9 @@
 ---
 name: composition-fallacy-check
-description: Identify when individually rational behavior creates collectively irrational
-  outcomes.
+description: Identify when individually rational behavior creates collectively irrational outcomes.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.612
   author: sethmblack
 keywords:
 - composition-fallacy-check
@@ -201,61 +200,33 @@ Create actionable outputs:
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Not all individually rational behaviors fail at aggregate; test specifically
+- Some composition problems require coordination, not individual action
+- Timing matters: being early to a composition fallacy can be profitable
+- Policy recommendations differ from individual recommendations
+- This framework reveals problems but doesn't always solve them
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Assuming all aggregation is problematic** | Many behaviors scale just fine | Test specifically for feedback mechanisms that break at scale |
+| **Individual-level conclusions only** | Missing the policy dimension | Distinguish what individuals should do from what systems should prevent |
+| **Ignoring timing effects** | Being first to adopt may be rational even if universal adoption fails | Analyze adoption position, not just final state |
+| **Moralizing the fallacy** | Calling individuals irrational when the problem is structural | Focus on mechanism, not blame; it IS individually rational |
+| **Stopping at diagnosis** | Identifying the paradox without actionable insight | Always end with what to do given this dynamic |
+
+---
 
 ## Example
 
 **Input:** "Our company is cutting costs by reducing R&D spending. It's boosting short-term profits significantly. Should other companies do the same?"
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Composition Fallacy Check
 
