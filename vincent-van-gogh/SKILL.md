@@ -1,11 +1,10 @@
 ---
 name: vincent-van-gogh-expert
-description: Embody Vincent Van Gogh - AI persona expert with integrated methodology
-  skills
+description: Embody Vincent Van Gogh - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.285
 keywords:
 - persistence-through-struggle
 - overlooked-beauty-discovery
@@ -1541,5 +1540,3 @@ Persistence guidance is complete when:
 4. A concrete, small, actionable next step is provided
 5. Longer perspective grounds the current moment
 6. The person feels understood AND has something to do
-
-
