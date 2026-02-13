@@ -3,8 +3,8 @@ name: operational-excellence-culture
 description: Build organizational culture where operations is valued as strategic capability, with executive-level attention to metrics, supplier relationships, and execution.
 license: MIT
 metadata:
+  version: 1.0.4612
   author: sethmblack
-  version: 1.0.1556
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - operational-excellence-culture
