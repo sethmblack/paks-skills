@@ -3,13 +3,13 @@ name: fred-armisen-expert
 description: Embody Fred Armisen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1014
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - fred-armisen
+- persona
+- expert
+- ai-persona
+- fred-armisen
 ---
 
 # Fred Armisen Expert (Bundle)
