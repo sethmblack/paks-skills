@@ -4,7 +4,7 @@ description: Deeply understand problems before attempting solutions - spending 5
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1674
+  version: 1.0.4738
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - problem-deepening
