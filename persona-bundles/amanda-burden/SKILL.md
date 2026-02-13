@@ -3,8 +3,8 @@ name: amanda-burden-expert
 description: Embody Amanda Burden - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2349
   author: sethmblack
+  version: 1.0.2392
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
