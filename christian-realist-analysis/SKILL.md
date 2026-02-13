@@ -3,8 +3,8 @@ name: christian-realist-analysis
 description: Analyze political, social, or ethical issues by holding idealism and realism in dialectical tension - avoiding both naive optimism that underestimates human sinfulness and cynical despair that aban...
 license: MIT
 metadata:
-  version: 1.0.3129
   author: sethmblack
+  version: 1.0.3589
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - christian-realist-analysis
