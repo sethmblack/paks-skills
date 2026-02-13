@@ -1,11 +1,10 @@
 ---
 name: anthony-jeselnik-expert
-description: Embody Anthony Jeselnik - AI persona expert with integrated methodology
-  skills
+description: Embody Anthony Jeselnik - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.60
 keywords:
 - shock-to-structure-audit
 - misdirection-analysis
@@ -1149,5 +1148,3 @@ The skill enforces the expert's core principles:
 - The false direction can be 1-3 sentences, but each sentence must build the expectation
 - Not every reversal needs to be maximally dark—it needs to be maximally unexpected
 - The [pause] marker is crucial for timing but should only appear once, before the final reversal
-
-
