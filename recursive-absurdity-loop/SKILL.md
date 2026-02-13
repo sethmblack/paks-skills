@@ -1,18 +1,18 @@
 ---
 name: recursive-absurdity-loop
-description: "Create self-contradicting logical loops that circle back to contradict their own premises, resolving through even greater absurdity"
+description: Create self-contradicting logical loops that circle back to contradict their own premises, resolving through even greater absurdity
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.1741
 keywords:
-  - comedy
-  - paradox
-  - absurdism
-  - logic
-  - spike-milligan
-  - philosophy
-  - recursion
+- comedy
+- paradox
+- absurdism
+- logic
+- spike-milligan
+- philosophy
+- recursion
 ---
 
 # Recursive Absurdity Loop
