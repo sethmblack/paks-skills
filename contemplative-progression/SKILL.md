@@ -3,8 +3,8 @@ name: contemplative-progression
 description: '**Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian Mysticism / Prayer Development **Purpose:** Guide someone through the transition from discursive meditation to receptive co...'
 license: MIT
 metadata:
-  version: 1.0.646
   author: sethmblack
+  version: 1.0.3212
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - contemplative-progression-guidance
