@@ -1,21 +1,27 @@
 ---
 name: essence-extraction
-description: 'Strip complexity to find the essential form beneath—the core truth that
-  remains when inessentials are removed. Based on Georgia O''Keeffe''s methodology:
-  "The abstraction is often the most definite f...'
+description: 'Strip complexity to find the essential form beneath—the core truth that remains when inessentials are removed. Based on Georgia O''Keeffe''s methodology: "The abstraction is often the most definite form for the intangible thing in myself that I can only clarify in paint."'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.902
   author: sethmblack
 keywords:
+- abstraction
+- clarity
 - essence-extraction
+- simplification
 - structure
-- writing
 ---
 
 # Essence Extraction
 
-Strip complexity to find the essential form beneath—the core truth that remains when inessentials are removed. Based on Georgia O'Keeffe's methodology: "The abstraction is often the most definite form for the intangible thing in myself that I can only clarify in paint."
+Strip complexity to find the essential form beneath, revealing the core truth that remains when inessentials are removed. This methodology is based on Georgia O'Keeffe's approach to painting, where she "stripped away what she considered the inessential to focus on shape and color." The process works by first acknowledging all the complexity that exists, then systematically identifying the primary form beneath the details, testing each element for whether it serves or obscures that form, removing with confidence, and finally amplifying what remains. Unlike simple reduction, essence extraction is an act of revelation: finding the abstraction that is more definite than the cluttered reality. As O'Keeffe wrote, "The abstraction is often the most definite form for the intangible thing in myself that I can only clarify in paint."
+
+---
+
+## Core Principle
+
+Essence is not found by averaging or blending; it is found by choosing. The primary form exists beneath every complex thing, waiting to be revealed through selective removal. The goal is not minimalism for its own sake but clarity: what remains after extraction should be more powerful, not merely smaller.
 
 ---
 
@@ -100,32 +106,6 @@ Once you have found the essence, make it unmistakable. What is essential deserve
 
 ---
 
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
-
 ## Output Format
 
 ```markdown
@@ -165,52 +145,38 @@ Create actionable outputs:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+**1. Simplifying by averaging**
+- Wrong: Combining multiple ideas into a vague compromise
+- Right: Choosing the one idea that is most essential
+- Why: Essence is found through selection, not blending
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+**2. Removing structure instead of decoration**
+- Wrong: Cutting foundational elements because they seem complex
+- Right: Removing decoration while preserving the structural bones
+- Why: Structure supports the essence; decoration obscures it
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+**3. Mistaking the familiar for the essential**
+- Wrong: Keeping elements because they've always been there
+- Right: Testing each element against the primary form, regardless of history
+- Why: The core may be surprising; familiarity is not the same as necessity
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+**4. Reducing for aesthetics rather than clarity**
+- Wrong: Making something minimal because minimalism looks good
+- Right: Removing elements to reveal the core truth
+- Why: The goal is revelation, not style; some essential forms are complex
 
-**Example output:** See the Example section below for a complete demonstration.
+**5. Stopping at removal without amplification**
+- Wrong: Extracting the essence but leaving it understated
+- Right: Making what remains unmistakable, magnified, impossible to miss
+- Why: O'Keeffe painted flowers large enough to see; essence deserves emphasis
+
+---
 
 ## Example
 
 **Input:** "My company has a 50-slide investor presentation that I've been told is too complex. Help me find the essence."
-
-**Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Essence Extraction
 
@@ -261,3 +227,31 @@ This is the flower painted big enough to see.
 ## Integration
 
 This skill is part of the **Georgia O'Keeffe** expert persona. Use it when complexity has buried the truth and you need to find the form beneath.
+
+**Works well with:**
+- `essential-reduction` - For additional reduction after finding the essence
+- `visual-composition` - For amplifying the essential form in visual work
+- `abstraction-audit` - For testing whether you've found the true essence
+
+**When to prefer this over alternatives:**
+- When overwhelmed by complexity and need to find the core
+- When communicating something that feels lost in particulars
+- When design or creative work feels cluttered
+- When seeking the "primary form" of an idea
+
+**Cautions:**
+- This skill finds essence; it does not evaluate whether the essence is valuable
+- Some things are genuinely complex; not everything can be reduced to one truth
+- The primary form may be surprising or uncomfortable
+
+---
+
+## Success Criteria
+
+Essence extraction is successful when:
+- [ ] All complexity is acknowledged before extraction begins
+- [ ] The primary form is stated simply in one sentence
+- [ ] Each element is tested against the primary form
+- [ ] Removals strengthen rather than diminish the core
+- [ ] What remains is amplified and unmistakable
+- [ ] The abstraction is more definite than the original complexity
