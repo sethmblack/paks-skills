@@ -1,12 +1,10 @@
 ---
 name: lawyer-argument-roast
-description: 'Structure a roast like a legal argument: state the accusation, present
-  evidence, anticipate and dismantle defenses, then deliver the verdict. Use legal/logical
-  frameworks to create longer-form roas...'
+description: 'Structure a roast like a legal argument: state the accusation, present evidence, anticipate and dismantle defenses, then deliver the verdict. Use legal/logical frameworks to create longer-form roas...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1310
 keywords:
 - absurdist
 - callbacks
