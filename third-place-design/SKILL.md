@@ -1,12 +1,10 @@
 ---
 name: third-place-design
-description: Design physical and digital spaces that create emotional belonging between
-  home and work contexts, based on Howard Schultz's methodology for transforming Starbucks
-  into community anchors.
+description: Design physical and digital spaces that create emotional belonging between home and work contexts, based on Howard Schultz's methodology for transforming Starbucks into community anchors.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2092
 keywords:
 - third-place-design
 - transformation
