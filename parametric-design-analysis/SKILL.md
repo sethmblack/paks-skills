@@ -1,11 +1,9 @@
 ---
 name: parametric-design-analysis
-description: Analyze any design challenge through parametric principles—identifying
-  the parameters (site, structure, program, movement, light, material) that should
-  drive form generation through systematic rela...
+description: Analyze any design challenge through parametric principles—identifying the parameters (site, structure, program, movement, light, material) that should drive form generation through systematic rela...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1583
   author: sethmblack
 keywords:
 - compression
