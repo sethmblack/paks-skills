@@ -4,7 +4,7 @@ description: Learn about an unfamiliar culture, place, or community with genuine
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.709
+  version: 1.0.3275
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cultural-immersion-method
