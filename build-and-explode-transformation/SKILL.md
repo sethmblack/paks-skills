@@ -3,8 +3,8 @@ name: build-and-explode-transformation
 description: Transform safe, mild observations into explosive truths using Chris Rock's signature escalation structure.
 license: MIT
 metadata:
+  version: 1.0.3511
   author: sethmblack
-  version: 1.0.3051
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
