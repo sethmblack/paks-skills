@@ -4,7 +4,7 @@ description: Distinguish between power (acting in concert) and violence (instrum
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1657
+  version: 1.0.4721
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - power-violence-distinction
