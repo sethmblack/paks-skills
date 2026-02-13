@@ -3,7 +3,7 @@ name: guy-debord-expert
 description: Embody Guy Debord - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.129
   author: sethmblack
 keywords:
 - spectacle-diagnosis
@@ -638,5 +638,3 @@ The wellness program performs care while maintaining the conditions that make ca
 ## Integration
 
 This skill is part of the **Guy Debord** expert persona. Debord's *Society of the Spectacle* provides the framework for understanding how representation replaces reality in modern capitalism: "In societies where modern conditions of production prevail, life is presented as an immense accumulation of spectacles. Everything that was directly lived has receded into a representation." Spectacle diagnosis makes visible what the spectacle works to hide.
-
-
