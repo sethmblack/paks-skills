@@ -1,19 +1,20 @@
 ---
 name: prepared-environment-design
-description: Analyze and redesign any learning space or work environment using Montessori
-  principles to support independent, self-directed activity.
+description: Analyze and redesign any learning space or work environment using Montessori principles to support independent, self-directed activity. The environment does the teaching.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1667
 keywords:
 - prepared-environment-design
+- education
+- montessori
 - writing
 ---
 
 # Prepared Environment Design
 
-Analyze and redesign any learning space or work environment using Montessori principles to support independent, self-directed activity.
+The prepared environment is a core Montessori concept: the physical space is the primary teacher. When children (or adults) struggle with focus, independence, or engagement, the instinct is to address the person. Montessori's insight was to address the environment. A properly prepared environment invites purposeful activity, supports independence, and eliminates obstacles to concentration. This skill applies that lens to any learning or working space. By systematically auditing against six principles - user-proportioned, accessible, ordered, beautiful, limited, and real - you identify how the environment is helping or hindering, then redesign it to do the teaching.
 
 ---
 
@@ -24,6 +25,7 @@ Analyze and redesign any learning space or work environment using Montessori pri
 - Request to "design a Montessori environment"
 - Questions about why learners are distracted, dependent, or disengaged
 - Any environment intended to support learning or development
+- When users can't seem to maintain organization or focus
 
 ---
 
@@ -39,140 +41,52 @@ Analyze and redesign any learning space or work environment using Montessori pri
 
 ---
 
-## The Six Principles of Prepared Environment
+## Core Principle
 
-### Principle 1: Child-Sized (User-Proportioned)
-
-Everything should be proportioned for the user to act independently:
-- Furniture at appropriate height
-- Materials at accessible shelves
-- Tools sized for the user's hands
-- Controls and switches reachable
-
-**Diagnostic question:** Can the user access everything they need without adult assistance?
-
-### Principle 2: Accessible
-
-Materials should be visible, reachable, and inviting:
-- Open shelves (not closed cabinets)
-- Materials at eye-level and arm-reach
-- Clear organization by activity or subject
-- Nothing "put away" that should be available
-
-**Diagnostic question:** Can the user see what's available and get it themselves?
-
-### Principle 3: Ordered
-
-The environment should have a clear, logical structure:
-- Everything has a designated place
-- Materials arranged from simple to complex
-- Left-to-right, top-to-bottom organization
-- Clear boundaries between activity areas
-
-**Diagnostic question:** Does the user know where everything belongs?
-
-### Principle 4: Beautiful
-
-The environment should invite engagement through aesthetic quality:
-- Natural materials where possible (wood, glass, fabric)
-- Plants and living things
-- Natural light
-- Clean, well-maintained materials
-- Artful displays
-
-**Diagnostic question:** Does the space feel calm, inviting, and worthy of respect?
-
-### Principle 5: Limited
-
-Less is more in the prepared environment:
-- Only materials that serve current developmental needs
-- Not overwhelming with choices
-- Each material has a purpose
-- Rotate rather than accumulate
-
-**Diagnostic question:** Could the user choose without being overwhelmed?
-
-### Principle 6: Real
-
-The environment should offer authentic activity:
-- Real tools, not toys (within safety)
-- Real glass, real ceramics (children learn to be careful)
-- Meaningful work, not busywork
-- Activities that matter to the community
-
-**Diagnostic question:** Are the activities genuinely purposeful?
+The environment is the primary lever for change in learning and work. When people struggle with independence, focus, or engagement, look first at the space. A prepared environment invites purposeful activity through accessibility, order, and beauty - removing obstacles so that the person can concentrate without friction.
 
 ---
 
-## The Design Process
+## Methodology
 
-### Step 1: Observe the Current State
+### Phase 1: Observe Current State
+1. Document how the space currently functions (not how it's intended to)
+2. Watch what users actually do - where they go, what they touch
+3. Note friction points: what requires help, what creates mess, what's ignored
+4. Identify what works well and should be preserved
+5. Photograph or sketch the current arrangement
 
-Before redesigning, document:
-- How does the space currently function?
-- What do users actually do (not what you intend)?
-- Where do problems occur?
-- What works well?
+### Phase 2: Audit Against Six Principles
+1. **User-Proportioned**: Can users access everything without assistance? Furniture at right height?
+2. **Accessible**: Are materials visible on open shelves, reachable, inviting?
+3. **Ordered**: Does everything have a clear place? Arranged simple to complex?
+4. **Beautiful**: Natural materials, good light, aesthetic care? Calm and worthy of respect?
+5. **Limited**: Few enough options to choose without overwhelm? Rotation vs. accumulation?
+6. **Real**: Authentic materials and purposeful activities? Real tools, not just toys?
 
-### Step 2: Audit Against the Six Principles
+### Phase 3: Identify Obstacles
+1. Materials stored out of reach requiring adult help
+2. Closed storage hiding options (closed cabinets vs. open shelves)
+3. Clutter creating decision paralysis
+4. Missing materials preventing complete activity cycles
+5. Adult-sized furniture requiring assistance
+6. Mixed categories preventing systematic exploration
 
-For each principle, assess:
-- Does the current environment meet this principle?
-- What specific elements violate it?
-- What would be needed to address it?
+### Phase 4: Design for Activity Cycles
+1. Ensure each activity is complete and self-contained on a tray or in a basket
+2. All needed materials together - nothing requiring retrieval from elsewhere
+3. Clear beginning, middle, and end to each activity
+4. Obvious place to return materials when complete
+5. User can start, work, and clean up independently
 
-### Step 3: Identify Obstacles
-
-Common obstacles to independent activity:
-- Materials stored out of reach
-- Closed storage hiding options
-- Adult-sized furniture requiring assistance
-- Clutter creating overwhelm
-- Missing materials for complete activity cycles
-- Disorganization preventing self-correction
-
-### Step 4: Design for Activity Cycles
-
-Each activity should be complete and self-contained:
-- All materials needed are together
-- Activity can be started, completed, and cleaned up independently
-- Clear beginning and end
-- Obvious place to return materials
-
-### Step 5: Plan for Maintenance
-
-The prepared environment requires ongoing attention:
-- Daily: Restore order, replace materials
-- Weekly: Clean, repair, rotate as needed
-- Monthly: Observe and adjust to changing needs
+### Phase 5: Create Implementation and Maintenance Plan
+1. Prioritize changes by impact and feasibility
+2. Plan daily restoration tasks (return to order each day)
+3. Schedule weekly observation and minor adjustments
+4. Define monthly review for rotation based on usage
+5. Identify who maintains the environment and how
 
 ---
-
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
 
 ## Output Format
 
@@ -182,11 +96,14 @@ Create actionable outputs:
 ### Space Summary
 [Brief description of the space and its intended use]
 
+### Current State Observation
+[What's actually happening in this space - behaviors, friction, successes]
+
 ### Principle Audit
 
 | Principle | Current State | Recommendations |
 |-----------|---------------|-----------------|
-| Child-Sized | [assessment] | [specific changes] |
+| User-Proportioned | [assessment] | [specific changes] |
 | Accessible | [assessment] | [specific changes] |
 | Ordered | [assessment] | [specific changes] |
 | Beautiful | [assessment] | [specific changes] |
@@ -220,77 +137,97 @@ Create actionable outputs:
 - Recommend real materials and authentic activities
 - Prioritize independence over convenience
 - Acknowledge constraints but don't let them prevent progress
+- Start with the most impactful changes within budget
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+- **Blaming the User**: When children or adults struggle, the instinct is to address the person. Montessori's insight is to address the environment first. Don't diagnose the user; diagnose the space.
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+- **Decoration Over Function**: Beautiful environments are important, but beauty without function is counterproductive. Every element should serve the user's independence and activity.
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+- **Accumulation Instead of Rotation**: More materials doesn't mean better. Too many options create overwhelm and prevent mastery. Rotate rather than accumulate.
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+- **Closed Storage**: Cabinets with doors hide options. Users can't choose what they can't see. Open shelves with visible, organized materials invite activity.
 
-**Example output:** See the Example section below for a complete demonstration.
+- **Adult Convenience Over User Independence**: Arranging things for adult ease (high shelves, adult-height tables) undermines the entire purpose. The environment serves the user, not the maintainer.
 
-## Example
+---
 
-**Input:** "I want to set up a learning corner in my living room for my 4-year-old. We have a 6x8 foot space. Currently it has a toy box, a kid's table, and a bookshelf with books mixed with toys. She doesn't seem interested and makes a mess."
+## Examples
 
-**Output:**
+### Example 1: Toddler Learning Corner
 
-## Prepared Environment Analysis
+**Situation**: "I want to set up a learning corner in my living room for my 4-year-old. We have a 6x8 foot space. Currently it has a toy box, a kid's table, and a bookshelf with books mixed with toys. She doesn't seem interested and makes a mess."
 
-### Space Summary
-A 6x8 foot corner of a living room intended as a learning/activity space for a 4-year-old. Currently configured with mixed storage that does not invite purposeful activity.
+**Application**:
+- Current obstacles: Toy box hides contents, mixed categories confuse choice, too many items create overwhelm
+- Principle audit: Accessible (F - toy box hides), Ordered (F - mixed categories), Limited (F - too many items)
+- Key changes: Replace toy box with low open shelf, create activity trays, reduce to 6-8 activities
 
-### Principle Audit
+**Output**:
+Priority recommendations:
+1. Replace toy box with two-shelf open unit - each item visible on its own tray
+2. Create activity trays - each activity on its own tray with all needed materials
+3. Rotate to 6-8 activities maximum - store extras elsewhere, rotate weekly
 
-| Principle | Current State | Recommendations |
-|-----------|---------------|-----------------|
-| Child-Sized | Table appears appropriate | Verify chair height allows feet flat on floor, table at elbow height |
-| Accessible | Toy box hides contents; bookshelf mixes categories | Replace toy box with low open shelf; separate books from materials |
-| Ordered | No apparent organization | Dedicate specific shelves to specific activities; use trays to contain each activity |
-| Beautiful | Not assessed | Add a small plant, natural materials, possibly a framed art print at child height |
-| Limited | Too many items visible | Remove 2/3 of materials; rotate weekly; store excess out of sight |
-| Real | Not assessed | Replace plastic with wood/glass where possible; add real practical life activities |
+Activity cycle example for art: Small tray containing colored pencils in holder, small paper pad, sharpener. Child takes tray to table, works, returns complete tray to designated shelf spot.
 
-### Key Obstacles Identified
-1. **Toy box storage:** Child cannot see options; digging creates mess; no defined place for items
-2. **Mixed categories:** Books with toys prevents systematic exploration; no clear purpose areas
-3. **Too many items:** Overwhelm prevents choice; impossible to maintain order
+### Example 2: Home Office for Focus
 
-### Priority Redesign Recommendations
-1. **Replace toy box with two-shelf open unit** - Each item visible on its own tray or basket. Child sees all options and knows where each belongs.
-2. **Create activity trays** - Each activity on its own tray with all needed materials. Child takes tray to table, works, returns complete tray to shelf.
-3. **Rotate to 6-8 activities maximum** - Currently too many items. Store extras in closet, rotate weekly based on what she chooses.
+**Situation**: "I work from home but can't focus. My desk is covered with papers, I have to get up constantly to find things, and I get distracted by everything around me."
 
-### Activity Cycle Design
-Example for art activity:
-- Small tray containing: 4 colored pencils in holder, small pad of paper, pencil sharpener
-- Child takes entire tray to table
-- Works independently
-- Returns pencils to holder, sharpener to tray, places tray back on designated shelf spot
-- Used paper goes to designated "finished work" basket or folder
+**Application**:
+- Current obstacles: No designated places (disorder), materials scattered (accessibility), visual clutter (overwhelm)
+- Principle audit: Ordered (F - no home for items), Accessible (F - constant retrieval), Limited (F - too much visible)
+- Key changes: Create zones, limit visible materials to current work, establish "homes" for everything
 
-### Maintenance Plan
-- Daily: Return all trays to shelves; restore order before bed
-- Weekly: Observe which activities are chosen/ignored; rotate 1-2 items
-- As needed: Replace consumables, repair materials, add new activities following her interests
+**Output**:
+Priority recommendations:
+1. Clear desk to only current-day materials; create "parking lot" drawer for pending items
+2. Establish three zones: active work, reference, and storage - each with clear boundaries
+3. Apply "one in, one out" rule for desk surface; if it's not today's work, it's not on the desk
+
+Activity cycle for work sessions: Start with clear desk. Retrieve only materials for current task. Complete task. Return materials to homes. Clear desk before next task.
+
+### Example 3: Classroom Reading Area
+
+**Situation**: "The reading corner in my classroom isn't being used. Kids avoid it. When they do go there, they get distracted quickly."
+
+**Application**:
+- Current obstacles: Possibly not beautiful/inviting, books may be disorganized or overwhelming, seating may not be comfortable
+- Principle audit: Need observation - is it accessible? ordered? beautiful? limited? real?
+- Key changes: Depends on observation, but likely involves curation, comfort, and invitation
+
+**Output**:
+Observation questions first:
+- How many books are displayed? (If >20 visible, probably too many)
+- Are books organized by type/level or just shelved?
+- Is seating comfortable and appropriately sized?
+- Is lighting good? Does area feel enclosed and cozy?
+
+Likely recommendations:
+1. Curate to 15-20 books, rotated weekly based on curriculum and student interest
+2. Display books face-out, organized by type
+3. Add soft seating, possibly a small rug to define the space
+4. Check lighting - add lamp if needed
 
 ---
 
 ## Integration
 
-This skill is part of the **Maria Montessori** expert persona. Use it when any learning or working environment needs design or troubleshooting, grounded in the principle that the environment does the teaching.
+**Works with:**
+- **scaffolding-of-rhetoric**: Structured environments support structured thinking
+- **psychological-safety-creation**: Physical environment affects psychological safety
+- **freedom-within-limits**: Prepared environments embody this principle
+
+**When to prefer this skill:**
+- When users struggle with independence or focus
+- Before diagnosing individual problems
+- When setting up any new learning or working space
+
+**Cautions:**
+- Environmental design is not a substitute for instruction when instruction is needed
+- Some users may need additional support beyond environmental preparation
+- Observe before redesigning - the problem may not be what you assume
