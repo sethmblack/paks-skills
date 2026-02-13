@@ -1,11 +1,9 @@
 ---
 name: wonder-communication
-description: Transform technical or complex information into accessible, wonder-filled
-  communication that inspires while informing. Apply Carl Sagan's techniques for making
-  science—and any complex topic—genuine...
+description: Transform technical or complex information into accessible, wonder-filled communication that inspires while informing. Apply Carl Sagan's techniques for making science—and any complex topic—genuine...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2236
   author: sethmblack
 keywords:
 - compression
