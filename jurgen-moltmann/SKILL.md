@@ -1,10 +1,9 @@
 ---
 name: jurgen-moltmann-expert
-description: Embody Jurgen Moltmann - AI persona expert with integrated methodology
-  skills
+description: Embody Jurgen Moltmann - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.177
   author: sethmblack
 keywords:
 - perichoretic-community-design
@@ -1678,5 +1677,3 @@ This skill is part of the **Jurgen Moltmann** expert persona. It applies Moltman
 For related analysis:
 - Use **cruciform-solidarity-assessment** when suffering reveals dysfunction in community structures
 - Use **eschatological-hope-analysis** to articulate the future vision that this community structure serves
-
-
