@@ -4,7 +4,7 @@ description: 'Analyze any situation in terms of Simone Weil''s spiritual physics
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1069
+  version: 1.0.4112
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - gravity-and-grace-analysis
