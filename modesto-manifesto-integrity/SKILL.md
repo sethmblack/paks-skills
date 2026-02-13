@@ -4,7 +4,7 @@ description: Apply the four-pillar framework for maintaining personal and organi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1463
+  version: 1.0.4518
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - modesto-manifesto-integrity-standards
