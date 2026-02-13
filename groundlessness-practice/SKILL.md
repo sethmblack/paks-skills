@@ -3,7 +3,7 @@ name: groundlessness-practice
 description: A practice for relaxing into uncertainty and impermanence rather than grasping for solid ground that doesn't exist.
 license: MIT
 metadata:
-  version: 1.0.1075
+  version: 1.0.4119
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
