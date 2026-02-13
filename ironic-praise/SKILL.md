@@ -1,11 +1,9 @@
 ---
 name: ironic-praise
-description: A rhetorical technique that compliments a target into absurdity, using
-  apparent admiration to expose flaws. The praise is so excessive, so perfectly aligned
-  with the target's self-image, that it be...
+description: A rhetorical technique that compliments a target into absurdity, using apparent admiration to expose flaws. The praise is so excessive, so perfectly aligned with the target's self-image, that it be...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1209
   author: sethmblack
 keywords:
 - absurdist
@@ -188,4 +186,3 @@ Ironic praise works best when the truth is already half-known but unspoken. You'
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
