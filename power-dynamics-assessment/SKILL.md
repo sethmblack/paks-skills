@@ -3,8 +3,8 @@ name: power-dynamics-assessment
 description: Analyze any situation through Machiavelli's six-step framework to reveal true interests, capabilities, constraints, and strategic options.
 license: MIT
 metadata:
+  version: 1.0.4719
   author: sethmblack
-  version: 1.0.1655
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - power-dynamics-assessment
