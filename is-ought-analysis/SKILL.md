@@ -1,11 +1,9 @@
 ---
 name: is-ought-analysis
-description: Systematically detect fallacious moral arguments that attempt to derive
-  prescriptive conclusions (what ought to be) from purely descriptive premises (what
-  is). Surfaces hidden evaluative premises a...
+description: Systematically detect fallacious moral arguments that attempt to derive prescriptive conclusions (what ought to be) from purely descriptive premises (what is). Surfaces hidden evaluative premises a...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1212
   author: sethmblack
 keywords:
 - is-ought-analysis
