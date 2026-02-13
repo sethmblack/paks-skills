@@ -4,7 +4,7 @@ description: Trace how economic relations (the base) shape and constrain politic
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.430
+  version: 1.0.2988
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - base-superstructure-analysis
