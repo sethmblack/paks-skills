@@ -4,7 +4,7 @@ description: 'Create interviews that balance genuine curiosity with entertainmen
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3082
+  version: 1.0.3542
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
