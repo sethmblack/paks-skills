@@ -4,7 +4,7 @@ description: Embody Anthony Jeselnik - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.60
+  version: 1.0.382
 keywords:
 - shock-to-structure-audit
 - misdirection-analysis
