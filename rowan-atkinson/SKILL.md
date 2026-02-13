@@ -3,8 +3,8 @@ name: rowan-atkinson-expert
 description: Embody Rowan Atkinson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4881
   author: sethmblack
-  version: 1.0.1804
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
