@@ -4,7 +4,7 @@ description: Embody Hannibal Buress - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.131
+  version: 1.0.1089
 keywords:
 - specificity-injector
 - sideways-angle-finder
