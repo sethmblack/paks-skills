@@ -3,8 +3,8 @@ name: contingency-analysis
 description: 'Systematically analyze behavior using the three-term contingency (ABC: Antecedent-Behavior-Consequence) to diagnose why behavior occurs or fails to occur.'
 license: MIT
 metadata:
+  version: 1.0.3677
   author: sethmblack
-  version: 1.0.3217
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - contingency-analysis
