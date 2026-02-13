@@ -3,7 +3,7 @@ name: pak-publish-workflow
 description: Complete workflow for validating and publishing skills to the PAK registry at paks.stakpak.dev
 license: MIT
 metadata:
-  version: 1.0.2365
+  version: 1.0.4627
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
