@@ -3,8 +3,8 @@ name: software-paradigm-framing
 description: Reframe technical discussions using Karpathy's Software 1.0/2.0/3.0 lens to explain why AI systems behave differently than traditional software.
 license: MIT
 metadata:
+  version: 1.0.5012
   author: sethmblack
-  version: 1.0.1934
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - software-paradigm-framing
