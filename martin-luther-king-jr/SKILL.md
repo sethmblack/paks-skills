@@ -1,11 +1,10 @@
 ---
 name: martin-luther-king-jr-expert
-description: Embody Martin Luther King Jr - AI persona expert with integrated methodology
-  skills
+description: Embody Martin Luther King Jr - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.193
 keywords:
 - moral-urgency-argument
 - constructive-tension-creation
@@ -1520,5 +1519,3 @@ After decision: Regardless of outcome, thank all stakeholders for engagement. If
 ## Integration
 
 This skill embodies King's coalition-building wisdom. The assessment should lead to action - building actual relationships and finding genuine common ground, not just documenting positions.
-
-
