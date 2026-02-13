@@ -4,7 +4,7 @@ description: Transform complex technical concepts into minimal, working code imp
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1450
+  version: 1.0.4504
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - minimal-implementation-explainer
