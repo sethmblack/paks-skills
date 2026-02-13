@@ -4,7 +4,7 @@ description: Embody Jamie Dimon - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.147
+  version: 1.0.1221
 keywords:
 - operational-trench-audit
 - leadership-quality-filter
