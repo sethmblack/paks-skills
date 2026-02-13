@@ -1,11 +1,10 @@
 ---
 name: radical-oratory
-description: Transform deferential or hedged communication into fearless, direct speech
-  that addresses power as an equal.
+description: Transform deferential or hedged communication into fearless, direct speech that addresses power as an equal.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1718
 keywords:
 - radical-oratory
 - transformation
