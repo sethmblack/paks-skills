@@ -3,7 +3,7 @@ name: imitation-game-evaluation
 description: Evaluate whether a system exhibits intelligent behavior by defining operational criteria and testing against them - cutting through philosophical speculation to practical assessment.
 license: MIT
 metadata:
-  version: 1.0.1164
+  version: 1.0.4210
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
