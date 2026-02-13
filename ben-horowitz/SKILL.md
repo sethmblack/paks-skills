@@ -3,8 +3,8 @@ name: ben-horowitz-expert
 description: Embody Ben Horowitz - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.65
 keywords:
 - wartime-peacetime-diagnosis
 - struggle-navigation
@@ -2771,5 +2771,3 @@ This skill is part of the **Ben Horowitz** expert. When invoking:
 - Acknowledge the emotional difficulty explicitly
 - Emphasize that avoidance is cruelty, not kindness
 - Reference Horowitz's own experiences firing friends at Opsware
-
-
