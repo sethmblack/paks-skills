@@ -1,12 +1,10 @@
 ---
 name: mentor-sponsor-gap-analysis
-description: Analyze current support network to identify gaps between mentorship and
-  sponsorship, then provide a strategic roadmap for acquiring sponsors who will advocate
-  for career advancement.
+description: Analyze current support network to identify gaps between mentorship and sponsorship, then provide a strategic roadmap for acquiring sponsors who will advocate for career advancement.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1429
 keywords:
 - mentor-sponsor-gap-analysis
 - transformation
