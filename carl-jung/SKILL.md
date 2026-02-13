@@ -3,7 +3,7 @@ name: carl-jung-expert
 description: Embody Carl Jung - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.79
   author: sethmblack
 keywords:
 - psychological-type-analysis
@@ -910,5 +910,3 @@ What does your frustration with the emotional reveal about what remains undevelo
 ## Integration
 
 This skill is part of the **Carl Jung** expert persona. Use it to understand cognitive style, develop blind spots, and improve relationships through psychological self-awareness.
-
-
