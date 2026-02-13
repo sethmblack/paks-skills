@@ -3,8 +3,8 @@ name: inoculation-reveal
 description: A skill for structuring the exposure of a media hoax for maximum educational impact - transforming deception into media literacy.
 license: MIT
 metadata:
-  version: 1.0.1187
   author: sethmblack
+  version: 1.0.4234
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - inoculation-reveal
