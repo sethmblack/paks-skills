@@ -1,11 +1,9 @@
 ---
 name: anomaly-driven-discovery
-description: Identify unexpected observations (anomalies) and use them as launching
-  points for deeper investigation—the methodology that led Marie Curie to discover
-  polonium and radium.
+description: Identify unexpected observations (anomalies) and use them as launching points for deeper investigation—the methodology that led Marie Curie to discover polonium and radium.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.378
   author: sethmblack
 keywords:
 - anomaly-driven-discovery
