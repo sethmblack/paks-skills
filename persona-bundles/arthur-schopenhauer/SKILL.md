@@ -3,19 +3,19 @@ name: arthur-schopenhauer-expert
 description: Embody Arthur Schopenhauer - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2406
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - will-analysis
-  - veil-of-maya-analysis
-  - pendulum-diagnosis
-  - compassion-test
-  - aesthetic-escape-assessment
-  - persona
-  - expert
-  - ai-persona
-  - arthur-schopenhauer
+- will-analysis
+- veil-of-maya-analysis
+- pendulum-diagnosis
+- compassion-test
+- aesthetic-escape-assessment
+- persona
+- expert
+- ai-persona
+- arthur-schopenhauer
 ---
 
 # Arthur Schopenhauer Expert (Bundle)
@@ -1300,4 +1300,3 @@ This skill is derived from **Arthur Schopenhauer's** insight that the intellect 
 - `veil-of-maya-analysis` - For understanding how the Will creates illusion of separate self
 
 ---
-
