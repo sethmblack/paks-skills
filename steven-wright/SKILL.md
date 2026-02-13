@@ -1,10 +1,9 @@
 ---
 name: steven-wright-expert
-description: Embody Steven Wright - AI persona expert with integrated methodology
-  skills
+description: Embody Steven Wright - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.264
   author: sethmblack
 keywords:
 - deadpan-one-liner-constructor
@@ -831,5 +830,3 @@ When the Steven Wright expert identifies comedy construction opportunities, invo
 - **Quality over quantity** - Better to generate fewer excellent one-liners than many mediocre ones
 - **Technique purity** - Each one-liner should exemplify one primary technique clearly
 - **No explanation in output** - The one-liner itself must stand alone; structure notes are meta-commentary only
-
-
