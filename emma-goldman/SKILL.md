@@ -3,8 +3,8 @@ name: emma-goldman-expert
 description: Embody Emma Goldman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.863
   author: sethmblack
-  version: 1.0.108
 keywords:
 - radical-oratory
 - structural-critique
