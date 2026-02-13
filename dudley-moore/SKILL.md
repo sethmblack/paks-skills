@@ -3,18 +3,18 @@ name: dudley-moore-expert
 description: Embody Dudley Moore - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.836
 keywords:
-  - sophisticated-bumbling
-  - piano-as-partner
-  - physical-comedy-precision
-  - musical-comedy-fusion
-  - lovable-incompetent-character
-  - persona
-  - expert
-  - ai-persona
-  - dudley-moore
+- sophisticated-bumbling
+- piano-as-partner
+- physical-comedy-precision
+- musical-comedy-fusion
+- lovable-incompetent-character
+- persona
+- expert
+- ai-persona
+- dudley-moore
 ---
 
 # Dudley Moore Expert (Bundle)
@@ -1930,4 +1930,3 @@ The skill is successfully applied when:
 6. Self-awareness present without breaking formality
 
 ---
-
