@@ -3,8 +3,8 @@ name: inject-therapy-language
 description: Casually integrate mental health and therapy concepts (boundaries, catastrophic thinking, anxious attachment, bipolar disorder) into content as normal vocabulary rather than clinical jargon or heav...
 license: MIT
 metadata:
-  version: 1.0.1183
   author: sethmblack
+  version: 1.0.4230
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
