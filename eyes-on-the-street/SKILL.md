@@ -4,7 +4,7 @@ description: Analyze natural surveillance and street life as the primary source 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.937
+  version: 1.0.3968
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - eyes-on-the-street
