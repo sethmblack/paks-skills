@@ -4,7 +4,7 @@ description: Find the virtuous middle between two extremes—one of excess, one 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1056
+  version: 1.0.4099
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - golden-mean-analysis
