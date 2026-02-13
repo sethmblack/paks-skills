@@ -1,11 +1,9 @@
 ---
 name: callback-web-constructor
-description: Create interconnected jokes that reference earlier material, building
-  compound destruction and thematic cohesion across an extended comedy set. Transform
-  isolated jokes into sophisticated networks ...
+description: Create interconnected jokes that reference earlier material, building compound destruction and thematic cohesion across an extended comedy set. Transform isolated jokes into sophisticated networks ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.507
   author: sethmblack
 keywords:
 - absurdist
