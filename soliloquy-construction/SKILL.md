@@ -3,7 +3,7 @@ name: soliloquy-construction
 description: Articulate the unspoken internal dialogue—the thoughts and feelings someone cannot or will not express publicly.
 license: MIT
 metadata:
-  version: 1.0.1937
+  version: 1.0.5015
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
