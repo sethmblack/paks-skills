@@ -1,10 +1,9 @@
 ---
 name: scale-as-meaning
-description: A skill for transforming individual stories into monumental installations
-  and expressions that prevent dismissal through overwhelming presence.
+description: A skill for transforming individual stories into monumental installations and expressions that prevent dismissal through overwhelming presence.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1834
   author: sethmblack
 keywords:
 - scale-as-meaning
