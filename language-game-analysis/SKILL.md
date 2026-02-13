@@ -3,8 +3,8 @@ name: language-game-analysis
 description: Examine how words actually function in their contexts of use rather than seeking abstract definitions. Reveal meaning through use, identify the "language-games" in which terms operate, and show tha...
 license: MIT
 metadata:
-  version: 1.0.1302
   author: sethmblack
+  version: 1.0.4356
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - language-game-analysis
