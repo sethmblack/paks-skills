@@ -3,8 +3,8 @@ name: john-mulaney-expert
 description: Embody John Mulaney - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4306
   author: sethmblack
-  version: 1.0.1255
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - urgency-first
