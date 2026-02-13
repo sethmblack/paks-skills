@@ -3,7 +3,7 @@ name: mental-toughness-reset
 description: Reset your mental state during high-pressure moments when emotions threaten to derail your performance.
 license: MIT
 metadata:
-  version: 1.0.1428
+  version: 1.0.4482
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
