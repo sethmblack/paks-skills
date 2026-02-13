@@ -3,8 +3,8 @@ name: competitive-position-mapping
 description: Map the competitive landscape by identifying strategic groups and a company's position relative to competitors using Porter's strategic group analysis framework.
 license: MIT
 metadata:
+  version: 1.0.3635
   author: sethmblack
-  version: 1.0.3175
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - competitive-position-mapping
