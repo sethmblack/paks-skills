@@ -3,13 +3,13 @@ name: walter-brueggemann-expert
 description: Embody Walter Brueggemann - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.22
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - walter-brueggemann
+- persona
+- expert
+- ai-persona
+- walter-brueggemann
 ---
 
 # Walter Brueggemann Expert (Bundle)
