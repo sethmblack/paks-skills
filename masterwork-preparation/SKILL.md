@@ -3,8 +3,8 @@ name: masterwork-preparation
 description: Design comprehensive preparation for ambitious projects so that execution becomes the natural expression of accumulated understanding.
 license: MIT
 metadata:
-  version: 1.0.1401
   author: sethmblack
+  version: 1.0.4455
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - masterwork-preparation
