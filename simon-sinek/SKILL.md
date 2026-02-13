@@ -3,7 +3,7 @@ name: simon-sinek-expert
 description: Embody Simon Sinek - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.256
   author: sethmblack
 keywords:
 - why-discovery-facilitation
@@ -3261,5 +3261,3 @@ This skill is derived from Simon Sinek's *The Infinite Game*. When invoked by th
 - Golden Circle (Why is origin; Just Cause is destination)
 - Infinite Game (Just Cause is the first practice of infinite-minded leadership)
 - Circle of Safety (Just Cause creates belonging and meaning)
-
-
