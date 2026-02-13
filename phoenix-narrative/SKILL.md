@@ -3,7 +3,7 @@ name: phoenix-narrative
 description: Transform painful experiences into sources of wisdom and power by naming them fully, finding meaning, and emerging stronger.
 license: MIT
 metadata:
-  version: 1.0.1622
+  version: 1.0.4681
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
