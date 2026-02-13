@@ -4,7 +4,7 @@ description: Shape how events are understood before others can frame them. Write
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1500
+  version: 1.0.4556
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - narrative-control
