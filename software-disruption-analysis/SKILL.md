@@ -1,10 +1,9 @@
 ---
 name: software-disruption-analysis
-description: Analyze any industry through Marc Andreessen's "software is eating the
-  world" lens to identify disruption opportunities and threats.
+description: Analyze any industry through Marc Andreessen's "software is eating the world" lens to identify disruption opportunities and threats.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1933
   author: sethmblack
 keywords:
 - compression
