@@ -1,12 +1,10 @@
 ---
 name: development-of-doctrine-analysis
-description: Evaluate whether a change, evolution, or development preserves essential
-  identity and represents authentic growth rather than corruption, using John Henry
-  Newman's seven notes of authentic developm...
+description: Evaluate whether a change, evolution, or development preserves essential identity and represents authentic growth rather than corruption, using John Henry Newman's seven notes of authentic developm...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.790
 keywords:
 - development-of-doctrine-analysis
 - structure
