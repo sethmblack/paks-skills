@@ -3,13 +3,13 @@ name: mel-brooks-expert
 description: Embody Mel Brooks - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1422
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - mel-brooks
+- persona
+- expert
+- ai-persona
+- mel-brooks
 ---
 
 # Mel Brooks Expert (Bundle)
