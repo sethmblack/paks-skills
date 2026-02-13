@@ -4,7 +4,7 @@ description: Diagnose urban problems using Le Corbusier's framework - identify f
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2333
+  version: 1.0.4782
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - radiant-city-urban-diagnosis
