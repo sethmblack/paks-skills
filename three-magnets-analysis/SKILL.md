@@ -3,12 +3,12 @@ name: three-magnets-analysis
 description: Reveal a third alternative when presented with a binary choice by mapping the attractions and drawbacks of each option, then synthesizing a solution that captures the best features of both while avoiding their drawbacks.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2341
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - three-magnets-analysis
-  - urban-planning
+- three-magnets-analysis
+- urban-planning
 ---
 
 # Three Magnets Analysis
