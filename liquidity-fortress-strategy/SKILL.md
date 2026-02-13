@@ -1,10 +1,9 @@
 ---
 name: liquidity-fortress-strategy
-description: Determine appropriate cash reserves to maintain, balancing opportunity
-  cost against crisis preparedness and the ability to act decisively when others cannot.
+description: Determine appropriate cash reserves to maintain, balancing opportunity cost against crisis preparedness and the ability to act decisively when others cannot.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1341
   author: sethmblack
 keywords:
 - liquidity-fortress-strategy
