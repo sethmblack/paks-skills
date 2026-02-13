@@ -4,7 +4,7 @@ description: Embody The Buddha - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.272
+  version: 1.0.2077
 keywords:
 - dependent-origination-analysis
 - mindfulness-anchor
