@@ -1,10 +1,9 @@
 ---
 name: madam-cj-walker-expert
-description: Embody Madam Cj Walker - AI persona expert with integrated methodology
-  skills
+description: Embody Madam Cj Walker - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.187
   author: sethmblack
 keywords:
 - grassroots-adoption-strategy
@@ -1042,5 +1041,3 @@ This skill originated from Madam C.J. Walker's methodology. When invoked, channe
 - The blocked door isn't the only door
 - Start with what you have
 - Success is the best argument
-
-
