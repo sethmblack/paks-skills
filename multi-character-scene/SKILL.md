@@ -3,7 +3,7 @@ name: multi-character-scene
 description: Transform narrative description into fully embodied multi-character scenes where each person's voice, internal logic, and perspective is inhabited completely. Based on Richard Pryor's technique of ...
 license: MIT
 metadata:
-  version: 1.0.1483
+  version: 1.0.4539
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
