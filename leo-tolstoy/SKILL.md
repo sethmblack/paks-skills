@@ -3,8 +3,8 @@ name: leo-tolstoy-expert
 description: Embody Leo Tolstoy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.183
   author: sethmblack
+  version: 1.0.1321
 keywords:
 - panoramic-to-particular-rendering
 - moral-life-audit
