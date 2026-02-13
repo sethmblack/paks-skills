@@ -4,7 +4,7 @@ description: Evaluate comedic content using the benign violation framework to de
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3003
+  version: 1.0.3463
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - benign-violation-check
