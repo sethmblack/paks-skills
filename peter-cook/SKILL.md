@@ -3,7 +3,7 @@ name: peter-cook-expert
 description: Embody Peter Cook - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1613
+  version: 1.0.4672
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
