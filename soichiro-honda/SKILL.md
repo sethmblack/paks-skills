@@ -4,7 +4,7 @@ description: Embody Soichiro Honda - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1935
+  version: 1.0.5013
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - genba-diagnostic
