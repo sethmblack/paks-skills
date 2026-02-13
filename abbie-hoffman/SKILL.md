@@ -3,8 +3,8 @@ name: abbie-hoffman-expert
 description: Embody Abbie Hoffman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.37
   author: sethmblack
+  version: 1.0.302
 keywords:
 - free-as-strategy
 - put-on-design
