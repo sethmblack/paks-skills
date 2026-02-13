@@ -4,7 +4,7 @@ description: Evaluate whether a brand can credibly extend into a new market or p
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.483
+  version: 1.0.3042
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - brand-extension-assessment
