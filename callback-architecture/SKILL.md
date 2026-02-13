@@ -4,7 +4,7 @@ description: Transform flat, linear narratives into architecturally structured s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.504
+  version: 1.0.3064
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
