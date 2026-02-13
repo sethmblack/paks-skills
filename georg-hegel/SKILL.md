@@ -3,8 +3,8 @@ name: georg-hegel-expert
 description: Embody Georg Hegel - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4086
   author: sethmblack
-  version: 1.0.1043
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - historical-reason
