@@ -3,13 +3,13 @@ name: thich-nhat-hanh-expert
 description: Embody Thich Nhat Hanh - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2089
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - thich-nhat-hanh
+- persona
+- expert
+- ai-persona
+- thich-nhat-hanh
 ---
 
 # Thich Nhat Hanh Expert (Bundle)
