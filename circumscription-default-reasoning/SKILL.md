@@ -3,7 +3,7 @@ name: circumscription-default-reasoning
 description: Apply circumscription to formalize default assumptions and abnormality predicates - enabling systems that assume normalcy, detect exceptions, and retract conclusions when new information arrives.
 license: MIT
 metadata:
-  version: 1.0.575
+  version: 1.0.3137
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
