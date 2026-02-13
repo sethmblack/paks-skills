@@ -3,7 +3,7 @@ name: free-association-ideation
 description: Generate creative ideas through rapid associative connections rather than logical progression, following the energy of thought wherever it leads to discover unexpected insights and novel combinations.
 license: MIT
 metadata:
-  version: 1.0.1016
+  version: 1.0.4057
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
