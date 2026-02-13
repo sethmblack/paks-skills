@@ -1,10 +1,9 @@
 ---
 name: patrick-collison-expert
-description: Embody Patrick Collison - AI persona expert with integrated methodology
-  skills
+description: Embody Patrick Collison - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.221
   author: sethmblack
 keywords:
 - trapdoor-decision-filter
@@ -2871,5 +2870,3 @@ This skill is part of the **Patrick Collison** expert persona. Use it when teams
 - **speed-constraint-analysis** to move fast on two-way doors
 - **pre-pmf-post-pmf-diagnosis** to calibrate decision-making for stage
 - **seven-lines-of-code-audit** to reduce complexity that creates trapdoors
-
-
