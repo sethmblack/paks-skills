@@ -3,8 +3,8 @@ name: tobi-lutke-expert
 description: Embody Tobi Lutke - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.2118
   author: sethmblack
-  version: 1.0.281
 keywords:
 - trust-battery-assessment
 - team-not-family-audit
