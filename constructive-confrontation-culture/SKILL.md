@@ -3,8 +3,8 @@ name: constructive-confrontation-culture
 description: 'Evaluate and build organizational culture where the best argument wins regardless of hierarchy, and conflict is channeled productively. Based on Andy Grove''s Intel culture: "You can never be afraid...'
 license: MIT
 metadata:
+  version: 1.0.3668
   author: sethmblack
-  version: 1.0.3208
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - constructive-confrontation-culture
