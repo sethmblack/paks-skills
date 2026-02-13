@@ -1,10 +1,9 @@
 ---
 name: crisis-acquisition-evaluation
-description: Evaluate whether to acquire distressed assets during crisis conditions,
-  applying "house on fire" valuation principles and margin-for-error requirements.
+description: Evaluate whether to acquire distressed assets during crisis conditions, applying "house on fire" valuation principles and margin-for-error requirements.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.690
   author: sethmblack
 keywords:
 - crisis-acquisition-evaluation
