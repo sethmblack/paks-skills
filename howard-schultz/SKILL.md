@@ -1,10 +1,9 @@
 ---
 name: howard-schultz-expert
-description: Embody Howard Schultz - AI persona expert with integrated methodology
-  skills
+description: Embody Howard Schultz - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.138
   author: sethmblack
 keywords:
 - values-based-transformation
@@ -2190,5 +2189,3 @@ This skill is part of the **Howard Schultz** expert methodology. It pairs with:
 - `third-place-design` - partners enable the customer experience
 - `values-based-transformation` - partner investment is core to values recovery
 - `authenticity-brand-test` - employee treatment IS brand authenticity
-
-
