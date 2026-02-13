@@ -1,12 +1,10 @@
 ---
 name: team-of-rivals-assembly
-description: Build high-performing teams from former competitors, critics, or conflicting
-  personalities by transforming rivalry into collaboration. Based on Abraham Lincoln's
-  approach of surrounding himself wit...
+description: Build high-performing teams from former competitors, critics, or conflicting personalities by transforming rivalry into collaboration. Based on Abraham Lincoln's approach of surrounding himself wit...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2061
 keywords:
 - team-of-rivals-assembly
 - transformation
