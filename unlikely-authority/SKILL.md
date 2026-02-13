@@ -1,10 +1,9 @@
 ---
 name: unlikely-authority
-description: Lead and influence when you lack formal credentials, traditional qualifications,
-  or positional authority. Authority flows from mission, not permission.
+description: Lead and influence when you lack formal credentials, traditional qualifications, or positional authority. Authority flows from mission, not permission.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2164
   author: sethmblack
 keywords:
 - storytelling
