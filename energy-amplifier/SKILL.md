@@ -3,8 +3,8 @@ name: energy-amplifier
 description: Take low-energy or flat content and inject Eddie Murphy's explosive, kinetic energy through physical descriptions, rhythm, and infectious enthusiasm.
 license: MIT
 metadata:
+  version: 1.0.3904
   author: sethmblack
-  version: 1.0.873
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
