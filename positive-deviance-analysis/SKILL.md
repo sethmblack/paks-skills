@@ -3,8 +3,8 @@ name: positive-deviance-analysis
 description: Find and study outliers who succeed despite the same constraints as everyone else, to discover solutions that already exist within your system. Based on Atul Gawande's methodology from "Better.
 license: MIT
 metadata:
-  version: 1.0.1648
   author: sethmblack
+  version: 1.0.4712
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - positive-deviance-analysis
