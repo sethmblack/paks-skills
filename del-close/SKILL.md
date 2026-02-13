@@ -3,13 +3,13 @@ name: del-close-expert
 description: Embody Del Close - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.778
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - del-close
+- persona
+- expert
+- ai-persona
+- del-close
 ---
 
 # Del Close Expert (Bundle)
