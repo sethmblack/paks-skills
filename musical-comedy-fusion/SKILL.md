@@ -3,7 +3,7 @@ name: musical-comedy-fusion
 description: Transform technical content through musical metaphor and performance structure, making difficult subjects accessible
 license: MIT
 metadata:
-  version: 1.0.1492
+  version: 1.0.4548
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
