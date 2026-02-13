@@ -1,10 +1,9 @@
 ---
 name: observational-reframe
-description: Transform political, social, or cultural observations into Trevor Noah-style
-  comedy by applying the outsider's lens to reveal inherent absurdities and contradictions.
+description: Transform political, social, or cultural observations into Trevor Noah-style comedy by applying the outsider's lens to reveal inherent absurdities and contradictions.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1536
   author: sethmblack
 keywords:
 - absurdist
