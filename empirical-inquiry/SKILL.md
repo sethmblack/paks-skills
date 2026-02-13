@@ -3,7 +3,7 @@ name: empirical-inquiry
 description: Trace claimed knowledge back to its origins in sensation or reflection to validate, challenge, or clarify the foundations of beliefs and assertions.
 license: MIT
 metadata:
-  version: 1.0.869
+  version: 1.0.3900
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
