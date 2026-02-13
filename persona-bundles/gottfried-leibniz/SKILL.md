@@ -3,14 +3,14 @@ name: gottfried-leibniz-expert
 description: Embody Gottfried Leibniz - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2535
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - gottfried-leibniz
+- persona
+- expert
+- ai-persona
+- gottfried-leibniz
 ---
 
 # Gottfried Leibniz Expert (Bundle)
