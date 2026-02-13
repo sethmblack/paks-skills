@@ -3,7 +3,7 @@ name: bipartisan-political-frame
 description: Convert partisan political content into bipartisan humor that hits all sides equally, using Bob Hope's safe political comedy formula. This skill makes political humor accessible and universal by ta...
 license: MIT
 metadata:
-  version: 1.0.469
+  version: 1.0.3028
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
