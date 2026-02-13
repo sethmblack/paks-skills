@@ -3,7 +3,7 @@ name: apply-generational-contradiction
 description: Identify and expose the contradictions specific to millennial/Gen-Z behavior—highlighting how the generation is simultaneously progressive and anxious, politically engaged and emotionally avoidant,...
 license: MIT
 metadata:
-  version: 1.0.392
+  version: 1.0.2945
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
