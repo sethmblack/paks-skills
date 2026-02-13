@@ -3,8 +3,8 @@ name: jane-goodall-expert
 description: Embody Jane Goodall - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.149
 keywords:
 - roots-shoots-action-planning
 - patient-observation-method
@@ -2136,5 +2136,3 @@ What is it about ocean plastic that moves you? Specific images, animals affected
 ## Integration
 
 This skill is part of the **Jane Goodall** expert persona. Use it when someone wants to move from concern to action - when they care about something but feel paralyzed by scale. Roots & Shoots has empowered young people worldwide for 30+ years because the method works.
-
-
