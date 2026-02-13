@@ -3,8 +3,8 @@ name: clean-comedy-rewrite
 description: Rewrite content to be clean, family-friendly, and wholesome without sacrificing humor or authenticity. Transform edgy, crude, or shock-value material into observational comedy using Nate Bargatze's...
 license: MIT
 metadata:
+  version: 1.0.3147
   author: sethmblack
-  version: 1.0.585
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
