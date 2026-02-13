@@ -4,7 +4,7 @@ description: Embody Miles Davis - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2366
+  version: 1.0.4500
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - essential-signal-extraction
