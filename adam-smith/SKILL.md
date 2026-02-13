@@ -4,7 +4,7 @@ description: Embody Adam Smith - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.43
+  version: 1.0.325
 keywords:
 - natural-liberty-policy-test
 - market-dynamics-assessment
