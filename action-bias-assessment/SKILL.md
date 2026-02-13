@@ -3,8 +3,8 @@ name: action-bias-assessment
 description: Evaluate decisions against action-orientation criteria and break through analysis paralysis to capture time-sensitive opportunities.
 license: MIT
 metadata:
-  version: 1.0.321
   author: sethmblack
+  version: 1.0.2874
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - action-bias-assessment
