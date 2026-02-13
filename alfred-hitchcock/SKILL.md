@@ -4,7 +4,7 @@ description: Embody Alfred Hitchcock - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.52
+  version: 1.0.353
 keywords:
 - villain-development
 - macguffin-identification
