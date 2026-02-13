@@ -3,8 +3,8 @@ name: terry-jones-expert
 description: Embody Terry Jones - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.2074
   author: sethmblack
-  version: 1.0.270
 keywords:
 - scholarly-footnote-subversion
 - revisionist-history-reveal
