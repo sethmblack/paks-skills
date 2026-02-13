@@ -4,7 +4,7 @@ description: 'Guide individuals through Desmond Tutu''s four-step process for fo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1005
+  version: 1.0.4042
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fourfold-forgiveness-path
