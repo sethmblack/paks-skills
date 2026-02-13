@@ -3,8 +3,8 @@ name: assumption-excavation
 description: Surface and examine the unstated assumptions underlying any position, argument, plan, or belief—bringing hidden premises into the light where they can be scrutinized.
 license: MIT
 metadata:
+  version: 1.0.2956
   author: sethmblack
-  version: 1.0.403
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - assumption-excavation
