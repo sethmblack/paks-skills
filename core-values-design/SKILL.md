@@ -4,7 +4,7 @@ description: Create committable organizational core values through employee inpu
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3229
+  version: 1.0.3689
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - core-values-design
