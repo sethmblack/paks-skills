@@ -3,17 +3,17 @@ name: bob-hope-expert
 description: Embody Bob Hope - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2431
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - topical-monologue-builder
-  - self-deprecation-first-strike
-  - bipartisan-political-frame
-  - persona
-  - expert
-  - ai-persona
-  - bob-hope
+- topical-monologue-builder
+- self-deprecation-first-strike
+- bipartisan-political-frame
+- persona
+- expert
+- ai-persona
+- bob-hope
 ---
 
 # Bob Hope Expert (Bundle)
@@ -1144,4 +1144,3 @@ A successful topical monologue:
 Remember: Bob Hope invented this format. The topical monologue—taking what everyone read this morning and turning it into tonight's opening—was his innovation. You're using the template that became the foundation of late-night comedy.
 
 ---
-
