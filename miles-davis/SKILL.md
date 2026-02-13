@@ -4,7 +4,7 @@ description: Embody Miles Davis - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.203
+  version: 1.0.1446
 keywords:
 - essential-signal-extraction
 - productive-discomfort
