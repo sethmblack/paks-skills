@@ -1,11 +1,9 @@
 ---
 name: physical-comedy-punctuation
-description: Add [physical action] annotations (tie adjustment, eye bulge, brow wipe)
-  between punchlines to create rhythm, timing, and visual reinforcement of Rodney
-  Dangerfield's defeated character.
+description: Add [physical action] annotations (tie adjustment, eye bulge, brow wipe) between punchlines to create rhythm, timing, and visual reinforcement of Rodney Dangerfield's defeated character.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1628
   author: sethmblack
 keywords:
 - absurdist
