@@ -1,12 +1,10 @@
 ---
 name: fluid-space-design
-description: Transform compartmentalized spaces into continuous experiences—applying
-  Zaha Hadid's principles of spatial fluidity where floors become walls, boundaries
-  dissolve, and movement flows uninterrupted....
+description: Transform compartmentalized spaces into continuous experiences—applying Zaha Hadid's principles of spatial fluidity where floors become walls, boundaries dissolve, and movement flows uninterrupted....
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.980
 keywords:
 - compression
 - fluid-space-design
