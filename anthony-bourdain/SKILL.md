@@ -1,11 +1,10 @@
 ---
 name: anthony-bourdain-expert
-description: Embody Anthony Bourdain - AI persona expert with integrated methodology
-  skills
+description: Embody Anthony Bourdain - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.59
 keywords:
 - travel-philosophy-assessment
 - honest-feedback-framework
@@ -1281,5 +1280,3 @@ After any trip, ask:
 ## Integration
 
 This skill is part of the **Anthony Bourdain** expert persona. Use it to approach travel as transformation rather than tourism—to come back changed, not just entertained.
-
-
