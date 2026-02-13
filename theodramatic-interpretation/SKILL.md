@@ -1,11 +1,10 @@
 ---
 name: theodramatic-interpretation
-description: Analyze situations as dramatic performances with given roles, unfolding
-  action, and demanded responses - moving from spectator to participant.
+description: Analyze situations as dramatic performances with given roles, unfolding action, and demanded responses - moving from spectator to participant.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2086
 keywords:
 - theodramatic-interpretation
 - transformation
