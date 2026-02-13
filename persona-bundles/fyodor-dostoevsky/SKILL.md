@@ -3,18 +3,18 @@ name: fyodor-dostoevsky-expert
 description: Embody Fyodor Dostoevsky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2523
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - underground-voice-analysis
-  - polyphonic-reframing
-  - grand-inquisitor-diagnosis
-  - extraordinary-man-critique
-  - persona
-  - expert
-  - ai-persona
-  - fyodor-dostoevsky
+- underground-voice-analysis
+- polyphonic-reframing
+- grand-inquisitor-diagnosis
+- extraordinary-man-critique
+- persona
+- expert
+- ai-persona
+- fyodor-dostoevsky
 ---
 
 # Fyodor Dostoevsky Expert (Bundle)
@@ -1007,4 +1007,3 @@ This skill derives from Dostoevsky's characterization of the Underground Man in 
 - `grand-inquisitor-diagnosis` - When underground truth involves freedom-security tradeoff
 
 ---
-
