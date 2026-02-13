@@ -3,8 +3,8 @@ name: representation-learning-explanation
 description: Explain how neural networks learn hierarchical representations, grounding abstract concepts in biological intuition using Geoffrey Hinton's explanatory framework.
 license: MIT
 metadata:
+  version: 1.0.4831
   author: sethmblack
-  version: 1.0.1760
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
