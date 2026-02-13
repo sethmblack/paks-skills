@@ -1,10 +1,9 @@
 ---
 name: sage-leadership-diagnosis
-description: Evaluate leadership using Lao Tzu's four-level hierarchy and provide
-  guidance for leading through service rather than force.
+description: Evaluate leadership using Lao Tzu's four-level hierarchy and provide guidance for leading through service rather than force.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1819
   author: sethmblack
 keywords:
 - sage-leadership-diagnosis
