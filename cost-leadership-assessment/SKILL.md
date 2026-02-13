@@ -3,8 +3,8 @@ name: cost-leadership-assessment
 description: Systematically identify cost reduction opportunities and efficiency investments using Carnegie's "watch the costs" methodology.
 license: MIT
 metadata:
-  version: 1.0.670
   author: sethmblack
+  version: 1.0.3236
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cost-leadership-assessment
