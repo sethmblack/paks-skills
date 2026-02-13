@@ -3,8 +3,8 @@ name: crisis-to-culture-change
 description: Convert organizational crisis into lasting cultural transformation through radical accountability, communication redesign, and permanent systemic change.
 license: MIT
 metadata:
+  version: 1.0.3724
   author: sethmblack
-  version: 1.0.3264
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - crisis-to-culture-change
