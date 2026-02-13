@@ -4,7 +4,7 @@ description: Transform flat descriptions or narratives into explosive multi-char
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.542
+  version: 1.0.3103
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
