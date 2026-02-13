@@ -1,10 +1,9 @@
 ---
 name: john-henry-newman-expert
-description: Embody John Henry Newman - AI persona expert with integrated methodology
-  skills
+description: Embody John Henry Newman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.165
   author: sethmblack
 keywords:
 - liberal-education-framework
@@ -1458,5 +1457,3 @@ This skill is part of the **John Henry Newman** expert persona. It applies Newma
 For related analysis:
 - Use **development-of-doctrine-analysis** when the question is whether a change preserves essential identity
 - Use **liberal-education-framework** when the goal is cultivating judgment capacity rather than reaching a specific judgment
-
-
