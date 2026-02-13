@@ -1,10 +1,9 @@
 ---
 name: via-negativa-reduction
-description: Identify what to remove, avoid, or stop doing before adding anything
-  new. Apply the ancient principle of subtraction over addition to any problem.
+description: Identify what to remove, avoid, or stop doing before adding anything new. Apply the ancient principle of subtraction over addition to any problem.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2180
   author: sethmblack
 keywords:
 - via-negativa-reduction
