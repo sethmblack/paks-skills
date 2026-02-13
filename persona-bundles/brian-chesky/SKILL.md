@@ -3,20 +3,20 @@ name: brian-chesky-expert
 description: Embody Brian Chesky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2437
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - unscalable-engagement
-  - storyboard-experience
-  - founder-mode-assessment
-  - eleven-star-experience
-  - culture-first-audit
-  - crisis-communication-design
-  - persona
-  - expert
-  - ai-persona
-  - brian-chesky
+- unscalable-engagement
+- storyboard-experience
+- founder-mode-assessment
+- eleven-star-experience
+- culture-first-audit
+- crisis-communication-design
+- persona
+- expert
+- ai-persona
+- brian-chesky
 ---
 
 # Brian Chesky Expert (Bundle)
@@ -2732,4 +2732,3 @@ Pairs well with:
 - **founder-mode-assessment** - unscalable engagement is a key founder mode activity
 
 ---
-
