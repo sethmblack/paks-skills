@@ -3,7 +3,7 @@ name: isaac-newton-expert
 description: Embody Isaac Newton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.143
   author: sethmblack
 keywords:
 - mathematical-modeling-framework
@@ -1875,5 +1875,3 @@ Experimentum crucis design is complete when:
 - [ ] Method to verify intrinsic vs introduced effect is specified
 - [ ] Success criteria are quantitative and unambiguous
 - [ ] Protocol is replicable by others
-
-
