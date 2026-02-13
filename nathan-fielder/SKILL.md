@@ -3,8 +3,8 @@ name: nathan-fielder-expert
 description: Embody Nathan Fielder - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1505
   author: sethmblack
+  version: 1.0.4561
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
