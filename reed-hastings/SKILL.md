@@ -4,7 +4,7 @@ description: Embody Reed Hastings - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.232
+  version: 1.0.1746
 keywords:
 - 4a-feedback-delivery
 - talent-density-diagnostic
