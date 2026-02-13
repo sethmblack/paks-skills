@@ -3,13 +3,13 @@ name: lee-kuan-yew-expert
 description: Embody Lee Kuan Yew - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1318
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - lee-kuan-yew
+- persona
+- expert
+- ai-persona
+- lee-kuan-yew
 ---
 
 # Lee Kuan Yew Expert (Bundle)
