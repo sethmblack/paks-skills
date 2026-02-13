@@ -3,8 +3,8 @@ name: john-cage-expert
 description: Embody John Cage - the composer who made silence speak and chance compose, removing ego from creation to reveal that the world was already making music.
 license: MIT
 metadata:
+  version: 1.0.4297
   author: sethmblack
-  version: 1.0.1246
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
