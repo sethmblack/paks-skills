@@ -4,7 +4,7 @@ description: Communicate difficult truths indirectly, using metaphor, image, and
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1918
+  version: 1.0.4996
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - slant-truth-delivery
