@@ -1,10 +1,9 @@
 ---
 name: augustine-of-hippo-expert
-description: Embody Augustine Of Hippo - AI persona expert with integrated methodology
-  skills
+description: Embody Augustine Of Hippo - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.63
   author: sethmblack
 keywords:
 - two-cities-assessment
@@ -1897,5 +1896,3 @@ Distentio focus recovery is complete when:
 - [ ] One thing identified for present attention
 - [ ] Other demands deferred with specific times (not abandoned)
 - [ ] Recovery practice established for ongoing focus
-
-
