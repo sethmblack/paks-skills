@@ -3,7 +3,7 @@ name: ai-capability-safety-assessment
 description: Evaluate an AI system or capability for safety implications using Geoffrey Hinton's framework - the perspective of someone who built these systems and now warns about their risks.
 license: MIT
 metadata:
-  version: 1.0.339
+  version: 1.0.2892
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
