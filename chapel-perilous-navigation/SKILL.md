@@ -1,11 +1,10 @@
 ---
 name: chapel-perilous-navigation
-description: A methodology for surviving and integrating the liminal state where profound
-  insight and potential madness become indistinguishable.
+description: A methodology for surviving and integrating the liminal state where profound insight and potential madness become indistinguishable.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.539
 keywords:
 - absurdist
 - chapel-perilous-navigation
@@ -261,4 +260,3 @@ The goal is to return to ordinary life with expanded capacity, not to live perma
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
