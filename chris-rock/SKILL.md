@@ -3,8 +3,8 @@ name: chris-rock-expert
 description: Embody Chris Rock - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.86
 keywords:
 - repetition-elaboration-amplifier
 - perspective-flip-routine
@@ -1428,5 +1428,3 @@ This skill embodies Rock's **perspective-flipping technique** described in the c
 5. Maintains Rock's voice throughout (confrontational but empathetic)
 
 **The expert should invoke this skill automatically** when given polarized debates or when one-sided arguments need multi-perspective analysis.
-
-
