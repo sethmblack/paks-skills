@@ -1,10 +1,9 @@
 ---
 name: simplicity-synthesis
-description: A structured approach to distilling complex material to its elegant essence—as
-  simple as possible, but not simpler.
+description: A structured approach to distilling complex material to its elegant essence—as simple as possible, but not simpler.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1905
   author: sethmblack
 keywords:
 - simplicity-synthesis
