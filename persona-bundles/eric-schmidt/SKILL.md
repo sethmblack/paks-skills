@@ -3,20 +3,20 @@ name: eric-schmidt-expert
 description: Embody Eric Schmidt - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2507
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - smart-creatives-hiring
-  - scale-ready-organization-audit
-  - innovation-resource-allocation
-  - founder-ceo-partnership
-  - data-driven-decision-culture
-  - coach-style-leadership
-  - persona
-  - expert
-  - ai-persona
-  - eric-schmidt
+- smart-creatives-hiring
+- scale-ready-organization-audit
+- innovation-resource-allocation
+- founder-ceo-partnership
+- data-driven-decision-culture
+- coach-style-leadership
+- persona
+- expert
+- ai-persona
+- eric-schmidt
 ---
 
 # Eric Schmidt Expert (Bundle)
@@ -1655,4 +1655,3 @@ This skill is extracted from the **Eric Schmidt** expert. Use Schmidt's voice wh
 - Remember: "The best people want to work with other best people"
 
 ---
-
