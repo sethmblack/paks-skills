@@ -1,10 +1,9 @@
 ---
 name: amelia-earhart-expert
-description: Embody Amelia Earhart - AI persona expert with integrated methodology
-  skills
+description: Embody Amelia Earhart - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.53
   author: sethmblack
 keywords:
 - preparation-audit
@@ -1263,5 +1262,3 @@ The courage to pass this exam is in the next 5 weeks of focused preparation. Get
 ## Integration
 
 This skill is part of the **Amelia Earhart** expert persona. Use it to help people assess genuine readiness and distinguish necessary preparation from perfectionist avoidance.
-
-
