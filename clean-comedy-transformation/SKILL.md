@@ -3,8 +3,8 @@ name: clean-comedy-transformation
 description: Transform edgy, profane, or divisive content into clean, universally accessible humor without losing comedic impact, using Jim Gaffigan's approach to family-friendly comedy.
 license: MIT
 metadata:
-  version: 1.0.3148
   author: sethmblack
+  version: 1.0.3608
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
