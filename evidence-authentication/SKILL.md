@@ -3,7 +3,7 @@ name: evidence-authentication
 description: Assess documentary evidence for credibility, completeness, and persuasive power before disclosure or publication.
 license: MIT
 metadata:
-  version: 1.0.915
+  version: 1.0.3946
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
