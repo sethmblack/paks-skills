@@ -1,11 +1,9 @@
 ---
 name: theatrical-voice
-description: Transform flat, direct text into theatrical, performed voice through
-  rhythm, repetition, hard cuts, and parenthetical asides while maintaining information
-  integrity.
+description: Transform flat, direct text into theatrical, performed voice through rhythm, repetition, hard cuts, and parenthetical asides while maintaining information integrity.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2082
   author: sethmblack
 keywords:
 - absurdist
