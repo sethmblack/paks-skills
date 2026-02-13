@@ -3,7 +3,7 @@ name: howard-schultz-expert
 description: Embody Howard Schultz - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.138
+  version: 1.0.1138
   author: sethmblack
 keywords:
 - values-based-transformation
