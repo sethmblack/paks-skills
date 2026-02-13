@@ -3,7 +3,7 @@ name: ludwig-wittgenstein-expert
 description: Embody Ludwig Wittgenstein - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1360
+  version: 1.0.4414
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
