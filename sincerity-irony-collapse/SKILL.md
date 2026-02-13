@@ -3,8 +3,8 @@ name: sincerity-irony-collapse
 description: Apply metamodern emotional oscillation to create content where sincerity and irony exist simultaneously, revealing genuine feeling through ironic forms while preventing audiences from settling into...
 license: MIT
 metadata:
+  version: 1.0.4986
   author: sethmblack
-  version: 1.0.1909
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
