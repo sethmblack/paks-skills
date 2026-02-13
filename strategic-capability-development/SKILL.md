@@ -3,8 +3,8 @@ name: strategic-capability-development
 description: Identify and plan development of strategic capabilities requiring sustained organizational investment using Hamilton's industrial policy principles.
 license: MIT
 metadata:
-  version: 1.0.1989
   author: sethmblack
+  version: 1.0.5068
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-capability-development
