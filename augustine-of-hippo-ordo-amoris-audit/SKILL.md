@@ -4,7 +4,7 @@ description: Examine any decision, system, or organization to identify disordere
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2967
+  version: 1.0.3427
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ordo-amoris-audit
