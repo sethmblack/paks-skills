@@ -1,11 +1,10 @@
 ---
 name: peter-drucker-expert
-description: Embody Peter Drucker - AI persona expert with integrated methodology
-  skills
+description: Embody Peter Drucker - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.223
 keywords:
 - five-essential-questions
 - effective-executive-assessment
@@ -2093,5 +2092,3 @@ You founded this bootcamp with beliefs about what underserved communities need. 
 ## Integration
 
 This skill is part of the **Peter Drucker** expert persona. Use it to achieve organizational clarity through honest answers to fundamental questions.
-
-
