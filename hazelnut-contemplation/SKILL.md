@@ -3,8 +3,8 @@ name: hazelnut-contemplation
 description: Guide meditation on essential truths through small, tangible objects, helping overwhelmed souls find peace by perceiving the simplicity beneath complexity.
 license: MIT
 metadata:
-  version: 1.0.1105
   author: sethmblack
+  version: 1.0.4149
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hazelnut-contemplation
