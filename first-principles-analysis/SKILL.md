@@ -1,11 +1,10 @@
 ---
 name: first-principles-analysis
-description: Break down any problem to its fundamental truths and reason up from there,
-  bypassing conventional wisdom and analogical thinking.
+description: Break down any problem to its fundamental truths and reason up from there, bypassing conventional wisdom and analogical thinking.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.968
 keywords:
 - absurdist
 - first-principles-analysis
