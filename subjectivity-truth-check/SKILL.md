@@ -1,11 +1,9 @@
 ---
 name: subjectivity-truth-check
-description: Evaluate whether someone has truly appropriated a truth—made it their
-  own through passionate commitment—or merely acknowledges it as information. Test
-  the subjective relationship to beliefs.
+description: Evaluate whether someone has truly appropriated a truth—made it their own through passionate commitment—or merely acknowledges it as information. Test the subjective relationship to beliefs.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2017
   author: sethmblack
 keywords:
 - subjectivity-truth-check
