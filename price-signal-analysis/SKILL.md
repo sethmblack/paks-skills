@@ -3,7 +3,7 @@ name: price-signal-analysis
 description: Analyze how prices communicate dispersed information and coordinate behavior without central direction. Diagnose failures when price signals are suppressed or distorted.
 license: MIT
 metadata:
-  version: 1.0.1670
+  version: 1.0.4734
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
