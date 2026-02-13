@@ -1,10 +1,9 @@
 ---
 name: spectrum-of-debate
-description: A skill for identifying how public discourse is bounded to exclude certain
-  positions - the invisible walls that define what's thinkable.
+description: A skill for identifying how public discourse is bounded to exclude certain positions - the invisible walls that define what's thinkable.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1950
   author: sethmblack
 keywords:
 - spectrum-of-debate
