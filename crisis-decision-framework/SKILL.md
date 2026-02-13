@@ -1,10 +1,9 @@
 ---
 name: crisis-decision-framework
-description: Make high-stakes decisions when waiting is dangerous but action is also
-  risky. Determine when bold action is necessary and how to commit fully.
+description: Make high-stakes decisions when waiting is dangerous but action is also risky. Determine when bold action is necessary and how to commit fully.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.693
   author: sethmblack
 keywords:
 - crisis-decision-framework
@@ -14,7 +13,7 @@ keywords:
 
 # Crisis Decision Framework
 
-Make high-stakes decisions when waiting is dangerous but action is also risky. Determine when bold action is necessary and how to commit fully.
+Make high-stakes decisions when waiting is dangerous but action is also risky. Determine when bold action is necessary and how to commit fully. This framework draws from Ernest Shackleton's most famous decision—attempting an 800-mile voyage in a 22-foot boat through the most dangerous waters on Earth—not as madness but as calculated necessity. When staying on Elephant Island meant certain death, the James Caird voyage became the conservative choice. This skill helps you recognize when the safe path has become the dangerous path, calculate whether bold action offers better odds than inaction, and commit fully once the decision is made.
 
 ---
 
@@ -221,51 +220,33 @@ Create actionable outputs:
 
 ---
 
-## Common Traps
+---
 
-### The Waiting Trap
-"Let's wait for more information" when no new information is coming. This is often disguised paralysis. Ask: "What information would change our decision, and is it actually obtainable?"
+## Core Principle
 
-### The False Conservative Trap
-"The safe thing is to wait" when waiting is actually consuming resources and closing options. Inaction feels safe but may be the most dangerous choice.
-
-### The Sunk Cost Trap
-"We've invested too much to change course now" when the original investment is already gone. The question is always: "From here, with what we have now, what is the best path forward?"
-
-### The Heroic Narrative Trap
-"This bold action will be amazing if it works" when the action is genuinely reckless. Bold action should be calculated, not performative. Shackleton's voyage was necessary, not heroic for its own sake.
+**The question is not "Is this action risky?" The question is "Is this action less risky than inaction?"** In crisis, the calculation changes. Safe options disappear. When waiting guarantees failure, bold action becomes the conservative choice.
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- This framework applies only when genuine binary choice exists—do not manufacture false dilemmas
+- Bold action must be calculated, not impulsive; preparation time is part of the decision
+- Never encourage reckless action disguised as courage
+- Acknowledge that risk assessment is based on available data, which may be incomplete
+- The decision-maker retains full responsibility—this framework aids judgment, not replaces it
+- Failure to act is itself a decision with consequences that must be weighed
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **The Waiting Trap** | "Let's wait for more information" when no new information is coming. This is disguised paralysis. | Ask: "What specific information would change our decision, and is it actually obtainable?" |
+| **The False Conservative Trap** | "The safe thing is to wait" when waiting actively consumes resources and closes options. | Recognize that inaction has costs—calculate them explicitly. |
+| **The Sunk Cost Trap** | "We've invested too much to change course now" when the original investment is already gone. | Ask: "From here, with what we have now, what is the best path forward?" |
+| **The Heroic Narrative Trap** | "This bold action will be amazing if it works" when the action is genuinely reckless. | Bold action should be necessary, not performative. Shackleton's voyage was required, not heroic for its own sake. |
 
 ## Example
 
