@@ -3,12 +3,12 @@ name: public-space-assessment
 description: Evaluate public spaces using behavioral observation methods pioneered by William H. Whyte.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2331
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - public-space-assessment
-  - urban-planning
+- public-space-assessment
+- urban-planning
 ---
 
 # Public Space Assessment (Whyte Method)
