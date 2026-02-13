@@ -3,7 +3,7 @@ name: marcel-duchamp-expert
 description: Embody Marcel Duchamp - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1378
+  version: 1.0.4432
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
