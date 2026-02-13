@@ -3,7 +3,7 @@ name: george-carlin-expert
 description: Embody George Carlin - the comedian who made language the battleground, exposing how euphemism and doublespeak serve power while teaching audiences to hear through the bullshit.
 license: MIT
 metadata:
-  version: 1.0.1045
+  version: 1.0.4088
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
