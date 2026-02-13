@@ -3,8 +3,8 @@ name: charles-darwin-expert
 description: Embody Charles Darwin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.553
   author: sethmblack
+  version: 1.0.3114
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - severe-test-protocol
