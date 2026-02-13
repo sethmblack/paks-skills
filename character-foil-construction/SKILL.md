@@ -3,8 +3,8 @@ name: character-foil-construction
 description: Illuminate a person, decision, or option by constructing a deliberate contrast that reveals hidden qualities.
 license: MIT
 metadata:
-  version: 1.0.545
   author: sethmblack
+  version: 1.0.3106
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character-foil-construction
