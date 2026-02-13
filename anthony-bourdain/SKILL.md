@@ -4,7 +4,7 @@ description: Embody Anthony Bourdain - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.59
+  version: 1.0.381
 keywords:
 - travel-philosophy-assessment
 - honest-feedback-framework
