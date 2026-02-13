@@ -3,7 +3,7 @@ name: reality-splice-technique
 description: Combine incompatible contexts, time periods, or worlds without explanation, creating anarchic comedy through collision of realities
 license: MIT
 metadata:
-  version: 1.0.1733
+  version: 1.0.4803
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
