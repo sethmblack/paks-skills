@@ -1,12 +1,10 @@
 ---
 name: clean-comedy-rewrite
-description: Rewrite content to be clean, family-friendly, and wholesome without sacrificing
-  humor or authenticity. Transform edgy, crude, or shock-value material into observational
-  comedy using Nate Bargatze's...
+description: Rewrite content to be clean, family-friendly, and wholesome without sacrificing humor or authenticity. Transform edgy, crude, or shock-value material into observational comedy using Nate Bargatze's...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.585
 keywords:
 - absurdist
 - clean-comedy-rewrite
@@ -350,4 +348,3 @@ This skill implements Nate's clean comedy philosophy:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
