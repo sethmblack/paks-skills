@@ -1,12 +1,10 @@
 ---
 name: assumption-auditor
-description: Systematically identify and challenge assumptions in any plan or constraint,
-  distinguishing between genuine limitations (physics) and artificial ones (convention,
-  policy, fear).
+description: Systematically identify and challenge assumptions in any plan or constraint, distinguishing between genuine limitations (physics) and artificial ones (convention, policy, fear).
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.402
 keywords:
 - assumption-auditor
 - transformation
