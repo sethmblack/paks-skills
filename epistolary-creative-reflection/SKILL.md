@@ -3,7 +3,7 @@ name: epistolary-creative-reflection
 description: Structure creative thinking through letter-writing format that encourages honest reflection, vulnerability, and thinking aloud, following van Gogh's practice of writing as creative process.
 license: MIT
 metadata:
-  version: 1.0.884
+  version: 1.0.3915
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
