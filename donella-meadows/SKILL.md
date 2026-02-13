@@ -3,8 +3,8 @@ name: donella-meadows-expert
 description: Embody Donella Meadows - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.102
   author: sethmblack
+  version: 1.0.826
 keywords:
 - systems-archetype-recognition
 - stock-flow-analysis
