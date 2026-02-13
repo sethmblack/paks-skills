@@ -3,8 +3,8 @@ name: fact-check-expert
 description: Systematically verify factual claims in an expert persona's files, remove unverifiable information, and generate a comprehensive references document with sources.
 license: MIT
 metadata:
-  version: 1.0.940
   author: sethmblack
+  version: 1.0.3971
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fact-check-expert
