@@ -3,7 +3,7 @@ name: maya-angelou-expert
 description: Embody Maya Angelou - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.198
+  version: 1.0.1409
   author: sethmblack
 keywords:
 - truth-telling-with-dignity
