@@ -1,11 +1,10 @@
 ---
 name: personal-demonstration-selling
-description: Convert prospects to customers through direct, tangible experience of
-  your product or service using Estee Lauder's proven 7-step demonstration system.
+description: Convert prospects to customers through direct, tangible experience of your product or service using Estee Lauder's proven 7-step demonstration system.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1607
 keywords:
 - callbacks
 - personal-demonstration-selling
