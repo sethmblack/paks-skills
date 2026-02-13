@@ -1,11 +1,9 @@
 ---
 name: product-market-fit-diagnosis
-description: Diagnose whether a product or startup has achieved product-market fit
-  using Marc Andreessen's framework and prescribe specific next steps based on the
-  diagnosis.
+description: Diagnose whether a product or startup has achieved product-market fit using Marc Andreessen's framework and prescribe specific next steps based on the diagnosis.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1677
   author: sethmblack
 keywords:
 - product-market-fit-diagnosis
