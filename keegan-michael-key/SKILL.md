@@ -3,7 +3,7 @@ name: keegan-michael-key-expert
 description: Embody Keegan Michael Key - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1286
+  version: 1.0.4340
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
