@@ -1,11 +1,9 @@
 ---
 name: mindful-performance-protocol
-description: Introduce mindfulness practices to improve focus, composure, and unity
-  in high-performance contexts, using Phil Jackson's approach to meditation in competitive
-  environments.
+description: Introduce mindfulness practices to improve focus, composure, and unity in high-performance contexts, using Phil Jackson's approach to meditation in competitive environments.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1448
   author: sethmblack
 keywords:
 - mindful-performance-protocol
