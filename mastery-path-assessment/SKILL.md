@@ -3,8 +3,8 @@ name: mastery-path-assessment
 description: Assess current stage on the path to mastery and prescribe appropriate training focus based on where you actually are, not where you wish to be.
 license: MIT
 metadata:
+  version: 1.0.4456
   author: sethmblack
-  version: 1.0.1402
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mastery-path-assessment
