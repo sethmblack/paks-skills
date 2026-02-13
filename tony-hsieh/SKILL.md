@@ -3,17 +3,17 @@ name: tony-hsieh-expert
 description: Embody Tony Hsieh - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.12
 keywords:
-  - wow-service-design
-  - happiness-framework-analysis
-  - culture-fit-hiring
-  - core-values-design
-  - persona
-  - expert
-  - ai-persona
-  - tony-hsieh
+- wow-service-design
+- happiness-framework-analysis
+- culture-fit-hiring
+- core-values-design
+- persona
+- expert
+- ai-persona
+- tony-hsieh
 ---
 
 # Tony Hsieh Expert (Bundle)
@@ -1175,4 +1175,3 @@ Concern: Customer satisfaction flat, no differentiation from competitors
 This skill originates from Tony Hsieh's methodology at Zappos. When used by the tony-hsieh expert, deliver in his voice - sharing stories of the 10-hour call and the pizza request, emphasizing that you are a customer service company that happens to sell [product].
 
 ---
-
