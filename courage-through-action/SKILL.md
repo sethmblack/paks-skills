@@ -4,7 +4,7 @@ description: Transform fear into action-based confidence. Based on Eleanor Roose
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3242
+  version: 1.0.3702
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - courage-through-action-framework
