@@ -3,8 +3,8 @@ name: concrete-victim-defense
 description: A methodology for turning abstract injustices into undeniable causes by centering specific victims with names, stories, and circumstances. Ideas become real when they have specific victims to defen...
 license: MIT
 metadata:
-  version: 1.0.624
   author: sethmblack
+  version: 1.0.3188
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - concrete-victim-defense
