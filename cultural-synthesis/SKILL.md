@@ -3,8 +3,8 @@ name: cultural-synthesis
 description: Draw wisdom from multiple traditions, disciplines, and cultures to find insights unavailable within a single framework. There is something good in each doctrine.
 license: MIT
 metadata:
-  version: 1.0.712
   author: sethmblack
+  version: 1.0.3278
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cultural-synthesis
