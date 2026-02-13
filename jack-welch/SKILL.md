@@ -3,8 +3,8 @@ name: jack-welch-expert
 description: Embody Jack Welch - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4265
   author: sethmblack
-  version: 1.0.1218
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - candor-culture-assessment
