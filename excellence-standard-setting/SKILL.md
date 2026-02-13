@@ -3,8 +3,8 @@ name: excellence-standard-setting
 description: Establish and maintain championship-level standards for yourself and others, including holding people accountable while preserving relationships, using Michael Jordan's demanding leadership methodology.
 license: MIT
 metadata:
-  version: 1.0.917
   author: sethmblack
+  version: 1.0.3948
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - accountability
