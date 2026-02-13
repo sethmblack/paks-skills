@@ -4,7 +4,7 @@ description: Maintain absolute seriousness and dignity while circumstances colla
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.749
+  version: 1.0.3779
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
