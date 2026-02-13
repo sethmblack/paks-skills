@@ -1,12 +1,10 @@
 ---
 name: dark-material-handler
-description: 'Take difficult, dark, or taboo subject matter and address it through
-  Norm Macdonald''s approach: sincere delivery, finding absurdity in darkness, treating
-  uncomfortable topics as ordinary conversati...'
+description: 'Take difficult, dark, or taboo subject matter and address it through Norm Macdonald''s approach: sincere delivery, finding absurdity in darkness, treating uncomfortable topics as ordinary conversati...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.734
 keywords:
 - absurdist
 - callbacks
@@ -295,4 +293,3 @@ This skill provides the framework for handling dark material. The Norm Macdonald
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
