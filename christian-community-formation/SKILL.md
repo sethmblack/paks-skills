@@ -3,7 +3,7 @@ name: christian-community-formation
 description: Guide authentic community or team formation by distinguishing idealized community from real community, establishing relationships mediated through shared purpose, building shared practices, and ena...
 license: MIT
 metadata:
-  version: 1.0.566
+  version: 1.0.3128
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
