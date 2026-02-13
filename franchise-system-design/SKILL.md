@@ -3,7 +3,7 @@ name: franchise-system-design
 description: Transform any successful process, platform, or solution into a replicable system that others can operate independently with consistent results.
 license: MIT
 metadata:
-  version: 1.0.1009
+  version: 1.0.4046
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
