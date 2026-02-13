@@ -4,7 +4,7 @@ description: Map the competitive landscape by identifying strategic groups and a
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.611
+  version: 1.0.3175
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - competitive-position-mapping
