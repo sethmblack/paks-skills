@@ -3,7 +3,7 @@ name: accountability-mapping
 description: Establish clear individual ownership with measurable deliverables for initiatives, eliminating diffuse responsibility.
 license: MIT
 metadata:
-  version: 1.0.317
+  version: 1.0.2870
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
