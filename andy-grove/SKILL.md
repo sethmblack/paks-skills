@@ -3,7 +3,7 @@ name: andy-grove-expert
 description: Embody Andy Grove - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.57
   author: sethmblack
 keywords:
 - 10x-force-analysis
@@ -3647,5 +3647,3 @@ This skill is part of the **Andy Grove** expert persona. Use it when teams or or
 - **high-output-management-audit** for ensuring the organization can execute OKRs
 - **strategic-inflection-point-diagnosis** to ensure OKRs aim at the right strategy
 - **10x-force-analysis** to understand external forces OKRs must address
-
-
