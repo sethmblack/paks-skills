@@ -4,7 +4,7 @@ description: Design and defend a permanent boundary around a community that pres
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2320
+  version: 1.0.4114
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - greenbelt-boundary-design
