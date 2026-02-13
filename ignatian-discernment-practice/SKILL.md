@@ -4,7 +4,7 @@ description: A structured spiritual approach to decision-making based on the 500
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1156
+  version: 1.0.4202
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ignatian-discernment-practice
