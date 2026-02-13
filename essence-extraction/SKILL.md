@@ -3,8 +3,8 @@ name: essence-extraction
 description: 'Strip complexity to find the essential form beneath—the core truth that remains when inessentials are removed. Based on Georgia O''Keeffe''s methodology: "The abstraction is often the most definite form for the intangible thing in myself that I can only clarify in paint."'
 license: MIT
 metadata:
-  version: 1.0.902
   author: sethmblack
+  version: 1.0.3933
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - abstraction
