@@ -1,11 +1,9 @@
 ---
 name: mental-health-specificity
-description: Replace generic mental health terminology with specific brand names,
-  dosages, institutions, therapeutic concepts, and mundane details that normalize
-  mental illness through radical specificity witho...
+description: Replace generic mental health terminology with specific brand names, dosages, institutions, therapeutic concepts, and mundane details that normalize mental illness through radical specificity witho...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1426
   author: sethmblack
 keywords:
 - mental-health-specificity
