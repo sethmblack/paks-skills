@@ -3,8 +3,8 @@ name: persistence-protocol
 description: Transform rejection and failure into fuel for continued effort using Estee Lauder's proven system for turning obstacles into opportunities.
 license: MIT
 metadata:
-  version: 1.0.1604
   author: sethmblack
+  version: 1.0.4663
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persistence-protocol
