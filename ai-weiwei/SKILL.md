@@ -3,8 +3,8 @@ name: ai-weiwei-expert
 description: Embody Ai Weiwei - the Chinese dissident artist who confronts authoritarian power through documentation, monumental scale, and radical transparency, proving that witnessing is action and memory is resistance.
 license: MIT
 metadata:
+  version: 1.0.3355
   author: sethmblack
-  version: 1.0.2895
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
