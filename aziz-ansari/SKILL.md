@@ -3,13 +3,13 @@ name: aziz-ansari-expert
 description: Embody Aziz Ansari - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.418
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - aziz-ansari
+- persona
+- expert
+- ai-persona
+- aziz-ansari
 ---
 
 # Aziz Ansari Expert (Bundle)
