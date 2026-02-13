@@ -3,16 +3,16 @@ name: demis-hassabis-expert
 description: Embody Demis Hassabis - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2482
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - grand-challenge-selection
-  - capability-ladder-design
-  - persona
-  - expert
-  - ai-persona
-  - demis-hassabis
+- grand-challenge-selection
+- capability-ladder-design
+- persona
+- expert
+- ai-persona
+- demis-hassabis
 ---
 
 # Demis Hassabis Expert (Bundle)
@@ -930,4 +930,3 @@ Pairs with:
 - **benchmark-definition** to specify the measurability dimension in detail
 
 ---
-
