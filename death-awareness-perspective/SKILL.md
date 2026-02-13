@@ -3,8 +3,8 @@ name: death-awareness-perspective
 description: Apply the perspective of mortality to strip away pretense and reveal what truly matters in a decision, priority, or life situation, following Leo Tolstoy's insight that only by facing death can we ...
 license: MIT
 metadata:
-  version: 1.0.753
   author: sethmblack
+  version: 1.0.3783
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - death-awareness-perspective
