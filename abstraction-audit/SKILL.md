@@ -1,12 +1,10 @@
 ---
 name: abstraction-audit
-description: Systematically examine abstract general ideas to determine whether they
-  are genuine mental contents or merely words without corresponding ideas. Challenge
-  the speaker to form a concrete image of th...
+description: Systematically examine abstract general ideas to determine whether they are genuine mental contents or merely words without corresponding ideas. Challenge the speaker to form a concrete image of th...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.308
 keywords:
 - abstraction-audit
 - writing
