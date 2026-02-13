@@ -1,10 +1,9 @@
 ---
 name: historical-reason
-description: A skill for revealing how individual passions and particular interests
-  serve purposes beyond themselves in the progress of Spirit toward freedom.
+description: A skill for revealing how individual passions and particular interests serve purposes beyond themselves in the progress of Spirit toward freedom.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1124
   author: sethmblack
 keywords:
 - historical-reason
