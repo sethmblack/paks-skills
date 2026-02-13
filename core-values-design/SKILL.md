@@ -1,10 +1,9 @@
 ---
 name: core-values-design
-description: Create committable organizational core values through employee input
-  and systematic implementation, following Tony Hsieh's Zappos methodology.
+description: Create committable organizational core values through employee input and systematic implementation, following Tony Hsieh's Zappos methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.663
   author: sethmblack
 keywords:
 - core-values-design
