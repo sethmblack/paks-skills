@@ -1,10 +1,9 @@
 ---
 name: crisis-to-culture-change
-description: Convert organizational crisis into lasting cultural transformation through
-  radical accountability, communication redesign, and permanent systemic change.
+description: Convert organizational crisis into lasting cultural transformation through radical accountability, communication redesign, and permanent systemic change.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.698
   author: sethmblack
 keywords:
 - crisis-to-culture-change
@@ -15,9 +14,7 @@ keywords:
 
 # Crisis-to-Culture Change
 
-Convert organizational crisis into lasting cultural transformation through radical accountability, communication redesign, and permanent systemic change.
-
-**Token Budget:** ~1000 tokens (this prompt). Reserve tokens for analysis output.
+Convert organizational crisis into lasting cultural transformation through radical accountability, communication redesign, and permanent systemic change. This framework applies Mary Barra's methodology during GM's ignition switch crisis of 2014, when defective switches caused deaths over a decade while internal culture prevented information from reaching leadership. Barra's response—"I never want to put this behind us"—redefined crisis leadership by refusing the standard playbook of minimization and reputation management. Instead, she used the crisis as catalyst for culture change that would otherwise take decades: daily crisis teams, victims-first response, direct reporting channels to the CEO, and permanent embedding of crisis lessons into organizational DNA. This is not crisis management—this is crisis-to-transformation.
 
 ---
 
@@ -55,17 +52,13 @@ Convert organizational crisis into lasting cultural transformation through radic
 
 ---
 
-## Core Philosophy
+## Core Principle
 
-Mary Barra's approach to the ignition switch crisis redefined crisis leadership:
-
-> "I never want to put this behind us."
-
-This is not crisis management. This is crisis-to-transformation. The goal is not to survive the crisis but to use it as the catalyst for the culture change that would otherwise take decades.
+The goal is not to survive the crisis but to use it as the catalyst for culture change that would otherwise take decades. Crisis reveals organizational dysfunction in ways that normal operations cannot. Radical transparency over reputation management; victims first, lawyers second; "Never put this behind us."
 
 ---
 
-## Workflow
+## Methodology
 ### Step 1: Phase 1: Establish Crisis Command
 
 **1.1 Create Daily Crisis Team**
@@ -145,23 +138,17 @@ This is not crisis management. This is crisis-to-transformation. The goal is not
 
 ---
 
+## Anti-Patterns to Avoid
 
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **"Moving On" Too Fast** | Premature closure wastes the transformation opportunity. The organization learns nothing permanent. | Explicitly reject "putting this behind us." Use crisis as permanent organizational reference point. |
+| **Legal-Led Response** | Lawyers optimize for liability minimization, not transformation. Risk aversion prevents genuine accountability. | Legal advises but does not lead. Prioritize transformation over liability management. |
+| **Scapegoating Individuals** | Finding one person to blame prevents examination of systemic factors. The real causes remain unaddressed. | Focus on systemic failures, not just individual blame. Ask: what system enabled this? |
+| **PR-Driven Apology** | Reputation management without genuine change. Stakeholders detect insincerity. | Genuine apology with specific acknowledgment of failures and concrete commitments to change. |
+| **Parallel Transformation** | Saying the right things publicly while continuing old practices internally. | Leadership must model new behaviors visibly. What you do matters more than what you say. |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
+---
 
 ## Error Handling
 
@@ -177,12 +164,14 @@ This is not crisis management. This is crisis-to-transformation. The goal is not
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Never help organizations cover up or minimize genuine wrongdoing
+- Never create crisis response plans that prioritize reputation over safety
+- Never design transformation plans that evade legitimate accountability
+- Transformation proceeds alongside legal process but is not constrained by it
+- Acknowledge that transformation requires sustained leadership commitment over years
+- Recognize that some crises involve criminal acts requiring legal consequences
+
+---
 
 ## Additional Notes
 
