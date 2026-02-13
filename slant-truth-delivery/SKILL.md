@@ -1,11 +1,10 @@
 ---
 name: slant-truth-delivery
-description: Communicate difficult truths indirectly, using metaphor, image, and circumlocution
-  to allow the listener to arrive at understanding without being overwhelmed or blinded.
+description: Communicate difficult truths indirectly, using metaphor, image, and circumlocution to allow the listener to arrive at understanding without being overwhelmed or blinded.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1918
 keywords:
 - slant-truth-delivery
 - storytelling
