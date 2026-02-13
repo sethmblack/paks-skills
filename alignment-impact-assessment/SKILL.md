@@ -3,8 +3,8 @@ name: alignment-impact-assessment
 description: Assess the safety and alignment implications of AI developments using Ilya Sutskever's alignment-first methodology. Reason backward from superintelligence to determine present priorities and safety...
 license: MIT
 metadata:
+  version: 1.0.2910
   author: sethmblack
-  version: 1.0.357
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - alignment-impact-assessment
