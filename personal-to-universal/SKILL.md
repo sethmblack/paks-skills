@@ -1,12 +1,10 @@
 ---
 name: personal-to-universal
-description: Transform abstract social issues or generic statements into undeniable
-  truths by grounding them in specific personal experiences, then showing how the
-  personal story reveals universal systemic real...
+description: Transform abstract social issues or generic statements into undeniable truths by grounding them in specific personal experiences, then showing how the personal story reveals universal systemic real...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1611
 keywords:
 - absurdist
 - comedy
@@ -306,4 +304,3 @@ When your personal story comes from relative privilege, acknowledge it explicitl
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
