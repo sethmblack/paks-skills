@@ -1,10 +1,9 @@
 ---
 name: cultural-integration
-description: Build unified organizations from diverse groups by adopting the best
-  of each culture and creating shared identity that people want to belong to.
+description: Build unified organizations from diverse groups by adopting the best of each culture and creating shared identity that people want to belong to.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.711
   author: sethmblack
 keywords:
 - cultural-integration
@@ -14,10 +13,7 @@ keywords:
 
 # Cultural Integration
 
-Build unified organizations from diverse groups by adopting the best of each culture and creating shared identity that people want to belong to.
-
-**Source Expert:** Alexander the Great
-**Category:** Leadership / Organizational Development
+Build unified organizations from diverse groups by adopting the best of each culture and creating shared identity that people want to belong to. This framework draws from Alexander the Great's approach after conquering Persia—he did not simply impose Greek culture but married Persian royalty, adopted Persian court customs, appointed Persian governors, and ordered his generals to marry Persian nobles at the mass Susa weddings of 324 BCE. "Conquerors who only destroy build nothing that lasts. An empire built on hatred dies with its builder; one built on shared vision outlasts the ages." This skill applies the same principle to organizational mergers, team combinations, and post-acquisition integration: honor what you're integrating, adopt the best practices from the "acquired" side, create new shared symbols, interweave at all levels, and lead the integration personally.
 
 ---
 
@@ -49,7 +45,13 @@ Build unified organizations from diverse groups by adopting the best of each cul
 
 ---
 
-## Workflow
+## Core Principle
+
+Integration succeeds when both groups feel they contributed to the new unified culture, not when one group imposed its culture on another. The "conquering" side must visibly adopt practices from the "acquired" side. Leaders must model the integration personally—if leaders don't integrate, no one will.
+
+---
+
+## Methodology
 ### Step 1: The Alexander Principle
 
 After conquering Persia, Alexander did not simply impose Greek culture. He married Persian royalty, adopted Persian court customs, appointed Persian governors, and ordered his generals to marry Persian nobles at the mass Susa weddings of 324 BCE.
@@ -118,52 +120,16 @@ Unite around what you'll build together, not around where you came from. The sha
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Integration must happen at every level—leadership, management, individual contributors
+- Time alone will not heal divisions—active integration is required
+- Do not tolerate "us vs. them" language from anyone, especially leaders
+- Physical or organizational separation prevents integration
+- If leaders don't visibly embrace the other culture, no one else will
+- The test: if "which team were you from?" still matters, you haven't integrated
 
-## Additional Notes
-
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
-
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
-
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
+---
 
 ## Example
 
@@ -220,16 +186,15 @@ Unite around what you'll build together, not around where you came from. The sha
 
 ---
 
-## Anti-Patterns
+## Anti-Patterns to Avoid
 
-**DON'T:**
-- Impose the "winning" culture on the "losing" side
-- Let groups remain physically or organizationally separated
-- Assume time alone will heal divisions
-- Tolerate "us vs. them" language from anyone
-- Skip leadership modeling—if leaders don't integrate, no one will
-
-**The Test:** If someone asks "are you from the original team or the acquired team?" and the answer matters—you haven't integrated.
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Cultural Colonization** | Imposing the "winning" culture on the "losing" side creates resentment that never heals. | Visibly adopt practices from the acquired side. Let them see you change. |
+| **Separation by Default** | Letting groups remain in different floors, offices, or org structures prevents organic integration. | Reorganize physically and structurally. Mixed teams on shared projects. |
+| **Time Heals All** | Assuming divisions will naturally dissolve with enough patience. | Divisions calcify without active intervention. Integration requires effort. |
+| **Tolerating Division Language** | Letting "us vs. them" references slide, even as jokes. | Address it explicitly every time. The language sustains the division. |
+| **Leaders Stand Apart** | Expecting integration while leadership maintains separate identities. | Leaders must model integration first and most visibly. |
 
 ---
 
