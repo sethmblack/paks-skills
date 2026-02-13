@@ -4,7 +4,7 @@ description: Act on deep inner conviction when external validation is absent, ev
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.661
+  version: 1.0.3227
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - conviction-under-doubt
