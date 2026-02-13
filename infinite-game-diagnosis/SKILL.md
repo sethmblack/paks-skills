@@ -3,8 +3,8 @@ name: infinite-game-diagnosis
 description: Diagnose whether an individual or organization is applying finite thinking to an infinite game and recommend mindset shifts for long-term success.
 license: MIT
 metadata:
+  version: 1.0.4226
   author: sethmblack
-  version: 1.0.1179
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - infinite-game-diagnosis
