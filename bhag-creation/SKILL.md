@@ -1,12 +1,10 @@
 ---
 name: bhag-creation
-description: Create compelling Big Hairy Audacious Goals (BHAGs) - bold 10-25 year
-  goals that serve as unifying focal points and catalysts for team spirit, with clear
-  finish lines and energizing power.
+description: Create compelling Big Hairy Audacious Goals (BHAGs) - bold 10-25 year goals that serve as unifying focal points and catalysts for team spirit, with clear finish lines and energizing power.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.455
 keywords:
 - absurdist
 - bhag-creation
