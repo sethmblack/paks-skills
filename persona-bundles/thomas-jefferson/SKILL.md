@@ -3,17 +3,17 @@ name: thomas-jefferson-expert
 description: Embody Thomas Jefferson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2814
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - jeffersonian-first-principles
-  - educational-architecture
-  - declaration-drafting
-  - persona
-  - expert
-  - ai-persona
-  - thomas-jefferson
+- jeffersonian-first-principles
+- educational-architecture
+- declaration-drafting
+- persona
+- expert
+- ai-persona
+- thomas-jefferson
 ---
 
 # Thomas Jefferson Expert (Bundle)
@@ -1115,4 +1115,3 @@ Analysis is complete when:
 - [ ] Alternatives suggested if action is unjustified
 
 ---
-
