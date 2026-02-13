@@ -3,7 +3,7 @@ name: economic-analysis-social-issues
 description: Trace social problems to their economic roots by following the money to identify who benefits from maintaining the status quo. Reveal how seemingly moral, cultural, or political issues are sustaine...
 license: MIT
 metadata:
-  version: 1.0.840
+  version: 1.0.3870
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
