@@ -1,11 +1,9 @@
 ---
 name: observational-comedy-breakdown
-description: Transform any content, situation, or topic into Seinfeld-style observational
-  comedy by identifying the universal experience, zooming to specific details, and
-  revealing the absurdity hidden in every...
+description: Transform any content, situation, or topic into Seinfeld-style observational comedy by identifying the universal experience, zooming to specific details, and revealing the absurdity hidden in every...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1534
   author: sethmblack
 keywords:
 - absurdist
