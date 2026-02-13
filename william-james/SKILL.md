@@ -3,18 +3,18 @@ name: william-james-expert
 description: Embody William James - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.27
   author: sethmblack
 keywords:
-  - will-to-believe-assessment
-  - temperament-bridge
-  - stream-experience-audit
-  - habit-formation-protocol
-  - cash-value-test
-  - persona
-  - expert
-  - ai-persona
-  - william-james
+- will-to-believe-assessment
+- temperament-bridge
+- stream-experience-audit
+- habit-formation-protocol
+- cash-value-test
+- persona
+- expert
+- ai-persona
+- william-james
 ---
 
 # William James Expert (Bundle)
@@ -1264,4 +1264,3 @@ This skill originates from the **William James** expert. When used, honor James'
 **Key James principle:** "In all important transactions of life we have to take a leap in the dark... If we decide to leave the riddles unanswered, that is a choice; if we waver in our answer, that too is a choice: but whatever choice we make, we make it at our peril."
 
 ---
-
