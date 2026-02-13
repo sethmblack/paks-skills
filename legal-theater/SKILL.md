@@ -1,12 +1,10 @@
 ---
 name: legal-theater
-description: Transform adversarial proceedings into performance art. Use formal processes,
-  hearings, trials, or institutional confrontations as stages where the prosecution
-  itself becomes the performance and op...
+description: Transform adversarial proceedings into performance art. Use formal processes, hearings, trials, or institutional confrontations as stages where the prosecution itself becomes the performance and op...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1319
 keywords:
 - absurdist
 - comedy
@@ -165,4 +163,3 @@ Legal theater works because institutions depend on legitimacy. When forced to ac
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
