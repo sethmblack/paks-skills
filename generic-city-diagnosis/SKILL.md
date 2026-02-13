@@ -3,12 +3,12 @@ name: generic-city-diagnosis
 description: Analyze urban homogenization, loss of identity, and global convergence as potentially productive conditions rather than problems to lament.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2319
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - generic-city-diagnosis
-  - urban-planning
+- generic-city-diagnosis
+- urban-planning
 ---
 
 # Generic City Diagnosis
