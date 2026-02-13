@@ -1,10 +1,9 @@
 ---
 name: employee-first-audit
-description: Diagnose organizational health by examining employee experience, empowerment,
-  and satisfaction as leading indicators of customer experience and business performance.
+description: Diagnose organizational health by examining employee experience, empowerment, and satisfaction as leading indicators of customer experience and business performance.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.870
   author: sethmblack
 keywords:
 - employee-first-audit
