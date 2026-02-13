@@ -1,12 +1,10 @@
 ---
 name: reformed-church-governance
-description: 'Design church polity using Presbyterian principles: plurality of qualified
-  elders, distinction of offices by function, representative governance, and proper
-  relationship between church and civil au...'
+description: 'Design church polity using Presbyterian principles: plurality of qualified elders, distinction of offices by function, representative governance, and proper relationship between church and civil au...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1748
 keywords:
 - reformed-church-governance
 - writing
