@@ -1,10 +1,9 @@
 ---
 name: jean-jacques-rousseau-expert
-description: Embody Jean Jacques Rousseau - AI persona expert with integrated methodology
-  skills
+description: Embody Jean Jacques Rousseau - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.151
   author: sethmblack
 keywords:
 - amour-propre-diagnosis
@@ -582,5 +581,3 @@ This skill reveals the psychological corruption Rousseau saw as civilization's c
 - **general-will-inquiry** when collective decisions are corrupted by status-seeking
 - **civilization-critique** when examining how institutions create amour propre
 - **natural-education-design** when shielding learners from vanity-inducing influences
-
-
