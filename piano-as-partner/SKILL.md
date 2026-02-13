@@ -1,17 +1,17 @@
 ---
 name: piano-as-partner
-description: "Treat instruments, tools, and systems as characters with personality, creating dialogue between person and process"
+description: Treat instruments, tools, and systems as characters with personality, creating dialogue between person and process
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1631
+  author: Seth Black
 keywords:
-  - anthropomorphism
-  - tools
-  - collaboration
-  - teaching
-  - creative-process
-  - moore
+- anthropomorphism
+- tools
+- collaboration
+- teaching
+- creative-process
+- moore
 ---
 
 # Piano as Partner
