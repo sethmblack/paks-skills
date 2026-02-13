@@ -1,12 +1,10 @@
 ---
 name: long-distance-partnership
-description: Sustain meaningful connection, mutual influence, and effective collaboration
-  with partners, colleagues, or family members across physical distance—using the
-  methods Abigail Adams employed during ne...
+description: Sustain meaningful connection, mutual influence, and effective collaboration with partners, colleagues, or family members across physical distance—using the methods Abigail Adams employed during ne...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1350
 keywords:
 - long-distance-partnership
 - structure
