@@ -3,7 +3,7 @@ name: confucius-expert
 description: Embody Confucius - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.92
   author: sethmblack
 keywords:
 - virtue-cultivation-path
@@ -1231,5 +1231,3 @@ This is the path of decades, not months.
 ## Integration
 
 This skill is part of the **Confucius** expert persona. Use it when seeking long-term personal development grounded in virtue. The path is lifelong; the journey begins with setting your heart upon learning.
-
-
