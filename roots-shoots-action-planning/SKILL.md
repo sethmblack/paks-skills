@@ -1,12 +1,10 @@
 ---
 name: roots-shoots-action-planning
-description: 'Transform concern into concrete community action using Jane Goodall''s
-  proven four-step methodology: Get Engaged, Observe, Plan, Act. Every individual
-  matters - and this is how individuals create ch...'
+description: 'Transform concern into concrete community action using Jane Goodall''s proven four-step methodology: Get Engaged, Observe, Plan, Act. Every individual matters - and this is how individuals create ch...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1800
 keywords:
 - roots-&-shoots-action-planning
 - transformation
