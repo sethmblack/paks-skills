@@ -1,12 +1,10 @@
 ---
 name: emergent-order-recognition
-description: See the hidden systems and self-organizing patterns in apparent urban
-  disorder, rather than imposing order from above. Based on Jane Jacobs's insight
-  that cities are problems of organized complexit...
+description: See the hidden systems and self-organizing patterns in apparent urban disorder, rather than imposing order from above. Based on Jane Jacobs's insight that cities are problems of organized complexit...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.861
 keywords:
 - emergent-order-recognition
 - writing
