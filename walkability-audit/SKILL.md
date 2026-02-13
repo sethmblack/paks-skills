@@ -1,6 +1,6 @@
 ---
 name: walkability-audit
-description: Systematically evaluate any place against Jeff Speck's General Theory of Walkability: for a walk to be favored, it must be useful, safe, comfortable, and interesting.
+description: "Systematically evaluate any place against Jeff Speck's General Theory of Walkability - for a walk to be favored, it must be useful, safe, comfortable, and interesting."
 license: MIT
 metadata:
   version: 1.0.0
