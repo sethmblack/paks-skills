@@ -1,10 +1,9 @@
 ---
 name: rosalind-franklin-expert
-description: Embody Rosalind Franklin - AI persona expert with integrated methodology
-  skills
+description: Embody Rosalind Franklin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.245
   author: sethmblack
 keywords:
 - variable-control-analysis
@@ -1072,5 +1071,3 @@ This skill is part of the **Rosalind Franklin** expert persona. Use it when resu
 - **experimental-design-framework** for setting up controlled experiments from the start
 - **data-first-analysis** for interpreting results once variables are controlled
 - **precision-measurement-protocol** for establishing consistent measurement practices
-
-
