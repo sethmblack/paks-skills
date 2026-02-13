@@ -3,17 +3,17 @@ name: phyllis-diller-expert
 description: Embody Phyllis Diller - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2720
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - strategic-incompetence-frame
-  - rapid-fire-one-liner-builder
-  - fictional-target-creator
-  - persona
-  - expert
-  - ai-persona
-  - phyllis-diller
+- strategic-incompetence-frame
+- rapid-fire-one-liner-builder
+- fictional-target-creator
+- persona
+- expert
+- ai-persona
+- phyllis-diller
 ---
 
 # Phyllis Diller Expert (Bundle)
@@ -1138,4 +1138,3 @@ This framework works for any arbitrary societal expectation:
 The technique translates across contexts because unrealistic expectations are universal. The specifics change (1950s housewife → 2020s Instagram influencer), but the method remains the same: fail spectacularly, make it visual, laugh, give permission.
 
 ---
-
