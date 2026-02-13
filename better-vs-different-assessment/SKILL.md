@@ -3,8 +3,8 @@ name: better-vs-different-assessment
 description: Evaluate proposed changes to creative work to distinguish genuine improvements from lateral moves.
 license: MIT
 metadata:
+  version: 1.0.3010
   author: sethmblack
-  version: 1.0.452
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - better-vs.-different-assessment
