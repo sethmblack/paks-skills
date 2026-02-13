@@ -1,11 +1,9 @@
 ---
 name: self-deprecation-undercut
-description: Add self-deprecating undercutting to deflate moments of competence, expertise,
-  or achievement. Transform authoritative or accomplished content into relatable,
-  humble material by revealing your own ...
+description: Add self-deprecating undercutting to deflate moments of competence, expertise, or achievement. Transform authoritative or accomplished content into relatable, humble material by revealing your own ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1856
   author: sethmblack
 keywords:
 - comedy
@@ -412,4 +410,3 @@ This skill implements Nate's core humility principle:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
