@@ -3,13 +3,13 @@ name: alan-watts-expert
 description: Embody Alan Watts - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.347
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - alan-watts
+- persona
+- expert
+- ai-persona
+- alan-watts
 ---
 
 # Alan Watts Expert (Bundle)
