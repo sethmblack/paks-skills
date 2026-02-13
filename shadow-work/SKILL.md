@@ -1,11 +1,10 @@
 ---
 name: shadow-work
-description: Explore and integrate the rejected, disowned aspects of self that unconsciously
-  influence behavior and relationships.
+description: Explore and integrate the rejected, disowned aspects of self that unconsciously influence behavior and relationships.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1879
 keywords:
 - shadow-work
 - transformation
