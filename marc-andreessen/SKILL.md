@@ -1,11 +1,10 @@
 ---
 name: marc-andreessen-expert
-description: Embody Marc Andreessen - AI persona expert with integrated methodology
-  skills
+description: Embody Marc Andreessen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.188
 keywords:
 - tech-optimism-reframe
 - tam-expansion-analysis
@@ -2921,5 +2920,3 @@ Related skills:
 - `software-disruption-analysis` - For understanding platform dynamics
 - `product-market-fit-diagnosis` - For evaluating execution
 - `tam-expansion-analysis` - For market sizing if product potential
-
-
