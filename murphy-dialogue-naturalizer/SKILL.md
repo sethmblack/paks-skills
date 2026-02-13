@@ -3,8 +3,8 @@ name: murphy-dialogue-naturalizer
 description: Transform written, formal, or stilted dialogue into authentic, flowing conversation that sounds like real people talking.
 license: MIT
 metadata:
-  version: 1.0.1491
   author: sethmblack
+  version: 1.0.4547
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
