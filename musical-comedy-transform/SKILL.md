@@ -3,8 +3,8 @@ name: musical-comedy-transform
 description: Add musical elements (rhythm, rhyme, melodic structure) to prose content, transforming it into song-worthy or rhythmically engaging material in the Eric Idle musical comedy tradition.
 license: MIT
 metadata:
-  version: 1.0.1493
   author: sethmblack
+  version: 1.0.4549
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
