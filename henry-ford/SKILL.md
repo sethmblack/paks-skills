@@ -3,7 +3,7 @@ name: henry-ford-expert
 description: Embody Henry Ford - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1109
+  version: 1.0.4154
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
