@@ -4,7 +4,7 @@ description: Multi-level trade analysis covering assets, narrative, gambling imp
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.1960
+  version: 1.0.5039
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sports
