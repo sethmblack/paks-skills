@@ -1,11 +1,9 @@
 ---
 name: data-first-analysis
-description: Analyze evidence with crystallographic precision, distinguishing what
-  is demonstrated from what is speculated. Let the data lead rather than confirming
-  preconceptions.
+description: Analyze evidence with crystallographic precision, distinguishing what is demonstrated from what is speculated. Let the data lead rather than confirming preconceptions.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.739
   author: sethmblack
 keywords:
 - data-first-analysis
