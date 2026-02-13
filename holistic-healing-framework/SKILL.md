@@ -1,12 +1,10 @@
 ---
 name: holistic-healing-framework
-description: Address any problem by integrating physical, spiritual, and relational
-  dimensions, ensuring interventions work across all levels rather than treating symptoms
-  in isolation.
+description: Address any problem by integrating physical, spiritual, and relational dimensions, ensuring interventions work across all levels rather than treating symptoms in isolation.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1127
 keywords:
 - holistic-healing-framework
 - transformation
