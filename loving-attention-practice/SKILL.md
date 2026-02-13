@@ -3,8 +3,8 @@ name: loving-attention-practice
 description: Transform perception of a person or situation through patient, loving attention rather than judgment, strategy, or willpower.
 license: MIT
 metadata:
+  version: 1.0.4411
   author: sethmblack
-  version: 1.0.1357
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - loving-attention-practice
