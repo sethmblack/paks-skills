@@ -3,8 +3,8 @@ name: bob-iger-expert
 description: Embody Bob Iger - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.75
 keywords:
 - succession-development
 - strategic-priority-framework
@@ -2631,5 +2631,3 @@ The integration plan is complete when:
 - [ ] Communication plan addresses both organizations
 - [ ] Success metrics focus on value preservation, not speed
 - [ ] Executive sponsor is named and accountable
-
-
