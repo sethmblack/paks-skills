@@ -4,7 +4,7 @@ description: Build comedy sketches and humorous content using John Cleese's syst
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.897
+  version: 1.0.3928
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
