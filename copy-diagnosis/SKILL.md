@@ -3,7 +3,7 @@ name: copy-diagnosis
 description: Evaluate marketing copy against Ogilvy's principles to identify what's working, what's failing, and how to make it sell.
 license: MIT
 metadata:
-  version: 1.0.3228
+  version: 1.0.3688
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
