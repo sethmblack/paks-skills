@@ -4,7 +4,7 @@ description: Embody Conan Obrien - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.619
+  version: 1.0.3183
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - pivot-to-genuine
