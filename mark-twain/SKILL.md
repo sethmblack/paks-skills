@@ -3,8 +3,8 @@ name: mark-twain-expert
 description: Embody Mark Twain - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.191
 keywords:
 - hypocrisy-detection
 - show-dont-tell-conversion
@@ -981,5 +981,3 @@ The companies that sold us collaboration software and promised the future of wor
 ## Integration
 
 This skill is part of the **Mark Twain** expert persona. Use it when you need to understand what's really happening behind public statements, when preparing critique or satire, or when something feels wrong but you can't articulate why.
-
-
