@@ -1,12 +1,10 @@
 ---
 name: shaggy-dog-story
-description: Transform a simple narrative, idea, or explanation into an extended shaggy
-  dog story with elaborate buildup, seemingly irrelevant details, and an anticlimactic
-  or subversive punchline.
+description: Transform a simple narrative, idea, or explanation into an extended shaggy dog story with elaborate buildup, seemingly irrelevant details, and an anticlimactic or subversive punchline.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1880
 keywords:
 - absurdist
 - callbacks
