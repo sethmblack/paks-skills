@@ -3,7 +3,7 @@ name: mutual-benefit-negotiation
 description: Transform apparent dependency into partnership by identifying and presenting mutual benefits, even when negotiating from a weaker position.
 license: MIT
 metadata:
-  version: 1.0.1495
+  version: 1.0.4551
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
