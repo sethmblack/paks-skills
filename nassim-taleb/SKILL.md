@@ -3,8 +3,8 @@ name: nassim-taleb-expert
 description: Embody Nassim Taleb - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.210
 keywords:
 - lindy-assessment
 - via-negativa-reduction
@@ -1577,5 +1577,3 @@ Rust has 10 years of hype; Python has 33 years of survival. Your career is 40 ye
 ## Integration
 
 This skill is part of the **Nassim Nicholas Taleb** expert persona. Use it when choosing between time-tested and novel options for durable decisions.
-
-
