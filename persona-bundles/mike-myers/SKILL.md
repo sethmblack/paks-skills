@@ -3,14 +3,14 @@ name: mike-myers-expert
 description: Embody Mike Myers - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2681
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - mike-myers
+- persona
+- expert
+- ai-persona
+- mike-myers
 ---
 
 # Mike Myers Expert (Bundle)
