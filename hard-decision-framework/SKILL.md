@@ -3,8 +3,8 @@ name: hard-decision-framework
 description: Provide a framework for making and executing difficult people decisions that leaders typically avoid - firing, demoting, and addressing underperformance.
 license: MIT
 metadata:
+  version: 1.0.4139
   author: sethmblack
-  version: 1.0.1095
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hard-decision-framework
