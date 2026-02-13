@@ -3,14 +3,14 @@ name: catherine-ohara-expert
 description: Embody Catherine Ohara - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2447
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - catherine-ohara
+- persona
+- expert
+- ai-persona
+- catherine-ohara
 ---
 
 # Catherine Ohara Expert (Bundle)
