@@ -1,12 +1,10 @@
 ---
 name: operational-excellence-culture
-description: Build organizational culture where operations is valued as strategic
-  capability, with executive-level attention to metrics, supplier relationships, and
-  execution.
+description: Build organizational culture where operations is valued as strategic capability, with executive-level attention to metrics, supplier relationships, and execution.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1556
 keywords:
 - operational-excellence-culture
 - transformation
