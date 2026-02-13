@@ -1,10 +1,9 @@
 ---
 name: mental-toughness-reset
-description: Reset your mental state during high-pressure moments when emotions threaten
-  to derail your performance.
+description: Reset your mental state during high-pressure moments when emotions threaten to derail your performance.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1428
   author: sethmblack
 keywords:
 - mental-toughness-reset
