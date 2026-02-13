@@ -3,8 +3,8 @@ name: documentation-as-resistance
 description: A skill for compiling what power wants hidden into undeniable records that resist erasure and enable accountability.
 license: MIT
 metadata:
-  version: 1.0.822
   author: sethmblack
+  version: 1.0.3852
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - documentation-as-resistance
