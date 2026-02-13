@@ -3,13 +3,13 @@ name: william-whyte-expert
 description: Embody William H. Whyte - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2364
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - william-whyte
+- persona
+- expert
+- ai-persona
+- william-whyte
 ---
 
 # William H. Whyte Expert (Bundle)
