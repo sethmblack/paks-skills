@@ -3,7 +3,7 @@ name: joan-rivers-expert
 description: Embody Joan Rivers - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.158
+  version: 1.0.1239
   author: sethmblack
 keywords:
 - visual-specificity-roast
