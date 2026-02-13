@@ -4,7 +4,7 @@ description: 'Assess organizational or financial resilience across the four pill
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.990
+  version: 1.0.4027
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fortress-balance-sheet-audit
