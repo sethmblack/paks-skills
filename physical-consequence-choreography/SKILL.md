@@ -3,8 +3,8 @@ name: physical-consequence-choreography
 description: Construct precise physical comedy where each action triggers inevitable consequences - architecturally designed sequences revealing character
 license: MIT
 metadata:
-  version: 1.0.1629
   author: Seth Black
+  version: 1.0.4688
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - physical-comedy
