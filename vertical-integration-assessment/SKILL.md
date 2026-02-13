@@ -1,10 +1,9 @@
 ---
 name: vertical-integration-assessment
-description: Analyze dependencies in a system or business and recommend integration
-  strategies to reduce vulnerability, cost, and loss of control.
+description: Analyze dependencies in a system or business and recommend integration strategies to reduce vulnerability, cost, and loss of control.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2179
   author: sethmblack
 keywords:
 - vertical-integration-assessment
