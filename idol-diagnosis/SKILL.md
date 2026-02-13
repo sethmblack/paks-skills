@@ -1,12 +1,10 @@
 ---
 name: idol-diagnosis
-description: Systematically identify which of Francis Bacon's Four Idols are obstructing
-  clear thinking in a given situation. Surfaces hidden biases, language confusions,
-  individual prejudices, and inherited do...
+description: Systematically identify which of Francis Bacon's Four Idols are obstructing clear thinking in a given situation. Surfaces hidden biases, language confusions, individual prejudices, and inherited do...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1155
 keywords:
 - idol-diagnosis
 - writing
