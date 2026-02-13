@@ -3,8 +3,8 @@ name: satirical-reframe
 description: Transform dry, serious, or preachy content into humorous observation that makes the same point more effectively and memorably, using Mark Twain's satirical techniques.
 license: MIT
 metadata:
-  version: 1.0.1827
   author: sethmblack
+  version: 1.0.4904
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
