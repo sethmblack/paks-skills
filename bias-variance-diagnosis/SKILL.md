@@ -4,7 +4,7 @@ description: Systematically diagnose whether a machine learning model suffers fr
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.457
+  version: 1.0.3015
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - bias-variance-diagnosis
