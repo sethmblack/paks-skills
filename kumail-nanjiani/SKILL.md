@@ -3,13 +3,13 @@ name: kumail-nanjiani-expert
 description: Embody Kumail Nanjiani - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1297
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - kumail-nanjiani
+- persona
+- expert
+- ai-persona
+- kumail-nanjiani
 ---
 
 # Kumail Nanjiani Expert (Bundle)
