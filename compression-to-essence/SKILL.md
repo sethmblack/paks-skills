@@ -3,8 +3,8 @@ name: compression-to-essence
 description: Strip any text to its essential meaning by removing unnecessary words while preserving — and intensifying — core impact. Maximum meaning per word.
 license: MIT
 metadata:
+  version: 1.0.3641
   author: sethmblack
-  version: 1.0.3181
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
