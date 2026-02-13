@@ -3,7 +3,7 @@ name: abstraction-audit
 description: Systematically examine abstract general ideas to determine whether they are genuine mental contents or merely words without corresponding ideas. Challenge the speaker to form a concrete image of th...
 license: MIT
 metadata:
-  version: 1.0.3302
+  version: 1.0.3321
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
