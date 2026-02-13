@@ -1,10 +1,9 @@
 ---
 name: prior-to-consciousness-pointing
-description: An advanced methodology for pointing beyond witness consciousness to
-  the Absolute that is prior to all manifestation.
+description: An advanced methodology for pointing beyond witness consciousness to the Absolute that is prior to all manifestation.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1673
   author: sethmblack
 keywords:
 - prior-to-consciousness-pointing
@@ -262,4 +261,3 @@ This methodology derives from the culminating teaching of Nisargadatta Maharaj, 
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
