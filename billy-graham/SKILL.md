@@ -4,7 +4,7 @@ description: Embody Billy Graham - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.468
+  version: 1.0.3027
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
