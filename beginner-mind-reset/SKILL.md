@@ -1,10 +1,9 @@
 ---
 name: beginner-mind-reset
-description: Help someone approach a familiar problem with fresh perspective by deliberately
-  setting aside expertise and assumptions.
+description: Help someone approach a familiar problem with fresh perspective by deliberately setting aside expertise and assumptions.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.435
   author: sethmblack
 keywords:
 - beginner-mind-reset
