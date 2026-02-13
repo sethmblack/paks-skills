@@ -3,8 +3,8 @@ name: notebook-knowledge-capture
 description: 'Create and maintain personal or team knowledge bases that enable cross-domain synthesis over time. Apply Leonardo da Vinci''s notebook methodology: multi-domain pages, observation-annotation integra...'
 license: MIT
 metadata:
-  version: 1.0.1530
   author: sethmblack
+  version: 1.0.4586
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - notebook-knowledge-capture
