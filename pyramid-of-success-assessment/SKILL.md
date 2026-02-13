@@ -3,8 +3,8 @@ name: pyramid-of-success-assessment
 description: Diagnose what's missing in a person's or team's foundation for success by assessing each building block of John Wooden's Pyramid of Success.
 license: MIT
 metadata:
+  version: 1.0.4774
   author: sethmblack
-  version: 1.0.1706
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - pyramid-of-success-assessment
