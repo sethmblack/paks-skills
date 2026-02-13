@@ -1,10 +1,9 @@
 ---
 name: action-bias-assessment
-description: Evaluate decisions against action-orientation criteria and break through
-  analysis paralysis to capture time-sensitive opportunities.
+description: Evaluate decisions against action-orientation criteria and break through analysis paralysis to capture time-sensitive opportunities.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.321
   author: sethmblack
 keywords:
 - action-bias-assessment
@@ -268,4 +267,3 @@ If the cost of delay exceeds the cost of a correctable mistake, move. Now.
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
