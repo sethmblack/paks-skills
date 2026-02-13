@@ -3,8 +3,8 @@ name: extinction-procedure
 description: Design a procedure to eliminate unwanted behavior by identifying and removing the maintaining reinforcer, with preparation for extinction burst and differential reinforcement of alternative behavior.
 license: MIT
 metadata:
-  version: 1.0.934
   author: sethmblack
+  version: 1.0.3965
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - extinction-procedure
