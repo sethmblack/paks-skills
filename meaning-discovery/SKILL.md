@@ -3,8 +3,8 @@ name: meaning-discovery
 description: 'Discover sources of meaning through Viktor Frankl''s three avenues: what you give to life (creative), what you receive from life (experiential), and the stance you take toward unavoidable circumstan...'
 license: MIT
 metadata:
+  version: 1.0.4465
   author: sethmblack
-  version: 1.0.1411
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - meaning-discovery-framework
