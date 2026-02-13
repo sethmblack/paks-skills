@@ -1,11 +1,10 @@
 ---
 name: specificity-injector
-description: Replace vague, generic statements with hyper-specific, concrete details
-  that ground observations in reality and make them funnier and more relatable.
+description: Replace vague, generic statements with hyper-specific, concrete details that ground observations in reality and make them funnier and more relatable.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1947
 keywords:
 - comedy
 - deadpan
@@ -316,4 +315,3 @@ The skill provides a systematic approach to one of Hannibal Buress's most import
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
