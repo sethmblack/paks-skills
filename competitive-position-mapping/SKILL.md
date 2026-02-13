@@ -1,11 +1,10 @@
 ---
 name: competitive-position-mapping
-description: Map the competitive landscape by identifying strategic groups and a company's
-  position relative to competitors using Porter's strategic group analysis framework.
+description: Map the competitive landscape by identifying strategic groups and a company's position relative to competitors using Porter's strategic group analysis framework.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.611
 keywords:
 - competitive-position-mapping
 - writing
@@ -225,38 +224,32 @@ Format the output as a **Competitive Position Map**:
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Do not fabricate competitor information without evidence
+- Include all significant competitors; omissions distort the map
+- Select dimensions that actually differentiate, not just seem important
+- Acknowledge when competitor positions are uncertain or changing
+- Strategic groups are analytical constructs, not natural categories
+- Mobility barriers matter more than current positions for strategy
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **All competitors are equal** | Not all competitors are equally relevant to your strategy | Identify strategic groups to see true competitive structure |
+| **Dimension shopping** | Choosing dimensions that make you look good | Select dimensions that most differentiate competitors in this industry |
+| **Static snapshot thinking** | Treating current positions as permanent | Note which competitors are moving and in what direction |
+| **Ignoring mobility barriers** | Assuming any competitor can move anywhere | Analyze what makes it hard to move between groups |
+| **Missing the unstable competitor** | Not recognizing when a competitor is between groups | Flag competitors in transition; they may be attacking your group |
+
+---
 
 ## Example
 
 **Input:** "Map the competitive position in the U.S. coffee retail industry"
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Competitive Position Mapping: U.S. Coffee Retail
 
