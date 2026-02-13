@@ -3,7 +3,7 @@ name: gambling-stakes-test
 description: Apply the 'Would you bet on it?' test to opinions, forcing clarity and conviction through hypothetical stakes
 license: MIT
 metadata:
-  version: 1.0.1030
+  version: 1.0.4071
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
