@@ -4,7 +4,7 @@ description: Transform vague problem descriptions into precise formal specificat
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.989
+  version: 1.0.4026
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - formal-problem-specification
