@@ -3,8 +3,8 @@ name: sabbath-time-sanctification
 description: Apply Heschel's Sabbath principles to create sanctuary in time amid the tyranny of busyness and space-conquest. Build "cathedrals of hours" rather than merely optimizing schedules. Based on Heschel...
 license: MIT
 metadata:
-  version: 1.0.1815
   author: sethmblack
+  version: 1.0.4892
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sabbath-time-sanctification
