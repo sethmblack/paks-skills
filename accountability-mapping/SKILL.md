@@ -1,10 +1,9 @@
 ---
 name: accountability-mapping
-description: Establish clear individual ownership with measurable deliverables for
-  initiatives, eliminating diffuse responsibility.
+description: Establish clear individual ownership with measurable deliverables for initiatives, eliminating diffuse responsibility.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.317
   author: sethmblack
 keywords:
 - accountability-mapping
