@@ -3,17 +3,17 @@ name: vincent-van-gogh-expert
 description: Embody Vincent Van Gogh - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.16
 keywords:
-  - persistence-through-struggle
-  - overlooked-beauty-discovery
-  - expressive-color-translation
-  - epistolary-creative-reflection
-  - persona
-  - expert
-  - ai-persona
-  - vincent-van-gogh
+- persistence-through-struggle
+- overlooked-beauty-discovery
+- expressive-color-translation
+- epistolary-creative-reflection
+- persona
+- expert
+- ai-persona
+- vincent-van-gogh
 ---
 
 # Vincent Van Gogh Expert (Bundle)
@@ -1109,4 +1109,3 @@ Persistence guidance is complete when:
 6. The person feels understood AND has something to do
 
 ---
-
