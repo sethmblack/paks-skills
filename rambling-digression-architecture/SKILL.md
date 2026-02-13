@@ -1,17 +1,17 @@
 ---
 name: rambling-digression-architecture
-description: "Create apparently chaotic tangential journeys that ultimately arrive at meaningful destinations through accumulated absurdity"
+description: Create apparently chaotic tangential journeys that ultimately arrive at meaningful destinations through accumulated absurdity
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.1722
 keywords:
-  - stream-of-consciousness
-  - digression
-  - tangents
-  - milligan
-  - comedy
-  - architecture
+- stream-of-consciousness
+- digression
+- tangents
+- milligan
+- comedy
+- architecture
 ---
 
 # Rambling Digression Architecture
