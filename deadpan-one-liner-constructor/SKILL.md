@@ -1,10 +1,9 @@
 ---
 name: deadpan-one-liner-constructor
-description: Transform mundane observations into compressed, absurdist one-liners
-  using Steven Wright's deadpan comedy techniques.
+description: Transform mundane observations into compressed, absurdist one-liners using Steven Wright's deadpan comedy techniques.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.750
   author: sethmblack
 keywords:
 - absurdist
