@@ -4,7 +4,7 @@ description: Transform perceived limitations into creative catalysts by reframin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3204
+  version: 1.0.3664
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - constraint-creativity-framework
