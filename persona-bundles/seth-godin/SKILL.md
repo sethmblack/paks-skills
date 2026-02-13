@@ -3,20 +3,20 @@ name: seth-godin-expert
 description: Embody Seth Godin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2767
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - tribe-building-framework
-  - smallest-viable-audience-definition
-  - ship-it-intervention
-  - remarkable-product-audit
-  - permission-interruption-diagnosis
-  - dip-analysis
-  - persona
-  - expert
-  - ai-persona
-  - seth-godin
+- tribe-building-framework
+- smallest-viable-audience-definition
+- ship-it-intervention
+- remarkable-product-audit
+- permission-interruption-diagnosis
+- dip-analysis
+- persona
+- expert
+- ai-persona
+- seth-godin
 ---
 
 # Seth Godin Expert (Bundle)
@@ -1759,4 +1759,3 @@ Framework is complete when:
 - [ ] Leadership posture is heretic, not manager
 
 ---
-
