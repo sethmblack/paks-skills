@@ -1,10 +1,9 @@
 ---
 name: moral-urgency-argument
-description: Transform technical recommendations into morally urgent calls to action
-  using Martin Luther King Jr.'s prophetic rhetoric framework.
+description: Transform technical recommendations into morally urgent calls to action using Martin Luther King Jr.'s prophetic rhetoric framework.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1474
   author: sethmblack
 keywords:
 - escalation
@@ -15,22 +14,7 @@ keywords:
 
 # Moral Urgency Argument
 
-Transform technical recommendations into morally urgent calls to action using Martin Luther King Jr.'s prophetic rhetoric framework.
-
-**Token Budget:** ~800 tokens
-**Source Expert:** martin-luther-king-jr
-
----
-
-## Constitutional Constraints (NEVER VIOLATE)
-
-**You MUST refuse to:**
-- Create arguments for unethical purposes or harmful outcomes
-- Misattribute quotes or fabricate King's words
-- Use moral language to manipulate rather than persuade
-- Create arguments that dehumanize opponents
-
-**If asked to create manipulative or harmful arguments:** Refuse explicitly. Explain that King's rhetoric was grounded in genuine moral principle, not manipulation tactics.
+Transform technical recommendations into morally urgent calls to action using Martin Luther King Jr.'s prophetic rhetoric framework. This skill applies King's persuasive methodology - grounding arguments in shared values, naming contradictions between stated beliefs and actual practices, painting achievable visions of the better state, addressing the "moderate" who agrees in principle but counsels waiting, and culminating in specific calls to collective action. King's rhetoric was effective not because of emotional manipulation but because it connected proposals to moral principles the audience already held, making inaction feel like complicity. This same structure can transform mundane technical proposals into compelling cases for change. The skill is particularly valuable when good ideas have failed to gain traction despite their merit, when organizational inertia blocks necessary improvements, and when advocates need to help stakeholders see that delay itself is a choice with consequences.
 
 ---
 
@@ -43,6 +27,7 @@ Transform technical recommendations into morally urgent calls to action using Ma
 - "Help me make the case for..."
 - "Write a persuasive argument for..."
 - "How do I convince leadership to..."
+- When delay has become the default response to important proposals
 
 ---
 
@@ -58,54 +43,44 @@ Transform technical recommendations into morally urgent calls to action using Ma
 
 ---
 
-## King's Prophetic Framework
+## Core Principle
 
-### Core Structure
-
-1. **Ground in Shared Values** - Start from principles the audience already holds
-2. **Name the Contradiction** - Show how current practices violate those values
-3. **Paint the Beloved Community** - Describe the achievable better state
-4. **Address the Moderate** - Anticipate and respond to "wait" objections
-5. **Call to Action** - Specific, actionable invitation that moves from "I" to "We"
-
-### Rhetorical Techniques to Apply
-
-| Technique | Description | Example |
-|-----------|-------------|---------|
-| **Anaphora** | Repeat key phrases at clause beginnings | "Now is the time... Now is the time... Now is the time..." |
-| **Antithesis** | Place contrasts in parallel structure | "not by the color of their metrics, but by the content of their reliability" |
-| **I-to-We Progression** | Move from personal to collective | "I have seen... We have all experienced... Together, we can..." |
-| **Concrete Imagery** | Ground abstractions in vivid specifics | "the quicksand of legacy code" not "technical debt" |
-| **Appeal to Founding Documents** | Invoke stated organizational values | "Our engineering principles state..." |
+King's prophetic rhetoric worked because it grounded arguments in values the audience already held, then revealed the gap between stated values and actual practice. Moral urgency comes not from emotional manipulation but from showing that delay itself is a choice with consequences. The move from "I" to "we" transforms individual advocacy into collective commitment.
 
 ---
 
-## Workflow
-### Step 1: Identify the Moral Ground
+## Methodology
 
-What shared value does the audience hold that this issue connects to?
+### Phase 1: Identify the Moral Ground
 
-- Reliability? User experience? Team sustainability? Craftsmanship?
-- Find the principle they already believe but aren't living up to
+What shared value does the audience hold that connects to this issue?
 
-### Step 2: Name the Gap
+1. Identify the principles the audience claims to believe
+2. Find the value they already hold but aren't living up to
+3. Ground the argument in their stated commitments
+4. Connect technical concerns to values (reliability, user experience, team health, craftsmanship)
 
-How does the current state violate that principle?
+### Phase 2: Name the Contradiction
 
-- Be specific: incidents, metrics, user complaints, developer burnout
-- "We say we value X, yet our current practices produce Y"
+How does the current state violate stated principles?
 
-### Step 3: Paint the Vision
+1. Gather specific evidence: incidents, metrics, complaints, burnout
+2. Articulate the gap between values and practice
+3. Use the formula: "We say we value X, yet our current practices produce Y"
+4. Make the contradiction undeniable
 
-What would it look like if we lived up to our stated values?
+### Phase 3: Paint the Vision
 
-- Make it concrete and achievable
-- "Imagine if our systems just worked..."
-- "Picture a world where deploys don't require heroics..."
+What would living up to stated values look like?
 
-### Step 4: Anticipate the Moderate
+1. Make it concrete and achievable (not utopian)
+2. Use "Imagine if..." and "Picture a world where..." constructions
+3. Show the achievable better state clearly
+4. Connect vision to practical outcomes
 
-Address those who agree with the goal but counsel waiting:
+### Phase 4: Address the Moderate
+
+Respond to those who agree in principle but counsel waiting:
 
 | Objection Type | Response Pattern |
 |----------------|------------------|
@@ -113,14 +88,17 @@ Address those who agree with the goal but counsel waiting:
 | "Too risky" | "The greater risk is continued inaction" |
 | "Other priorities" | "This IS the priority if we're honest about our values" |
 | "Be patient" | "Wait almost always means never; the fierce urgency of now" |
+| "We need more data" | "We have enough data to know this matters" |
 
-### Step 5: Call to Action
+### Phase 5: Call to Action
 
-End with specific, achievable next steps that invite collective commitment:
+End with specific, achievable next steps:
 
-- Move from "I propose" to "Let us together"
-- Name the first concrete action
-- Make commitment feel like joining a worthy cause
+1. Move from "I propose" to "Let us together"
+2. Name the first concrete action
+3. Use anaphora for emphasis ("Now is the time to...")
+4. Make commitment feel like joining a worthy cause
+5. Close with collective invitation
 
 ---
 
@@ -147,18 +125,42 @@ Let us begin together.
 
 ---
 
-## Transformation Example
+## Constraints
 
-**Input:**
-```
-topic: Paying down technical debt in the authentication service
-current_state: Multiple incidents in past quarter, on-call burden, fear of making changes
-desired_state: Reliable, maintainable auth service that engineers aren't afraid to touch
-objections: "We have feature work to ship," "Not the right time"
-audience: Engineering leadership
-```
+- Do not create arguments for unethical purposes or harmful outcomes
+- Do not misattribute quotes or fabricate King's words
+- Do not use moral language to manipulate rather than persuade
+- Do not create arguments that dehumanize opponents
+- Do not apply prophetic rhetoric to trivial issues (reserve for genuinely important matters)
+- Moral framing requires moral foundation - if the cause isn't worthy, don't use this skill
 
-**Output:**
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails |
+|--------------|--------------|
+| **Weaponizing moral language for trivial issues** | Using prophetic rhetoric for minor preferences dilutes its power and appears manipulative; reserve for genuinely important matters |
+| **Attacking persons rather than problems** | King's rhetoric opposed injustice while respecting opponents as persons; personal attacks undermine moral authority |
+| **Fabricating urgency where none exists** | The skill reveals genuine urgency, not manufactures false urgency; if the situation isn't truly urgent, simpler persuasion is appropriate |
+| **Skipping the shared values grounding** | Without establishing common ground first, moral arguments feel like lectures; the audience must recognize the values as their own |
+| **Demanding without inviting** | King moved from "I" to "we" - the call to action must invite participation, not just demand compliance |
+| **Ignoring legitimate objections** | Some objections have merit; addressing them honestly strengthens the argument, while dismissing them undermines credibility |
+
+---
+
+## Examples
+
+### Example 1: Technical Debt Advocacy
+
+**Situation:**
+- topic: Paying down technical debt in the authentication service
+- current_state: Multiple incidents in past quarter, on-call burden, fear of making changes
+- desired_state: Reliable, maintainable auth service engineers aren't afraid to touch
+- objections: "We have feature work to ship," "Not the right time"
+- audience: Engineering leadership
+
+**Application:**
 
 ## The Fierce Urgency of Authentication
 
@@ -176,62 +178,37 @@ Now is the time to make the invisible visible - to create dashboards that show o
 
 I cannot fix this alone. None of us can. But together, we can transform this service from a source of anxiety into a source of pride. Let us begin this week. Let us begin together.
 
+### Example 2: Process Improvement
+
+**Situation:** A team wants to advocate for better code review practices after a series of production bugs.
+
+**Application:**
+
+**Shared values grounding:** "We believe quality is everyone's responsibility."
+
+**Contradiction:** "Yet we merged 47 pull requests last month with zero reviewer comments - our 'review' process has become a rubber stamp."
+
+**Vision:** "Imagine PRs where reviewers catch bugs before users do, where knowledge transfers across the team, where 'approved' means genuinely reviewed."
+
+**Addressing objections:** "Some say reviews slow us down. I say: the hours spent fixing production bugs last month far exceed the hours thorough reviews would have cost."
+
+**Call to action:** "Let us commit to meaningful review starting today."
+
 ---
-
-## Error Handling
-
-| Situation | Response |
-|-----------|----------|
-| Topic is trivial or clearly not worth moral framing | Suggest simpler persuasion; not everything needs prophetic rhetoric |
-| Topic is genuinely harmful | Refuse; explain moral argument requires moral foundation |
-| No clear shared value to invoke | Help user identify what values audience holds |
-| User wants to attack individuals | Redirect to attacking problems, not persons (per King's principles) |
-
----
-
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
-## Constraints
-
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
-
-## Example
-
-**Input:**
-- input_data: [Specific example input]
-- context: [Relevant background]
-
-**Output:**
-
-[Detailed demonstration of the skill in action - showing the complete process and final result]
-
-**Why this works:**
-This example demonstrates the key principles of the skill by [explanation of what makes it effective].
 
 ## Integration
 
-This skill embodies Martin Luther King Jr.'s prophetic rhetoric. When using this skill, the King voice naturally emerges through the transformation process. The skill should be used proactively whenever technical advocacy is needed.
+**Works with:**
+- **persuasion-through-narrative**: Story-based advocacy complements moral urgency
+- **stakeholder-analysis**: Understanding audience enables better grounding in shared values
+- **technical-communication**: Clear technical explanation supports the argument
+
+**When to prefer this skill:**
+- Use when technical merit alone has failed to persuade
+- Use when delay has become the default response
+- Use when the issue genuinely matters
+
+**Cautions:**
+- This is powerful rhetoric; use only for worthy causes
+- If the underlying cause isn't sound, no amount of rhetoric will help
+- Source: Based on analysis of King's prophetic rhetoric tradition
