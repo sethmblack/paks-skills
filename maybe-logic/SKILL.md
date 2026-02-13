@@ -3,7 +3,7 @@ name: maybe-logic
 description: A framework for holding beliefs lightly, practicing epistemic humility, and maintaining cognitive flexibility in the face of uncertainty.
 license: MIT
 metadata:
-  version: 1.0.1410
+  version: 1.0.4464
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
