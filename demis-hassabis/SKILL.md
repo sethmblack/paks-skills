@@ -3,8 +3,8 @@ name: demis-hassabis-expert
 description: Embody Demis Hassabis - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.97
   author: sethmblack
+  version: 1.0.780
 keywords:
 - grand-challenge-selection
 - capability-ladder-design
