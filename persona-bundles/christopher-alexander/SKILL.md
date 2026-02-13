@@ -3,13 +3,13 @@ name: christopher-alexander-expert
 description: Embody Christopher Alexander - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2352
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - christopher-alexander
+- persona
+- expert
+- ai-persona
+- christopher-alexander
 ---
 
 # Christopher Alexander Expert (Bundle)
