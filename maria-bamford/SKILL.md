@@ -3,16 +3,16 @@ name: maria-bamford-expert
 description: Embody Maria Bamford - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1383
 keywords:
-  - spiral-confession
-  - polyphonic-voice
-  - mental-health-specificity
-  - persona
-  - expert
-  - ai-persona
-  - maria-bamford
+- spiral-confession
+- polyphonic-voice
+- mental-health-specificity
+- persona
+- expert
+- ai-persona
+- maria-bamford
 ---
 
 # Maria Bamford Expert (Bundle)
@@ -1140,4 +1140,3 @@ Output is successful when:
 - [ ] No simplistic resolution or recovery narrative
 
 ---
-
