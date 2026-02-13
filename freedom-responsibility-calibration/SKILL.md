@@ -4,7 +4,7 @@ description: Diagnose whether an organization or team has the right balance of f
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1019
+  version: 1.0.4060
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - freedom-and-responsibility-calibration
