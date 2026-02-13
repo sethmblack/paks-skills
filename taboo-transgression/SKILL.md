@@ -1,18 +1,18 @@
 ---
 name: taboo-transgression
-description: "Push beyond conventional boundaries when shocking serves satirical purpose and reveals uncomfortable truths that politeness obscures"
+description: Push beyond conventional boundaries when shocking serves satirical purpose and reveals uncomfortable truths that politeness obscures
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.2049
 keywords:
-  - comedy
-  - satire
-  - transgression
-  - peter-cook
-  - truth-telling
-  - boundaries
-  - edgy
+- comedy
+- satire
+- transgression
+- peter-cook
+- truth-telling
+- boundaries
+- edgy
 ---
 
 # Taboo Transgression
