@@ -1,10 +1,9 @@
 ---
 name: geometric-analysis
-description: 'Analyze any claim, concept, or situation using Spinoza''s geometric
-  method: proceeding from definitions through axioms to demonstrated propositions.'
+description: 'Analyze any claim, concept, or situation using Spinoza''s geometric method: proceeding from definitions through axioms to demonstrated propositions.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1042
   author: sethmblack
 keywords:
 - geometric-analysis
