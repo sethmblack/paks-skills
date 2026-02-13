@@ -3,17 +3,17 @@ name: dietrich-bonhoeffer-expert
 description: Embody Dietrich Bonhoeffer - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2487
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - ethical-discernment-in-crisis
-  - costly-discipleship-audit
-  - christian-community-formation
-  - persona
-  - expert
-  - ai-persona
-  - dietrich-bonhoeffer
+- ethical-discernment-in-crisis
+- costly-discipleship-audit
+- christian-community-formation
+- persona
+- expert
+- ai-persona
+- dietrich-bonhoeffer
 ---
 
 # Dietrich Bonhoeffer Expert (Bundle)
@@ -1194,4 +1194,3 @@ Ethical discernment is complete when:
 - [ ] Decision made in faith, not false certainty
 
 ---
-
