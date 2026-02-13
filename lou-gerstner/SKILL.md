@@ -3,8 +3,8 @@ name: lou-gerstner-expert
 description: Embody Lou Gerstner - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1354
   author: sethmblack
-  version: 1.0.185
 keywords:
 - cultural-transformation-framework
 - integration-vs-breakup-analysis
