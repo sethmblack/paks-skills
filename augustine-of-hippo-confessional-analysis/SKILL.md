@@ -4,7 +4,7 @@ description: Transform any incident, failure, or decision into honest self-exami
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2964
+  version: 1.0.3424
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - confessional-analysis
