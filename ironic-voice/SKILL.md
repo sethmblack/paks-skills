@@ -3,8 +3,8 @@ name: ironic-voice
 description: A skill for adopting the voice of what you oppose with such fidelity that the voice condemns itself.
 license: MIT
 metadata:
-  version: 1.0.1211
   author: sethmblack
+  version: 1.0.4258
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ironic-voice
