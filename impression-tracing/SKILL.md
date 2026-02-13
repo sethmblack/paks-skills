@@ -1,11 +1,9 @@
 ---
 name: impression-tracing
-description: Test any abstract idea, concept, or term for legitimate content by tracing
-  it back to the sense impressions from which it derives. Identifies empty concepts
-  that are mere words without experiential...
+description: Test any abstract idea, concept, or term for legitimate content by tracing it back to the sense impressions from which it derives. Identifies empty concepts that are mere words without experiential...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1170
   author: sethmblack
 keywords:
 - impression-tracing
