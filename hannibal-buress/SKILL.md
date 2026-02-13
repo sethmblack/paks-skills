@@ -1,11 +1,10 @@
 ---
 name: hannibal-buress-expert
-description: Embody Hannibal Buress - AI persona expert with integrated methodology
-  skills
+description: Embody Hannibal Buress - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.131
 keywords:
 - specificity-injector
 - sideways-angle-finder
@@ -1603,5 +1602,3 @@ The skill provides a structured approach to one of Hannibal Buress's signature c
 - Use `sideways-angle-finder` to identify the premise
 - Use `specificity-injector` to strengthen each step
 - Use `deadpan-rewrite` to ensure tone consistency
-
-
