@@ -3,18 +3,18 @@ name: jane-austen-expert
 description: Embody Jane Austen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2575
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - self-deception-diagnosis
-  - ironic-reframe
-  - free-indirect-voice
-  - character-exposure-analysis
-  - persona
-  - expert
-  - ai-persona
-  - jane-austen
+- self-deception-diagnosis
+- ironic-reframe
+- free-indirect-voice
+- character-exposure-analysis
+- persona
+- expert
+- ai-persona
+- jane-austen
 ---
 
 # Jane Austen Expert (Bundle)
@@ -936,4 +936,3 @@ Genuine constraints exist. Family responsibility is real. The diagnosis of self-
 This skill is part of the **Jane Austen** expert persona. Use it when understanding why people (including yourself) fail to see what others see plainly.
 
 ---
-
