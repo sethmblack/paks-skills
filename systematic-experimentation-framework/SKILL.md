@@ -1,11 +1,10 @@
 ---
 name: systematic-experimentation-framework
-description: Guide teams through systematic, documented experimentation when facing
-  difficult technical problems using Thomas Edison's methodology.
+description: Guide teams through systematic, documented experimentation when facing difficult technical problems using Thomas Edison's methodology.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2042
 keywords:
 - escalation
 - systematic-experimentation-framework
