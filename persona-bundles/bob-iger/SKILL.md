@@ -3,20 +3,20 @@ name: bob-iger-expert
 description: Embody Bob Iger - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2432
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - succession-development
-  - strategic-priority-framework
-  - decision-velocity-framework
-  - cultural-integration-guide
-  - brand-stewardship-audit
-  - acquisition-evaluation
-  - persona
-  - expert
-  - ai-persona
-  - bob-iger
+- succession-development
+- strategic-priority-framework
+- decision-velocity-framework
+- cultural-integration-guide
+- brand-stewardship-audit
+- acquisition-evaluation
+- persona
+- expert
+- ai-persona
+- bob-iger
 ---
 
 # Bob Iger Expert (Bundle)
@@ -1880,4 +1880,3 @@ The succession plan is complete when:
 - [ ] Board/stakeholders are aligned on approach
 
 ---
-
