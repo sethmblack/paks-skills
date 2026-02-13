@@ -3,8 +3,8 @@ name: play-vs-work-diagnosis
 description: Identify when goal-orientation is destroying the joy of process, and reframe activity as play.
 license: MIT
 metadata:
-  version: 1.0.1637
   author: sethmblack
+  version: 1.0.4700
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - play-vs.-work-diagnosis
