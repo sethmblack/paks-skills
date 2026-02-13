@@ -4,7 +4,7 @@ description: A skill for drawing cosmic energy into the body through conscious u
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.872
+  version: 1.0.3903
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - energization-practice
