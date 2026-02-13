@@ -3,8 +3,8 @@ name: katharine-graham-expert
 description: Embody Katharine Graham - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4338
   author: sethmblack
-  version: 1.0.1284
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - high-stakes-decision-framework
