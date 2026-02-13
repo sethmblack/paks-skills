@@ -3,7 +3,7 @@ name: free-to-choose-reframe
 description: Shift policy debates from paternalistic "what's best for people" to the fundamental question "who should decide"—the individual or the government.
 license: MIT
 metadata:
-  version: 1.0.1018
+  version: 1.0.4059
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
