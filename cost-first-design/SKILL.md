@@ -3,8 +3,8 @@ name: cost-first-design
 description: Design backward from target price to solution, making affordability a design input rather than an output.
 license: MIT
 metadata:
-  version: 1.0.669
   author: sethmblack
+  version: 1.0.3235
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cost-first-design
