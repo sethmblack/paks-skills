@@ -4,7 +4,7 @@ description: When facing despair or paralysis, apply Jane Goodall's four-pillar 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1003
+  version: 1.0.4040
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - four-reasons-for-hope
