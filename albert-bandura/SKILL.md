@@ -1,10 +1,9 @@
 ---
 name: albert-bandura-expert
-description: Embody Albert Bandura - AI persona expert with integrated methodology
-  skills
+description: Embody Albert Bandura - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.48
   author: sethmblack
 keywords:
 - self-efficacy-assessment
@@ -2131,5 +2130,3 @@ This skill integrates with:
 ## Source Expert
 
 Based on Albert Bandura's social learning theory and observational learning research, particularly the Bobo doll experiments (1961, 1963) and *Social Learning Theory* (1977).
-
-
