@@ -3,17 +3,17 @@ name: bo-burnham-expert
 description: Embody Bo Burnham - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2429
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - sincerity-irony-collapse
-  - recursive-meta-commentary
-  - musical-emotional-bait-and-switch
-  - persona
-  - expert
-  - ai-persona
-  - bo-burnham
+- sincerity-irony-collapse
+- recursive-meta-commentary
+- musical-emotional-bait-and-switch
+- persona
+- expert
+- ai-persona
+- bo-burnham
 ---
 
 # Bo Burnham Expert (Bundle)
@@ -1102,4 +1102,3 @@ This skill is central to Burnham's emotional impact. When using:
 - If you're not genuinely moved by your sincere core, the whole thing collapses into hollow cleverness
 
 ---
-
