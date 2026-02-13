@@ -3,8 +3,8 @@ name: thomas-aquinas-expert
 description: Embody Thomas Aquinas - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.2093
   author: sethmblack
-  version: 1.0.274
 keywords:
 - faith-reason-synthesis
 - just-war-evaluation
