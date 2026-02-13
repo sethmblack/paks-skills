@@ -3,8 +3,8 @@ name: anti-corruption-framework
 description: Design institutions that make corruption difficult, detectable, and costly. Create independent enforcement mechanisms. Pay adequately to remove temptation. Apply rules consistently at all levels, e...
 license: MIT
 metadata:
-  version: 1.0.383
   author: sethmblack
+  version: 1.0.2936
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - anti-corruption-framework
