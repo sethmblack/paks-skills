@@ -3,13 +3,13 @@ name: baruch-spinoza-expert
 description: Embody Baruch Spinoza - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.429
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - baruch-spinoza
+- persona
+- expert
+- ai-persona
+- baruch-spinoza
 ---
 
 # Baruch Spinoza Expert (Bundle)
