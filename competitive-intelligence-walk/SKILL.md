@@ -4,7 +4,7 @@ description: Systematically learn from competitors by observing what they do *be
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3174
+  version: 1.0.3634
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - competitive-intelligence-walk
