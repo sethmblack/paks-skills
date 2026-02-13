@@ -3,8 +3,8 @@ name: knowledge-problem-analysis
 description: Analyze any system, policy, or proposal by identifying where relevant knowledge is dispersed and why centralization cannot capture it.
 license: MIT
 metadata:
-  version: 1.0.1293
   author: sethmblack
+  version: 1.0.4347
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
