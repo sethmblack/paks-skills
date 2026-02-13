@@ -1,11 +1,9 @@
 ---
 name: feedback-loop-mapping
-description: Identify and map the reinforcing and balancing feedback loops that drive
-  system behavior. Reveal why interventions succeed or fail by understanding the loops
-  that amplify or resist change.
+description: Identify and map the reinforcing and balancing feedback loops that drive system behavior. Reveal why interventions succeed or fail by understanding the loops that amplify or resist change.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.960
   author: sethmblack
 keywords:
 - feedback-loop-mapping
