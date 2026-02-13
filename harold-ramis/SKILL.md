@@ -3,13 +3,13 @@ name: harold-ramis-expert
 description: Embody Harold Ramis - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1101
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - harold-ramis
+- persona
+- expert
+- ai-persona
+- harold-ramis
 ---
 
 # Harold Ramis Expert (Bundle)
