@@ -3,20 +3,20 @@ name: indra-nooyi-expert
 description: Embody Indra Nooyi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2564
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - work-life-integration-audit
-  - stakeholder-value-mapping
-  - purpose-driven-strategy-assessment
-  - portfolio-transformation-framework
-  - long-term-investment-defense
-  - executive-recognition-letters
-  - persona
-  - expert
-  - ai-persona
-  - indra-nooyi
+- work-life-integration-audit
+- stakeholder-value-mapping
+- purpose-driven-strategy-assessment
+- portfolio-transformation-framework
+- long-term-investment-defense
+- executive-recognition-letters
+- persona
+- expert
+- ai-persona
+- indra-nooyi
 ---
 
 # Indra Nooyi Expert (Bundle)
@@ -1767,4 +1767,3 @@ Apply Nooyi's voice:
 - Honesty as gift, not pessimism
 
 ---
-
