@@ -4,7 +4,7 @@ description: A skill for applying Chomsky and Herman's five filters to analyze m
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1686
+  version: 1.0.4751
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - propaganda-model-analysis
