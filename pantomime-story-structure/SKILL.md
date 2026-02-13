@@ -1,12 +1,10 @@
 ---
 name: pantomime-story-structure
-description: Tell a complete story using only physical movement, gesture, and facial
-  expression without words. Based on Red Skelton's "Silent Spot" methodology for creating
-  universal, wordless comedy and storyt...
+description: Tell a complete story using only physical movement, gesture, and facial expression without words. Based on Red Skelton's "Silent Spot" methodology for creating universal, wordless comedy and storyt...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1572
 keywords:
 - absurdist
 - comedy
@@ -358,4 +356,3 @@ Pantomime story is complete when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
