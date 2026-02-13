@@ -3,8 +3,8 @@ name: daniel-burnham-expert
 description: Embody Daniel Burnham - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.3299
   author: sethmblack
+  version: 1.0.3759
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - civic-center-design
