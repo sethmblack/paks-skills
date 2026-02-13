@@ -3,8 +3,8 @@ name: baruch-spinoza-expert
 description: Embody Baruch Spinoza - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.3447
   author: sethmblack
-  version: 1.0.2987
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
