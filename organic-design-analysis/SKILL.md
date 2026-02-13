@@ -3,8 +3,8 @@ name: organic-design-analysis
 description: Analyze any design challenge through Frank Lloyd Wright's seven-step organic framework to achieve unity between form, function, site, and human purpose.
 license: MIT
 metadata:
+  version: 1.0.4617
   author: sethmblack
-  version: 1.0.1561
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
