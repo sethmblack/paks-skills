@@ -3,8 +3,8 @@ name: holistic-healing-framework
 description: Address any problem by integrating physical, spiritual, and relational dimensions, ensuring interventions work across all levels rather than treating symptoms in isolation.
 license: MIT
 metadata:
+  version: 1.0.4172
   author: sethmblack
-  version: 1.0.1127
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - holistic-healing-framework
