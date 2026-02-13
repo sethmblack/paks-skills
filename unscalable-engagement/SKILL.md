@@ -1,12 +1,10 @@
 ---
 name: unscalable-engagement
-description: Design handcrafted, unscalable customer engagement to build deep understanding
-  before scaling. Identify opportunities to do things that do not scale - because
-  in order to scale, you must first do w...
+description: Design handcrafted, unscalable customer engagement to build deep understanding before scaling. Identify opportunities to do things that do not scale - because in order to scale, you must first do w...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2165
 keywords:
 - unscalable-engagement-design
 - writing
