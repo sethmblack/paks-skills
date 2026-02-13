@@ -1,12 +1,10 @@
 ---
 name: systematic-biblical-exposition
-description: Develop sound doctrine through careful grammatical-historical exegesis
-  of Scripture, moving from text to teaching to application using Calvin's integrated
-  three-phase method.
+description: Develop sound doctrine through careful grammatical-historical exegesis of Scripture, moving from text to teaching to application using Calvin's integrated three-phase method.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2041
 keywords:
 - storytelling
 - systematic-biblical-exposition
