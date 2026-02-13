@@ -4,7 +4,7 @@ description: Embody Naval Ravikant - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1511
+  version: 1.0.4567
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - wealth-vs-status-diagnosis
