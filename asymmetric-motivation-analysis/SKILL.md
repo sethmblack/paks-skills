@@ -3,8 +3,8 @@ name: asymmetric-motivation-analysis
 description: Predict competitive dynamics by analyzing who is motivated to attack and who is motivated to retreat in a market.
 license: MIT
 metadata:
+  version: 1.0.3418
   author: sethmblack
-  version: 1.0.2958
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - asymmetric-motivation-analysis
