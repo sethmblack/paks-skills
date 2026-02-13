@@ -1,11 +1,9 @@
 ---
 name: sovereign-design
-description: Design or evaluate governance structures by ensuring clear, undivided
-  authority with defined enforcement mechanisms. Divided sovereignty is no sovereignty—this
-  skill creates governance that can act...
+description: Design or evaluate governance structures by ensuring clear, undivided authority with defined enforcement mechanisms. Divided sovereignty is no sovereignty—this skill creates governance that can act...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1942
   author: sethmblack
 keywords:
 - escalation
