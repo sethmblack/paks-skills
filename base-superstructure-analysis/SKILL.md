@@ -3,8 +3,8 @@ name: base-superstructure-analysis
 description: Trace how economic relations (the base) shape and constrain political, legal, and cultural institutions (the superstructure). Reveal the material foundations of ideas and institutions.
 license: MIT
 metadata:
+  version: 1.0.3448
   author: sethmblack
-  version: 1.0.2988
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - base-superstructure-analysis
