@@ -1,11 +1,10 @@
 ---
 name: contrarian-value-assessment
-description: Evaluate whether a neglected or unpopular position represents genuine
-  value or justified rejection.
+description: Evaluate whether a neglected or unpopular position represents genuine value or justified rejection.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.657
 keywords:
 - contrarian-value-assessment
 - storytelling
