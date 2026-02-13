@@ -3,12 +3,12 @@ name: five-points-architecture-audit
 description: Analyze any building, design, or spatial proposal against Le Corbusier's Five Points of Architecture. Evaluate how well the design embodies modernist principles and identify opportunities for transformation.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2316
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - five-points-architecture-audit
-  - urban-planning
+- five-points-architecture-audit
+- urban-planning
 ---
 
 # Five Points Architecture Audit
