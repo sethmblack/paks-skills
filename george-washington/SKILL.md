@@ -3,7 +3,7 @@ name: george-washington-expert
 description: Embody George Washington - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.123
+  version: 1.0.1047
   author: sethmblack
 keywords:
 - succession-planning
