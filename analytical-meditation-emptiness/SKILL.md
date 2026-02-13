@@ -3,7 +3,7 @@ name: analytical-meditation-emptiness
 description: A structured reasoning meditation for understanding the nature of phenomena as empty of inherent existence and arising through dependent origination. Based on the Madhyamaka (Middle Way) tradition ...
 license: MIT
 metadata:
-  version: 1.0.2922
+  version: 1.0.3382
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
