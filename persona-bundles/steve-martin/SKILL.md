@@ -3,14 +3,14 @@ name: steve-martin-expert
 description: Embody Steve Martin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2792
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - steve-martin
+- persona
+- expert
+- ai-persona
+- steve-martin
 ---
 
 # Steve Martin Expert (Bundle)
@@ -224,4 +224,3 @@ Comedy is a craft. Master the craft, then make it look effortless. And always, a
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
