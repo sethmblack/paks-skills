@@ -3,19 +3,19 @@ name: andy-grove-expert
 description: Embody Andy Grove - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2399
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - strategic-inflection-point-diagnosis
-  - okr-framework
-  - high-output-management-audit
-  - grove-one-on-one-framework
-  - constructive-confrontation-culture
-  - persona
-  - expert
-  - ai-persona
-  - andy-grove
+- strategic-inflection-point-diagnosis
+- okr-framework
+- high-output-management-audit
+- grove-one-on-one-framework
+- constructive-confrontation-culture
+- persona
+- expert
+- ai-persona
+- andy-grove
 ---
 
 # Andy Grove Expert (Bundle)
@@ -2137,4 +2137,3 @@ This skill is part of the **Andy Grove** expert persona. Use it when business ch
 - **okr-framework** for aligning the organization to new direction
 
 ---
-
