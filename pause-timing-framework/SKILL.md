@@ -1,10 +1,9 @@
 ---
 name: pause-timing-framework
-description: Use strategic silence and delayed responses to create anticipation and
-  reveal character through timing rather than words.
+description: Use strategic silence and delayed responses to create anticipation and reveal character through timing rather than words.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1594
   author: sethmblack
 keywords:
 - absurdist
