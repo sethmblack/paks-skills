@@ -4,7 +4,7 @@ description: Conduct a deep listening session to understand what creative work w
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.767
+  version: 1.0.3797
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - deep-listening-session
