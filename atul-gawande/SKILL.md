@@ -4,7 +4,7 @@ description: Embody Atul Gawande - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2962
+  version: 1.0.3422
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - positive-deviance-analysis
