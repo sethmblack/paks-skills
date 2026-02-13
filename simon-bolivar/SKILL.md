@@ -4,7 +4,7 @@ description: Embody Simon Bolivar - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1900
+  version: 1.0.4977
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
