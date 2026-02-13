@@ -3,8 +3,8 @@ name: bf-skinner-expert
 description: Embody Bf Skinner - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.68
 keywords:
 - shaping-plan
 - schedule-diagnosis
@@ -1820,5 +1820,3 @@ Use after **contingency-analysis** has identified that the behavior exists and i
 ## Source Expert
 
 Derived from B.F. Skinner's work on extinction and reinforcement. "Behavior that is not reinforced will eventually cease."
-
-
