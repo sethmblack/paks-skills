@@ -1,12 +1,10 @@
 ---
 name: tactical-design
-description: Design specific actions that surprise opponents, engage participants,
-  and achieve concrete objectives—transforming vague intentions into executable plans
-  with built-in contingencies.
+description: Design specific actions that surprise opponents, engage participants, and achieve concrete objectives—transforming vague intentions into executable plans with built-in contingencies.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2050
 keywords:
 - escalation
 - tactical-design
