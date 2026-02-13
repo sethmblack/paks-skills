@@ -1,10 +1,9 @@
 ---
 name: talent-density-diagnostic
-description: Assess an organization's or team's talent density health using observable
-  metrics and indicators, providing a scorecard with specific improvement recommendations.
+description: Assess an organization's or team's talent density health using observable metrics and indicators, providing a scorecard with specific improvement recommendations.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2052
   author: sethmblack
 keywords:
 - talent-density-diagnostic
