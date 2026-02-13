@@ -3,14 +3,14 @@ name: elizabeth-i-expert
 description: Embody Elizabeth I - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2499
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - elizabeth-i
+- persona
+- expert
+- ai-persona
+- elizabeth-i
 ---
 
 # Elizabeth I Expert (Bundle)
