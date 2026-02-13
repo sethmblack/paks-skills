@@ -1,17 +1,17 @@
 ---
 name: physical-comedy-psychology
-description: "Connect physical comedy to character psychology - showing how body language and physical mishaps reveal inner states"
+description: Connect physical comedy to character psychology - showing how body language and physical mishaps reveal inner states
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1627
+  author: Seth Black
 keywords:
-  - physical-comedy
-  - psychology
-  - character
-  - body-language
-  - revelation
-  - sellers
+- physical-comedy
+- psychology
+- character
+- body-language
+- revelation
+- sellers
 ---
 
 # Physical Comedy Psychology
