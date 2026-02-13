@@ -3,8 +3,8 @@ name: stanley-kubrick-expert
 description: Embody Stanley Kubrick - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1969
   author: sethmblack
-  version: 1.0.261
 keywords:
 - total-control-audit
 - genre-transmutation-method
