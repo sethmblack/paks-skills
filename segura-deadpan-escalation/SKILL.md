@@ -3,8 +3,8 @@ name: segura-deadpan-escalation
 description: Maintain flat, emotionally neutral delivery while escalating observations to dark or absurd conclusions
 license: MIT
 metadata:
+  version: 1.0.4924
   author: Seth Black
-  version: 1.0.1847
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
