@@ -1,11 +1,10 @@
 ---
 name: division-of-labor-optimization
-description: Analyze a process or organization to identify opportunities for specialization
-  and productivity gains.
+description: Analyze a process or organization to identify opportunities for specialization and productivity gains.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.819
 keywords:
 - division-of-labor-optimization
 - transformation
