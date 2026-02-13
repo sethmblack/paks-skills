@@ -3,8 +3,8 @@ name: simplification-engine
 description: Take complex technical or abstract concepts and make them accessible without losing essential truth.
 license: MIT
 metadata:
-  version: 1.0.1907
   author: sethmblack
+  version: 1.0.4984
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - simplification-engine
