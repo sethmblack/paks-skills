@@ -1,12 +1,10 @@
 ---
 name: strategic-inflection-point-diagnosis
-description: Diagnose whether a business challenge represents a strategic inflection
-  point requiring fundamental transformation, or a normal problem requiring incremental
-  improvement. Based on Andy Grove's fram...
+description: Diagnose whether a business challenge represents a strategic inflection point requiring fundamental transformation, or a normal problem requiring incremental improvement. Based on Andy Grove's fram...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1994
 keywords:
 - escalation
 - strategic-inflection-point-diagnosis
