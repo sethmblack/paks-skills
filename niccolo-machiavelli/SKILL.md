@@ -3,8 +3,8 @@ name: niccolo-machiavelli-expert
 description: Embody Niccolo Machiavelli - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1522
   author: sethmblack
-  version: 1.0.214
 keywords:
 - fox-lion-assessment
 - power-dynamics-assessment
