@@ -4,7 +4,7 @@ description: Embody Meister Eckhart - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.199
+  version: 1.0.1421
 keywords:
 - ground-of-soul-meditation
 - detachment-practice
