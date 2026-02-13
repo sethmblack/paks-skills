@@ -3,8 +3,8 @@ name: moral-urgency-argument
 description: Transform technical recommendations into morally urgent calls to action using Martin Luther King Jr.'s prophetic rhetoric framework.
 license: MIT
 metadata:
-  version: 1.0.1474
   author: sethmblack
+  version: 1.0.4530
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
