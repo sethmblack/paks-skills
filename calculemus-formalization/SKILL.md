@@ -1,11 +1,9 @@
 ---
 name: calculemus-formalization
-description: When disputes persist due to imprecise language, decompose concepts into
-  precise elements and make reasoning explicit and calculable. *Calculemus!* - "Let
-  us calculate!" Leibniz dreamed of reducing...
+description: When disputes persist due to imprecise language, decompose concepts into precise elements and make reasoning explicit and calculable. *Calculemus!* - "Let us calculate!" Leibniz dreamed of reducing...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.503
   author: sethmblack
 keywords:
 - calculemus-formalization
@@ -212,33 +210,23 @@ C: [conclusion]
 3. [Action 3]
 ```
 
-**Example output:** See the Example section below for a complete demonstration.
+## Anti-Patterns to Avoid
 
-## Example
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Premature formalization** | Forcing precision on genuinely vague concepts destroys meaning | Acknowledge when full formalization isn't possible |
+| **Definition tyranny** | Demanding one definition when multiple valid interpretations exist | Map different definitions; clarify which is in use |
+| **Logic as weapon** | Using formalization to "win" rather than clarify | Focus on mutual understanding, not victory |
+| **Ignoring evaluative disagreement** | Treating value differences as factual disputes | Name evaluative disagreements as such |
+| **Reductionism** | Oversimplifying to make calculable | Preserve genuine complexity while adding precision |
+
+## Examples
+
+### Example 1: Growth vs. Profitability Debate
 
 **Input:** "We're arguing about whether to prioritize user growth or profitability. The debate keeps going in circles."
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Calculemus Analysis
 
@@ -323,3 +311,80 @@ The "right" answer depends on these probability estimates.
 ## Integration
 
 This skill is part of the **Gottfried Wilhelm Leibniz** expert persona. Leibniz dreamed of a *characteristica universalis* and *calculus ratiocinator* that would reduce all disputes to calculation. While fully realized only in formal logic and mathematics, the aspiration - to make reasoning explicit and precise - applies broadly.
+
+### Example 2: Remote Work Policy Debate
+
+**Input:** "Our leadership team can't agree on whether remote work 'works.' The conversation goes nowhere."
+
+**Output:**
+
+## Calculemus Analysis
+
+### The Dispute
+"Does remote work 'work' for our organization?"
+
+### Key Terms Requiring Definition
+
+| Term | Party A Definition | Party B Definition | Proposed Precise Definition |
+|------|-------------------|-------------------|---------------------------|
+| "Remote work" | Any work from non-office location | Full-time work from home | ≥3 days/week from non-office location |
+| "Works" | Employees are productive | Company achieves goals | Measurable against: (1) productivity metrics, (2) collaboration quality, (3) employee retention, (4) business outcomes |
+| "Productivity" | Output volume | Output quality and volume | Output measured by [specific team metrics] |
+
+### Explicit Argument Reconstruction
+
+**Party A's Argument (Remote Works):**
+```
+P1: Employee surveys show high satisfaction with remote work
+P2: Our KPIs have not declined since going remote
+P3: We've retained talent who would have left for remote-friendly companies
+P4: High satisfaction + stable KPIs + retention = it works
+C: Therefore, remote work works for us
+```
+
+**Party B's Argument (Remote Doesn't Work):**
+```
+P1: Cross-team collaboration has declined (fewer spontaneous interactions)
+P2: New employee onboarding is harder remotely
+P3: Innovation metrics have declined since going remote
+P4: We're measuring the wrong things; long-term effects are negative
+C: Therefore, remote work doesn't work for us
+```
+
+### Hidden Assumptions Identified
+- Party A assumes current KPIs capture what matters
+- Party A assumes satisfaction correlates with performance
+- Party B assumes spontaneous interaction drives innovation
+- Party B assumes correlation (remote + decline) implies causation
+- Both parties assume binary outcome (works/doesn't work)
+
+### Location of Disagreement
+
+| Type | Finding |
+|------|---------|
+| Definitional | **PRIMARY** - "Works" means different things (satisfaction/retention vs. innovation/collaboration) |
+| Factual | Secondary - Disagreement about whether innovation actually declined |
+| Logical | Minor - Both arguments are valid given premises |
+| Evaluative | Present - Different weights on employee satisfaction vs. innovation |
+
+### The Calculation
+
+The dispute is primarily **definitional and evaluative**, not factual. Both parties could be correct within their own definition of "works."
+
+**Resolution approach:**
+1. Agree on definition: What metrics would we use to evaluate "works"?
+2. Weight the metrics: How much do we value satisfaction vs. innovation?
+3. Measure: What do the agreed metrics actually show?
+4. Decide: Given data and weights, does remote work "work" by our shared definition?
+
+### Resolution Path
+
+1. **Define success criteria together:** List all outcomes that matter (productivity, satisfaction, retention, innovation, collaboration, onboarding)
+2. **Assign weights:** Have leadership rank the relative importance of each
+3. **Gather data:** Measure each outcome pre-remote and post-remote
+4. **Calculate:** Apply weights to data; produce a single "works" score
+5. **Decide:** If score is above threshold, remote "works" by the organization's own definition
+
+*Calculemus! The dispute cannot be resolved until "works" is defined and weighted. Once that's done, the answer becomes calculable.*
+
+**Why these examples work:** Both demonstrate that circular debates often stem from undefined terms or conflicting premises, not from irrationality. By making definitions explicit and locating disagreement precisely, previously intractable debates become tractable.
