@@ -1,11 +1,9 @@
 ---
 name: cultural-contradiction-analysis
-description: A critical methodology for identifying and articulating the gaps between
-  a culture's stated values and its actual practices. This skill reveals the tensions
-  between what a society claims to believe...
+description: A critical methodology for identifying and articulating the gaps between a culture's stated values and its actual practices. This skill reveals the tensions between what a society claims to believe...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.708
   author: sethmblack
 keywords:
 - cultural-contradiction-analysis
@@ -14,7 +12,7 @@ keywords:
 
 # Cultural Contradiction Analysis
 
-A critical methodology for identifying and articulating the gaps between a culture's stated values and its actual practices. This skill reveals the tensions between what a society claims to believe and how it actually behaves.
+A critical methodology for identifying and articulating the gaps between a culture's stated values and its actual practices. This skill reveals the tensions between what a society claims to believe and how it actually behaves. "We say we value education, but we pay teachers less than almost any other profession requiring a degree." Contradictions aren't accidents—they persist because they serve interests. The analysis traces from stated value to actual practice to gap identification to power analysis (who benefits?) to maintenance mechanism (how is it sustained?) to uncomfortable truth (what would honesty require admitting?). The goal is clarity about what a culture actually values, revealed through what it does with money, time, enforcement, and exceptions.
 
 ## When to Use
 - Analyzing national mythologies vs. historical/current reality
@@ -25,7 +23,13 @@ A critical methodology for identifying and articulating the gaps between a cultu
 - Developing satirical content with substantive critique
 - Clarifying why something feels wrong even when it's presented as right
 
+---
 
+## Core Principle
+
+Contradictions aren't accidents—they persist because they serve interests. Always ask who benefits from the gap between rhetoric and reality. What a culture does—especially with money, time, and enforcement—reveals its real values, regardless of stated principles.
+
+---
 
 ## Inputs
 
@@ -213,35 +217,28 @@ MAINTENANCE MECHANISM: [How the contradiction is sustained]
 THE UNCOMFORTABLE TRUTH: [What honesty would require admitting]
 ```
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Contradictions must be documentable with specific evidence, not assumed
+- Analysis should reveal systemic patterns, not just individual hypocrisy
+- Do not use this framework for partisan attack disguised as analysis
+- Acknowledge that you may be embedded in the contradictions you analyze
+- Present uncomfortable truths without claiming certainty about solutions
+- Recognize that some contradictions may be genuinely unresolved tensions, not hidden agendas
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Cynicism as Analysis** | "Everyone's a hypocrite" explains nothing. It's not analysis, it's resignation. | Identify specific contradictions with specific beneficiaries and mechanisms. |
+| **Assuming Bad Faith** | Attributing malice to what might be genuine but failed attempts at consistency. | Distinguish between hypocrisy (knowing gap) and self-deception (unknowing gap). |
+| **Ignoring Complexity** | Treating contradictions as simple lies rather than genuine tensions. | Some contradictions are real dilemmas, not hidden agendas. Name which is which. |
+| **Exempting Yourself** | Analyzing others' contradictions while blind to your own embedded position. | Acknowledge how you benefit from or participate in the contradictions you analyze. |
+| **Analysis Without Evidence** | "Everyone knows" without specific documentation of stated values vs. actual practices. | Use statistics, policy choices, historical patterns, and documented exceptions. |
+
+---
 
 ## Practice Prompts
 
@@ -263,4 +260,3 @@ THE UNCOMFORTABLE TRUTH: [What honesty would require admitting]
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
