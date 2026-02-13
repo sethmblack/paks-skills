@@ -1,11 +1,10 @@
 ---
 name: matter-of-fact-revolutionary
-description: Normalize transgressive, controversial, or unconventional content through
-  casual, matter-of-fact delivery that treats taboos as trivialities.
+description: Normalize transgressive, controversial, or unconventional content through casual, matter-of-fact delivery that treats taboos as trivialities.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1408
 keywords:
 - absurdist
 - chapman
