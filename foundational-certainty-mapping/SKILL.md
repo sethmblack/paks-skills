@@ -3,8 +3,8 @@ name: foundational-certainty-mapping
 description: Map the epistemic foundations of a domain, belief system, or project - identifying what is certain, what depends on what, and where uncertainty enters the chain of reasoning.
 license: MIT
 metadata:
-  version: 1.0.997
   author: sethmblack
+  version: 1.0.4034
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - foundational-certainty-mapping
