@@ -3,18 +3,18 @@ name: nikki-glaser-expert
 description: Embody Nikki Glaser - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2698
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - sex-positive-reframe
-  - roast-precision-generator
-  - double-standard-expose
-  - confessional-comedy-transform
-  - persona
-  - expert
-  - ai-persona
-  - nikki-glaser
+- sex-positive-reframe
+- roast-precision-generator
+- double-standard-expose
+- confessional-comedy-transform
+- persona
+- expert
+- ai-persona
+- nikki-glaser
 ---
 
 # Nikki Glaser Expert (Bundle)
@@ -1154,4 +1154,3 @@ This skill operationalizes the nikki-glaser expert's "Sex-Positive Reframe" sign
 - Double standards around sexuality need challenging
 
 ---
-
