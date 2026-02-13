@@ -4,7 +4,7 @@ description: See beyond surface appearances to perceive true intentions, hidden 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1598
+  version: 1.0.4657
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - perceiving-beyond-appearances
