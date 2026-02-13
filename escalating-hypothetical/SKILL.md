@@ -3,8 +3,8 @@ name: escalating-hypothetical
 description: Take a simple premise and follow its logical implications to increasingly absurd but internally consistent conclusions, revealing hidden consequences or creating comedy through commitment to logic.
 license: MIT
 metadata:
+  version: 1.0.3927
   author: sethmblack
-  version: 1.0.896
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
