@@ -1,21 +1,27 @@
 ---
 name: experimental-design-framework
-description: Design rigorous experiments with controlled variables, precise measurements,
-  and systematic documentation. Plan investigations that produce reliable, reproducible
-  results.
+description: Design rigorous experiments with controlled variables, precise measurements, and systematic documentation. Plan investigations that produce reliable, reproducible results.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.926
   author: sethmblack
 keywords:
+- a-b-testing
 - experimental-design-framework
-- transformation
-- writing
+- research
+- scientific-method
+- testing
 ---
 
 # Experimental Design Framework
 
-Design rigorous experiments with controlled variables, precise measurements, and systematic documentation. Plan investigations that produce reliable, reproducible results.
+Design rigorous experiments with controlled variables, precise measurements, and systematic documentation. This methodology produces reliable, reproducible results by applying the meticulous standards exemplified by Rosalind Franklin, who spent eight months designing apparatus before collecting definitive DNA data. The framework transforms vague research questions into precise, testable hypotheses, identifies all variables (independent, dependent, controlled, confounding), specifies exact measurement protocols, designs appropriate controls, determines sample size and duration, anticipates confounds before they occur, and defines success criteria before data collection begins. The result is an experiment where differences in results can be confidently attributed to the variables being tested rather than uncontrolled factors.
+
+---
+
+## Core Principle
+
+Design time is not wasted time. Every condition that could affect results must be specified and controlled before data collection begins. Franklin controlled humidity to plus or minus one percent and exposure time to the hour; this precision is what made Photo 51 definitive. Reproducibility requires that another researcher could replicate your exact conditions.
 
 ---
 
@@ -150,32 +156,6 @@ Before collecting data, specify:
 
 ---
 
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
-
 ## Output Format
 
 ```markdown
@@ -262,52 +242,38 @@ Franklin built a custom tilting micro camera because existing tools were inadequ
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+**1. Rushing to data collection**
+- Wrong: Starting the experiment before the design is complete
+- Right: Completing all seven design steps before collecting any data
+- Why: Design flaws cannot be fixed after data collection; start over or accept compromised results
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+**2. Vague research questions**
+- Wrong: "Is our product good?"
+- Right: "What percentage of users complete signup within one session?"
+- Why: Vague questions produce vague answers; precision enables measurement
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+**3. Unspecified success criteria**
+- Wrong: "We'll know success when we see it"
+- Right: "Hypothesis confirmed if [specific outcome with threshold]"
+- Why: Post-hoc success criteria invite motivated reasoning
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+**4. Ignoring confounds**
+- Wrong: Assuming differences are due to your variable
+- Right: Explicitly identifying and mitigating potential confounds
+- Why: Confounds can explain results as well as your hypothesis can
 
-**Example output:** See the Example section below for a complete demonstration.
+**5. Stopping early**
+- Wrong: Ending the experiment when results look good
+- Right: Running the full duration regardless of interim results
+- Why: Early stopping inflates false positive rates; noise looks like signal
+
+---
 
 ## Example
 
 **Input:** "We want to know if our new checkout flow increases conversion. How should we test this?"
-
-**Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Experimental Design: Checkout Flow Conversion Impact
 
@@ -388,7 +354,34 @@ Does the new checkout flow (version B) produce a higher checkout completion rate
 
 ## Integration
 
-This skill is part of the **Rosalind Franklin** expert persona. Use it when planning any investigation where reliable results matter. It pairs well with:
-- **variable-control-analysis** for troubleshooting when results are inconsistent
-- **data-first-analysis** for interpreting results once collected
-- **evidence-sufficiency-assessment** for deciding whether results support conclusions
+This skill is part of the **Rosalind Franklin** expert persona. Use it when planning any investigation where reliable results matter.
+
+**Works well with:**
+- `variable-control-analysis` - For troubleshooting when results are inconsistent
+- `data-first-analysis` - For interpreting results once collected
+- `evidence-sufficiency-assessment` - For deciding whether results support conclusions
+
+**When to prefer this over alternatives:**
+- Planning any research, test, or structured investigation
+- Need to measure something with confidence
+- Before launching A/B tests, user research, or product experiments
+- When previous investigations produced inconclusive results
+
+**Cautions:**
+- This skill is for design, not execution or analysis
+- Not every investigation can be perfectly controlled; identify the best feasible design
+- Experimental design requires domain knowledge; use this framework as a scaffold
+
+---
+
+## Success Criteria
+
+Experimental design is successful when:
+- [ ] Research question is specific, measurable, and bounded
+- [ ] All variable types are identified (independent, dependent, controlled, confounding)
+- [ ] Measurement protocol specifies method, instrument, precision, and conditions
+- [ ] Control design includes control group, randomization, and blinding where applicable
+- [ ] Sample size and duration are justified
+- [ ] Confounds are anticipated and mitigation strategies defined
+- [ ] Success criteria specify what confirms, refutes, or is inconclusive
+- [ ] Another researcher could replicate the experiment from the design document
