@@ -1,19 +1,28 @@
 ---
 name: eternal-recurrence-test
-description: 'Evaluate decisions, actions, or life directions using Nietzsche''s ultimate
-  existential criterion: Would you will this to recur infinitely?'
+description: 'Evaluate decisions, actions, or life directions using Nietzsche''s ultimate existential criterion: Would you will this to recur infinitely?'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.906
   author: sethmblack
 keywords:
+- authenticity
+- decision-making
 - eternal-recurrence-test
-- writing
+- existentialism
+- nietzsche
+- philosophy
 ---
 
 # Eternal Recurrence Test
 
-Evaluate decisions, actions, or life directions using Nietzsche's ultimate existential criterion: Would you will this to recur infinitely?
+Evaluate decisions, actions, or life directions using Nietzsche's ultimate existential criterion: Would you will this to recur infinitely? This thought experiment imagines a demon declaring that your life as you now live it will recur innumerably more times, with every pain, joy, thought, and sigh in the same sequence forever. The question is not whether you can endure this eternally, but whether you can will it joyfully. The test reveals whether choices are authentic expressions of what you truly want or merely compromises with fear, duty, and expectation. Only that which you could embrace with amor fati, love of fate, passes the test. Everything else reveals itself as accommodation to forces that diminish your life. This is Nietzsche's "heaviest weight," the ultimate criterion for authentic choice.
+
+---
+
+## Core Principle
+
+There is a vast difference between surviving something, accepting something, and affirming something with your whole being. The eternal recurrence test demands the third. "Good enough" and "acceptable" are failing grades. The standard is joyful affirmation: willing this exact choice, with all its consequences, forever.
 
 ---
 
@@ -130,43 +139,34 @@ If you had to [specific decision/action] infinitely, in every detail, forever:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+**1. Softening the test**
+- Wrong: "Can you live with this?" or "Is this acceptable?"
+- Right: "Can you will this joyfully, eternally?"
+- Why: The test demands affirmation, not tolerance; lowering the bar defeats the purpose
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+**2. Allowing justifications to substitute for affirmation**
+- Wrong: "I should do this because others expect it"
+- Right: "Do I genuinely want this, regardless of expectations?"
+- Why: External reasons mask whether you truly affirm the choice
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+**3. Confusing endurance with willing**
+- Wrong: "I can survive this forever"
+- Right: "I would choose this forever"
+- Why: Many terrible things can be endured; the test asks about embracing
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+**4. Applying to trivial decisions**
+- Wrong: Using eternal recurrence to decide what to have for lunch
+- Right: Reserving for significant life decisions where authenticity matters
+- Why: This is the heaviest weight; applying it carelessly trivializes it
 
-**Example output:** See the Example section below for a complete demonstration.
+**5. Using as excuse for hedonism**
+- Wrong: "I must maximize pleasure since I'll repeat this forever"
+- Right: "I must live authentically since I'll repeat this forever"
+- Why: The test is about authentic choice, not sensation-seeking
 
-## Additional Notes
-
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
-
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
-
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
+---
 
 ## Example
 
@@ -216,4 +216,32 @@ You say the startup is "risky" - but what is the risk of the corporate job? The 
 
 ## Integration
 
-This skill is part of the **Friedrich Nietzsche** expert persona. Use it when you need the ultimate test of authentic choice - not what is practical, safe, or expected, but what you could affirm eternally.
+This skill is part of the **Friedrich Nietzsche** expert persona. Use it when you need the ultimate test of authentic choice, not what is practical, safe, or expected, but what you could affirm eternally.
+
+**Works well with:**
+- `will-to-power-analysis` - For understanding the drives behind choices
+- `master-slave-morality-diagnosis` - For identifying whether choices reflect authentic values
+- `creative-destruction` - For rebuilding after the test reveals inauthenticity
+
+**When to prefer this over alternatives:**
+- Facing a significant life decision
+- Evaluating whether your current path is truly what you want
+- Testing the authenticity of your choices
+- Seeking clarity on what you genuinely affirm vs. merely tolerate
+
+**Cautions:**
+- This is a demanding standard; not every decision requires it
+- The test reveals truth but does not guarantee wisdom
+- Some choices have consequences for others; amor fati is not license for harm
+
+---
+
+## Success Criteria
+
+Eternal recurrence test is successful when:
+- [ ] Decision is stated clearly
+- [ ] External justifications are stripped away
+- [ ] The recurrence question is applied honestly
+- [ ] Affirmation or failure is acknowledged without softening
+- [ ] Analysis reveals what authentic desire requires
+- [ ] Challenge provokes rather than comforts
