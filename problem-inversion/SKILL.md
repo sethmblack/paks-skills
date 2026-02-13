@@ -3,7 +3,7 @@ name: problem-inversion
 description: When stuck on a problem, swap the given and required to find simpler paths. Work backwards from the solution to the starting conditions. Claude Shannon's technique.
 license: MIT
 metadata:
-  version: 1.0.1675
+  version: 1.0.4739
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
