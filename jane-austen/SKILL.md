@@ -4,7 +4,7 @@ description: Embody Jane Austen - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1222
+  version: 1.0.4269
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-deception-diagnosis
