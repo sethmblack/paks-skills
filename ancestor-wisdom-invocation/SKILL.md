@@ -4,7 +4,7 @@ description: Ground present decisions and creative work in ancestral wisdom, con
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2924
+  version: 1.0.3384
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ancestor-wisdom-invocation
