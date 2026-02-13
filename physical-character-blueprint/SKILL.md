@@ -3,8 +3,8 @@ name: physical-character-blueprint
 description: Create a complete physical characterization through movement, posture, and gesture before adding words. Based on Red Skelton's methodology of defining characters through their bodies first.
 license: MIT
 metadata:
+  version: 1.0.4684
   author: sethmblack
-  version: 1.0.1625
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
