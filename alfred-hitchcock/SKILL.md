@@ -1,11 +1,10 @@
 ---
 name: alfred-hitchcock-expert
-description: Embody Alfred Hitchcock - AI persona expert with integrated methodology
-  skills
+description: Embody Alfred Hitchcock - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.52
 keywords:
 - villain-development
 - macguffin-identification
@@ -1281,5 +1280,3 @@ AI scheduling assistant startup
 This skill is part of the **Alfred Hitchcock** expert persona. Use it to transform weak conflicts into compelling confrontations that the audience genuinely wants to see resolved.
 
 "The more successful the villain, the more successful the picture."
-
-
