@@ -3,16 +3,16 @@ name: tom-segura-expert
 description: Embody Tom Segura - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.10
 keywords:
-  - uncomfortable-truth-extraction
-  - segura-deadpan-escalation
-  - callback-architecture
-  - persona
-  - expert
-  - ai-persona
-  - tom-segura
+- uncomfortable-truth-extraction
+- segura-deadpan-escalation
+- callback-architecture
+- persona
+- expert
+- ai-persona
+- tom-segura
 ---
 
 # Tom Segura Expert (Bundle)
@@ -1020,4 +1020,3 @@ This skill is part of the **Patrice O'Neal** expert persona. Use it when politen
 The skill should feel confrontational - if everyone immediately agrees with the output, you probably haven't gone deep enough.
 
 ---
-
