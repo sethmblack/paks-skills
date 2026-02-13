@@ -1,10 +1,9 @@
 ---
 name: disproportionate-response
-description: A skill for designing actions where the punishment reveals the nature
-  of the oppressor, turning overreaction into your message.
+description: A skill for designing actions where the punishment reveals the nature of the oppressor, turning overreaction into your message.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.811
   author: sethmblack
 keywords:
 - disproportionate-response
