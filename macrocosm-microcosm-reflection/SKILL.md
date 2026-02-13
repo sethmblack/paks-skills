@@ -1,12 +1,10 @@
 ---
 name: macrocosm-microcosm-reflection
-description: Illuminate any local situation by connecting it to larger patterns, using
-  Hildegard's principle that what is true in the whole is reflected in the part, and
-  what is true in the part reflects the wh...
+description: Illuminate any local situation by connecting it to larger patterns, using Hildegard's principle that what is true in the whole is reflected in the part, and what is true in the part reflects the wh...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1364
 keywords:
 - macrocosm-microcosm-reflection
 - writing
