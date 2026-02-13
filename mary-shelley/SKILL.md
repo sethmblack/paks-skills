@@ -3,7 +3,7 @@ name: mary-shelley-expert
 description: Embody Mary Shelley - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.197
+  version: 1.0.1399
   author: sethmblack
 keywords:
 - promethean-risk-assessment
