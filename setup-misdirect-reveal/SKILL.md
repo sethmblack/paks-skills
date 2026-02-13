@@ -4,7 +4,7 @@ description: 'Transform straightforward content into layered narratives using Da
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1874
+  version: 1.0.4951
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
