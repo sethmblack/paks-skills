@@ -3,8 +3,8 @@ name: conviction-under-doubt
 description: Act on deep inner conviction when external validation is absent, evidence is lacking, or logic counsels retreat. When the calling is real, proof becomes secondary to obedience.
 license: MIT
 metadata:
+  version: 1.0.3687
   author: sethmblack
-  version: 1.0.3227
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - conviction-under-doubt
