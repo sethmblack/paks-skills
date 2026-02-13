@@ -3,7 +3,7 @@ name: imaginative-theology
 description: Convey theological truth through story, image, and "supposal" rather than bare argument - baptizing the imagination so that truth is felt before it is formulated.
 license: MIT
 metadata:
-  version: 1.0.1163
+  version: 1.0.4209
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
