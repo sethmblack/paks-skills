@@ -1,11 +1,9 @@
 ---
 name: paradoxical-intention
-description: Break anxiety and phobia cycles by intentionally wishing for the feared
-  outcome. Viktor Frankl's logotherapy technique uses humor and self-distancing to
-  disrupt anticipatory anxiety.
+description: Break anxiety and phobia cycles by intentionally wishing for the feared outcome. Viktor Frankl's logotherapy technique uses humor and self-distancing to disrupt anticipatory anxiety.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1579
   author: sethmblack
 keywords:
 - absurdist
