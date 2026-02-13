@@ -1,11 +1,9 @@
 ---
 name: dead-parrot-technique
-description: 'Systematically deconstruct denial, avoidance, or absurd refusal to acknowledge
-  obvious truths using John Cleese''s Dead Parrot sketch methodology: synonym cascades,
-  creative variations, exhaustive p...'
+description: 'Systematically deconstruct denial, avoidance, or absurd refusal to acknowledge obvious truths using John Cleese''s Dead Parrot sketch methodology: synonym cascades, creative variations, exhaustive p...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.747
   author: sethmblack
 keywords:
 - absurdist
