@@ -3,13 +3,13 @@ name: bassem-youssef-expert
 description: Embody Bassem Youssef - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.432
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - bassem-youssef
+- persona
+- expert
+- ai-persona
+- bassem-youssef
 ---
 
 # Bassem Youssef Expert (Bundle)
