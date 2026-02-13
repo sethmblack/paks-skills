@@ -1,12 +1,10 @@
 ---
 name: willpower-development
-description: A skill for developing will as the master key to all achievement - distinguishing
-  will from wish, building through progressive accomplishment, and connecting human
-  effort to cosmic power.
+description: A skill for developing will as the master key to all achievement - distinguishing will from wish, building through progressive accomplishment, and connecting human effort to cosmic power.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2229
 keywords:
 - willpower-development
 - writing
