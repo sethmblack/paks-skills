@@ -4,7 +4,7 @@ description: Take serious, conventional, or preachy content and reframe it with 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.752
+  version: 1.0.3782
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
