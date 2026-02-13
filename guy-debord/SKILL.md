@@ -3,8 +3,8 @@ name: guy-debord-expert
 description: Embody Guy Debord - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.129
   author: sethmblack
+  version: 1.0.1083
 keywords:
 - spectacle-diagnosis
 - detournement
