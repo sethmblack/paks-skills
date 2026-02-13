@@ -1,11 +1,10 @@
 ---
 name: strategic-entrance-design
-description: Design first impressions and initial presentations that establish favorable
-  frames for relationships, negotiations, or new situations.
+description: Design first impressions and initial presentations that establish favorable frames for relationships, negotiations, or new situations.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1991
 keywords:
 - strategic-entrance-design
 - transformation
