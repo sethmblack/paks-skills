@@ -3,7 +3,7 @@ name: square-deal-arbitration
 description: Adjudicate disputes or design policies that achieve genuine fairness without favoritism or class warfare, using Theodore Roosevelt's Square Deal framework.
 license: MIT
 metadata:
-  version: 1.0.1961
+  version: 1.0.5040
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
