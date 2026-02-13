@@ -4,7 +4,7 @@ description: Embody Lee Kuan Yew - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1318
+  version: 1.0.4372
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
