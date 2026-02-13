@@ -4,7 +4,7 @@ description: Develop a personal library of self-talk phrases that build mental s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3096
+  version: 1.0.3556
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - champion-self-talk
