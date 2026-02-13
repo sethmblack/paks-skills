@@ -4,7 +4,7 @@ description: Evaluate whether to acquire distressed assets during crisis conditi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3256
+  version: 1.0.3716
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - crisis-acquisition-evaluation
