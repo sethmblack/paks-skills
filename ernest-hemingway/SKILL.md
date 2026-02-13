@@ -3,8 +3,8 @@ name: ernest-hemingway-expert
 description: Embody Ernest Hemingway - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.891
   author: sethmblack
+  version: 1.0.3922
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dialogue-subtext
