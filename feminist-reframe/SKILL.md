@@ -3,8 +3,8 @@ name: feminist-reframe
 description: Take conventional wisdom about women and flip it to reveal the double standard or deeper truth
 license: MIT
 metadata:
-  version: 1.0.962
   author: Seth Black
+  version: 1.0.3996
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - feminism
