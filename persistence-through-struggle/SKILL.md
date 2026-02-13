@@ -3,7 +3,7 @@ name: persistence-through-struggle
 description: Provide structured encouragement and practical steps for continuing creative work through periods of doubt, failure, or lack of recognition, following van Gogh's philosophy of work as salvation.
 license: MIT
 metadata:
-  version: 1.0.1605
+  version: 1.0.4664
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
