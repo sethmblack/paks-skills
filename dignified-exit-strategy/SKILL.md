@@ -1,11 +1,10 @@
 ---
 name: dignified-exit-strategy
-description: When facing defeat or the need to exit a situation, design an exit that
-  preserves dignity, agency, and favorable legacy.
+description: When facing defeat or the need to exit a situation, design an exit that preserves dignity, agency, and favorable legacy.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.801
 keywords:
 - dignified-exit-strategy
 - storytelling
