@@ -3,7 +3,7 @@ name: brian-chesky-expert
 description: Embody Brian Chesky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.77
   author: sethmblack
 keywords:
 - unscalable-engagement
@@ -3938,5 +3938,3 @@ Pairs well with:
 - **founder-mode-assessment** - for ensuring leader is engaged enough to deliver authentically
 - **culture-first-audit** - for ensuring communication aligns with stated values
 - **storyboard-experience** - for mapping the affected person's experience of receiving news
-
-
