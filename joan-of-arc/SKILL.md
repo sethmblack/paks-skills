@@ -3,13 +3,13 @@ name: joan-of-arc-expert
 description: Embody Joan Of Arc - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1238
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - joan-of-arc
+- persona
+- expert
+- ai-persona
+- joan-of-arc
 ---
 
 # Joan Of Arc Expert (Bundle)
