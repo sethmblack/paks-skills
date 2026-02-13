@@ -4,7 +4,7 @@ description: Guidance for establishing conscious connection with the psychic bei
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1696
+  version: 1.0.4761
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - psychic-being-contact
