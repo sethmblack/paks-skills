@@ -1,11 +1,9 @@
 ---
 name: six-stations-discipline
-description: A complete framework for spiritual self-discipline derived from Al-Ghazali's
-  *Ihya 'Ulum al-Din* Book 38 (Vigilance and Self-Examination). This system treats
-  spiritual development as a cycle of com...
+description: A complete framework for spiritual self-discipline derived from Al-Ghazali's *Ihya 'Ulum al-Din* Book 38 (Vigilance and Self-Examination). This system treats spiritual development as a cycle of com...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1916
   author: sethmblack
 keywords:
 - six-stations-discipline
