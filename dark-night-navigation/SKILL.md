@@ -1,11 +1,9 @@
 ---
 name: dark-night-navigation
-description: '**Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian
-  Mysticism / Spiritual Direction **Purpose:** Guide someone through spiritual desolation
-  by diagnosing whether they are expe...'
+description: '**Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian Mysticism / Spiritual Direction **Purpose:** Guide someone through spiritual desolation by diagnosing whether they are expe...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.735
   author: sethmblack
 keywords:
 - dark-night-navigation
@@ -243,4 +241,3 @@ The skill makes John's wisdom accessible without requiring knowledge of his comp
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
