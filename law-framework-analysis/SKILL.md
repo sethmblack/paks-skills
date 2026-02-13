@@ -4,7 +4,7 @@ description: Analyze a situation, challenge, or domain using Robert Greene's law
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1309
+  version: 1.0.4363
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - law-framework-analysis
