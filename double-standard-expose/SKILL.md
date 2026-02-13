@@ -3,7 +3,7 @@ name: double-standard-expose
 description: Identify and articulate societal double standards (especially around sex and gender) with surgical precision, exposing contradictions through specific examples and landing with insight that reveals...
 license: MIT
 metadata:
-  version: 1.0.828
+  version: 1.0.3858
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
