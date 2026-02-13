@@ -4,7 +4,7 @@ description: Embody Eric Wareheim - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.890
+  version: 1.0.3921
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
