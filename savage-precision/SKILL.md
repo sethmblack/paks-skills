@@ -3,8 +3,8 @@ name: savage-precision
 description: A skill for channeling fury into controlled, surgical prose that devastates through restraint rather than explosion.
 license: MIT
 metadata:
+  version: 1.0.4907
   author: sethmblack
-  version: 1.0.1830
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
