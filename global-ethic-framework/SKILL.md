@@ -3,8 +3,8 @@ name: global-ethic-framework
 description: 'Identify shared ethical principles across religious, cultural, or worldview divides to enable practical cooperation. Based on Hans Kung''s methodology: "No world peace without peace among religions....'
 license: MIT
 metadata:
+  version: 1.0.4096
   author: sethmblack
-  version: 1.0.1053
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - global-ethic-framework
