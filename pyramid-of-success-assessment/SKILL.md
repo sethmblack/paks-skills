@@ -1,11 +1,10 @@
 ---
 name: pyramid-of-success-assessment
-description: Diagnose what's missing in a person's or team's foundation for success
-  by assessing each building block of John Wooden's Pyramid of Success.
+description: Diagnose what's missing in a person's or team's foundation for success by assessing each building block of John Wooden's Pyramid of Success.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1706
 keywords:
 - pyramid-of-success-assessment
 - writing
