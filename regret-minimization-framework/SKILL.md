@@ -4,7 +4,7 @@ description: Evaluate major life and career decisions by projecting to age 80 an
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1750
+  version: 1.0.4821
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - regret-minimization-framework
