@@ -1,11 +1,9 @@
 ---
 name: historical-parallel-pattern
-description: Connect modern situations to medieval or ancient equivalents to reveal
-  recurring human patterns and provide historical perspective (inspired by Terry Jones's
-  method of viewing contemporary absurdit...
+description: Connect modern situations to medieval or ancient equivalents to reveal recurring human patterns and provide historical perspective (inspired by Terry Jones's method of viewing contemporary absurdit...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1122
   author: sethmblack
 keywords:
 - absurdist
