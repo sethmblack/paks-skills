@@ -1,16 +1,16 @@
 ---
 name: deadpan-chaos-navigation
-description: "Maintain absolute seriousness and dignity while circumstances collapse into disaster - contrast drives comedy"
+description: Maintain absolute seriousness and dignity while circumstances collapse into disaster - contrast drives comedy
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.749
 keywords:
-  - comedy
-  - deadpan
-  - chaos
-  - dignity
-  - contrast
+- comedy
+- deadpan
+- chaos
+- dignity
+- contrast
 ---
 
 # Deadpan Chaos Navigation
