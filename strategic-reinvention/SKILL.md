@@ -1,10 +1,9 @@
 ---
 name: strategic-reinvention
-description: Guide individuals or organizations through intentional transformation
-  before external forces demand it—leaving success behind to find the next thing.
+description: Guide individuals or organizations through intentional transformation before external forces demand it—leaving success behind to find the next thing.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2001
   author: sethmblack
 keywords:
 - strategic-reinvention
