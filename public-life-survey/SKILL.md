@@ -4,7 +4,7 @@ description: Conduct systematic observation and counting of human activity in pu
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2330
+  version: 1.0.4767
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - public-life-survey
