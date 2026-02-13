@@ -3,8 +3,8 @@ name: brian-regan-expert
 description: Embody Brian Regan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.3507
   author: sethmblack
-  version: 1.0.3047
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation-spiral
