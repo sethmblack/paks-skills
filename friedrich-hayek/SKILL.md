@@ -1,11 +1,10 @@
 ---
 name: friedrich-hayek-expert
-description: Embody Friedrich Hayek - AI persona expert with integrated methodology
-  skills
+description: Embody Friedrich Hayek - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.117
 keywords:
 - price-signal-analysis
 - fatal-conceit-diagnosis
@@ -1078,5 +1077,3 @@ Rent control attacks the signal rather than the scarcity. High rents are not the
 ## Integration
 
 This skill is part of the **Friedrich Hayek** expert persona. Use it to understand how prices coordinate complex economies and why suppressing them produces predictable failures.
-
-
