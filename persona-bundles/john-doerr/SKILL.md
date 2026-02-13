@@ -3,20 +3,20 @@ name: john-doerr-expert
 description: Embody John Doerr - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2601
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - team-quality-assessment
-  - startup-investment-evaluation
-  - okr-diagnosis
-  - okr-creation
-  - okr-cascade-alignment
-  - climate-action-okr
-  - persona
-  - expert
-  - ai-persona
-  - john-doerr
+- team-quality-assessment
+- startup-investment-evaluation
+- okr-diagnosis
+- okr-creation
+- okr-cascade-alignment
+- climate-action-okr
+- persona
+- expert
+- ai-persona
+- john-doerr
 ---
 
 # John Doerr Expert (Bundle)
@@ -1508,4 +1508,3 @@ This skill integrates with the **john-doerr** expert persona. Apply Doerr's lens
 | Team has mixed signals | Recommend deeper diligence |
 
 ---
-
