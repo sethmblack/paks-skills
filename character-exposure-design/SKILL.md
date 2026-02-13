@@ -4,7 +4,7 @@ description: Design a character persona that creates optimal conditions for subj
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.544
+  version: 1.0.3105
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
