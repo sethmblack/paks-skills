@@ -4,7 +4,7 @@ description: Embody Cleopatra - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3149
+  version: 1.0.3609
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dignified-exit-strategy
