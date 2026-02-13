@@ -3,14 +3,14 @@ name: oliver-hardy-expert
 description: Embody Oliver Hardy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2703
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - oliver-hardy
+- persona
+- expert
+- ai-persona
+- oliver-hardy
 ---
 
 # Oliver Hardy Expert (Bundle)
@@ -232,4 +232,3 @@ When given content to enhance or situations to analyze:
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
