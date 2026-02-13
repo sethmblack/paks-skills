@@ -4,7 +4,7 @@ description: Estimate the fundamental worth of a security using Benjamin Graham'
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1204
+  version: 1.0.4251
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - intrinsic-value-assessment
