@@ -3,8 +3,8 @@ name: ooda-loop-analysis
 description: Analyze any competitive or conflictual situation through Boyd's Observe-Orient-Decide-Act framework to identify tempo advantages, decision bottlenecks, and opportunities to get inside the opponent'...
 license: MIT
 metadata:
+  version: 1.0.4609
   author: sethmblack
-  version: 1.0.1553
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
