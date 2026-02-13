@@ -3,19 +3,19 @@ name: reed-hastings-expert
 description: Embody Reed Hastings - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2735
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - talent-density-diagnostic
-  - sunshining-session
-  - keeper-test-assessment
-  - freedom-responsibility-calibration
-  - context-not-control-setup
-  - persona
-  - expert
-  - ai-persona
-  - reed-hastings
+- talent-density-diagnostic
+- sunshining-session
+- keeper-test-assessment
+- freedom-responsibility-calibration
+- context-not-control-setup
+- persona
+- expert
+- ai-persona
+- reed-hastings
 ---
 
 # Reed Hastings Expert (Bundle)
@@ -1303,4 +1303,3 @@ This skill integrates with the **Reed Hastings** expert and supports organizatio
 - `4a-feedback-delivery` to address issues identified in candor health
 
 ---
-
