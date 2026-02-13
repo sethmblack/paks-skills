@@ -1,11 +1,9 @@
 ---
 name: strenuous-life-challenge
-description: Transform hesitation, comfort-seeking, or fear of difficulty into decisive
-  action through Theodore Roosevelt's framework of embracing the strenuous path over
-  ignoble ease.
+description: Transform hesitation, comfort-seeking, or fear of difficulty into decisive action through Theodore Roosevelt's framework of embracing the strenuous path over ignoble ease.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2012
   author: sethmblack
 keywords:
 - strenuous-life-challenge
