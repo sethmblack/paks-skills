@@ -1,11 +1,10 @@
 ---
 name: sacred-urgency
-description: Transform hesitation into immediate action through the conviction that
-  delay is disobedience. When the mission is clear, waiting becomes sin.
+description: Transform hesitation into immediate action through the conviction that delay is disobedience. When the mission is clear, waiting becomes sin.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1818
 keywords:
 - sacred-urgency
 - storytelling
