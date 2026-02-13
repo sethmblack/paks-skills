@@ -4,7 +4,7 @@ description: Reframe content to make yourself the target or fool instead of othe
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1854
+  version: 1.0.4931
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
