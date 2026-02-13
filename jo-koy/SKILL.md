@@ -3,13 +3,13 @@ name: jo-koy-expert
 description: Embody Jo Koy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1237
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - jo-koy
+- persona
+- expert
+- ai-persona
+- jo-koy
 ---
 
 # Jo Koy Expert (Bundle)
