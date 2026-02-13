@@ -1,31 +1,32 @@
 ---
 name: junto-circle
-description: Design and facilitate mutual improvement groups using Benjamin Franklin's
-  structured inquiry approach—the model that spawned America's first lending library,
-  the American Philosophical Society, and...
-license: MIT
-metadata:
-  version: 1.0.0
-  author: sethmblack
-keywords:
-- junto-circle
-- writing
+description: Design and facilitate mutual improvement groups using Benjamin Franklin's structured inquiry approach - the model that spawned America's first lending library, the American Philosophical Society, and the University of Pennsylvania.
+version: 1.0.1
+author: sethmblack
+tags:
+  - community
+  - networking
+  - peer-learning
+  - mastermind
+  - professional-development
 ---
 
 # Junto Circle
 
-Design and facilitate mutual improvement groups using Benjamin Franklin's structured inquiry approach—the model that spawned America's first lending library, the American Philosophical Society, and the University of Pennsylvania.
+Benjamin Franklin founded the Junto in 1727 as "a club of mutual improvement" - a structured gathering of tradespeople committed to helping each other succeed through shared inquiry, mutual aid, and disciplined discussion. This modest Friday-night gathering of printers, surveyors, and craftsmen became the seedbed for America's first lending library, the American Philosophical Society, the University of Pennsylvania, and the nation's first volunteer fire department. The Junto's power came not from the prominence of its members (they were unknown at the time) but from its design: standing questions that forced preparation, norms that ensured generosity, and a structure that multiplied rather than expanded. This skill helps you design and facilitate mutual improvement groups using Franklin's time-tested framework. Whether you seek to build a mastermind group, professional development circle, or community of practice, the Junto model provides a proven structure for transforming networking meetings into genuine engines of collective advancement. The key insight is that true mutual improvement requires both structure (standing questions, regular rhythm, norms) and spirit (genuine desire to help others succeed).
 
 ---
 
 ## When to Use
 
-- User wants to start a mastermind or peer learning group
-- Designing networking meetings that produce real value
-- Creating discussion frameworks for teams or communities
-- Building professional development groups
-- Request for "Franklin's Junto model" or "structured peer group"
-- User feels isolated and wants meaningful professional connections
+- User wants to start a mastermind, peer learning, or accountability group
+- Designing networking meetings that produce real value rather than business card exchanges
+- Creating discussion frameworks for teams, chapters, or communities
+- Building professional development groups within organizations
+- User explicitly requests "Franklin's Junto model" or "structured peer group"
+- Someone feels isolated and wants meaningful professional connections
+- Existing groups feel stale and need structural refresh
+- Organization wants to build social capital among employees or members
 
 ---
 
@@ -33,219 +34,140 @@ Design and facilitate mutual improvement groups using Benjamin Franklin's struct
 
 | Input | Required | Description |
 |-------|----------|-------------|
-| purpose | Yes | Primary goal of the group (learning, business, personal development, civic) |
-| size | No | Target number of members (default: 8-12, Franklin's Junto was 12) |
-| member_profile | No | Characteristics of ideal members |
+| purpose | Yes | Primary goal of the group (learning, business development, personal development, civic engagement) |
+| size | No | Target number of members (default: 8-12; Franklin's Junto was 12) |
+| member_profile | No | Characteristics of ideal members (profession, stage, values) |
 | meeting_frequency | No | How often to meet (default: weekly or bi-weekly) |
-| domain | No | Specific field or topic focus |
+| domain | No | Specific field or topic focus, if any |
+| constraints | No | Limitations such as virtual-only, limited time, geographic spread |
 
 ---
 
-## The Junto Model: Six Design Principles
+## Core Principle
 
-### Principle 1: Diverse Trades, Common Purpose
+The Junto's genius was combining diverse perspectives with structured inquiry and mandatory mutual aid. Members came from different trades (avoiding direct competition) but shared commitment to improvement and willingness to help. Every meeting extracted value through standing questions that required preparation, and every member was expected to actively seek ways to help others between meetings. The result was not networking but genuine community - relationships built on demonstrated generosity over time.
 
-Franklin's original Junto included printers, surveyors, glaziers, merchants, and cabinet makers—diverse occupations united by curiosity and civic mindedness.
+---
 
-**Selection criteria:**
+## Methodology
+
+### Phase 1: Define Purpose and Success Metrics
+
+Articulate what the group exists to accomplish and how you will know it is working.
+
+**Purpose statement template:**
+"The [Group Name] exists to [primary purpose] by [method] among [type of members]."
+
+**Success indicators to track:**
+- Tangible outcomes (deals, hires, projects) from member connections
+- Skill development measurable in members' work
+- Consistent attendance over time (the real vote of confidence)
+- Member-to-member connections outside scheduled meetings
+- Member willingness to refer others to the group
+
+### Phase 2: Design Membership Criteria and Selection Process
+
+Franklin selected Junto members carefully: diverse trades, shared values, willingness to both give and receive.
+
+**Selection criteria to define:**
 - Different skills and perspectives (avoid echo chambers)
 - Shared commitment to mutual improvement
-- Willingness to both give and receive help
+- Willingness to both give and receive help (no takers, no givers-only)
 - Reliability in attendance and preparation
-- "Good morals" (trustworthiness and discretion)
+- Trustworthiness and discretion ("good morals" in Franklin's terms)
 
-**Exclusions:**
+**Exclusions to enforce:**
 - People who only want to take, not give
 - Those who cannot keep confidences
 - Members with directly competing interests
 - Anyone who dominates rather than discusses
 
-### Principle 2: Standing Questions
+**Selection process:**
+1. Existing member must sponsor new candidate with written rationale
+2. Candidate meets informally with 2-3 existing members
+3. Candidate attends one meeting as guest
+4. Existing members discuss; unanimous or supermajority approval required
+5. New member commits to norms and minimum tenure (6-12 months)
 
-Every meeting includes the same structured inquiries that force preparation and ensure value.
+**Optimal size:** 8-12 active members
+- Smaller than 6 loses diversity of perspective
+- Larger than 15 loses intimacy and airtime
 
-**Franklin's original standing questions:**
-1. "Have you met with any thing in the author you last read, remarkable, or suitable to be communicated to the Junto?"
-2. "What new story have you lately heard agreeable for telling in conversation?"
-3. "Have you lately heard of any citizen's thriving well, and by what means?"
-4. "Have you lately heard how any present rich man, here or elsewhere, got his estate?"
-5. "Do you know of any fellow citizen who has lately done a worthy action?"
-6. "What unhappy effects of intemperance have you lately observed or heard?"
-7. "What unhappy effects of imprudence? of passion? or of any other vice or folly?"
-8. "Hath any deserving stranger arrived in town since last meeting?"
-9. "Have you heard of any useful discovery or invention?"
-10. "Do you know of any fellow citizen who has done a good thing?"
+### Phase 3: Create Standing Questions
 
-**Modern adaptations by purpose:**
-- Business: Opportunities, challenges, resources, introductions
-- Learning: Readings, discoveries, skills developed, questions arising
-- Civic: Community needs, volunteer opportunities, policy issues
-- Personal development: Wins, struggles, insights, accountability
+The Junto's greatest innovation was standing questions - the same structured inquiries at every meeting that force preparation and ensure consistent value.
 
-### Principle 3: Mutual Aid Commitment
+**Franklin's original standing questions (adapted for modern use):**
+1. What have you read recently that's worth sharing?
+2. What success have you observed and what caused it?
+3. What failure have you observed and what caused it?
+4. What useful discovery or opportunity have you encountered?
+5. Have you met anyone the group should know?
+6. How can the group help you?
 
-Members actively help each other succeed. This is not a passive listening group.
+**Question design principles:**
+- Each question should surface actionable information
+- Mix backward-looking (what happened) with forward-looking (what's coming)
+- Include both wins and struggles
+- Always include mutual aid component (never skip this)
+- Questions should require preparation (no showing up empty)
 
-**Built-in mutual aid questions:**
-- "Is there any way the Junto can assist you in your business?"
-- "What connections would be useful to you?"
-- "What knowledge do you need that someone here might have?"
+### Phase 4: Establish Meeting Structure and Rhythm
 
-**Commitment expectations:**
-- Actively look for ways to help other members between meetings
-- Share opportunities, not just advice
-- Make introductions when you can
-- Keep confidences absolutely
+**Recommended meeting structure (2-3 hours):**
 
-### Principle 4: Debate Without Dispute
-
-Discussions should illuminate, not divide.
-
-**Franklin's rules of engagement:**
-- No positiveness of opinion (use tentative language)
-- Inquire rather than assert
-- Seek to understand before seeking to be understood
-- "In the conduct of my Junto I was particularly careful to avoid all direct contradiction to the sentiments of others"
-
-**Practical implementation:**
-- Start contributions with "I wonder whether..."
-- Ask clarifying questions before disagreeing
-- Separate the person from the position
-- Find partial agreements before discussing differences
-
-### Principle 5: Regular Rhythm, Long Commitment
-
-The Junto met for over 30 years. Value compounds over time.
-
-**Meeting structure (2 hours recommended):**
-1. Opening ritual (5 min) - Review group purpose and norms
-2. Standing questions round-robin (30-40 min) - Each member responds briefly
-3. Featured topic or presentation (30-40 min) - One member goes deep
-4. Mutual aid discussion (20-30 min) - How can we help each other?
-5. Closing commitments (10 min) - What will each member do before next meeting?
+| Segment | Duration | Purpose |
+|---------|----------|---------|
+| Opening ritual | 5-10 min | Review group purpose and norms; connect informally |
+| Standing questions round-robin | 30-45 min | Each member responds briefly to standing questions |
+| Featured topic or hot seat | 30-45 min | One member goes deep; group problem-solves |
+| Mutual aid matching | 20-30 min | Connect asks with offers; assign follow-ups |
+| Closing commitments | 10-15 min | Each member states one action before next meeting |
 
 **Attendance expectations:**
 - Minimum 75% attendance to remain member
 - Notify in advance of absences
 - Prepare for meetings; unprepared attendance wastes everyone's time
 
-### Principle 6: The Multiplication Principle
+**Meeting rhythm:**
+- Weekly builds strong habits and relationships
+- Bi-weekly works for busy professionals
+- Monthly requires longer meetings to maintain connection
 
-Instead of growing the original group, help members start their own.
+### Phase 5: Codify Norms and Rituals
 
-**Franklin's approach:** When the Junto succeeded, he "urged each member to start his own group" rather than enlarging the original.
+**Essential norms:**
+1. **Confidentiality:** What's shared here stays here. No exceptions.
+2. **Preparation:** Come ready to contribute to standing questions.
+3. **Generosity:** Actively seek ways to help others between meetings.
+4. **Candor:** Speak truth with kindness; honest feedback is a gift.
+5. **Commitment:** Prioritize attendance; chronic absence means graceful exit.
+6. **No pitching:** This is not a sales channel. Help freely; don't sell each other.
 
-**Benefits:**
+**Rituals to consider:**
+- Consistent meeting time and place (reduces coordination overhead)
+- Shared meal or drinks (deepens relationship beyond business)
+- Opening question or moment of reflection (transitions from outside world)
+- Closing commitment round (creates accountability)
+- Annual celebration or retreat (marks the journey)
+
+### Phase 6: Plan for Multiplication, Not Expansion
+
+Franklin's key insight: instead of growing the original group, help members start their own.
+
+**The multiplication principle:**
+- After 1 year, encourage founding members to launch spin-off groups
+- Provide the template and standing questions
+- Maintain connections between groups through occasional joint meetings
+- Original group becomes "senate" of group leaders
+
+**Benefits of multiplication:**
 - Preserves intimacy and trust of original group
 - Extends network exponentially
 - Develops leadership in members
 - Creates multi-layered mutual aid network
 
-**Implementation:**
-- After 1 year, encourage members to launch spin-off groups
-- Provide template and standing questions
-- Maintain connections between groups through occasional joint meetings
-- The original group becomes a "senate" of group leaders
-
 ---
-
-## The Design Process
-
-### Step 1: Define Purpose and Success Metrics
-
-What specifically should members gain? How will you know it's working?
-
-**Purpose statement template:**
-"The [Group Name] exists to [primary purpose] by [method] among [type of members]."
-
-**Success indicators:**
-- Tangible outcomes (deals, hires, projects) from member connections
-- Skill development measurable in members' work
-- Consistent attendance over time (the real vote)
-- Member-to-member connections outside meetings
-
-### Step 2: Design Standing Questions
-
-Create 5-10 questions tailored to your purpose that ensure every meeting produces value.
-
-**Question design principles:**
-- Each question should surface actionable information
-- Mix backward-looking (what happened) with forward-looking (what's coming)
-- Include both wins and struggles
-- Always include mutual aid component
-
-### Step 3: Define Membership Criteria and Process
-
-Who should be invited? How do new members join?
-
-**Invitation process:**
-- Existing member must sponsor new candidate
-- Candidate attends as guest once
-- Members vote (unanimous or supermajority required)
-- Clear criteria shared before candidacy
-
-**Size management:**
-- 8-12 active members is optimal
-- Smaller than 6 loses diversity of perspective
-- Larger than 15 loses intimacy and airtime
-
-### Step 4: Establish Norms and Rituals
-
-What behaviors are expected? What traditions build culture?
-
-**Essential norms:**
-- Confidentiality: "What's shared here stays here"
-- Preparation: Come ready to contribute
-- Generosity: Actively seek to help others
-- Candor: Speak truth with kindness
-- Commitment: Prioritize attendance
-
-**Rituals to consider:**
-- Consistent meeting time and place
-- Shared meal or drinks
-- Opening question or moment of reflection
-- Closing commitment round
-- Annual celebration or retreat
-
-### Step 5: Plan the First Meeting
-
-Structure that builds trust and establishes patterns.
-
-**First meeting agenda:**
-1. Introductions (more depth than usual)
-2. Review and adopt group purpose
-3. Review and adopt norms
-4. Practice standing questions (full round-robin)
-5. Discuss meeting logistics
-6. Commit to next meeting
-
----
-
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
 
 ## Output Format
 
@@ -253,32 +175,34 @@ Create actionable outputs:
 ## Your Junto Circle Design
 
 ### Purpose Statement
-[Clear, specific statement of why this group exists]
+[Clear, specific statement of why this group exists and what members will gain]
 
 ### Success Metrics
-- [Metric 1]
-- [Metric 2]
-- [Metric 3]
+- [Metric 1: tangible outcomes]
+- [Metric 2: relationship indicators]
+- [Metric 3: attendance/engagement]
 
 ### Membership Profile
+
 **Ideal member characteristics:**
 - [Characteristic 1]
 - [Characteristic 2]
+- [Characteristic 3]
 
 **Selection process:**
-[How new members are invited and approved]
+[How new members are identified, vetted, and approved]
 
-**Size:** [Target number]
+**Target size:** [Number] members
 
 ### Standing Questions
 
 Each meeting, every member responds to:
 
-1. [Question 1]
-2. [Question 2]
-3. [Question 3]
-4. [Question 4]
-5. [Question 5 - always a mutual aid question]
+1. [Question 1 - backward-looking]
+2. [Question 2 - learning/discovery]
+3. [Question 3 - wins or struggles]
+4. [Question 4 - forward-looking]
+5. [Question 5 - mutual aid: "What specific help do you need?"]
 
 ### Meeting Structure
 
@@ -289,91 +213,60 @@ Each meeting, every member responds to:
 | Segment | Duration | Purpose |
 |---------|----------|---------|
 | [Segment 1] | [Time] | [Purpose] |
-| ... | ... | ... |
+| [Segment 2] | [Time] | [Purpose] |
+| [Segment 3] | [Time] | [Purpose] |
+| [Segment 4] | [Time] | [Purpose] |
+| [Segment 5] | [Time] | [Purpose] |
 
 ### Norms
 
 1. [Norm 1]
 2. [Norm 2]
 3. [Norm 3]
+4. [Norm 4]
+5. [Norm 5]
 
 ### Multiplication Plan
 
 After [timeframe], encourage members to:
 - [How to start their own groups]
 - [How groups stay connected]
+- [Long-term vision for network]
 ```
 
 ---
 
 ## Constraints
 
-- Do not design groups larger than 15 (loses intimacy)
-- Do not skip mutual aid component (distinguishes from passive learning)
-- Do not allow one-directional relationships (all must give and receive)
+- Never design groups larger than 15 (loses intimacy and airtime)
+- Never skip the mutual aid component (distinguishes from passive learning)
+- Never allow one-directional relationships (all must give and receive)
 - Standing questions must require preparation (no showing up empty)
 - Confidentiality norm is non-negotiable for trust
+- Never allow direct competitors in the same group (creates withholding)
 
 ---
 
-## Error Handling
+## Anti-Patterns to Avoid
 
-| Situation | Response |
-|-----------|----------|
-| User wants a large group (20+) | Suggest multiple smaller groups with occasional joint meetings |
-| Purpose is vague | Ask clarifying questions about specific outcomes desired |
-| User wants no commitment required | Explain that low commitment produces low value; suggest lighter formats |
-| No clear member profile | Help define by asking who would benefit most and contribute most |
-| Virtual-only constraint | Adapt rituals for video; emphasize camera-on, preparation, shorter duration |
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Expansion over multiplication** | Large groups lose intimacy; members become passive | Cap at 12; help members start new groups |
+| **No standing questions** | Meetings become unstructured; value inconsistent | Use same questions every meeting to force preparation |
+| **Skipping mutual aid round** | Becomes passive discussion, not active helping | Always ask "How can we help you?" and assign follow-ups |
+| **Allowing spectators** | Some people take value without contributing | Require active participation; remove passive members |
+| **No attendance standards** | Group erodes through attrition | Set clear expectations; gracefully exit chronic absentees |
+| **Direct competitors in group** | Members withhold valuable information | Ensure diverse but non-competing membership |
 
 ---
 
-## Outputs
+## Examples
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+### Example 1: Startup Founder Junto
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+**Situation:** "I want to start a group for early-stage startup founders in my city. We're all struggling with similar problems and could help each other but there's no good format for it."
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
-## Example
-
-**Input:** "I want to start a group for early-stage startup founders in my city. We're all struggling with similar problems and could help each other but there's no good format for it."
-
-**Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
+**Application:**
 
 ## Your Junto Circle Design
 
@@ -391,10 +284,9 @@ The Founder's Junto exists to accelerate startup success through structured peer
 **Ideal member characteristics:**
 - Founder (CEO or co-founder) of company at pre-seed to Series A
 - Full-time on the company (not side project)
-- 2+ years to IPO/exit (not about to leave)
+- 2+ years to expected exit (not about to leave)
 - Generous mindset; actively wants to help others
 - Trustworthy with confidential business information
-- Committed to monthly attendance
 
 **Selection process:**
 1. Existing member sponsors candidate with written rationale
@@ -403,7 +295,7 @@ The Founder's Junto exists to accelerate startup success through structured peer
 4. Existing members discuss; unanimous approval required
 5. New member commits to norms and 6-month minimum tenure
 
-**Size:** 10 members (allows for occasional absences while maintaining quorum)
+**Target size:** 10 members (allows for occasional absences while maintaining quorum)
 
 ### Standing Questions
 
@@ -413,7 +305,7 @@ Each meeting, every member responds to:
 2. **The Challenge:** "What's the hardest problem you're currently facing?"
 3. **The Discovery:** "What have you learned recently that others here should know?"
 4. **The Opportunity:** "What opportunity are you exploring or considering?"
-5. **The Ask:** "What specific help do you need that someone here might provide?" (Never skip this)
+5. **The Ask:** "What specific help do you need that someone here might provide?"
 
 ### Meeting Structure
 
@@ -428,16 +320,15 @@ Each meeting, every member responds to:
 | Deep dive: Featured founder | 45 min | One member presents challenge; group problem-solves |
 | Mutual aid matching | 30 min | Connect asks with offers; assign follow-ups |
 | Commitments and close | 15 min | Each member states one action before next meeting |
-| Optional drinks | 30+ min | Informal continuation for those who can stay |
 
 ### Norms
 
 1. **Vegas Rule:** Everything shared stays in the group. No exceptions.
-2. **Preparation Required:** Come ready to answer standing questions. Unprepared = you skip.
-3. **Give First:** Actively look for ways to help between meetings, not just during.
-4. **No Pitching:** This is not a sales channel. Help freely; don't sell each other.
+2. **Preparation Required:** Come ready to answer standing questions.
+3. **Give First:** Actively look for ways to help between meetings.
+4. **No Pitching:** This is not a sales channel.
 5. **Candor With Kindness:** Say what's true. Say it with care.
-6. **Commit or Exit:** 75% attendance minimum. Life happens, but chronic absence means graceful exit.
+6. **Commit or Exit:** 75% attendance minimum.
 
 ### Multiplication Plan
 
@@ -447,10 +338,129 @@ After 12 months, encourage founding members to:
 - Quarterly joint dinner with all Junto groups for cross-pollination
 - Original group becomes "Founder's Senate" for those who've started spin-offs
 
-The goal is a network of 5+ groups within 3 years, each intimate, all connected.
+---
+
+### Example 2: Corporate Leadership Circle
+
+**Situation:** "I'm an HR leader and we want to create peer learning groups for our director-level leaders. They're isolated and don't have peers to learn from."
+
+**Application:**
+
+## Your Junto Circle Design
+
+### Purpose Statement
+The Leadership Circle exists to develop director-level leaders through peer learning, cross-functional relationship building, and candid feedback among leaders committed to each other's growth.
+
+### Success Metrics
+- Members report increased confidence in handling leadership challenges
+- Cross-functional collaboration increases (measured by joint initiatives)
+- 90%+ attendance maintained over first year
+- Promotion or expanded scope for 50%+ of members within 2 years
+
+### Membership Profile
+
+**Ideal member characteristics:**
+- Director-level or equivalent
+- Minimum 1 year in current role
+- Different functions/departments (no reporting relationships)
+- Demonstrated commitment to development
+- Reputation for discretion
+
+**Selection process:**
+1. HR nominates based on development potential and discretion
+2. Candidate meets with existing circle members
+3. Circle votes; supermajority required
+4. Commitment to 12-month participation
+
+**Target size:** 8 members
+
+### Standing Questions
+
+1. **The Leadership Moment:** "What leadership challenge did you face since we last met?"
+2. **The Feedback:** "What feedback have you received or need to give?"
+3. **The Learning:** "What are you learning about leadership?"
+4. **The Strategy:** "What's your current strategic priority?"
+5. **The Support:** "Where could peer perspective or support help you?"
+
+### Meeting Structure
+
+**Frequency:** Bi-weekly (alternating Fridays, 11:30 AM - 1:00 PM)
+**Duration:** 90 minutes
+**Format:** In-person over lunch (company provides)
+
+| Segment | Duration | Purpose |
+|---------|----------|---------|
+| Check-in | 10 min | Personal and professional state |
+| Standing questions | 40 min | Round-robin, 5 min each |
+| Deep dive | 30 min | One member's challenge in depth |
+| Commitments | 10 min | Actions before next meeting |
+
+### Multiplication Plan
+
+After 18 months, founding members help launch second cohort:
+- Each founding member sponsors one new member
+- Quarterly cross-cohort events for network expansion
+- Founding members become mentors to new circle
+
+---
+
+### Example 3: Writer's Junto
+
+**Situation:** "I'm a freelance writer and want to find other writers for accountability and craft development. We're all working alone and could help each other grow."
+
+**Application:**
+
+## Your Junto Circle Design
+
+### Purpose Statement
+The Writer's Junto exists to develop craft and sustain practice through structured accountability, feedback, and mutual support among committed writers.
+
+### Success Metrics
+- Members consistently meeting writing goals (tracked via commitment rounds)
+- Quality improvement visible in shared work over time
+- Publications, completions, or submissions increase
+- 85%+ attendance over 6 months
+
+### Standing Questions
+
+1. **The Work:** "What did you write since we last met?"
+2. **The Block:** "What's getting in the way of your writing?"
+3. **The Read:** "What are you reading and what did you notice about the craft?"
+4. **The Goal:** "What will you write before we meet again?"
+5. **The Help:** "What feedback or support do you need?"
+
+### Meeting Structure
+
+**Frequency:** Weekly (Sunday, 10 AM - 12 PM)
+**Duration:** 2 hours
+**Format:** Virtual (Zoom)
+
+| Segment | Duration | Purpose |
+|---------|----------|---------|
+| Check-in | 10 min | How are you; how is the writing |
+| Accountability | 20 min | Did you meet last week's goal? |
+| Craft discussion | 30 min | Discuss craft element from readings |
+| Workshop | 45 min | Critique one member's work |
+| Commitments | 15 min | What will you write this week |
 
 ---
 
 ## Integration
 
-This skill is part of the **Benjamin Franklin** expert persona. Use it when you want to build lasting networks through structured mutual aid rather than superficial networking.
+**Works with:**
+- Accountability systems (the Junto is a form of peer accountability)
+- Network building strategies (Junto creates deep rather than wide connections)
+- Professional development programs (Junto complements formal training)
+- Community building frameworks (Junto is a scalable community model)
+
+**When to prefer this over alternatives:**
+- Use when depth of relationship matters more than breadth
+- Use when ongoing accountability is needed, not one-time connections
+- Use when mutual aid (giving and receiving) is core to purpose
+- Use when you want to create community that outlasts your direct involvement
+
+**Cautions:**
+- Do not skip the design phase; poor design dooms groups to failure
+- Do not underestimate the importance of member selection
+- Do not expect immediate results; value compounds over time
+- Do not allow the group to become dependent on one leader

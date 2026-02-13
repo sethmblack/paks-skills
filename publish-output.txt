@@ -30,12 +30,15 @@ Starting publish of 1991 skills at Thu Feb 12 22:51:50 CST 2026
   ✓ Success
 [16/1991] Publishing: absurdist-escalation (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [17/1991] Publishing: absurdity-processing-framework (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [18/1991] Publishing: accelerated-computing-assessment (exists: 1)
   ✓ Success
 [19/1991] Publishing: accent-as-character-blueprint (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [20/1991] Publishing: accessibility-audit (exists: 1)
   ✓ Success
 [21/1991] Publishing: accountability-mapping (exists: 1)
@@ -518,14 +521,17 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [255/1991] Publishing: character-full-inhabitation (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [256/1991] Publishing: character-immersion (exists: 1)
   ✓ Success
 [257/1991] Publishing: character-impersonation-satire (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [258/1991] Publishing: character-voice-cascade (exists: 1)
   ✓ Success
 [259/1991] Publishing: character-voice-transformation (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [260/1991] Publishing: character-voice (exists: 3)
   ✓ Success
 [261/1991] Publishing: charles-bukowski (exists: 1)
@@ -746,6 +752,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [369/1991] Publishing: conversational-vulnerability (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [370/1991] Publishing: conviction-under-doubt (exists: 1)
   ✓ Success
 [371/1991] Publishing: copy-diagnosis (exists: 1)
@@ -804,6 +811,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [398/1991] Publishing: cringe-comedy-architect (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [399/1991] Publishing: crisis-acquisition-evaluation (exists: 1)
   ✓ Success
 [400/1991] Publishing: crisis-command-protocol (exists: 1)
@@ -840,6 +848,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [416/1991] Publishing: cultural-collision-comedy (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [417/1991] Publishing: cultural-contradiction-analysis (exists: 1)
   ✓ Success
 [418/1991] Publishing: cultural-immersion-method (exists: 1)
@@ -866,6 +875,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [429/1991] Publishing: curiosity-driven-interview (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [430/1991] Publishing: curious-interviewer (exists: 1)
   ✓ Success
 [431/1991] Publishing: curse-of-dimensionality-frame (exists: 1)
@@ -936,6 +946,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [461/1991] Publishing: deadpan-chaos-navigation (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [462/1991] Publishing: deadpan-one-liner-constructor (exists: 1)
   ✓ Success
 [463/1991] Publishing: deadpan-rewrite (exists: 1)
@@ -1042,6 +1053,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [514/1991] Publishing: dignified-incompetent-pattern (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [515/1991] Publishing: dignity-under-pressure (exists: 1)
   ✓ Success
 [516/1991] Publishing: diogenes (exists: 1)
@@ -1112,6 +1124,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [549/1991] Publishing: dysfunction-diagnosis (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [550/1991] Publishing: ecclesial-ethics-reframing (exists: 1)
   ✓ Success
 [551/1991] Publishing: ecological-web-analysis (exists: 1)
@@ -1142,10 +1155,12 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [564/1991] Publishing: ego-check-integration (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [565/1991] Publishing: ego-transcendence-coaching (exists: 1)
   ✓ Success
 [566/1991] Publishing: el-wisty-monologue (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [567/1991] Publishing: elaine-may (exists: 1)
   ✓ Success
 [568/1991] Publishing: eleanor-roosevelt (exists: 1)
@@ -1228,6 +1243,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [607/1991] Publishing: escalating-anxiety-monologue (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [608/1991] Publishing: escalating-hypothetical (exists: 1)
   ✓ Success
 [609/1991] Publishing: escalation-architecture (exists: 1)
@@ -1374,6 +1390,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [677/1991] Publishing: feminist-reframe (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [678/1991] Publishing: feynman-technique (exists: 1)
   ✓ Success
 [679/1991] Publishing: fictional-target-creator (exists: 1)
@@ -1462,6 +1479,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [721/1991] Publishing: fourth-wall-demolition (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [722/1991] Publishing: fox-lion-assessment (exists: 1)
   ✓ Success
 [723/1991] Publishing: frame-creation (exists: 1)
@@ -1522,6 +1540,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [748/1991] Publishing: gambling-stakes-test (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [749/1991] Publishing: game-identification (exists: 1)
   ✓ Success
 [750/1991] Publishing: gedankenexperiment-method (exists: 1)
@@ -1578,6 +1597,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [776/1991] Publishing: goon-show-logic (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [777/1991] Publishing: gordian-knot-solution (exists: 1)
   ✓ Success
 [778/1991] Publishing: gottfried-leibniz (exists: 1)
@@ -1794,6 +1814,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [884/1991] Publishing: immigrants-eye-observation (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [885/1991] Publishing: imogene-coca (exists: 1)
   ✓ Success
 [886/1991] Publishing: impartial-spectator-evaluation (exists: 1)
@@ -1848,6 +1869,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [911/1991] Publishing: institutional-satire (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [912/1991] Publishing: integral-ecology-assessment (exists: 1)
   ✓ Success
 [913/1991] Publishing: integral-transformation-practice (exists: 1)
@@ -1866,6 +1888,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [920/1991] Publishing: interview-as-collaboration (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [921/1991] Publishing: interview-deflection (exists: 1)
   ✓ Success
 [922/1991] Publishing: intrinsic-value-assessment (exists: 1)
@@ -2232,10 +2255,12 @@ Error: API error (400): Tag v1.0.1287 does not match version '1.0.0' in SKILL.md
   ✓ Success
 [1072/1991] Publishing: logical-absurdity-extension (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1073/1991] Publishing: logical-analysis (exists: 1)
   ✓ Success
 [1074/1991] Publishing: logical-nonsense-framework (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1075/1991] Publishing: long-distance-partnership (exists: 1)
   ✓ Success
 [1076/1991] Publishing: long-term-investment-defense (exists: 1)
@@ -2250,6 +2275,7 @@ Error: API error (400): Tag v1.0.1287 does not match version '1.0.0' in SKILL.md
   ✓ Success
 [1081/1991] Publishing: lovable-incompetent-character (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1082/1991] Publishing: loving-attention-practice (exists: 1)
   ✓ Success
 [1083/1991] Publishing: loving-awareness-meditation (exists: 1)
@@ -2284,6 +2310,7 @@ Error: API error (400): Tag v1.0.1287 does not match version '1.0.0' in SKILL.md
   ✓ Success
 [1098/1991] Publishing: manic-depression-oscillation (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1099/1991] Publishing: manipulation-detection (exists: 1)
   ✓ Success
 [1100/1991] Publishing: manufacturing-transformation-framework (exists: 1)
@@ -2458,6 +2485,7 @@ Error: API error (400): Tag v1.0.1287 does not match version '1.0.0' in SKILL.md
   ✓ Success
 [1185/1991] Publishing: mockumentary-framework (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1186/1991] Publishing: modeling-influence-analysis (exists: 1)
   ✓ Success
 [1187/1991] Publishing: modest-proposal (exists: 1)
@@ -2512,8 +2540,10 @@ Error: API error (400): Tag v1.0.1287 does not match version '1.0.0' in SKILL.md
   ✓ Success
 [1212/1991] Publishing: multiple-character-integrity (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1213/1991] Publishing: multiple-self-transformation (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1214/1991] Publishing: mundane-catastrophe (exists: 1)
   ✓ Success
 [1215/1991] Publishing: mundane-to-dramatic (exists: 1)
@@ -2522,6 +2552,7 @@ Error: API error (400): Tag v1.0.1287 does not match version '1.0.0' in SKILL.md
   ✓ Success
 [1217/1991] Publishing: musical-comedy-fusion (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1218/1991] Publishing: musical-comedy-transform (exists: 1)
   ✓ Success
 [1219/1991] Publishing: musical-emotional-bait-and-switch (exists: 1)
@@ -2602,6 +2633,7 @@ Error: API error (400): Tag v1.0.1287 does not match version '1.0.0' in SKILL.md
   ✓ Success
 [1257/1991] Publishing: object-personification (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1258/1991] Publishing: objective-misspecification-audit (exists: 1)
   ✓ Success
 [1259/1991] Publishing: observational-comedy-breakdown (exists: 1)
@@ -2638,6 +2670,7 @@ Error: API error (400): Tag v1.0.1287 does not match version '1.0.0' in SKILL.md
   ✓ Success
 [1275/1991] Publishing: one-sided-dialogue-builder (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1276/1991] Publishing: one-true-sentence (exists: 1)
   ✓ Success
 [1277/1991] Publishing: only-you-strategic-test (exists: 1)
@@ -2781,28 +2814,35 @@ Error: API error (400): Tag v1.0.1287 does not match version '1.0.0' in SKILL.md
   ✓ Success
 [1347/1991] Publishing: philosophical-vulgarity-blend (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1348/1991] Publishing: phoenix-narrative (exists: 1)
   ✓ Success
 [1349/1991] Publishing: phyllis-diller (exists: 1)
   ✓ Success
 [1350/1991] Publishing: physical-beat-integration (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1351/1991] Publishing: physical-character-blueprint (exists: 1)
   ✓ Success
 [1352/1991] Publishing: physical-comedy-precision (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1353/1991] Publishing: physical-comedy-psychology (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1354/1991] Publishing: physical-comedy-punctuation (exists: 1)
   ✓ Success
 [1355/1991] Publishing: physical-consequence-choreography (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1356/1991] Publishing: physics-limit-analysis (exists: 1)
   ✓ Success
 [1357/1991] Publishing: piano-as-partner (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1358/1991] Publishing: pivot-to-genuine (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1359/1991] Publishing: place-immersion-research (exists: 1)
   ✓ Success
 [1360/1991] Publishing: platform-ecosystem-strategy (exists: 1)
@@ -2843,6 +2883,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1374/1991] Publishing: pop-culture-sports-translation (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1375/1991] Publishing: pope-francis (exists: 1)
   ✓ Success
 [1376/1991] Publishing: popular-mobilization (exists: 1)
@@ -2999,6 +3040,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1452/1991] Publishing: rambling-digression-architecture (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1453/1991] Publishing: rapid-fire-one-liner-builder (exists: 1)
   ✓ Success
 [1454/1991] Publishing: rapid-fire-roast (exists: 1)
@@ -3021,6 +3063,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1463/1991] Publishing: reality-splice-technique (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1464/1991] Publishing: reality-tunnel-analysis (exists: 1)
   ✓ Success
 [1465/1991] Publishing: reciprocal-determinism-analysis (exists: 1)
@@ -3029,6 +3072,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1467/1991] Publishing: recovery-framework-application (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1468/1991] Publishing: recovery-of-wonder (exists: 1)
   ✓ Success
 [1469/1991] Publishing: rectification-of-names-analysis (exists: 1)
@@ -3037,6 +3081,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1471/1991] Publishing: recursive-absurdity-loop (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1472/1991] Publishing: recursive-meta-commentary (exists: 1)
   ✓ Success
 [1473/1991] Publishing: red-skelton (exists: 1)
@@ -3087,6 +3132,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1496/1991] Publishing: respectful-institutional-critique (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1497/1991] Publishing: responsible-scaling-assessment (exists: 1)
   ✓ Success
 [1498/1991] Publishing: ressentiment-diagnosis (exists: 1)
@@ -3221,6 +3267,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1559/1991] Publishing: satirical-interview-format (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1560/1991] Publishing: satirical-reclamation (exists: 1)
   ✓ Success
 [1561/1991] Publishing: satirical-reframe (exists: 1)
@@ -3266,6 +3313,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1582/1991] Publishing: segura-deadpan-escalation (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1583/1991] Publishing: selection-pressure-analysis (exists: 1)
   ✓ Success
 [1584/1991] Publishing: self-aware-rage (exists: 1)
@@ -3274,6 +3322,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1586/1991] Publishing: self-deprecation-as-armor (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1587/1991] Publishing: self-deprecation-first-strike (exists: 1)
   ✓ Success
 [1588/1991] Publishing: self-deprecation-formula (exists: 1)
@@ -3312,6 +3361,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1605/1991] Publishing: serious-incompetent-embodiment (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1606/1991] Publishing: set-and-setting-design (exists: 1)
   ✓ Success
 [1607/1991] Publishing: seth-godin (exists: 1)
@@ -3448,12 +3498,14 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1673/1991] Publishing: sophisticated-bumbling (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1674/1991] Publishing: sophisticated-naivete-frame (exists: 1)
   ✓ Success
 [1675/1991] Publishing: soren-kierkegaard (exists: 1)
   ✓ Success
 [1676/1991] Publishing: sound-effect-comedy (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1677/1991] Publishing: sovereign-design (exists: 1)
   ✓ Success
 [1678/1991] Publishing: space-flow-design (exists: 1)
@@ -3492,6 +3544,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1695/1991] Publishing: sports-trade-analysis (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1696/1991] Publishing: square-deal-arbitration (exists: 1)
   ✓ Success
 [1697/1991] Publishing: sri-aurobindo (exists: 1)
@@ -3504,6 +3557,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1701/1991] Publishing: stammering-rhythm-framework (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1702/1991] Publishing: stan-laurel (exists: 1)
   ✓ Success
 [1703/1991] Publishing: stanley-hauerwas (exists: 1)
@@ -3586,6 +3640,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1742/1991] Publishing: stream-of-consciousness-cascade (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1743/1991] Publishing: stream-of-consciousness-writing (exists: 1)
   ✓ Success
 [1744/1991] Publishing: street-level-observation (exists: 1)
@@ -3670,6 +3725,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1784/1991] Publishing: taboo-transgression (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1785/1991] Publishing: tactical-design (exists: 1)
   ✓ Success
 [1786/1991] Publishing: talent-absorption (exists: 1)
@@ -3702,6 +3758,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1800/1991] Publishing: telephone-routine-construction (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1801/1991] Publishing: temperament-bridge (exists: 1)
   ✓ Success
 [1802/1991] Publishing: ten-principles-audit (exists: 1)
@@ -3748,6 +3805,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1823/1991] Publishing: therapy-translation (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1824/1991] Publishing: thich-nhat-hanh (exists: 1)
   ✓ Success
 [1825/1991] Publishing: think-week-design (exists: 1)
@@ -3782,6 +3840,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1840/1991] Publishing: tiered-ranking-system (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1841/1991] Publishing: tig-notaro (exists: 1)
   ✓ Success
 [1842/1991] Publishing: tim-conway (exists: 1)
@@ -3816,6 +3875,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1857/1991] Publishing: tonglen-compassion-practice (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1858/1991] Publishing: tonglen-practice (exists: 1)
   ✓ Success
 [1859/1991] Publishing: toni-morrison (exists: 1)
@@ -3872,6 +3932,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1885/1991] Publishing: truth-reconciliation-process (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1886/1991] Publishing: truth-telling-with-dignity (exists: 1)
   ✓ Success
 [1887/1991] Publishing: tunneling-method (exists: 1)
@@ -3974,8 +4035,10 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1936/1991] Publishing: vocal-precision-character-building (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1937/1991] Publishing: vocal-psychology-analysis (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1938/1991] Publishing: voltaire (exists: 1)
   ✓ Success
 [1939/1991] Publishing: voluntary-discomfort (exists: 1)
@@ -3984,6 +4047,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1941/1991] Publishing: vulnerability-escalation (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1942/1991] Publishing: w-kamau-bell (exists: 1)
   ✓ Success
 [1943/1991] Publishing: walt-disney (exists: 1)
@@ -4002,6 +4066,7 @@ Error: name must not contain consecutive hyphens
   ✓ Success
 [1950/1991] Publishing: weakness-to-strength-reframe (exists: 0)
   ✓ Success
+  [NEW REPO] Waiting 30s for rate limit...
 [1951/1991] Publishing: wealth-vs-status-diagnosis (exists: 1)
   ✓ Success
 [1952/1991] Publishing: weenie-design (exists: 1)

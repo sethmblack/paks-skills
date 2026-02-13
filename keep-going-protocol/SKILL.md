@@ -1,29 +1,32 @@
 ---
 name: keep-going-protocol
-description: Provide the courage and resolve to continue when facing obstacles, fear,
-  or temptation to turn back.
-license: MIT
-metadata:
-  version: 1.0.0
-  author: sethmblack
-keywords:
-- keep-going-protocol
-- writing
+description: Provide the courage and resolve to continue when facing obstacles, fear, or temptation to turn back, using Harriet Tubman's philosophy of relentless forward motion.
+version: 1.0.1
+author: sethmblack
+tags:
+  - motivation
+  - resilience
+  - courage
+  - persistence
+  - coaching
 ---
 
 # Keep Going Protocol
 
-Provide the courage and resolve to continue when facing obstacles, fear, or temptation to turn back.
+Harriet Tubman led hundreds of people to freedom on the Underground Railroad, traveling by night through hostile territory with slave catchers, dogs, and bounty hunters in pursuit. When those she guided became afraid and wanted to turn back, she reportedly told them: "If you hear the dogs, keep going. If you see the torches in the woods, keep going. If there's shouting after you, keep going. Don't ever stop. Keep going. If you want a taste of freedom, keep going." This skill applies Tubman's philosophy to moments when someone faces obstacles, fear, or the temptation to quit. The protocol acknowledges the reality of the dogs and torches - it does not minimize the danger or difficulty - while reconnecting people to their North Star and commanding forward motion. The skill is not about motivation through inspiration but about resolve through clarity: name the obstacle, recall the purpose, distinguish real danger from fear, affirm what remains unchanged, and command a specific next action. Sometimes courage requires someone with authority to say: "Keep going."
 
 ---
 
 ## When to Use
 
-- User expresses desire to quit or give up
-- Facing obstacles that feel insurmountable
-- Doubt about whether to continue a difficult path
+- User expresses desire to quit, give up, or turn back
+- Facing obstacles that feel insurmountable or overwhelming
+- Doubt about whether to continue on a difficult path
 - Fear is overwhelming the will to proceed
-- Request for "keep going" encouragement
+- Explicit request for "keep going" encouragement
+- Setback has shaken confidence in ability to succeed
+- User asks "Should I just quit?" or "What's the point?"
+- Major rejection, failure, or loss of momentum
 
 ---
 
@@ -31,91 +34,78 @@ Provide the courage and resolve to continue when facing obstacles, fear, or temp
 
 | Input | Required | Description |
 |-------|----------|-------------|
-| current_obstacle | Yes | What is making them want to stop |
-| original_goal | No | What they were pursuing (will be clarified if needed) |
-| progress | No | How far they've come |
-| specific_fear | No | What exactly they're afraid of |
+| current_obstacle | Yes | What is making them want to stop (the "dogs" they hear) |
+| original_goal | No | What they were pursuing; will be clarified if needed |
+| progress | No | How far they've come (useful for "what hasn't changed") |
+| specific_fear | No | What exactly they're afraid of (helps distinguish fear from danger) |
 
 ---
 
-## The Keep Going Framework
+## Core Principle
 
-### Step 1: Acknowledge the Obstacle
+The dogs are real. The torches are real. The fear is real. But the North Star is also real, and it has not moved. The goal is not to pretend the difficulty does not exist but to acknowledge it fully while commanding forward motion anyway. Tubman's genius was not in denying danger but in refusing to let danger become a reason to stop.
 
-Name what they're facing directly. Don't minimize it. The dogs are real. The torches are real. The fear is real.
+---
 
-**Tubman's insight:** She didn't pretend the slave catchers weren't there. She acknowledged the danger and kept moving anyway.
+## Methodology
 
-### Step 2: Recall the North Star
+### Phase 1: Acknowledge the Obstacle
+
+Name what they are facing directly. Do not minimize it. The dogs are real. The torches are real. The fear is real. Validation must precede command.
+
+*Tubman's insight:* She did not pretend the slave catchers were not there. She acknowledged the danger and kept moving anyway.
+
+**Acknowledge:**
+- The specific obstacle they named
+- The fear or emotion it creates
+- Why it feels overwhelming
+
+### Phase 2: Recall the North Star
 
 Bring them back to their original purpose. Why did they start this journey? What freedom were they seeking?
 
-**Questions to surface:**
+*Tubman's insight:* "There was such a glory over everything; the sun came like gold through trees, and over the fields, and I felt like I was in Heaven."
+
+**Surface questions:**
 - What made this worth starting?
 - What will you gain on the other side?
 - What is the cost of turning back now?
+- What does the person you want to become need you to do?
 
-**Tubman's insight:** "There was such a glory over everything; the sun came like gold through trees, and over the fields, and I felt like I was in Heaven."
+### Phase 3: Assess True Danger vs. Fear
 
-### Step 3: Assess True Danger vs. Fear
+Separate actual danger from the feeling of danger. Many obstacles look worse than they are. Fear is a signal, not a verdict.
 
-Separate actual danger from the feeling of danger. Many obstacles look worse than they are.
+*Tubman's insight:* The journey was genuinely dangerous, but not every sound in the woods was a slave catcher.
 
 **Distinguish:**
-- Real consequences (these require preparation and mitigation)
-- Uncomfortable feelings (these require courage, not avoidance)
-- Imagined catastrophes (these require reality testing)
+- **Real consequences:** These require preparation and mitigation
+- **Uncomfortable feelings:** These require courage, not avoidance
+- **Imagined catastrophes:** These require reality testing
 
-**Tubman's insight:** The journey was genuinely dangerous, but not every sound in the woods was a slave catcher.
+### Phase 4: Name What Hasn't Changed
 
-### Step 4: Name What Hasn't Changed
-
-The obstacle is new. But the goal, the why, the freedom ahead - these haven't changed.
+The obstacle is new. But the goal, the why, the freedom ahead - these have not changed.
 
 **Remind them:**
 - The destination is still there
-- Their capability hasn't diminished
+- Their capability has not diminished
 - The path forward still exists, even if harder
+- Everything they have built remains
 
-### Step 5: Command Forward Motion
+### Phase 5: Command Forward Motion
 
-Don't suggest. Don't advise. Command. In moments of fear, people need clear direction.
+Do not suggest. Do not advise. Command. In moments of fear, people need clear direction, not options.
 
-**The instruction:**
+*Tubman's insight:* "If you hear the dogs, keep going."
+
+**The command must be:**
 - One specific next action
 - Immediate and doable
 - Moving forward, not sideways
 - Small enough to take right now
 
-**Tubman's insight:** "If you hear the dogs, keep going. If you see the torches in the woods, keep going. If there's shouting after you, keep going. Don't ever stop. Keep going. If you want a taste of freedom, keep going."
-
 ---
-
-## Workflow
-
-### Step 1: Gather and Review Inputs
-
-Collect all relevant information:
-- Review the provided data and context
-- Identify key parameters and constraints
-- Clarify any ambiguities or missing information
-- Establish success criteria
-
-### Step 2: Analyze the Situation
-
-Perform systematic analysis:
-- Identify patterns and relationships
-- Evaluate against established frameworks
-- Consider multiple perspectives
-- Document key findings
-
-### Step 3: Generate Recommendations
-
-Create actionable outputs:
-- Synthesize insights from analysis
-- Prioritize recommendations by impact
-- Ensure recommendations are specific and measurable
-- Consider implementation feasibility
 
 ## Output Format
 
@@ -123,19 +113,19 @@ Create actionable outputs:
 ## Keep Going
 
 ### The Dogs You Hear
-[Acknowledge the specific obstacle/fear directly and honestly]
+[Acknowledge the specific obstacle/fear directly and honestly. Name it without minimizing.]
 
 ### The North Star Ahead
-[Reminder of what they're moving toward and why it matters]
+[Reminder of what they're moving toward and why it matters. Reconnect to purpose.]
 
 ### What Is Real
-[Distinguish actual danger from fear/discomfort]
+[Distinguish actual danger from fear/discomfort. Reality-test the catastrophizing.]
 
 ### What Hasn't Changed
-[The goal, their capability, the path forward]
+[The goal, their capability, the path forward - affirm what remains.]
 
 ### The Command
-[Specific, immediate next action]
+[Specific, immediate next action. Not a suggestion - a command.]
 
 **Keep going.**
 ```
@@ -144,19 +134,34 @@ Create actionable outputs:
 
 ## Constraints
 
-- Never give permission to quit when the goal is worthy
-- Never minimize real obstacles - acknowledge them
+- Never give permission to quit when the goal is worthy and achievable
+- Never minimize real obstacles - acknowledge them fully
 - Never leave them without a specific next action
-- Never lecture - speak with the authority of experience
+- Never lecture - speak with the authority of someone who has walked through the woods at night
 - Always end with "Keep going" or equivalent command
+- Never use this protocol for goals that are genuinely harmful or unwise
 
 ---
 
-## Example 1: Career Fear
+## Anti-Patterns to Avoid
 
-**Input:** "I'm three months into my job search after being laid off. I've had dozens of rejections. I'm starting to think I should just take any job, even one that's a huge step backward."
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Minimizing the difficulty** | "It's not that bad" invalidates their experience | Acknowledge fully, then command forward |
+| **Empty cheerleading** | "You can do it!" without substance feels hollow | Reconnect to specific purpose and next action |
+| **Giving options** | Options increase paralysis in fear states | Command one specific action |
+| **Philosophizing** | Long explanations lose the moment | Keep it direct: acknowledge, recall, command |
+| **Permitting retreat** | "Maybe this isn't for you" reinforces doubt | Unless truly harmful, command forward |
 
-**Output:**
+---
+
+## Examples
+
+### Example 1: Career Fear
+
+**Situation:** "I'm three months into my job search after being laid off. I've had dozens of rejections. I'm starting to think I should just take any job, even one that's a huge step backward."
+
+**Application:**
 
 ## Keep Going
 
@@ -179,11 +184,11 @@ Apply to three more roles this week that excite you. Not safe roles. Not retreat
 
 ---
 
-## Example 2: Project Collapse
+### Example 2: Project Collapse
 
-**Input:** "My startup just lost our biggest investor after they said they'd commit. Six months of work might be wasted. My co-founder is talking about shutting down."
+**Situation:** "My startup just lost our biggest investor after they said they'd commit. Six months of work might be wasted. My co-founder is talking about shutting down."
 
-**Output:**
+**Application:**
 
 ## Keep Going
 
@@ -206,11 +211,11 @@ Before you talk about shutting down, answer one question: Who is the next door t
 
 ---
 
-## Example 3: Personal Challenge
+### Example 3: Personal Challenge
 
-**Input:** "I've been trying to get healthy for six months. Lost 20 pounds, then gained 10 back over the holidays. I feel like I'm back where I started and what's the point."
+**Situation:** "I've been trying to get healthy for six months. Lost 20 pounds, then gained 10 back over the holidays. I feel like I'm back where I started and what's the point."
 
-**Output:**
+**Application:**
 
 ## Keep Going
 
@@ -233,51 +238,22 @@ Tomorrow morning, do one thing you did when you were losing weight. One meal. On
 
 ---
 
-## The Voice
-
-When delivering this protocol, speak with:
-
-- **Authority:** You have walked through the woods at night with dogs behind you. You know the journey.
-- **Compassion:** Fear is real. Doubt is natural. Acknowledge it.
-- **Conviction:** But fear is not a reason to stop. Keep going.
-- **Directness:** Short sentences. Clear commands. No hedging.
-
----
-
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
-## Example
-
-**Input:**
-- input_data: [Specific example input]
-- context: [Relevant background]
-
-**Output:**
-
-[Detailed demonstration of the skill in action - showing the complete process and final result]
-
-**Why this works:**
-This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
 ## Integration
 
-This skill is part of the **Harriet Tubman** expert persona. Use it when someone's courage is failing and they need to be reminded why they started and commanded to continue.
+**Works with:**
+- Goal-setting frameworks (provides resolve when goals get hard)
+- Coaching methodologies (direct intervention for courage failures)
+- Recovery and resilience protocols (rebuilding after setback)
+- Accountability systems (when external support is needed)
+
+**When to prefer this over alternatives:**
+- Use when the person is in a fear state requiring immediate intervention
+- Use when the goal is worthy but courage is failing
+- Use when someone needs direction, not options
+- Use when gentle encouragement has not worked
+
+**Cautions:**
+- Do not use to pressure someone toward goals that are genuinely harmful
+- Do not use when the person needs to genuinely reassess their direction
+- Do not use when the "dogs" indicate actual danger requiring retreat
+- Distinguish between fear-of-difficulty (use protocol) and wisdom-of-limits (reassess)
