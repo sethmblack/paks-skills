@@ -3,7 +3,7 @@ name: network-building-for-liberation
 description: Build a network of allies, safe houses, and supporters before attempting major transitions, using Harriet Tubman's Underground Railroad methodology.
 license: MIT
 metadata:
-  version: 1.0.1519
+  version: 1.0.4575
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
