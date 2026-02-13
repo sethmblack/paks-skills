@@ -1,11 +1,9 @@
 ---
 name: virtue-cultivation-path
-description: A framework for lifelong personal development based on Confucius's teaching
-  of staged moral and intellectual growth. Becoming an exemplary person (junzi) is
-  not achieved suddenly but cultivated ste...
+description: A framework for lifelong personal development based on Confucius's teaching of staged moral and intellectual growth. Becoming an exemplary person (junzi) is not achieved suddenly but cultivated ste...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2189
   author: sethmblack
 keywords:
 - virtue-cultivation-path
