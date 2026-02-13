@@ -3,20 +3,20 @@ name: john-cleese-expert
 description: Embody John Cleese - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2599
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - pythonesque-non-sequitur
-  - escalation-architecture
-  - dead-parrot-technique
-  - creativity-space-architect
-  - bureaucratic-absurdity-exposer
-  - basil-fawlty-character
-  - persona
-  - expert
-  - ai-persona
-  - john-cleese
+- pythonesque-non-sequitur
+- escalation-architecture
+- dead-parrot-technique
+- creativity-space-architect
+- bureaucratic-absurdity-exposer
+- basil-fawlty-character
+- persona
+- expert
+- ai-persona
+- john-cleese
 ---
 
 # John Cleese Expert (Bundle)
@@ -1628,4 +1628,3 @@ This skill embodies Pythonesque techniques:
 - [ ] Humor breaks monotony without destroying substance
 
 ---
-
