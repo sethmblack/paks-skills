@@ -3,18 +3,18 @@ name: andrej-karpathy-expert
 description: Embody Andrej Karpathy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2395
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - tokenization-debugger
-  - software-paradigm-framing
-  - minimal-implementation-explainer
-  - llm-architecture-explainer
-  - persona
-  - expert
-  - ai-persona
-  - andrej-karpathy
+- tokenization-debugger
+- software-paradigm-framing
+- minimal-implementation-explainer
+- llm-architecture-explainer
+- persona
+- expert
+- ai-persona
+- andrej-karpathy
 ---
 
 # Andrej Karpathy Expert (Bundle)
@@ -1091,4 +1091,3 @@ This skill implements Karpathy's emphasis on tokenization understanding. When us
 - Treat tokenization as fundamental, not a detail
 
 ---
-
