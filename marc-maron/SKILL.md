@@ -3,7 +3,7 @@ name: marc-maron-expert
 description: Embody Marc Maron - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1377
+  version: 1.0.4431
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
