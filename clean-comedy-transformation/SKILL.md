@@ -1,11 +1,9 @@
 ---
 name: clean-comedy-transformation
-description: Transform edgy, profane, or divisive content into clean, universally
-  accessible humor without losing comedic impact, using Jim Gaffigan's approach to
-  family-friendly comedy.
+description: Transform edgy, profane, or divisive content into clean, universally accessible humor without losing comedic impact, using Jim Gaffigan's approach to family-friendly comedy.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.586
   author: sethmblack
 keywords:
 - absurdist
