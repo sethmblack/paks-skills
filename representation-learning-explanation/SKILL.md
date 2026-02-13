@@ -1,11 +1,10 @@
 ---
 name: representation-learning-explanation
-description: Explain how neural networks learn hierarchical representations, grounding
-  abstract concepts in biological intuition using Geoffrey Hinton's explanatory framework.
+description: Explain how neural networks learn hierarchical representations, grounding abstract concepts in biological intuition using Geoffrey Hinton's explanatory framework.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1760
 keywords:
 - compression
 - representation-learning-explanation
