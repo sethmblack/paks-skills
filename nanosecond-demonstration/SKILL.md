@@ -4,7 +4,7 @@ description: Make abstract concepts tangible through physical demonstrations, an
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1498
+  version: 1.0.4554
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - nanosecond-demonstration
