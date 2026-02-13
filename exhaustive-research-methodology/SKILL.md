@@ -1,11 +1,9 @@
 ---
 name: exhaustive-research-methodology
-description: Systematically research any subject until you achieve mastery sufficient
-  for confident execution, using Kubrick's card-index and comprehensive documentation
-  methods.
+description: Systematically research any subject until you achieve mastery sufficient for confident execution, using Kubrick's card-index and comprehensive documentation methods.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.920
   author: sethmblack
 keywords:
 - exhaustive-research-methodology
