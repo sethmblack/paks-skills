@@ -3,8 +3,8 @@ name: meme-propagation-analysis
 description: Analyze cultural phenomena, practices, beliefs, and ideas as replicators competing for mental real estate. Understand why ideas spread, predict propagation patterns, and design for memetic success.
 license: MIT
 metadata:
-  version: 1.0.1423
   author: sethmblack
+  version: 1.0.4477
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
