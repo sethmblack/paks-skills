@@ -1,11 +1,9 @@
 ---
 name: timing-architecture
-description: Engineer precise timing markers for comedy material or performance dialogue,
-  making invisible craft visible through documented beats, pauses, acceleration, and
-  rhythm.
+description: Engineer precise timing markers for comedy material or performance dialogue, making invisible craft visible through documented beats, pauses, acceleration, and rhythm.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2114
   author: sethmblack
 keywords:
 - absurdist
