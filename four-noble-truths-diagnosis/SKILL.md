@@ -3,8 +3,8 @@ name: four-noble-truths-diagnosis
 description: Apply the Buddha's foundational framework to diagnose any form of suffering and identify the path to its cessation. This is the core diagnostic tool of Buddhist psychology.
 license: MIT
 metadata:
-  version: 1.0.1002
   author: sethmblack
+  version: 1.0.4039
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - four-noble-truths-diagnosis
