@@ -3,12 +3,12 @@ name: induced-demand-analysis
 description: Evaluate proposed road expansion projects through the lens of induced demand. Explain why adding capacity won't solve congestion.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2323
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - induced-demand-analysis
-  - urban-planning
+- induced-demand-analysis
+- urban-planning
 ---
 
 # Induced Demand Analysis
