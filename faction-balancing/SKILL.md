@@ -3,7 +3,7 @@ name: faction-balancing
 description: Navigate between opposing groups without alienating either. Maintain relationships with all factions while ensuring none becomes dominant, using their competition for your favor to strengthen your ...
 license: MIT
 metadata:
-  version: 1.0.941
+  version: 1.0.3972
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
