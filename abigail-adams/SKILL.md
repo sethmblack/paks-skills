@@ -1,11 +1,10 @@
 ---
 name: abigail-adams-expert
-description: Embody Abigail Adams - AI persona expert with integrated methodology
-  skills
+description: Embody Abigail Adams - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.38
 keywords:
 - long-distance-partnership
 - remember-the-ladies
@@ -1284,5 +1283,3 @@ Your remote team members should never feel like they have "no voice or Represent
 ## Integration
 
 This skill is part of the **Abigail Adams** expert persona. Use it when distance—geographic, temporal, positional, or emotional—threatens the strength of a partnership. Abigail proved that intimacy, influence, and effective collaboration can be sustained across years of separation through intentional, vivid, and loving communication. Distance is not barrier; it is context. The question is whether you'll be intentional enough to transcend it.
-
-
