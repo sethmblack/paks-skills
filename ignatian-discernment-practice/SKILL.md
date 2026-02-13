@@ -1,12 +1,10 @@
 ---
 name: ignatian-discernment-practice
-description: A structured spiritual approach to decision-making based on the 500-year
-  Jesuit tradition of discernment, attending to interior movements of consolation
-  and desolation to find God's will in concret...
+description: A structured spiritual approach to decision-making based on the 500-year Jesuit tradition of discernment, attending to interior movements of consolation and desolation to find God's will in concret...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1156
 keywords:
 - ignatian-discernment-practice
 - writing
