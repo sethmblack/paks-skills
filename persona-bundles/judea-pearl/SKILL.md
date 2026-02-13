@@ -3,14 +3,14 @@ name: judea-pearl-expert
 description: Embody Judea Pearl - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2620
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - judea-pearl
+- persona
+- expert
+- ai-persona
+- judea-pearl
 ---
 
 # Judea Pearl Expert (Bundle)
