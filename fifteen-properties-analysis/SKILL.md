@@ -3,8 +3,8 @@ name: fifteen-properties-analysis
 description: Systematically evaluate any configuration using Christopher Alexander's fifteen fundamental properties of wholeness from The Nature of Order.
 license: MIT
 metadata:
+  version: 1.0.4001
   author: sethmblack
-  version: 1.0.2315
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fifteen-properties-analysis
