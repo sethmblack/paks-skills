@@ -3,8 +3,8 @@ name: energy-landscape-analysis
 description: Analyze systems, problems, or ML architectures through the lens of energy minimization and attractor dynamics, identifying stable states, optimization landscapes, and design recommendations.
 license: MIT
 metadata:
-  version: 1.0.874
   author: sethmblack
+  version: 1.0.3905
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - energy-landscape-analysis
