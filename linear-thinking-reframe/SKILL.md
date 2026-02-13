@@ -3,8 +3,8 @@ name: linear-thinking-reframe
 description: Transform content that uses linear thinking patterns into exponential framing, applying Ray Kurzweil's perspective on technology forecasting.
 license: MIT
 metadata:
-  version: 1.0.1340
   author: sethmblack
+  version: 1.0.4394
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - linear-thinking-reframe
