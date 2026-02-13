@@ -3,12 +3,12 @@ name: hedonistic-sustainability
 description: Transform environmental requirements from obligations into lifestyle upgrades - make sustainable choices the desirable choices.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2321
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - hedonistic-sustainability
-  - urban-planning
+- hedonistic-sustainability
+- urban-planning
 ---
 
 # Hedonistic Sustainability
