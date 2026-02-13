@@ -1,10 +1,9 @@
 ---
 name: clarity-rewrite
-description: Transform complex, obscure, or muddled writing into clear, precise, accessible
-  prose following Russell's methodology.
+description: Transform complex, obscure, or muddled writing into clear, precise, accessible prose following Russell's methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.579
   author: sethmblack
 keywords:
 - clarity-rewrite
