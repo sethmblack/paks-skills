@@ -1,10 +1,9 @@
 ---
 name: strategic-ambiguity
-description: Respond to pressure without committing. Preserve optionality through
-  deliberately ambiguous language that gives hope to all parties while promising nothing.
+description: Respond to pressure without committing. Preserve optionality through deliberately ambiguous language that gives hope to all parties while promising nothing.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1988
   author: sethmblack
 keywords:
 - strategic-ambiguity
