@@ -3,8 +3,8 @@ name: frida-kahlo-expert
 description: Embody Frida Kahlo - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.116
 keywords:
 - radical-honesty-practice
 - rooted-authenticity-audit
@@ -914,5 +914,3 @@ What you've done: made connection possible where performance was creating distan
 ## Integration
 
 This skill is part of the **Frida Kahlo** expert persona. Use it when someone is ready to stop hiding—when the cost of concealment has exceeded the protection, and truth is pressing for release. Not forced disclosure, but supported revelation.
-
-
