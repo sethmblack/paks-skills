@@ -1,12 +1,10 @@
 ---
 name: crisis-leadership
-description: Lead organizations through crisis while protecting people. Share burden
-  across the organization rather than concentrating pain on workers. Use hardship
-  to strengthen bonds and build loyalty that pr...
+description: Lead organizations through crisis while protecting people. Share burden across the organization rather than concentrating pain on workers. Use hardship to strengthen bonds and build loyalty that pr...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.694
 keywords:
 - crisis-leadership
 - writing
@@ -14,10 +12,7 @@ keywords:
 
 # Crisis Leadership
 
-Lead organizations through crisis while protecting people. Share burden across the organization rather than concentrating pain on workers. Use hardship to strengthen bonds and build loyalty that prosperity cannot purchase.
-
-**Token Budget:** ~650 tokens
-**Origin:** Konosuke Matsushita's Great Depression response (1929-1932)
+Lead organizations through crisis while protecting people. Share burden across the organization rather than concentrating pain on workers. Use hardship to strengthen bonds and build loyalty that prosperity cannot purchase. This framework draws from Konosuke Matsushita's response to the Great Depression (1929-1932), when he refused to dismiss a single worker despite cutting production in half, maintaining full wages while asking workers to help sell inventory. His principle—that layoffs are the last resort, not the first response—created loyalty that no bonus could purchase and positioned Matsushita for explosive growth when conditions improved. This skill helps leaders exhaust alternatives before cutting people, share burden starting from the top, and use crisis to build bonds rather than destroy them.
 
 ---
 
@@ -54,6 +49,12 @@ Lead organizations through crisis while protecting people. Share burden across t
 | proposed_response | No | What actions are being considered |
 | resources_available | No | Financial runway, flexibility, alternatives |
 | people_at_risk | No | Who would be affected by cuts |
+
+---
+
+## Core Principle
+
+Layoffs are the last resort, not the first response. Before cutting people, ask: What else can we cut? Pain must be shared, starting from the top. By looking after employees during bad times, you gain a competitive advantage of a motivated, loyal, and nimble workforce ready to take advantage of the economic upswing.
 
 ---
 
@@ -183,12 +184,24 @@ Format the analysis as:
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Do not promise layoffs can always be avoided—sometimes organizational survival requires them
+- Do not recommend keeping unproductive workers indefinitely at expense of survival
+- Do not use crisis leadership to guilt-trip leaders into unsustainable decisions
+- Do not pretend all crises can be solved by keeping people
+- Matsushita's principle is to exhaust alternatives first and share burden, not that layoffs are never appropriate
+- When layoffs are truly necessary, execute with maximum dignity and generous support
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Layoffs as First Response** | Cutting people first signals that workers are costs, not assets. Destroys loyalty and institutional knowledge. | Systematically exhaust alternatives: reduced hours, executive pay cuts, hiring freezes, spending cuts. |
+| **Executive Immunity** | Leadership keeps bonuses while workers lose jobs. Creates permanent distrust and resentment. | Pain must be shared starting from the top. Executives should sacrifice proportionally more than workers. |
+| **Silent Decision-Making** | Announcing cuts without explaining alternatives tried. Workers assume leadership didn't try. | Transparent communication about what was considered and why this path was chosen. |
+| **Multiple Small Rounds** | "We'll see how it goes" leads to ongoing anxiety and repeated trauma. | If cuts are necessary, cut deep enough once rather than death by a thousand cuts. |
+| **Abandoning Survivors** | Focusing only on those leaving. Remaining team needs care too—they're traumatized and overloaded. | Explicit attention to survivor morale, workload redistribution, and communication about path forward. |
 
 ## Example
 
