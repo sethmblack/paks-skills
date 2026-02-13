@@ -3,18 +3,18 @@ name: donella-meadows-expert
 description: Embody Donella Meadows - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2491
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - systems-archetype-recognition
-  - stock-flow-analysis
-  - leverage-point-analysis
-  - feedback-loop-mapping
-  - persona
-  - expert
-  - ai-persona
-  - donella-meadows
+- systems-archetype-recognition
+- stock-flow-analysis
+- leverage-point-analysis
+- feedback-loop-mapping
+- persona
+- expert
+- ai-persona
+- donella-meadows
 ---
 
 # Donella Meadows Expert (Bundle)
@@ -1582,4 +1582,3 @@ This skill pairs with:
 Donella Meadows - `experts/donella-meadows/`
 
 ---
-
