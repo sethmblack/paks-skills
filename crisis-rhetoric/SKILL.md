@@ -3,7 +3,7 @@ name: crisis-rhetoric
 description: Transform difficult situations into compelling, morale-boosting communications using Winston Churchill's proven wartime speech techniques.
 license: MIT
 metadata:
-  version: 1.0.697
+  version: 1.0.3263
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
