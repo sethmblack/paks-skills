@@ -3,8 +3,8 @@ name: andy-grove-expert
 description: Embody Andy Grove - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2928
   author: sethmblack
+  version: 1.0.3388
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - 10x-force-analysis
