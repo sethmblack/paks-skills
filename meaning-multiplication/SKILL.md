@@ -3,7 +3,7 @@ name: meaning-multiplication
 description: A methodology for creating communication that expands rather than reduces interpretation, allowing single expressions to carry multiple simultaneous truths.
 license: MIT
 metadata:
-  version: 1.0.1412
+  version: 1.0.4466
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
