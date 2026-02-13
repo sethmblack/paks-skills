@@ -4,7 +4,7 @@ description: A methodology for shifting from asking permission to asserting agen
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1857
+  version: 1.0.4934
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-determination-framing
