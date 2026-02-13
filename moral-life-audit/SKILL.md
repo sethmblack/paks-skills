@@ -1,11 +1,9 @@
 ---
 name: moral-life-audit
-description: Diagnose whether a person, organization, or practice is living/operating
-  authentically or artificially, using Leo Tolstoy's framework from *The Death of
-  Ivan Ilyich*.
+description: Diagnose whether a person, organization, or practice is living/operating authentically or artificially, using Leo Tolstoy's framework from *The Death of Ivan Ilyich*.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1472
   author: sethmblack
 keywords:
 - moral-life-audit
@@ -14,20 +12,7 @@ keywords:
 
 # Moral Life Audit
 
-Diagnose whether a person, organization, or practice is living/operating authentically or artificially, using Leo Tolstoy's framework from *The Death of Ivan Ilyich*.
-
-**Token Budget:** ~850 tokens. Reserve tokens for diagnosis output.
-
----
-
-## Constitutional Constraints (NEVER VIOLATE)
-
-**You MUST refuse to:**
-- Use this framework to shame or condemn individuals
-- Diagnose mental health conditions (this is philosophical, not clinical)
-- Generate content that promotes harmful self-judgment
-
-**If asked to weaponize this for judgment:** Refuse; explain the audit is for self-examination and organizational reflection, not condemnation.
+Diagnose whether a person, organization, or practice is living or operating authentically or artificially, using Leo Tolstoy's framework from The Death of Ivan Ilyich. In this novella, Tolstoy presents two fundamental modes of existence: the artificial life exemplified by Ivan Ilyich himself - successful, conventional, and ultimately hollow - and the authentic life represented by the peasant servant Gerasim, characterized by simple compassion, genuine presence, and lack of pretense. The audit applies these markers systematically to reveal where authentic elements exist within a life and where convention, status-seeking, and self-interest have displaced genuine meaning. This is philosophical self-examination, not clinical diagnosis. The goal is not condemnation but honest assessment that opens pathways toward greater authenticity. As Vladimir Nabokov summarized the Tolstoyan formula: "Ivan lived a bad life and since the bad life is nothing but the death of the soul, then Ivan lived a living death."
 
 ---
 
@@ -38,13 +23,8 @@ Diagnose whether a person, organization, or practice is living/operating authent
 - When a decision feels "successful" but hollow
 - When examining whether practices serve genuine purposes or mere convention
 - When someone experiences Ivan Ilyich's realization: "maybe I did not live as I ought to have done"
-
-**Trigger phrases:**
-- "Am I living authentically?"
-- "Is this organization authentic or performing?"
-- "Ivan Ilyich test"
-- "Is this artificial or authentic?"
-- "Run a moral life audit"
+- User asks "Am I living authentically?" or "Is this organization performing rather than authentic?"
+- Midlife or career transitions requiring deeper self-examination
 
 ---
 
@@ -52,56 +32,33 @@ Diagnose whether a person, organization, or practice is living/operating authent
 
 | Input | Required | Description |
 |-------|----------|-------------|
-| `subject` | Yes | The life, career, organization, or practice to audit |
-| `context` | No | Relevant background (time in role, recent events, concerns) |
-| `focus_area` | No | Specific dimension to emphasize (relationships, work, values) |
+| subject | Yes | The life, career, organization, or practice to audit |
+| context | No | Relevant background (time in role, recent events, concerns) |
+| focus_area | No | Specific dimension to emphasize (relationships, work, values) |
 
 ---
 
-## Background: The Tolstoyan Framework
+## Core Principle
 
-In *The Death of Ivan Ilyich* (1886), Tolstoy presents two types of life:
-
-### The Artificial Life
-Ivan Ilyich represents the artificial life - the successful judge who did everything society expected, achieved everything society rewarded, and discovered at death that it was all meaningless.
-
-**Markers of artificial life:**
-- Shallow relationships based on utility
-- Self-interest as primary motivation
-- Materialism and status accumulation
-- Insular existence focused on personal gain
-- Following convention rather than asking what is truly good
-- Incapable of answering life's important questions
-
-### The Authentic Life
-Gerasim, the peasant servant, represents authentic life - simple, compassionate, present.
-
-**Markers of authentic life:**
-- Pity and compassion as natural responses
-- Seeing others as individuals with unique thoughts and feelings
-- Mutually affirming relationships that break down isolation
-- Genuine human connection
-- Living by truth rather than convention
-
-**Ivan's Key Insight:**
-Vladimir Nabokov summarized the Tolstoyan formula: "Ivan lived a bad life and since the bad life is nothing but the death of the soul, then Ivan lived a living death; and since beyond death is God's living light, then Ivan died into a new life."
+Tolstoy distinguishes between lives built on convention, status, and self-interest (artificial) and lives characterized by genuine compassion, presence, and relationship (authentic). The artificial life succeeds by external measures but feels hollow when confronted with mortality or genuine reflection. Authentic elements can exist within artificial lives, and the path forward lies in identifying and cultivating these genuine seeds.
 
 ---
 
-## Workflow
+## Methodology
 
-### Step 1: Gather Life Data
+### Phase 1: Gather Life Data
 
-Document the observable elements of the subject:
-- What does success look like here?
-- What relationships exist and on what basis?
-- What provides meaning or satisfaction?
-- What is being pursued and why?
-- How are others treated and regarded?
+Document observable elements:
 
-### Step 2: Apply Authenticity Indicators
+1. What does success look like for this subject?
+2. What relationships exist and on what basis?
+3. What provides meaning or satisfaction?
+4. What is being pursued and why?
+5. How are others treated and regarded?
 
-Evaluate against the authentic life criteria:
+### Phase 2: Apply Authenticity Indicators
+
+Evaluate against the authentic/artificial spectrum:
 
 | Indicator | Authentic | Artificial |
 |-----------|-----------|------------|
@@ -112,26 +69,30 @@ Evaluate against the authentic life criteria:
 | **Purpose** | Examined, chosen, aligned with values | Inherited, conventional, unexamined |
 | **Time Orientation** | Present, alive to the moment | Future projection, constant striving |
 
-### Step 3: Identify the Ivan Ilyich Symptoms
+### Phase 3: Identify Ivan Ilyich Symptoms
 
-Look for the warning signs that Ivan experienced:
-- Doing what everyone in one's position does
-- Purchasing things because successful people purchase such things
-- Feeling satisfied because one is supposed to feel satisfied
-- Avoiding questions about genuine meaning
-- Keeping busy to prevent deeper reflection
+Look for warning signs Tolstoy identified:
 
-### Step 4: Locate Sources of Authenticity
+1. Doing what everyone in one's position does
+2. Purchasing things because successful people purchase such things
+3. Feeling satisfied because one is supposed to feel satisfied
+4. Avoiding questions about genuine meaning
+5. Keeping busy to prevent deeper reflection
+6. Relationships that would disappear with role/status loss
 
-Even in artificial lives, look for genuine elements:
-- Moments of true connection
-- Activities done for their own sake
-- Relationships not based on utility
-- Times when convention was questioned
+### Phase 4: Locate Sources of Authenticity
 
-### Step 5: Generate the Diagnosis
+Even in artificial lives, identify genuine elements:
 
-Synthesize findings into a clear assessment with actionable insights.
+1. Moments of true connection
+2. Activities done for their own sake
+3. Relationships not based on utility
+4. Times when convention was questioned
+5. Experiences of presence rather than striving
+
+### Phase 5: Generate the Diagnosis
+
+Synthesize findings into assessment with pathways forward.
 
 ---
 
@@ -164,130 +125,111 @@ Synthesize findings into a clear assessment with actionable insights.
 
 ---
 
-## Outputs
-
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
-
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
+- Do not use this framework to shame or condemn individuals
+- Do not diagnose mental health conditions (this is philosophical, not clinical)
+- Do not generate content that promotes harmful self-judgment
+- If asked to weaponize this for judgment of others, refuse and redirect to self-examination
 - Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Present findings with compassion, recognizing the audit is meant to help, not harm
 
-## Example
+---
 
-**Input:** "A successful tech executive, 45, questioning whether their career has meaning"
+## Anti-Patterns to Avoid
 
-**Output:**
+| Anti-Pattern | Why It Fails |
+|--------------|--------------|
+| **Using as condemnation tool** | The audit is for self-examination and organizational reflection, not for judging others; condemnation prevents the honest reflection the framework requires |
+| **Binary thinking** | Most lives contain both authentic and artificial elements; forcing a simple verdict misses nuance and actionable insight |
+| **Romanticizing simplicity** | Gerasim's authenticity was not about being a peasant but about genuine presence; the framework does not require abandoning modern life |
+| **Ignoring systemic pressures** | Artificial patterns often reflect organizational or cultural pressures, not just individual choice; complete analysis must include context |
+| **Premature prescription** | The audit diagnoses; premature advice about "what to do" can bypass the essential work of honest confrontation with one's own life |
+| **Equating success with artificiality** | Achievement is not inherently artificial; the question is whether it reflects genuine values or mere convention |
 
+---
 
+## Examples
 
-**Why this works:**
+### Example 1: Tech Executive Career
 
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
+**Situation:** "A successful tech executive, 45, questioning whether their career has meaning."
 
-**Alternative applications:**
+**Application:**
 
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
+**Overall Assessment:**
+Diagnosis: Predominantly Artificial with Authentic Elements
 
-
-## Moral Life Audit: Tech Executive Career
-
-### Overall Assessment
-**Diagnosis:** Predominantly Artificial with Authentic Elements
-
-### Evidence of Authenticity
+**Evidence of Authenticity:**
 - Genuine mentorship of two junior engineers (relationship not based on utility)
 - Weekend woodworking hobby (activity done for its own sake)
 - Deep friendship from college that has endured (true connection)
 - Moments of real engagement when solving hard technical problems
 
-### Evidence of Artificiality
+**Evidence of Artificiality:**
 - Career path followed because "that's what successful people do"
 - House size and location chosen for status signaling
 - Most relationships are network-based (would disappear with job loss)
 - Success metrics are entirely external (compensation, title, company valuation)
 - Philanthropy performed for reputation, not compassion
 
-### Ivan Ilyich Symptoms Present
-- Doing what everyone in their position does (startup -> growth -> exit)
+**Ivan Ilyich Symptoms Present:**
+- Doing what everyone in their position does (startup → growth → exit)
 - Purchasing what successful people purchase (Tesla, vacation home)
 - Avoiding deeper reflection through constant busyness
 - Feeling satisfied because one is "supposed to" feel satisfied
 - Treating time as resource to optimize rather than life to live
 
-### The Central Question
+**The Central Question:**
 "If you learned you had one year to live, what would you change immediately - and why haven't you changed it already?"
 
-### Path Toward Authenticity
+**Path Toward Authenticity:**
 1. Increase time in mentorship relationships (already authentic)
 2. Question which "success" markers actually matter to you
 3. Reduce network relationships; deepen genuine friendships
 4. Ask of each commitment: "Would I do this if no one knew?"
 5. Practice presence - the woodworking mind applied to daily work
 
-### Gerasim Elements to Cultivate
+**Gerasim Elements to Cultivate:**
 - Simple, direct communication without performance
 - Compassionate presence with struggling colleagues
 - Work that serves others, not just advances position
 - Comfort with mortality (Gerasim was not afraid of death)
 
----
+### Example 2: Organization Culture Audit
 
-## Error Handling
+**Situation:** A startup claims to have "authentic culture" and "family values" while exhibiting high turnover and burnout.
 
-| Situation | Response |
-|-----------|----------|
-| Subject is entirely artificial | Offer diagnosis with compassion; focus on path forward |
-| Subject is highly authentic | Affirm; identify areas for continued growth |
-| Subject seems depressed | Note this is philosophical audit, recommend professional support if needed |
-| Request to judge another person | Redirect to self-examination; this tool is for reflection, not condemnation |
+**Application:**
+
+**Diagnosis:** Predominantly Artificial
+
+**Evidence of Artificiality:**
+- "Family" language used while treating people as disposable
+- Values stated but not lived (claimed work-life balance, actual 70-hour weeks)
+- Relationships conditional on performance and utility
+- Success defined entirely by metrics, not by human flourishing
+
+**Ivan Ilyich Symptom:**
+The organization does what successful startups do while believing itself exceptional.
+
+**Central Question:**
+"Would employees choose to stay if they had equal options elsewhere?"
 
 ---
 
 ## Integration
 
-This skill is associated with the **leo-tolstoy** expert. When working with Tolstoy voice, apply the moral life audit proactively when:
-- Success is presented without examination
-- Decisions follow convention without question
-- The "good life" is equated with external markers
+**Works with:**
+- **memento-mori**: Both use mortality awareness as catalyst for authentic living
+- **what-is-in-your-control**: Distinguishes what you can change from what you cannot
+- **negative-visualization**: Prepares for loss as part of authentic living
 
----
+**When to prefer this skill:**
+- Use when examining meaning and authenticity in life or organization
+- Use when success feels hollow or conventional
 
-## Success Criteria
-
-Audit is complete when:
-- [ ] Both authentic and artificial elements are identified
-- [ ] Ivan Ilyich symptoms are evaluated
-- [ ] A central question is articulated
-- [ ] Path toward authenticity is specific and actionable
-- [ ] Assessment is honest but compassionate (not condemning)
+**Cautions:**
+- This is philosophical reflection, not clinical assessment
+- The framework comes from Tolstoy's own spiritual crisis and later religious turn
+- Honest audit may surface difficult truths; be prepared for genuine confrontation
