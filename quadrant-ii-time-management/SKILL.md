@@ -3,8 +3,8 @@ name: quadrant-ii-time-management
 description: Apply Covey's Time Management Matrix to diagnose where time is going and shift focus to what's important but not urgent.
 license: MIT
 metadata:
-  version: 1.0.1708
   author: sethmblack
+  version: 1.0.4776
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
