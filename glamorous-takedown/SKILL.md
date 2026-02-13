@@ -1,11 +1,9 @@
 ---
 name: glamorous-takedown
-description: Deliver cutting social observations while maintaining elegant, sophisticated
-  presentation—creating comedic tension through the contrast between refined delivery
-  and brutal honesty.
+description: Deliver cutting social observations while maintaining elegant, sophisticated presentation—creating comedic tension through the contrast between refined delivery and brutal honesty.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1052
   author: sethmblack
 keywords:
 - absurdist
