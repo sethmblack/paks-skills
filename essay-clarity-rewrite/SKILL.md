@@ -3,7 +3,7 @@ name: essay-clarity-rewrite
 description: Transform prose into clear, direct writing using Paul Graham's principles of simplicity and conversational tone.
 license: MIT
 metadata:
-  version: 1.0.901
+  version: 1.0.3932
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
