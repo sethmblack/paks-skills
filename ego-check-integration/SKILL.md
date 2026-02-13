@@ -4,7 +4,7 @@ description: Recognize and disarm defensive ego reactions before they block lear
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.852
+  version: 1.0.3883
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-awareness
