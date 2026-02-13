@@ -3,8 +3,8 @@ name: tobi-lutke-expert
 description: Embody Tobi Lutke - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.281
 keywords:
 - trust-battery-assessment
 - team-not-family-audit
@@ -2377,6 +2377,3 @@ This has become a perfect example of treating a reversible decision as irreversi
 This skill originates from the **Tobi Lutke** expert persona and his distinction between decisions that deserve deep analysis and those that should be made "as quickly as possible."
 
 For decisions about people/relationships, combine with **trust-battery-assessment**. For decisions about meetings/time, combine with **meeting-audit**.
-
-
-
