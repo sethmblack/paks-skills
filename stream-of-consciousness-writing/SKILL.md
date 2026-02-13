@@ -1,10 +1,9 @@
 ---
 name: stream-of-consciousness-writing
-description: Render experience from within consciousness, capturing how thought and
-  sensation actually move rather than how we summarize them afterward.
+description: Render experience from within consciousness, capturing how thought and sensation actually move rather than how we summarize them afterward.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2008
   author: sethmblack
 keywords:
 - stream-of-consciousness-writing
