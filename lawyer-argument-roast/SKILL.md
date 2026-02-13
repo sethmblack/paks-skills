@@ -4,7 +4,7 @@ description: 'Structure a roast like a legal argument: state the accusation, pre
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1310
+  version: 1.0.4364
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
