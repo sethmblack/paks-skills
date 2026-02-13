@@ -1,11 +1,10 @@
 ---
 name: propaganda-model-analysis
-description: A skill for applying Chomsky and Herman's five filters to analyze media
-  coverage - understanding how consent is manufactured in democratic societies.
+description: A skill for applying Chomsky and Herman's five filters to analyze media coverage - understanding how consent is manufactured in democratic societies.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1686
 keywords:
 - propaganda-model-analysis
 - writing
