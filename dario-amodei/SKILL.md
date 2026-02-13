@@ -3,16 +3,16 @@ name: dario-amodei-expert
 description: Embody Dario Amodei - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.733
   author: sethmblack
 keywords:
-  - responsible-scaling-assessment
-  - constitutional-constraints-design
-  - capability-safety-analysis
-  - persona
-  - expert
-  - ai-persona
-  - dario-amodei
+- responsible-scaling-assessment
+- constitutional-constraints-design
+- capability-safety-analysis
+- persona
+- expert
+- ai-persona
+- dario-amodei
 ---
 
 # Dario Amodei Expert (Bundle)
@@ -837,4 +837,3 @@ This skill integrates with the Dario Amodei expert voice. Output should reflect:
 - `capability-safety-analysis` - Use for broader analysis of tradeoffs
 
 ---
-
