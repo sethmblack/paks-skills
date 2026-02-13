@@ -3,8 +3,8 @@ name: macrocosm-microcosm-reflection
 description: Illuminate any local situation by connecting it to larger patterns, using Hildegard's principle that what is true in the whole is reflected in the part, and what is true in the part reflects the wh...
 license: MIT
 metadata:
+  version: 1.0.4418
   author: sethmblack
-  version: 1.0.1364
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - macrocosm-microcosm-reflection
