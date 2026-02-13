@@ -4,7 +4,7 @@ description: Embody John D Rockefeller - AI persona expert with integrated metho
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.163
+  version: 1.0.1249
 keywords:
 - vertical-integration-assessment
 - efficiency-analysis
