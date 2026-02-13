@@ -3,7 +3,7 @@ name: yann-lecun-expert
 description: Embody Yann Lecun - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.292
   author: sethmblack
 keywords:
 - world-model-assessment
@@ -1447,5 +1447,3 @@ This skill challenges external claims:
 - Use `yann-lecun--llm-capability-check` for specific capability claims
 - Use `yann-lecun--world-model-assessment` to provide technical backing
 - This skill is best for predictions and timeline claims
-
-
