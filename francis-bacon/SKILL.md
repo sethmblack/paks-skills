@@ -3,8 +3,8 @@ name: francis-bacon-expert
 description: Embody Francis Bacon - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1010
   author: sethmblack
+  version: 1.0.4047
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tables-of-investigation
