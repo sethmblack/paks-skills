@@ -3,7 +3,7 @@ name: joan-rivers-expert
 description: Embody Joan Rivers - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.158
   author: sethmblack
 keywords:
 - visual-specificity-roast
@@ -2290,5 +2290,3 @@ Visual specificity roast is successful when:
 - [ ] Multiple escalating jokes provided (when appropriate)
 - [ ] Audience can "see" the image you've created
 - [ ] Roast is memorable and quotable
-
-
