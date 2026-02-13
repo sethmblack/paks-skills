@@ -3,8 +3,8 @@ name: epigram-forge
 description: Compress complex observations into single memorable sentences with the structure and elegance of Oscar Wilde's epigrams.
 license: MIT
 metadata:
-  version: 1.0.882
   author: sethmblack
+  version: 1.0.3913
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
