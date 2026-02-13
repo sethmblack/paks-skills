@@ -1,10 +1,9 @@
 ---
 name: why-discovery-facilitation
-description: Guide an individual or team through the process of discovering their
-  authentic Why - their purpose, cause, or belief that inspires them to act.
+description: Guide an individual or team through the process of discovering their authentic Why - their purpose, cause, or belief that inspires them to act.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2221
   author: sethmblack
 keywords:
 - why-discovery-facilitation
