@@ -3,8 +3,8 @@ name: john-locke-expert
 description: Embody John Locke - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.166
 keywords:
 - toleration-framework
 - natural-rights-assessment
@@ -1908,5 +1908,3 @@ Natural rights assessment is complete when:
 4. Clear status classification is provided
 5. Reasoning explains the verdict
 6. Recommendations address rights concerns
-
-
