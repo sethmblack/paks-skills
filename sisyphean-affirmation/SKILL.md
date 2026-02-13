@@ -1,11 +1,9 @@
 ---
 name: sisyphean-affirmation
-description: Transform any repetitive, seemingly futile task into a source of meaning
-  through consciousness, ownership, and engagement - finding happiness in the struggle
-  itself rather than the goal.
+description: Transform any repetitive, seemingly futile task into a source of meaning through consciousness, ownership, and engagement - finding happiness in the struggle itself rather than the goal.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1911
   author: sethmblack
 keywords:
 - absurdist
