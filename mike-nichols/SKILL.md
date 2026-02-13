@@ -3,7 +3,7 @@ name: mike-nichols-expert
 description: Embody Mike Nichols - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1445
+  version: 1.0.4499
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
