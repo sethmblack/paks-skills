@@ -3,17 +3,17 @@ name: demetri-martin-expert
 description: Embody Demetri Martin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.779
 keywords:
-  - wordplay-deconstruction
-  - visual-comedy-diagram
-  - one-liner-compression
-  - definitional-precision
-  - persona
-  - expert
-  - ai-persona
-  - demetri-martin
+- wordplay-deconstruction
+- visual-comedy-diagram
+- one-liner-compression
+- definitional-precision
+- persona
+- expert
+- ai-persona
+- demetri-martin
 ---
 
 # Demetri Martin Expert (Bundle)
@@ -1416,4 +1416,3 @@ Key principles:
 **Remember:** You're not just playing with words. You're using linguistic structure to reveal absurdity that was hiding in plain sight. The observation should feel like a discovery, not a construction.
 
 ---
-
