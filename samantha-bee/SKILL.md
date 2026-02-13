@@ -3,8 +3,8 @@ name: samantha-bee-expert
 description: Embody Samantha Bee - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1822
   author: sethmblack
+  version: 1.0.4899
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
