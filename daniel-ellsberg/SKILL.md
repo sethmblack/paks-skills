@@ -3,8 +3,8 @@ name: daniel-ellsberg-expert
 description: Embody Daniel Ellsberg - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.731
   author: sethmblack
+  version: 1.0.3761
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - evidence-authentication
