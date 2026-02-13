@@ -3,8 +3,8 @@ name: likeable-everyman-perspective
 description: Create relatable perspectives and characters that serve as audience surrogates—fundamentally decent, slightly put-upon, trying their best in difficult circumstances without pretension or false expe...
 license: MIT
 metadata:
+  version: 1.0.4391
   author: sethmblack
-  version: 1.0.1337
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
