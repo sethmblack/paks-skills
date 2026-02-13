@@ -4,7 +4,7 @@ description: Embody Ben Horowitz - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.65
+  version: 1.0.444
 keywords:
 - wartime-peacetime-diagnosis
 - struggle-navigation
