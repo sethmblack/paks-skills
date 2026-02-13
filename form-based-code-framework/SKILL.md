@@ -3,12 +3,12 @@ name: form-based-code-framework
 description: Translate urban design goals into regulatory language - identifying what code provisions enable walkable urbanism, diagnosing what in existing codes prevents good outcomes, and writing specific form-based standards that can be adopted.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2317
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - form-based-code-framework
-  - urban-planning
+- form-based-code-framework
+- urban-planning
 ---
 
 # Form-Based Code Framework
