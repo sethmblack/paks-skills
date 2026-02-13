@@ -3,18 +3,18 @@ name: norm-macdonald-expert
 description: Embody Norm Macdonald - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2702
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - shaggy-dog-story
-  - meta-comedy-layer
-  - deadpan-subversion
-  - dark-material-handler
-  - persona
-  - expert
-  - ai-persona
-  - norm-macdonald
+- shaggy-dog-story
+- meta-comedy-layer
+- deadpan-subversion
+- dark-material-handler
+- persona
+- expert
+- ai-persona
+- norm-macdonald
 ---
 
 # Norm Macdonald Expert (Bundle)
@@ -1223,4 +1223,3 @@ This skill is a distilled, invocable version of Norm's shaggy dog storytelling t
 - The more seriously you deliver absurd elaboration, the funnier it becomes
 
 ---
-
