@@ -3,7 +3,7 @@ name: a-player-hiring
 description: Hire top talent using Netflix's Keeper Test and high-performance culture principles to build teams where every member is someone you would fight to keep.
 license: MIT
 metadata:
-  version: 1.0.2852
+  version: 1.0.3301
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
