@@ -3,12 +3,12 @@ name: modulor-proportion-application
 description: Apply Le Corbusier's Modulor proportional system to derive harmonious dimensions for architectural elements, furniture, interior spaces, or any design requiring human-scale proportions based on the golden ratio and human body measurements.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2325
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - modulor-proportion-application
-  - urban-planning
+- modulor-proportion-application
+- urban-planning
 ---
 
 # Modulor Proportion Application
