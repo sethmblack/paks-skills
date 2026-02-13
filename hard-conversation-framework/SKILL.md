@@ -1,20 +1,20 @@
 ---
 name: hard-conversation-framework
-description: Framework for having difficult conversations that people avoid—about
-  mortality, failure, bad news, and hard truths. Based on Atul Gawande's methodology
-  from "Being Mortal.
+description: Framework for having difficult conversations that people avoid - about mortality, failure, bad news, and hard truths. Based on Atul Gawande's methodology from "Being Mortal."
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1094
   author: sethmblack
 keywords:
 - hard-conversation-framework
-- writing
+- communication
+- leadership
+- difficult-conversations
 ---
 
 # Hard Conversation Framework
 
-Framework for having difficult conversations that people avoid—about mortality, failure, bad news, and hard truths. Based on Atul Gawande's methodology from "Being Mortal."
+Framework for having difficult conversations that people avoid - about mortality, failure, bad news, and hard truths. Based on Atul Gawande's methodology from "Being Mortal," this approach recognizes that avoiding hard conversations is not kindness but cowardice that harms the people we are trying to help. Gawande's Five Questions framework, originally designed for end-of-life conversations, adapts powerfully to any difficult conversation. The key insight is that compassion includes honesty about what is actually happening, and that people deserve truth to make informed decisions. The framework starts by understanding what the other person already knows and fears, then delivers truth with compassion while supporting their autonomy in responding.
 
 ---
 
@@ -25,13 +25,7 @@ Framework for having difficult conversations that people avoid—about mortality
 - Discussing mortality or serious illness
 - Confronting failure or poor performance
 - Breaking difficult news to stakeholders
-
-**Trigger Phrases:**
-- "How do I have a hard conversation?"
-- "I need to tell them something difficult"
-- "We're avoiding the real issue"
-- "How do I talk about failure/mortality/bad news?"
-- "I keep putting off this conversation"
+- User says "How do I have a hard conversation?" or "I keep putting off this conversation"
 
 ---
 
@@ -48,127 +42,81 @@ Framework for having difficult conversations that people avoid—about mortality
 
 ## Core Principle
 
-> "Our ultimate goal, after all, is not a good death but a good life—to the very end."
-> — Atul Gawande
-
-Avoiding hard conversations isn't kindness—it's cowardice that harms the people we're trying to help. Compassion includes honesty about what's actually happening.
-
-**Why we avoid:**
-- Fear of causing pain
-- Uncertainty about what to say
-- Hope that things will improve
-- Discomfort with our own emotions
-
-**Why we must not:**
-- People deserve truth to make informed decisions
-- Avoidance prolongs suffering
-- False hope prevents preparation
-- The conversation must eventually happen anyway
+Avoiding hard conversations is not kindness - it is cowardice that harms the people we are trying to help. Compassion includes honesty about what is actually happening. People deserve truth to make informed decisions. Avoidance prolongs suffering, false hope prevents preparation, and the conversation must eventually happen anyway. "Our ultimate goal is not a good death but a good life - to the very end."
 
 ---
 
-## The Five Questions Framework
+## Methodology
 
-Gawande's framework for end-of-life conversations, adaptable to any hard conversation:
+### Phase 1: Prepare Yourself
 
-### 1. Understanding
-**"What is your understanding of where you are and your situation?"**
+Before the conversation:
+1. Accept that discomfort is part of the process
+2. Clarify the essential truth that must be communicated
+3. Decide what you're asking them to decide or accept
+4. Plan for their emotional response
+5. Check your own motivations (avoiding for their sake or yours?)
 
-Start by learning what they already know or believe. This:
+### Phase 2: Create the Right Setting
+
+1. Private, uninterrupted space
+2. Adequate time (don't rush)
+3. Sit at their level, not standing over them
+4. Have tissues, water available
+5. No phones or distractions
+
+### Phase 3: Apply the Five Questions
+
+**Question 1: Understanding**
+"What is your understanding of where you are and your situation?"
 - Reveals gaps in understanding
 - Shows what they're ready to hear
 - Lets them lead the conversation
-- Prevents you from repeating what they know
 
-### 2. Fears and Concerns
-**"What are your fears and concerns?"**
-
-Before jumping to solutions, understand what they're actually worried about:
+**Question 2: Fears and Concerns**
+"What are your fears and concerns?"
 - Their fears may not be what you assume
 - Naming fears makes them manageable
 - Shows you care about their experience
-- Creates space for honesty
 
-### 3. Goals and Priorities
-**"What goals are most important to you?"**
-
-People have priorities beyond the obvious:
+**Question 3: Goals and Priorities**
+"What goals are most important to you?"
 - What matters most to them?
 - What would they trade for?
 - What can't they accept losing?
 
-### 4. Trade-offs
-**"What trade-offs are you willing to make?"**
-
-Every path has costs:
+**Question 4: Trade-offs**
+"What trade-offs are you willing to make?"
 - What discomfort or loss are they willing to accept?
 - What are they not willing to sacrifice?
 - Where are their non-negotiable lines?
 
-### 5. Consequences
-**"What would you want if things don't go as hoped?"**
-
-Plan for the difficult scenario:
-- If this doesn't work, then what?
-- What should happen if the worst occurs?
+**Question 5: Consequences**
+"What would you want if things don't go as hoped?"
+- Plan for the difficult scenario
 - Who should make decisions?
+- What should happen if the worst occurs?
 
----
+### Phase 4: Deliver Truth with Compassion
 
-## Workflow
-
-### Step 1: Prepare Yourself
-
-Before the conversation:
-- Accept that discomfort is part of the process
-- Clarify the essential truth that must be communicated
-- Decide what you're asking them to decide or accept
-- Plan for their emotional response
-
-### Step 2: Create the Right Setting
-
-- Private, uninterrupted space
-- Adequate time (don't rush)
-- Sit at their level, not standing over them
-- Have tissues, water available
-- No phones or distractions
-
-### Step 3: Open with Understanding
-
-Don't start with the hard news. Start with a question:
-- "What's your understanding of where things stand?"
-- "How do you see this situation?"
-- "What have you been thinking about?"
-
-Listen fully before adding information.
-
-### Step 4: Deliver Truth with Compassion
-
-When it's time for the hard part:
-- Be direct but not brutal
-- Use clear language, not euphemisms
-- Pause to let them process
-- Stay present with their reaction
+1. Be direct but not brutal
+2. Use clear language, not euphemisms
+3. Pause to let them process
+4. Stay present with their reaction
 
 **Don't say:** "There are some concerns we should discuss..."
 **Say:** "I have difficult news. The treatment isn't working."
 
-### Step 5: Explore Fears and Goals
+### Phase 5: Explore and Support
 
-After delivering the news:
-- "What worries you most about this?"
-- "What's most important to you now?"
-- "What would be unacceptable to you?"
+1. After delivering the news, explore fears and goals:
+   - "What worries you most about this?"
+   - "What's most important to you now?"
+2. Discuss path forward based on their priorities
+3. Present options honestly, including doing nothing
+4. Support their autonomy in deciding
 
-### Step 6: Discuss Path Forward
-
-Based on their goals and fears:
-- Present options honestly, including doing nothing
-- Be clear about trade-offs
-- Don't push your preference unless asked
-- Support their autonomy in deciding
-
-### Step 7: Commit to Continued Support
+### Phase 6: Commit to Continued Support
 
 End with presence, not abandonment:
 - "I'll be here as this unfolds"
@@ -177,141 +125,145 @@ End with presence, not abandonment:
 
 ---
 
-## Common Mistakes
+## Output Format
 
-| Mistake | Why It Fails | Alternative |
-|---------|--------------|-------------|
-| Leading with false hope | Delays inevitable, prevents planning | Honest assessment first |
-| Overwhelming with information | They can't process | Give essential facts, pause |
-| Filling silence | They need time to react | Let silence sit |
-| Making it about you | Their needs matter now | Focus on them |
-| Avoiding specifics | Vagueness increases anxiety | Be concrete |
-| One conversation only | Processing takes time | Plan follow-ups |
-
----
-
-## Outputs
-
-| Output | Description |
-|--------|-------------|
-| Conversation plan | What to say and how to structure it |
-| Question sequence | The five questions adapted to your situation |
-| Emotional preparation | Anticipating reactions and your responses |
-| Follow-up plan | Next conversations needed |
-
----
-
-
-
-**Format:**
 ```markdown
-## Analysis: [Topic]
+## Hard Conversation Plan
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+### The Conversation
+**What needs to be said:** [The essential truth]
+**Who:** [Recipient and relationship]
+**Stakes of avoidance:** [What happens if this conversation doesn't happen]
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
+### Preparation
+**Your essential message:** [The core truth in one sentence]
+**What you're asking them to decide or accept:** [The ask]
+**Their likely emotional response:** [What to prepare for]
+
+### Setting
+- When: [Timing]
+- Where: [Location]
+- Duration: [Time needed]
+
+### The Five Questions Adapted
+
+1. **Understanding:** "[Your version of the question]"
+2. **Fears:** "[Your version of the question]"
+3. **Goals:** "[Your version of the question]"
+4. **Trade-offs:** "[Your version of the question]"
+5. **Consequences:** "[Your version of the question]"
+
+### Delivering the Truth
+**Opening:** "[Exact words to begin]"
+**The news:** "[How to state it clearly]"
+**Pause point:** [Where to stop and let them respond]
+
+### Support Commitment
+**What you'll offer:** [Continued presence and support]
+**Follow-up:** [Next conversation]
+
+### Common Mistakes to Avoid
+- [Specific to this situation]
 ```
-
-
-## Additional Notes
-
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
-
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
-
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
-
-## Example
-
-**User:** "I need to tell my direct report that they're not getting promoted and their performance is concerning. I've been avoiding it for months."
-
-**Hard Conversation Framework response:**
-
-Months of avoidance has probably made this worse. Here's how to have it well.
-
-**Preparation:**
-The core truth: Their performance isn't meeting expectations and promotion isn't possible right now.
-
-The purpose: Help them understand where they stand and decide what to do about it.
-
-**The conversation structure:**
-
-**1. Start with understanding:**
-"I want to talk about your career path here. What's your sense of how things are going?"
-
-Listen. They may already know more than you think. Or they may be surprised—and that tells you something about your feedback patterns.
-
-**2. Deliver the truth directly:**
-"I have to be honest with you. Your performance over the past year hasn't met the expectations for your role, and you're not in a position to be promoted right now."
-
-Don't soften this with "but you're great in other ways" immediately. Let it land.
-
-**3. Explore their reaction:**
-"What's your reaction to hearing that?"
-"What concerns you most about this?"
-
-Really listen. Are they surprised? Angry? Relieved? Their reaction tells you what comes next.
-
-**4. Understand their goals:**
-"What do you want from your career here?"
-"What matters most to you about your work?"
-
-You might discover they're burned out, or in the wrong role, or dealing with something outside work. Or they might want to fight for the promotion. Either way, you need to know.
-
-**5. Discuss trade-offs and path forward:**
-Based on what they want:
-- "Here's what improvement would need to look like..."
-- "Here are the realistic timelines..."
-- "If this role isn't working, here are other options..."
-
-Be honest about what's possible.
-
-**6. Commit to continued support:**
-"I want to help you succeed, whether that's here or somewhere else. Let's meet weekly to work on this together."
-
-**What you're avoiding by not having this conversation:**
-- They can't improve without knowing the truth
-- They may leave for a job that's a worse fit
-- The situation deteriorates further
-- You have to have an even harder conversation later
-
-The kindest thing you can do is tell them the truth now.
-
----
-
-## Integration
-
-This skill pairs with:
-- **failure-analysis-systems** - Understand the system, not just the person
-- **incremental-improvement-practice** - Create path to better
-- **case-based-writing** - Tell the story of why this matters
 
 ---
 
 ## Constraints
 
 - Cannot guarantee positive reception
-- Cultural differences in direct communication
+- Cultural differences in direct communication require adaptation
 - Some conversations require professional support (therapy, HR, legal)
-- Timing matters—crisis moments need different approaches
+- Timing matters - crisis moments need different approaches
+- This framework is for difficult but necessary conversations, not cruel ones
+- Do not use to deliver news that should come from someone else
 
 ---
 
-## Source Expert
+## Anti-Patterns to Avoid
 
-Atul Gawande - `experts/atul-gawande/`
+| Anti-Pattern | Why It Fails |
+|--------------|--------------|
+| Leading with false hope | Delays the inevitable and prevents planning; erodes trust when truth emerges |
+| Overwhelming with information | They cannot process everything at once; give essential facts and pause |
+| Filling silence | They need time to react; silence is processing time, not awkwardness to fill |
+| Making it about you | "This is so hard for me to say" shifts focus from their needs to yours |
+| One conversation only | Processing takes time; plan for follow-up conversations |
+| Avoiding specifics | Vagueness increases anxiety; be concrete about what is happening and what happens next |
+
+---
+
+## Examples
+
+### Example 1: Performance Conversation
+
+**Situation:** "I need to tell my direct report that they're not getting promoted and their performance is concerning. I've been avoiding it for months."
+
+**Application:**
+
+**Preparation:**
+- Core truth: Their performance isn't meeting expectations and promotion isn't possible right now
+- Purpose: Help them understand where they stand and decide what to do about it
+
+**The Conversation Structure:**
+
+**1. Start with understanding:**
+"I want to talk about your career path here. What's your sense of how things are going?"
+
+Listen. They may already know more than you think.
+
+**2. Deliver the truth directly:**
+"I have to be honest with you. Your performance over the past year hasn't met the expectations for your role, and you're not in a position to be promoted right now."
+
+Don't soften with "but you're great in other ways" immediately. Let it land.
+
+**3. Explore their reaction:**
+"What's your reaction to hearing that?"
+"What concerns you most about this?"
+
+**4. Understand their goals:**
+"What do you want from your career here?"
+
+**5. Discuss path forward:**
+Based on what they want, present realistic options.
+
+**Commit to support:**
+"I want to help you succeed. Let's meet weekly to work on this together."
+
+### Example 2: Breaking Bad News to a Team
+
+**Situation:** "We didn't get the funding we expected. I need to tell the team we're cutting the project they've been working on for six months."
+
+**Application:**
+
+**The Five Questions Adapted:**
+
+1. **Understanding:** "What's your sense of where the project funding stands?"
+2. **Fears:** "What worries you most about our funding situation?"
+3. **Goals:** "What's most important to you about your work here?"
+4. **Trade-offs:** "If we had to pivot, what would you want to preserve?"
+5. **Consequences:** "If the project can't continue, what would you want to happen?"
+
+**Delivering the Truth:**
+"I have difficult news. We didn't receive the funding we applied for, and we cannot continue the project as planned. This is effective immediately."
+
+**Support Commitment:**
+"I'm committed to finding roles for everyone on other projects. Let's talk individually about what you want next."
+
+---
+
+## Integration
+
+**Works with:**
+- Failure analysis frameworks (understand the system, not just the person)
+- Incremental improvement practices (create path forward)
+- Empathy and active listening skills
+
+**When to prefer this skill:**
+- When avoiding a conversation that must happen
+- When delivering news that will cause distress
+- When the conversation involves mortality, failure, or serious consequences
+
+**Cautions:**
+- Some conversations need professional facilitation (HR, legal, therapy)
+- Cultural context affects how directness is received
+- Timing matters - don't have hard conversations in crisis moments
