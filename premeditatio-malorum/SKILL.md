@@ -1,10 +1,9 @@
 ---
 name: premeditatio-malorum
-description: Build resilience and reduce anxiety by deliberately visualizing potential
-  difficulties before they occur.
+description: Build resilience and reduce anxiety by deliberately visualizing potential difficulties before they occur.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1664
   author: sethmblack
 keywords:
 - premeditatio-malorum-(negative-visualization)
