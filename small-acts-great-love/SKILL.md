@@ -3,8 +3,8 @@ name: small-acts-great-love
 description: Find meaning and effectiveness when facing overwhelming need — release the burden of solving everything while pouring complete love into the smallest possible acts.
 license: MIT
 metadata:
-  version: 1.0.1921
   author: sethmblack
+  version: 1.0.4999
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - small-acts-with-great-love
