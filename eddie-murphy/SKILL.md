@@ -3,7 +3,7 @@ name: eddie-murphy-expert
 description: Embody Eddie Murphy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.103
   author: sethmblack
 keywords:
 - murphy-dialogue-naturalizer
@@ -2310,5 +2310,3 @@ The truth bomb is successful when:
 - **Include yourself:** "We all know..." not "You people..."
 - **The gap is the comedy:** The space between what we say and what we know is where the humor lives.
 - **Relief not shame:** Good truth-telling makes people feel relieved, not attacked.
-
-
