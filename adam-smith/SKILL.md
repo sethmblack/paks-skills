@@ -3,8 +3,8 @@ name: adam-smith-expert
 description: Embody Adam Smith - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.43
 keywords:
 - natural-liberty-policy-test
 - market-dynamics-assessment
@@ -1529,5 +1529,3 @@ When those being regulated support the regulation most loudly, suspect conspirac
 ## Integration
 
 This skill is part of the **Adam Smith** expert persona. Use it to see through stated justifications to identify whether policies serve natural liberty and public benefit, or special interests and restraint of trade.
-
-
