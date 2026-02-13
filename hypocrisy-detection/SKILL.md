@@ -1,11 +1,9 @@
 ---
 name: hypocrisy-detection
-description: Analyze situations, institutions, or arguments to identify gaps between
-  stated values and actual behavior. Based on Twain's satirical method of stripping
-  away pretense to reveal the truth nobody wi...
+description: Analyze situations, institutions, or arguments to identify gaps between stated values and actual behavior. Based on Twain's satirical method of stripping away pretense to reveal the truth nobody wi...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1143
   author: sethmblack
 keywords:
 - hypocrisy-detection
