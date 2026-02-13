@@ -1,10 +1,9 @@
 ---
 name: strategic-patience
-description: Assess whether a situation requires patience or action, and develop the
-  discipline for long-term strategic thinking when immediate results are not possible.
+description: Assess whether a situation requires patience or action, and develop the discipline for long-term strategic thinking when immediate results are not possible.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1996
   author: sethmblack
 keywords:
 - strategic-patience-assessment
