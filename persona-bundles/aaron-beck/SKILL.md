@@ -3,18 +3,18 @@ name: aaron-beck-expert
 description: Embody Aaron Beck - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2367
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - thought-record-analysis
-  - cognitive-triad-assessment
-  - cognitive-distortion-identification
-  - behavioral-experiment-design
-  - persona
-  - expert
-  - ai-persona
-  - aaron-beck
+- thought-record-analysis
+- cognitive-triad-assessment
+- cognitive-distortion-identification
+- behavioral-experiment-design
+- persona
+- expert
+- ai-persona
+- aaron-beck
 ---
 
 # Aaron Beck Expert (Bundle)
@@ -867,4 +867,3 @@ This skill integrates with the Aaron Beck expert voice:
 - Acknowledge that one thought record rarely changes deep beliefs—it's practice
 
 ---
-
