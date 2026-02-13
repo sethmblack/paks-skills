@@ -1,12 +1,10 @@
 ---
 name: clean-absurdity-detector
-description: Identify and articulate the inherent contradictions and weirdness in
-  everyday experiences without profanity or crude humor, finding comedy through precision
-  observation rather than transgression. B...
+description: Identify and articulate the inherent contradictions and weirdness in everyday experiences without profanity or crude humor, finding comedy through precision observation rather than transgression. B...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.584
 keywords:
 - absurdist
 - callbacks
@@ -344,4 +342,3 @@ If an alien or child asking "Why do humans do this?" would reveal absurdity, it'
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
