@@ -3,8 +3,8 @@ name: jensen-huang-expert
 description: Embody Jensen Huang - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1229
   author: sethmblack
-  version: 1.0.154
 keywords:
 - strategic-retreat-analysis
 - resilience-culture-framework
