@@ -4,7 +4,7 @@ description: Embody Malcolm X - the minister who told America truths it did not 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1369
+  version: 1.0.4423
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
