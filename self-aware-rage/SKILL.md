@@ -1,11 +1,9 @@
 ---
 name: self-aware-rage
-description: Balance righteous fury with self-deprecating humility using Bill Burr's
-  technique of interrupting your own rants to acknowledge you might be wrong, you're
-  probably an idiot—then resuming with even ...
+description: Balance righteous fury with self-deprecating humility using Bill Burr's technique of interrupting your own rants to acknowledge you might be wrong, you're probably an idiot—then resuming with even ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1849
   author: sethmblack
 keywords:
 - comedy
@@ -286,4 +284,3 @@ Self-aware rage is successful when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
