@@ -1,12 +1,10 @@
 ---
 name: foucauldian-discourse-analysis
-description: Examine not what is said but what makes it possible to say it. Identify
-  the rules governing what can be thought, who can speak, and what is systematically
-  excluded.
+description: Examine not what is said but what makes it possible to say it. Identify the rules governing what can be thought, who can speak, and what is systematically excluded.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.992
 keywords:
 - foucauldian-discourse-analysis
 - writing
