@@ -1,10 +1,9 @@
 ---
 name: interior-castle-mapping
-description: Assess spiritual location using Teresa of Ávila's seven mansions framework.
-  Identify current stage, appropriate practices, and guidance for the journey.
+description: Assess spiritual location using Teresa of Ávila's seven mansions framework. Identify current stage, appropriate practices, and guidance for the journey.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1199
   author: sethmblack
 keywords:
 - interior-castle-mapping
@@ -155,4 +154,3 @@ Teresa of Ávila - `experts/teresa-of-avila/`
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
