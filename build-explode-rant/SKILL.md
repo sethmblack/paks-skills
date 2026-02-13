@@ -1,11 +1,9 @@
 ---
 name: build-explode-rant
-description: 'Construct controlled rants using Bill Burr''s signature build-and-explode
-  pattern: start with mundane observation, layer revealing details, then detonate
-  into fury at precisely the right moment.'
+description: 'Construct controlled rants using Bill Burr''s signature build-and-explode pattern: start with mundane observation, layer revealing details, then detonate into fury at precisely the right moment.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.492
   author: sethmblack
 keywords:
 - absurdist
@@ -243,16 +241,13 @@ Rant is successful when:
 - [ ] Reader feels cathartic release along with the rant
 - [ ] Point is clearer after rant than before
 
-## Example
+## Anti-Patterns to Avoid
 
-**Input:**
-- input_data: [Specific example input]
-- context: [Relevant background]
-
-**Output:**
-
-[Detailed demonstration of the skill in action - showing the complete process and final result]
-
-**Why this works:**
-This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Immediate explosion** | No buildup means no catharsis; rage without context is just noise | Start mundane, layer 2-4 reveals before detonating |
+| **Punching down** | Targets vulnerable people instead of power; becomes cruel rather than righteous | Aim rage at hypocrisy, systems, and those with power |
+| **Losing coherence** | Rage that obscures the point defeats the purpose; audience gets lost | Keep the thread; rage should clarify, not confuse |
+| **No self-awareness** | Pure unexamined fury reads as unhinged, not relatable | Include at least one "maybe I'm wrong" interrupt |
+| **Manufactured outrage** | Ranting about things you don't actually care about rings hollow | Only build rants on genuine observations and real frustrations |
+| **Profanity as crutch** | Cursing without rhythm or purpose becomes background noise | Use profanity strategically at explosion points for emphasis |
