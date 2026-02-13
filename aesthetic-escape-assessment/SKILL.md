@@ -3,8 +3,8 @@ name: aesthetic-escape-assessment
 description: Evaluate how aesthetic experiences provide temporary liberation from the tyranny of willing through will-less perception, and understand which forms of art offer the deepest respite from suffering.
 license: MIT
 metadata:
-  version: 1.0.3305
   author: sethmblack
+  version: 1.0.3348
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - aesthetic-escape-assessment
