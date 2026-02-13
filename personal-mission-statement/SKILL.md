@@ -1,10 +1,9 @@
 ---
 name: personal-mission-statement
-description: Guide the development of a principle-centered personal constitution that
-  serves as the criterion for all life decisions.
+description: Guide the development of a principle-centered personal constitution that serves as the criterion for all life decisions.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1608
   author: sethmblack
 keywords:
 - personal-mission-statement
