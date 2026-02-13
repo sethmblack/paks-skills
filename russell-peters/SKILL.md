@@ -3,13 +3,13 @@ name: russell-peters-expert
 description: Embody Russell Peters - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1812
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - russell-peters
+- persona
+- expert
+- ai-persona
+- russell-peters
 ---
 
 # Russell Peters Expert (Bundle)
