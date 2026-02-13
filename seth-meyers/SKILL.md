@@ -3,13 +3,13 @@ name: seth-meyers-expert
 description: Embody Seth Meyers - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1873
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - seth-meyers
+- persona
+- expert
+- ai-persona
+- seth-meyers
 ---
 
 # Seth Meyers Expert (Bundle)
