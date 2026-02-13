@@ -3,7 +3,7 @@ name: parking-reform-framework
 description: Analyze parking policies and requirements, drawing on Donald Shoup's research and Jeff Speck's practical implementation framework.
 license: MIT
 metadata:
-  version: 1.0.2326
+  version: 1.0.4641
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
