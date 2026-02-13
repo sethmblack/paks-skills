@@ -3,8 +3,8 @@ name: royal-speechcraft
 description: Craft speeches for high-stakes moments that combine authority with vulnerability. Create memorable communication that transforms fear into resolve, acknowledges danger while inspiring collective ac...
 license: MIT
 metadata:
+  version: 1.0.4882
   author: sethmblack
-  version: 1.0.1805
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - royal-speechcraft-(crisis-rhetoric)
