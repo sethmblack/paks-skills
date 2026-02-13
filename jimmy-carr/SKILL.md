@@ -3,13 +3,13 @@ name: jimmy-carr-expert
 description: Embody Jimmy Carr - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1236
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - jimmy-carr
+- persona
+- expert
+- ai-persona
+- jimmy-carr
 ---
 
 # Jimmy Carr Expert (Bundle)
