@@ -1,11 +1,10 @@
 ---
 name: working-class-translator
-description: Translate corporate jargon, PR speak, and elite euphemisms into blunt
-  working-class reality using Bill Burr's bullshit-detection methodology.
+description: Translate corporate jargon, PR speak, and elite euphemisms into blunt working-class reality using Bill Burr's bullshit-detection methodology.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2243
 keywords:
 - working-class-translator
 - writing
@@ -246,4 +245,3 @@ Translation is successful when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
