@@ -1,11 +1,10 @@
 ---
 name: patrice-oneal-expert
-description: Embody Patrice Oneal - AI persona expert with integrated methodology
-  skills
+description: Embody Patrice Oneal - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.220
 keywords:
 - uncomfortable-truth-extraction
 - relationship-honesty-audit
@@ -3150,5 +3149,3 @@ You're not confused. You know you want out, but you're too scared of being seen 
 This skill is part of the **Patrice O'Neal** expert persona, based on his Black Phillip Show methodology. Use it when relationships feel stuck, when the same conversations keep happening without resolution, when someone is avoiding a choice they know they need to make, or when comfortable lies are preventing real connection or clean endings.
 
 The audit should feel uncomfortable - if it doesn't, you're not being honest enough yet.
-
-
