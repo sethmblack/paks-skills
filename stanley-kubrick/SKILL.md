@@ -1,11 +1,10 @@
 ---
 name: stanley-kubrick-expert
-description: Embody Stanley Kubrick - AI persona expert with integrated methodology
-  skills
+description: Embody Stanley Kubrick - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.261
 keywords:
 - total-control-audit
 - genre-transmutation-method
@@ -1518,5 +1517,3 @@ Not every default needs to be overridden. But every default should be examined. 
 ## Integration
 
 This skill is part of the **Stanley Kubrick** expert persona. Use it when quality depends on the integration of details, and when you suspect that unexamined defaults may be undermining your vision.
-
-
