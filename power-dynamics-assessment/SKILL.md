@@ -1,11 +1,10 @@
 ---
 name: power-dynamics-assessment
-description: Analyze any situation through Machiavelli's six-step framework to reveal
-  true interests, capabilities, constraints, and strategic options.
+description: Analyze any situation through Machiavelli's six-step framework to reveal true interests, capabilities, constraints, and strategic options.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1655
 keywords:
 - power-dynamics-assessment
 - writing
