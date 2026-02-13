@@ -3,7 +3,7 @@ name: john-doerr-expert
 description: Embody John Doerr - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.164
   author: sethmblack
 keywords:
 - team-quality-assessment
@@ -2118,5 +2118,3 @@ This skill integrates with the **john-doerr** expert persona. Apply Doerr's lens
 | Insufficient team info | Flag as critical gap; cannot evaluate without team data |
 | No market size data | Estimate or note as requiring research |
 | Obvious red flags | Highlight prominently; recommend pass if severe |
-
-
