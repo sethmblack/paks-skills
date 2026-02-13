@@ -1,12 +1,10 @@
 ---
 name: systems-archetype-recognition
-description: Recognize common system patterns (archetypes) that produce predictable
-  dynamics. Enable faster diagnosis by matching current situations to well-understood
-  structures with proven intervention strate...
+description: Recognize common system patterns (archetypes) that produce predictable dynamics. Enable faster diagnosis by matching current situations to well-understood structures with proven intervention strate...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2045
 keywords:
 - escalation
 - systems-archetype-recognition
