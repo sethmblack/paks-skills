@@ -3,17 +3,17 @@ name: alexander-hamilton-expert
 description: Embody Alexander Hamilton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2388
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - strategic-capability-development
-  - financial-architecture-assessment
-  - comprehensive-argument-construction
-  - persona
-  - expert
-  - ai-persona
-  - alexander-hamilton
+- strategic-capability-development
+- financial-architecture-assessment
+- comprehensive-argument-construction
+- persona
+- expert
+- ai-persona
+- alexander-hamilton
 ---
 
 # Alexander Hamilton Expert (Bundle)
@@ -963,4 +963,3 @@ Plan is complete when:
 - [ ] Recommendations provided for immediate, near-term, and ongoing action
 
 ---
-
