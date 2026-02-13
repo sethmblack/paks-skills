@@ -1,11 +1,9 @@
 ---
 name: cultural-bridge-builder
-description: Build understanding and empathy across cultural divides by finding universal
-  humanity in specific contexts, making foreign concepts accessible, and honoring
-  complexity while revealing connection (i...
+description: Build understanding and empathy across cultural divides by finding universal humanity in specific contexts, making foreign concepts accessible, and honoring complexity while revealing connection (i...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.705
   author: sethmblack
 keywords:
 - comedy
@@ -16,7 +14,7 @@ keywords:
 
 # Cultural Bridge Builder
 
-Build understanding and empathy across cultural divides by finding universal humanity in specific contexts, making foreign concepts accessible, and honoring complexity while revealing connection (inspired by Michael Palin's travel documentary approach).
+Build understanding and empathy across cultural divides by finding universal humanity in specific contexts, making foreign concepts accessible, and honoring complexity while revealing connection. This skill draws from Michael Palin's travel documentary approach—a method that combines self-deprecating curiosity, specific sensory details, personal narrative, and warm observation to bridge cultural gaps without condescension or exoticism. The key insight is that universal patterns exist (belonging, meaning, celebration, grief) but each culture expresses them uniquely. The bridge-builder finds those shared fundamentals without flattening the genuine differences that make cultures distinctive. Not "They do the same thing we do" but "They address the same human need, though their approach differs in fascinating ways."
 
 ---
 
@@ -70,7 +68,13 @@ Use this skill when you detect:
 
 ---
 
-## Workflow
+## Core Principle
+
+Universal human patterns exist across all cultures—belonging, meaning, celebration, grief—but each culture expresses them uniquely. The bridge-builder finds those shared fundamentals without flattening the genuine differences. Use specific individuals to illustrate cultural patterns, not cultural monoliths to explain individuals.
+
+---
+
+## Methodology
 ### Step 1: 1. Establish Cultural Context
 
 **Identify the cultural element:**
@@ -201,23 +205,17 @@ Use this skill when you detect:
 
 ---
 
+## Anti-Patterns to Avoid
 
+| Anti-Pattern | Why It Fails | Better Approach |
+|--------------|--------------|-----------------|
+| **Romanticizing** | "This wise, ancient culture..." treats people as mystical rather than human. | Show people as complex individuals—funny, flawed, practical—not as embodiments of cultural wisdom. |
+| **Othering** | "These strange people do this bizarre thing..." creates distance, not connection. | Approach with curiosity: "I didn't understand at first, but when I asked..." |
+| **Patronizing** | "Let me explain their simple beliefs..." assumes your audience is the adult and the culture is the child. | Position yourself as the learner, not the expert. You're explaining what you learned, not what you know. |
+| **Appropriating** | "We should adopt this cool practice..." extracts without understanding context. | Honor the practice within its context. Connection doesn't mean adoption. |
+| **Flattening** | "This culture is all about X..." reduces complex societies to single traits. | Note variations within the culture. Acknowledge contested practices and internal debates. |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
+---
 
 ## Error Handling
 
