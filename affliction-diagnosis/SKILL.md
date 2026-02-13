@@ -4,7 +4,7 @@ description: Distinguish between ordinary suffering and true affliction (malheur
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2890
+  version: 1.0.3306
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - affliction-diagnosis
