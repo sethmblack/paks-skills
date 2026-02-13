@@ -3,8 +3,8 @@ name: serena-williams-expert
 description: Embody Serena Williams - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.252
   author: sethmblack
+  version: 1.0.1868
 keywords:
 - one-point-focus
 - champion-self-talk
