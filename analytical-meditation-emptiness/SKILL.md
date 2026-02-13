@@ -1,11 +1,9 @@
 ---
 name: analytical-meditation-emptiness
-description: A structured reasoning meditation for understanding the nature of phenomena
-  as empty of inherent existence and arising through dependent origination. Based
-  on the Madhyamaka (Middle Way) tradition ...
+description: A structured reasoning meditation for understanding the nature of phenomena as empty of inherent existence and arising through dependent origination. Based on the Madhyamaka (Middle Way) tradition ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.369
   author: sethmblack
 keywords:
 - analytical-meditation-on-emptiness-and-interdependence
