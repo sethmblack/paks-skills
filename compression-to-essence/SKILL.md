@@ -1,10 +1,9 @@
 ---
 name: compression-to-essence
-description: Strip any text to its essential meaning by removing unnecessary words
-  while preserving — and intensifying — core impact. Maximum meaning per word.
+description: Strip any text to its essential meaning by removing unnecessary words while preserving — and intensifying — core impact. Maximum meaning per word.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.617
   author: sethmblack
 keywords:
 - compression
@@ -180,26 +179,17 @@ Create actionable outputs:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Cutting meaning for brevity** | Shorter is not better if essence is lost | Always preserve core meaning; only cut what doesn't serve it |
+| **Mechanical rule-following** | Removing all "very" and "really" robotically | Test each word: does removing it change meaning or weaken impact? |
+| **Losing voice** | Stripping personality in pursuit of brevity | Compression should intensify voice, not eliminate it |
+| **Over-compressing technical content** | Precision sometimes requires words | Keep technical terms when they carry precision that plain words cannot |
+| **Ignoring rhythm** | Compressed prose that reads awkwardly | Read aloud; stumbles indicate cuts that broke the flow |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
+---
 
 ## Example
 
