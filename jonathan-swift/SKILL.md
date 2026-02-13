@@ -4,7 +4,7 @@ description: Embody Jonathan Swift - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1267
+  version: 1.0.4321
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
