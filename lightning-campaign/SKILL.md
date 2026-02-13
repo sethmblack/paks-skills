@@ -3,8 +3,8 @@ name: lightning-campaign
 description: Use extraordinary speed to arrive before the enemy expects, creating decisive advantage through the reputation for impossible swiftness. Veni, vidi, vici - as a single continuous motion.
 license: MIT
 metadata:
-  version: 1.0.1335
   author: sethmblack
+  version: 1.0.4389
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
