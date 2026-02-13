@@ -3,8 +3,8 @@ name: institutional-fluency
 description: A skill for mastering the language, visual identity, and procedures of target institutions to enable convincing impersonation or critique.
 license: MIT
 metadata:
-  version: 1.0.1189
   author: sethmblack
+  version: 1.0.4236
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - institutional-fluency
