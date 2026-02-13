@@ -3,7 +3,7 @@ name: class-archaeology
 description: Systematically excavate the class, privilege, and status assumptions buried in behaviors, trends, products, or cultural phenomena.
 license: MIT
 metadata:
-  version: 1.0.580
+  version: 1.0.3142
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
