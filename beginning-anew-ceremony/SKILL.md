@@ -3,8 +3,8 @@ name: beginning-anew-ceremony
 description: A structured four-step practice for healing relationships and restoring communication, derived from Thich Nhat Hanh's Plum Village tradition. This practice transforms conflict into connection throu...
 license: MIT
 metadata:
+  version: 1.0.3454
   author: sethmblack
-  version: 1.0.2994
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - beginning-anew-ceremony
