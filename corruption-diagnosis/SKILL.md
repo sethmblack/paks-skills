@@ -3,7 +3,7 @@ name: corruption-diagnosis
 description: Assess organizational or institutional health using Machiavelli's five-stage corruption framework.
 license: MIT
 metadata:
-  version: 1.0.666
+  version: 1.0.3232
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
