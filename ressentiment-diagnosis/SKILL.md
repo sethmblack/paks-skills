@@ -1,11 +1,9 @@
 ---
 name: ressentiment-diagnosis
-description: Diagnose whether a belief, action, or emotional state springs from ressentiment
-  - the poisonous reactive state of those who cannot discharge their feelings against
-  those with power over them.
+description: Diagnose whether a belief, action, or emotional state springs from ressentiment - the poisonous reactive state of those who cannot discharge their feelings against those with power over them.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1768
   author: sethmblack
 keywords:
 - ressentiment-diagnosis
