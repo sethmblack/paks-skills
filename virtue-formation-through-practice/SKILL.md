@@ -1,12 +1,10 @@
 ---
 name: virtue-formation-through-practice
-description: A methodology for moral transformation through habitual practice in community,
-  derived from Stanley Hauerwas's virtue ethics and his insistence that character
-  is formed through doing, not through i...
+description: A methodology for moral transformation through habitual practice in community, derived from Stanley Hauerwas's virtue ethics and his insistence that character is formed through doing, not through i...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2191
 keywords:
 - storytelling
 - transformation
@@ -382,4 +380,3 @@ Derived from Stanley Hauerwas's virtue ethics, drawing on his engagement with Ar
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
