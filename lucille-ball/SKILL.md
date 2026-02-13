@@ -3,13 +3,13 @@ name: lucille-ball-expert
 description: Embody Lucille Ball - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1359
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - lucille-ball
+- persona
+- expert
+- ai-persona
+- lucille-ball
 ---
 
 # Lucille Ball Expert (Bundle)
