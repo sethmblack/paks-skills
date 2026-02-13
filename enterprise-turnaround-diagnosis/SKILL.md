@@ -3,7 +3,7 @@ name: enterprise-turnaround-diagnosis
 description: Diagnose the root causes of enterprise decline and create a prioritized turnaround action plan with 90-day survival focus.
 license: MIT
 metadata:
-  version: 1.0.878
+  version: 1.0.3909
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
