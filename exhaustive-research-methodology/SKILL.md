@@ -3,8 +3,8 @@ name: exhaustive-research-methodology
 description: Systematically research any subject until you achieve mastery sufficient for confident execution, using Kubrick's card-index and comprehensive documentation methods.
 license: MIT
 metadata:
-  version: 1.0.920
   author: sethmblack
+  version: 1.0.3951
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - exhaustive-research-methodology
