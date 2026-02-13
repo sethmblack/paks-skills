@@ -3,7 +3,7 @@ name: multi-source-deep-dive
 description: Design a comprehensive learning program on any topic using Gates's approach of reading multiple sources to triangulate truth and understand disagreement.
 license: MIT
 metadata:
-  version: 1.0.1484
+  version: 1.0.4540
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
