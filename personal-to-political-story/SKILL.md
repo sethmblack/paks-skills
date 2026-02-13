@@ -1,12 +1,10 @@
 ---
 name: personal-to-political-story
-description: Transform abstract policy or systemic issues into emotionally resonant
-  narratives by starting with specific personal experience and zooming out to reveal
-  broader patterns.
+description: Transform abstract policy or systemic issues into emotionally resonant narratives by starting with specific personal experience and zooming out to reveal broader patterns.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1610
 keywords:
 - absurdist
 - callbacks
