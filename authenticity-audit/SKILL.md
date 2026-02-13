@@ -3,8 +3,8 @@ name: authenticity-audit
 description: Analyze content to identify where voice has been sanitized, softened, or compromised for commercial palatability. Show what's being avoided and suggest where authentic voice should break through - ...
 license: MIT
 metadata:
-  version: 1.0.415
   author: sethmblack
+  version: 1.0.2973
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
