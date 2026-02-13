@@ -1,11 +1,9 @@
 ---
 name: christocentric-interpretation
-description: Read any theological question, text, doctrine, or situation through Jesus
-  Christ as the hermeneutical key - following Barth's method of refusing to begin
-  from general principles and instead derivin...
+description: Read any theological question, text, doctrine, or situation through Jesus Christ as the hermeneutical key - following Barth's method of refusing to begin from general principles and instead derivin...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.568
   author: sethmblack
 keywords:
 - christocentric-interpretation
