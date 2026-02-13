@@ -3,7 +3,7 @@ name: circle-of-influence
 description: Apply Covey's proactive model to diagnose reactive vs. proactive focus and redirect energy toward what can actually be changed.
 license: MIT
 metadata:
-  version: 1.0.3135
+  version: 1.0.3595
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
