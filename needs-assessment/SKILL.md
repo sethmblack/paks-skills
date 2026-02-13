@@ -3,7 +3,7 @@ name: needs-assessment
 description: Apply Maslow's hierarchy of needs to diagnose which level is most pressing for an individual, team, or organization.
 license: MIT
 metadata:
-  version: 1.0.1513
+  version: 1.0.4569
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
