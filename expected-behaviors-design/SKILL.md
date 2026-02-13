@@ -3,8 +3,8 @@ name: expected-behaviors-design
 description: Design a set of explicit expected behaviors for a team or organization, formatted for easy reference and accountability conversations.
 license: MIT
 metadata:
+  version: 1.0.3955
   author: sethmblack
-  version: 1.0.924
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - expected-behaviors-design
