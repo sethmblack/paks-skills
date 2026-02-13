@@ -3,12 +3,12 @@ name: waterfront-reclamation-strategy
 description: Develop comprehensive strategy for transforming industrial, underutilized, or privatized waterfronts into public amenities.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2348
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - waterfront-reclamation-strategy
-  - urban-planning
+- waterfront-reclamation-strategy
+- urban-planning
 ---
 
 # Waterfront Reclamation Strategy
