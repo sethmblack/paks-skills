@@ -3,8 +3,8 @@ name: fei-fei-li-human-centered-ai-assessment
 description: Evaluate AI systems against Stanford HAI's human-centered design principles to ensure ethical, beneficial deployment.
 license: MIT
 metadata:
+  version: 1.0.3994
   author: sethmblack
-  version: 1.0.2291
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - human-centered-ai-assessment
