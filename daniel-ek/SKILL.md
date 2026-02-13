@@ -3,7 +3,7 @@ name: daniel-ek-expert
 description: Embody Daniel Ek - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.94
+  version: 1.0.730
   author: sethmblack
 keywords:
 - two-sided-marketplace-design
