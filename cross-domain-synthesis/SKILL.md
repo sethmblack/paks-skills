@@ -3,7 +3,7 @@ name: cross-domain-synthesis
 description: Discover solutions by finding structural patterns shared between seemingly unrelated domains. Apply Leonardo da Vinci's method of seeing connections where others see separations.
 license: MIT
 metadata:
-  version: 1.0.3265
+  version: 1.0.3725
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
