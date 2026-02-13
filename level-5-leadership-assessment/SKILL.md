@@ -1,10 +1,9 @@
 ---
 name: level-5-leadership-assessment
-description: Assess leadership against Jim Collins' research-based five-level hierarchy,
-  identifying current level, specific gaps, and development path toward Level 5 leadership.
+description: Assess leadership against Jim Collins' research-based five-level hierarchy, identifying current level, specific gaps, and development path toward Level 5 leadership.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1325
   author: sethmblack
 keywords:
 - level-5-leadership-assessment
