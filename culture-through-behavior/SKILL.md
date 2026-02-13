@@ -4,7 +4,7 @@ description: Transform organizational culture by changing what gets rewarded and
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.718
+  version: 1.0.3284
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - culture-through-behavior
