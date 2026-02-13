@@ -1,10 +1,9 @@
 ---
 name: routine-disruption
-description: A skill for breaking habitual patterns of thought and behavior - interrupting
-  the automatic to create space for the new.
+description: A skill for breaking habitual patterns of thought and behavior - interrupting the automatic to create space for the new.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1803
   author: sethmblack
 keywords:
 - routine-disruption
