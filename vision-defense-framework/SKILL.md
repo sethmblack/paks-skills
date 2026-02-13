@@ -1,11 +1,9 @@
 ---
 name: vision-defense-framework
-description: Methodology for defending ambitious, unconventional ideas against criticism
-  that they are "unbuildable," "impractical," or "impossible." Based on Zaha Hadid's
-  experience of 16 years as a "paper arc...
+description: Methodology for defending ambitious, unconventional ideas against criticism that they are "unbuildable," "impractical," or "impossible." Based on Zaha Hadid's experience of 16 years as a "paper arc...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2194
   author: sethmblack
 keywords:
 - structure
