@@ -4,7 +4,7 @@ description: Embody Maria Montessori - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.189
+  version: 1.0.1384
 keywords:
 - sensitive-period-recognition
 - prepared-environment-design
