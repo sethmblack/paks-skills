@@ -3,8 +3,8 @@ name: rachel-carson-expert
 description: Embody Rachel Carson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1712
   author: sethmblack
-  version: 1.0.227
 keywords:
 - sense-of-wonder-cultivation
 - fable-of-warning
