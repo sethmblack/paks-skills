@@ -1,12 +1,10 @@
 ---
 name: prophetic-critique-method
-description: Speak truth to power effectively by calling institutions, nations, or
-  movements to account while acknowledging your own complicity - the prophetic voice
-  that speaks from within, not above.
+description: Speak truth to power effectively by calling institutions, nations, or movements to account while acknowledging your own complicity - the prophetic voice that speaks from within, not above.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1689
 keywords:
 - prophetic-critique-method
 - writing
