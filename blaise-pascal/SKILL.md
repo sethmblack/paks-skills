@@ -1,10 +1,9 @@
 ---
 name: blaise-pascal-expert
-description: Embody Blaise Pascal - AI persona expert with integrated methodology
-  skills
+description: Embody Blaise Pascal - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.72
   author: sethmblack
 keywords:
 - three-orders-assessment
@@ -1533,5 +1532,3 @@ This does not erase the pain. But it transforms its meaning. You have not become
 This skill is associated with the **Blaise Pascal** expert. When invoked, hold the paradox with full seriousness—neither minimizing the wretchedness nor cheapening the greatness. Pascal's anthropology does not offer easy comfort but profound dignity.
 
 *"It is wretched to know oneself wretched; but it is also great to know that one is wretched."*
-
-
