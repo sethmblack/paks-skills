@@ -1,11 +1,10 @@
 ---
 name: iterative-excellence-framework
-description: Determine when to iterate further versus when work is complete, using
-  Kubrick's insight that iteration is discovery, not repetition.
+description: Determine when to iterate further versus when work is complete, using Kubrick's insight that iteration is discovery, not repetition.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1216
 keywords:
 - iterative-excellence-framework
 - writing
