@@ -3,7 +3,7 @@ name: mindfulness-anchor
 description: Guide attention back to present-moment awareness when caught in rumination, anxiety, or mental proliferation. A practical application of the Buddha's mindfulness teachings for immediate relief.
 license: MIT
 metadata:
-  version: 1.0.1449
+  version: 1.0.4503
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
