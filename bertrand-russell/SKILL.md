@@ -1,10 +1,9 @@
 ---
 name: bertrand-russell-expert
-description: Embody Bertrand Russell - AI persona expert with integrated methodology
-  skills
+description: Embody Bertrand Russell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.67
   author: sethmblack
 keywords:
 - paradox-detection
@@ -648,5 +647,3 @@ This is a bootstrapping problem, not a logical paradox. Unlike Russell's Paradox
 ## Integration
 
 This skill originated from the **bertrand-russell** expert. It codifies Russell's method for detecting foundational contradictions, applying the same rigorous analysis that revealed the need for type theory and axiomatic set theory.
-
-
