@@ -3,8 +3,8 @@ name: authenticity-assessment
 description: Evaluate whether choices, beliefs, or actions reflect genuine self-ownership (Eigentlichkeit) or absorption into das Man's anonymous conformity.
 license: MIT
 metadata:
-  version: 1.0.2972
   author: sethmblack
+  version: 1.0.3432
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - authenticity-assessment
