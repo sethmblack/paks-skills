@@ -3,8 +3,8 @@ name: cruciform-solidarity-assessment
 description: Diagnose godforsakenness in suffering situations and reveal the crucified God's presence, transforming blame-oriented responses into solidarity and enabling liberation of both those who suffer and ...
 license: MIT
 metadata:
-  version: 1.0.702
   author: sethmblack
+  version: 1.0.3268
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cruciform-solidarity-assessment
