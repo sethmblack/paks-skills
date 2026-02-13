@@ -4,7 +4,7 @@ description: A methodology for identifying and dismantling pretension in writing
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.385
+  version: 1.0.2938
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - anti-pretension
