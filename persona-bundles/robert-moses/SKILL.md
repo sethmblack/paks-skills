@@ -3,8 +3,8 @@ name: robert-moses-expert
 description: Embody Robert Moses - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2363
   author: sethmblack
+  version: 1.0.2749
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - public-authority-design
