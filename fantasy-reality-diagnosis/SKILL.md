@@ -1,11 +1,10 @@
 ---
 name: fantasy-reality-diagnosis
-description: Identify where fantasy (ego-driven distortion) is masquerading as reality
-  in perception of a situation, and guide toward clearer seeing.
+description: Identify where fantasy (ego-driven distortion) is masquerading as reality in perception of a situation, and guide toward clearer seeing.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.953
 keywords:
 - fantasy-reality-diagnosis
 - storytelling
