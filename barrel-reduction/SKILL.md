@@ -3,8 +3,8 @@ name: barrel-reduction
 description: Systematically eliminate dependencies to discover what is truly necessary, stripping away possessions, commitments, beliefs, and complexity until only genuine needs remain.
 license: MIT
 metadata:
-  version: 1.0.426
   author: sethmblack
+  version: 1.0.2984
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - barrel-reduction
