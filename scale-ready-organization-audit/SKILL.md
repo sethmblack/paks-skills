@@ -1,11 +1,10 @@
 ---
 name: scale-ready-organization-audit
-description: Audit organizational processes, structures, and culture for scalability.
-  Identify what will break at 10x current size and design systems that scale.
+description: Audit organizational processes, structures, and culture for scalability. Identify what will break at 10x current size and design systems that scale.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1836
 keywords:
 - escalation
 - scale-ready-organization-audit
