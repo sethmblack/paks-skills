@@ -1,12 +1,10 @@
 ---
 name: reverse-engineering-analysis
-description: 'Understand complex systems by systematically dissecting them layer by
-  layer. Apply Leonardo da Vinci''s anatomical methodology: sequential views, exploded
-  diagrams, and progressive exposure of inter...'
+description: 'Understand complex systems by systematically dissecting them layer by layer. Apply Leonardo da Vinci''s anatomical methodology: sequential views, exploded diagrams, and progressive exposure of inter...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1770
 keywords:
 - callbacks
 - reverse-engineering-analysis
