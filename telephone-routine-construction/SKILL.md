@@ -1,18 +1,18 @@
 ---
 name: telephone-routine-construction
-description: "Transform any topic into a one-sided phone conversation that reveals character through reactions, pauses, and invisible dialogue"
+description: Transform any topic into a one-sided phone conversation that reveals character through reactions, pauses, and invisible dialogue
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.2065
+  author: Seth Black
 keywords:
-  - comedy
-  - dialogue
-  - shelley-berman
-  - bob-newhart
-  - phone
-  - monologue
-  - character
+- comedy
+- dialogue
+- shelley-berman
+- bob-newhart
+- phone
+- monologue
+- character
 ---
 
 # Telephone Routine Construction
