@@ -1,10 +1,9 @@
 ---
 name: cost-first-design
-description: Design backward from target price to solution, making affordability a
-  design input rather than an output.
+description: Design backward from target price to solution, making affordability a design input rather than an output.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.669
   author: sethmblack
 keywords:
 - cost-first-design
