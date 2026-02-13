@@ -3,7 +3,7 @@ name: big-stick-calibration
 description: Balance strength and restraint in negotiations, conflicts, or adversarial situations using Theodore Roosevelt's "speak softly and carry a big stick" framework.
 license: MIT
 metadata:
-  version: 1.0.3018
+  version: 1.0.3478
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
