@@ -1,12 +1,10 @@
 ---
 name: confrontational-rhetoric
-description: A methodology for speaking uncomfortable truths plainly, stripping away
-  euphemism to make reality undeniable. This skill transforms diplomatic vagueness
-  into direct naming that forces engagement wi...
+description: A methodology for speaking uncomfortable truths plainly, stripping away euphemism to make reality undeniable. This skill transforms diplomatic vagueness into direct naming that forces engagement wi...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.632
 keywords:
 - confrontational-rhetoric
 - storytelling
@@ -188,4 +186,3 @@ The measure of success is not whether people are uncomfortable - it's whether th
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
