@@ -4,7 +4,7 @@ description: Assess and plan balanced self-renewal across Covey's four dimension
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1885
+  version: 1.0.4962
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sharpen-the-saw
