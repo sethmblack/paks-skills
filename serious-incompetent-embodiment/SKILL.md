@@ -1,18 +1,18 @@
 ---
 name: serious-incompetent-embodiment
-description: "Play characters with absolute seriousness who are catastrophically bad at what they do, never acknowledging their incompetence"
+description: Play characters with absolute seriousness who are catastrophically bad at what they do, never acknowledging their incompetence
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1870
+  author: Seth Black
 keywords:
-  - comedy
-  - character
-  - peter-sellers
-  - clouseau
-  - delusion
-  - incompetence
-  - satire
+- comedy
+- character
+- peter-sellers
+- clouseau
+- delusion
+- incompetence
+- satire
 ---
 
 # Serious Incompetent Embodiment
