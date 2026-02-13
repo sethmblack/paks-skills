@@ -3,8 +3,8 @@ name: mr-market-interpretation
 description: Apply Benjamin Graham's iconic Mr. Market metaphor to understand market behavior, identify emotional extremes, and find opportunities in irrationality.
 license: MIT
 metadata:
-  version: 1.0.1482
   author: sethmblack
+  version: 1.0.4538
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
