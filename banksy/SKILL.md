@@ -3,7 +3,7 @@ name: banksy-expert
 description: Embody Banksy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.64
   author: sethmblack
 keywords:
 - message-distillation
@@ -750,5 +750,3 @@ The skill is successfully applied when:
 4. All non-essentials are cut
 5. Both child and scholar tests pass
 6. Final form is ready for application
-
-
