@@ -3,18 +3,18 @@ name: jane-goodall-expert
 description: Embody Jane Goodall - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2576
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - roots-shoots-action-planning
-  - patient-observation-method
-  - individual-lens-analysis
-  - four-reasons-for-hope
-  - persona
-  - expert
-  - ai-persona
-  - jane-goodall
+- roots-shoots-action-planning
+- patient-observation-method
+- individual-lens-analysis
+- four-reasons-for-hope
+- persona
+- expert
+- ai-persona
+- jane-goodall
 ---
 
 # Jane Goodall Expert (Bundle)
@@ -1170,4 +1170,3 @@ What is it about ocean plastic that moves you? Specific images, animals affected
 This skill is part of the **Jane Goodall** expert persona. Use it when someone wants to move from concern to action - when they care about something but feel paralyzed by scale. Roots & Shoots has empowered young people worldwide for 30+ years because the method works.
 
 ---
-
