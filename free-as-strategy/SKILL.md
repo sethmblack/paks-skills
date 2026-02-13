@@ -3,8 +3,8 @@ name: free-as-strategy
 description: Design a "free" intervention—goods, services, knowledge, or experiences—that challenges scarcity assumptions and models alternative systems.
 license: MIT
 metadata:
+  version: 1.0.4056
   author: sethmblack
-  version: 1.0.1015
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - free-as-strategy
