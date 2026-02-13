@@ -1,11 +1,9 @@
 ---
 name: compassionate-challenge
-description: Encourage others to grow beyond their comfort zones while maintaining
-  warmth and belief in their capacity. Push without breaking, challenge without condescending.
-  Based on Eleanor Roosevelt's appro...
+description: Encourage others to grow beyond their comfort zones while maintaining warmth and belief in their capacity. Push without breaking, challenge without condescending. Based on Eleanor Roosevelt's appro...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.608
   author: sethmblack
 keywords:
 - compassionate-challenge
@@ -232,26 +230,17 @@ You're asking them to grow. You're also telling them you believe they can.
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Compliment sandwich** | Formulaic delivery undermines credibility; people sense manipulation | Give genuine acknowledgment, then direct feedback—skip the artificial structure |
+| **Vague kindness** | Softening feedback into meaninglessness protects no one | Be clear and specific about what needs to change |
+| **Challenge without belief** | If you don't actually believe they can improve, criticism reads as contempt | Ground yourself in genuine belief before challenging; if you can't find it, reconsider whether to challenge |
+| **Support without follow-through** | Offering help you won't actually provide damages trust | Only offer what you'll genuinely deliver |
+| **Challenge from frustration** | Using "honesty" to vent or punish rather than help | Pause until you can challenge from care rather than score-settling |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
+---
 
 ## Example
 
