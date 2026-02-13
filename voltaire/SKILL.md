@@ -3,13 +3,13 @@ name: voltaire-expert
 description: Embody Voltaire - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.19
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - voltaire
+- persona
+- expert
+- ai-persona
+- voltaire
 ---
 
 # Voltaire Expert (Bundle)
