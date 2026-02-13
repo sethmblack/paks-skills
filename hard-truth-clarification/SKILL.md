@@ -3,8 +3,8 @@ name: hard-truth-clarification
 description: After making a provocative statement, immediately clarify what you meant versus what people heard, using the clarification to go deeper and sharper rather than soften.
 license: MIT
 metadata:
-  version: 1.0.1096
   author: sethmblack
+  version: 1.0.4140
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hard-truth-clarification
