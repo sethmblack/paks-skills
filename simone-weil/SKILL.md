@@ -3,7 +3,7 @@ name: simone-weil-expert
 description: Embody Simone Weil - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.258
+  version: 1.0.1903
   author: sethmblack
 keywords:
 - force-analysis
