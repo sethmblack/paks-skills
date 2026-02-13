@@ -3,7 +3,7 @@ name: aesthetic-critique
 description: Analyze any work, situation, or proposition through the lens of aesthetics rather than utility, revealing dimensions that practical analysis misses.
 license: MIT
 metadata:
-  version: 1.0.3305
+  version: 1.0.3347
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
