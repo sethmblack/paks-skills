@@ -1,11 +1,10 @@
 ---
 name: warren-buffett-expert
-description: Embody Warren Buffett - AI persona expert with integrated methodology
-  skills
+description: Embody Warren Buffett - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.288
 keywords:
 - margin-of-safety-valuation
 - economic-moat-analysis
@@ -940,5 +939,3 @@ Maximum Purchase Price = Intrinsic Value x (1 - Margin of Safety %)
 ## Integration
 
 This skill is part of the **Warren Buffett** expert persona. Use it to ensure you never overpay for an investment, even a wonderful one. The margin of safety is your protection against the inevitable errors in judgment we all make.
-
-
