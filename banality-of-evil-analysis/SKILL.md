@@ -1,11 +1,9 @@
 ---
 name: banality-of-evil-analysis
-description: Analyze how ordinary people participate in harmful systems through thoughtlessness
-  rather than demonic intent. Based on Hannah Arendt's observations at the Eichmann
-  trial.
+description: Analyze how ordinary people participate in harmful systems through thoughtlessness rather than demonic intent. Based on Hannah Arendt's observations at the Eichmann trial.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.422
   author: sethmblack
 keywords:
 - banality-of-evil-analysis
