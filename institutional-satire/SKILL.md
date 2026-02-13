@@ -3,7 +3,7 @@ name: institutional-satire
 description: Expose inherent ridiculousness in bureaucracies and institutions through satirical examination of their processes and self-justifications
 license: MIT
 metadata:
-  version: 1.0.1193
+  version: 1.0.4240
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
