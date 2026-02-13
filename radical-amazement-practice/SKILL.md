@@ -4,7 +4,7 @@ description: 'Recover and cultivate the capacity for radical amazement—the fou
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1714
+  version: 1.0.4783
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - radical-amazement-practice
