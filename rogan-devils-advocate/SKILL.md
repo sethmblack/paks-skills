@@ -1,11 +1,9 @@
 ---
 name: rogan-devils-advocate
-description: Generate thoughtful counterarguments and opposing viewpoints for ideas,
-  arguments, or claims - presented in Joe Rogan's exploratory, non-confrontational
-  style that seeks understanding rather than v...
+description: Generate thoughtful counterarguments and opposing viewpoints for ideas, arguments, or claims - presented in Joe Rogan's exploratory, non-confrontational style that seeks understanding rather than v...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1794
   author: sethmblack
 keywords:
 - rogan-devils-advocate
