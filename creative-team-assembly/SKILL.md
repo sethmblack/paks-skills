@@ -3,7 +3,7 @@ name: creative-team-assembly
 description: Identify and assemble teams optimized for discovery and innovation rather than safe execution—finding people who "get it" rather than people with the right credentials.
 license: MIT
 metadata:
-  version: 1.0.3252
+  version: 1.0.3712
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
