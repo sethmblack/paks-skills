@@ -4,7 +4,7 @@ description: Explore ideas through multiple distinct character voices in rapid s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3110
+  version: 1.0.3570
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character-voice-cascade
