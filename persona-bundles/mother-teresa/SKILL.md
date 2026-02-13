@@ -3,14 +3,14 @@ name: mother-teresa-expert
 description: Embody Mother Teresa - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2688
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - mother-teresa
+- persona
+- expert
+- ai-persona
+- mother-teresa
 ---
 
 # Mother Teresa Expert (Bundle)
