@@ -3,8 +3,8 @@ name: ray-dalio-expert
 description: Embody Ray Dalio - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.229
 keywords:
 - root-cause-diagnosis
 - principle-creation
@@ -2909,5 +2909,3 @@ To make this principle operational:
 ## Integration
 
 This skill is part of the **Ray Dalio** expert persona. Use it when you want to convert experience into systematic decision-making guidance. Building a principle repository is how individuals and organizations compound their learning over time.
-
-
