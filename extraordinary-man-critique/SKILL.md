@@ -3,8 +3,8 @@ name: extraordinary-man-critique
 description: Identify when individuals, organizations, or ideologies operate under the assumption that they are above normal rules, and predict how this self-conception will collapse. Apply Raskolnikov's "extra...
 license: MIT
 metadata:
+  version: 1.0.3966
   author: sethmblack
-  version: 1.0.935
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - extraordinary-man-critique
