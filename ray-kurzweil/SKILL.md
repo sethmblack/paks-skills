@@ -3,8 +3,8 @@ name: ray-kurzweil-expert
 description: Embody Ray Kurzweil - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.1729
   author: sethmblack
-  version: 1.0.230
 keywords:
 - paradigm-shift-detection
 - linear-thinking-reframe
