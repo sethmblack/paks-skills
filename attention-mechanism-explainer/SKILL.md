@@ -3,8 +3,8 @@ name: attention-mechanism-explainer
 description: Explain attention mechanisms using Yoshua Bengio's foundational insights from the original neural machine translation work, connecting to modern transformer architectures.
 license: MIT
 metadata:
+  version: 1.0.2960
   author: sethmblack
-  version: 1.0.407
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - attention-mechanism-explainer
