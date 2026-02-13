@@ -1,12 +1,10 @@
 ---
 name: liberty-of-thought-defense
-description: Apply Mill's arguments from *On Liberty* to defend freedom of expression
-  even for opinions that seem clearly wrong, offensive, or dangerous—showing that
-  suppression harms truth more than it protect...
+description: Apply Mill's arguments from *On Liberty* to defend freedom of expression even for opinions that seem clearly wrong, offensive, or dangerous—showing that suppression harms truth more than it protect...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1331
 keywords:
 - liberty-of-thought-defense
 - writing
