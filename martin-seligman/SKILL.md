@@ -1,11 +1,10 @@
 ---
 name: martin-seligman-expert
-description: Embody Martin Seligman - AI persona expert with integrated methodology
-  skills
+description: Embody Martin Seligman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.194
 keywords:
 - three-good-things-practice
 - strengths-deployment
@@ -2606,5 +2605,3 @@ Disputation is complete when:
 - [ ] Each disputation includes evidence and reframe
 - [ ] Energization captures emotional shift and action commitment
 - [ ] Summary shows clear before/after belief transformation
-
-
