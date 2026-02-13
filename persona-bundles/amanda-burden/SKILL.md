@@ -3,13 +3,13 @@ name: amanda-burden-expert
 description: Embody Amanda Burden - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2349
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - amanda-burden
+- persona
+- expert
+- ai-persona
+- amanda-burden
 ---
 
 # Amanda Burden Expert (Bundle)
