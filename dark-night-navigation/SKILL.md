@@ -3,7 +3,7 @@ name: dark-night-navigation
 description: '**Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian Mysticism / Spiritual Direction **Purpose:** Guide someone through spiritual desolation by diagnosing whether they are expe...'
 license: MIT
 metadata:
-  version: 1.0.735
+  version: 1.0.3765
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
