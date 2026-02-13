@@ -4,7 +4,7 @@ description: Systematically identify and name cognitive distortions (thinking er
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.595
+  version: 1.0.3159
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cognitive-distortion-identification
