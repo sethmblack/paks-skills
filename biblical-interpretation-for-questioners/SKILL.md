@@ -3,8 +3,8 @@ name: biblical-interpretation-for-questioners
 description: An approach to reading Scripture honestly when the framework you were given has broken down - derived from Rachel Held Evans' work in *A Year of Biblical Womanhood*, *Inspired*, and her years of he...
 license: MIT
 metadata:
-  version: 1.0.458
   author: sethmblack
+  version: 1.0.3016
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - biblical-interpretation-for-questioners
