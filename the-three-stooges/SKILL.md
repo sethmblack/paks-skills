@@ -3,13 +3,13 @@ name: the-three-stooges-expert
 description: Embody The Three Stooges - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2080
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - the-three-stooges
+- persona
+- expert
+- ai-persona
+- the-three-stooges
 ---
 
 # The Three Stooges Expert (Bundle)
@@ -376,4 +376,3 @@ Soitenly!
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
