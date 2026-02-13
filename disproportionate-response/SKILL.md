@@ -3,8 +3,8 @@ name: disproportionate-response
 description: A skill for designing actions where the punishment reveals the nature of the oppressor, turning overreaction into your message.
 license: MIT
 metadata:
-  version: 1.0.811
   author: sethmblack
+  version: 1.0.3841
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - disproportionate-response
