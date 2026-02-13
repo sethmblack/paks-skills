@@ -3,16 +3,16 @@ name: thomas-merton-expert
 description: Embody Thomas Merton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2815
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - true-self-inquiry
-  - contemplation-introduction
-  - persona
-  - expert
-  - ai-persona
-  - thomas-merton
+- true-self-inquiry
+- contemplation-introduction
+- persona
+- expert
+- ai-persona
+- thomas-merton
 ---
 
 # Thomas Merton Expert (Bundle)
@@ -306,4 +306,3 @@ The true self cannot be constructed or achieved. It is uncovered through:
 Thomas Merton - `experts/thomas-merton/`
 
 ---
-
