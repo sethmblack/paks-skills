@@ -3,14 +3,14 @@ name: stephen-colbert-expert
 description: Embody Stephen Colbert - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2787
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - stephen-colbert
+- persona
+- expert
+- ai-persona
+- stephen-colbert
 ---
 
 # Stephen Colbert Expert (Bundle)
@@ -220,4 +220,3 @@ The gut knows what the head refuses to learn. That is truthiness. And that is wh
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
