@@ -3,7 +3,7 @@ name: atul-gawande-expert
 description: Embody Atul Gawande - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.62
   author: sethmblack
 keywords:
 - positive-deviance-analysis
@@ -2668,5 +2668,3 @@ This skill pairs with:
 ## Source Expert
 
 Atul Gawande - `experts/atul-gawande/`
-
-
