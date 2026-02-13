@@ -1,11 +1,9 @@
 ---
 name: barrel-reduction
-description: Systematically eliminate dependencies to discover what is truly necessary,
-  stripping away possessions, commitments, beliefs, and complexity until only genuine
-  needs remain.
+description: Systematically eliminate dependencies to discover what is truly necessary, stripping away possessions, commitments, beliefs, and complexity until only genuine needs remain.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.426
   author: sethmblack
 keywords:
 - barrel-reduction
