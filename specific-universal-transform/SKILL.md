@@ -4,7 +4,7 @@ description: Transform abstract emotional language into concrete, specific senso
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1946
+  version: 1.0.5025
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - specific-universal-transform
