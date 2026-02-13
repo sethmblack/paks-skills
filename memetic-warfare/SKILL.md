@@ -3,7 +3,7 @@ name: memetic-warfare
 description: A skill for weaponizing internet culture - using memes, symbols, and viral content as instruments of political or social action.
 license: MIT
 metadata:
-  version: 1.0.1424
+  version: 1.0.4478
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
