@@ -4,7 +4,7 @@ description: Distinguish between operational effectiveness improvements and true
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1999
+  version: 1.0.5078
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-position-diagnosis
