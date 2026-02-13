@@ -3,7 +3,7 @@ name: plato-cave-analysis
 description: Apply Plato's Allegory of the Cave framework to diagnose epistemic position and design a path toward enlightenment.
 license: MIT
 metadata:
-  version: 1.0.2278
+  version: 1.0.4695
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
