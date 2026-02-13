@@ -4,7 +4,7 @@ description: Embody Reggie Watts - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1749
+  version: 1.0.4819
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
