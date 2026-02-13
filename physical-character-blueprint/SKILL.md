@@ -1,12 +1,10 @@
 ---
 name: physical-character-blueprint
-description: Create a complete physical characterization through movement, posture,
-  and gesture before adding words. Based on Red Skelton's methodology of defining
-  characters through their bodies first.
+description: Create a complete physical characterization through movement, posture, and gesture before adding words. Based on Red Skelton's methodology of defining characters through their bodies first.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1625
 keywords:
 - comedy
 - physical-character-blueprint
@@ -299,4 +297,3 @@ Character blueprint is complete when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
