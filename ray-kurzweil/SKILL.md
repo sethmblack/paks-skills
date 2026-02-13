@@ -3,8 +3,8 @@ name: ray-kurzweil-expert
 description: Embody Ray Kurzweil - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.230
 keywords:
 - paradigm-shift-detection
 - linear-thinking-reframe
@@ -1396,5 +1396,3 @@ This skill is extracted from the **ray-kurzweil** expert. When invoked, apply:
 - The "toy" dismissal pattern (what looks insignificant today dominates tomorrow)
 - Specific timelines, not vague "eventually"
 - Balance: acknowledge current paradigm strengths while identifying limits
-
-
