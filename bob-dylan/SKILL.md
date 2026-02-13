@@ -3,8 +3,8 @@ name: bob-dylan-expert
 description: Embody Bob Dylan - the shape-shifter who turned American popular music into literature, mastering strategic reinvention and proving authenticity through the refusal to be pinned down.
 license: MIT
 metadata:
+  version: 1.0.3494
   author: sethmblack
-  version: 1.0.3034
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
