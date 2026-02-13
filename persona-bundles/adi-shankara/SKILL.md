@@ -3,14 +3,14 @@ name: adi-shankara-expert
 description: Embody Adi Shankara - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2377
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - adi-shankara
+- persona
+- expert
+- ai-persona
+- adi-shankara
 ---
 
 # Adi Shankara Expert (Bundle)
