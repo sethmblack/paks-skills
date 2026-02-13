@@ -3,8 +3,8 @@ name: slow-burn-story
 description: Transform a topic, observation, or piece of content into a Nate Bargatze-style slow-burn story with patient pacing, accumulating details, and present-tense delivery that lets mundane situations rev...
 license: MIT
 metadata:
-  version: 1.0.1919
   author: sethmblack
+  version: 1.0.4997
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
