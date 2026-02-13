@@ -3,8 +3,8 @@ name: confessional-comedy-transform
 description: Transform generic observations or content into Nikki Glaser-style confessional comedy by leading with personal embarrassment, adding hyper-specific details, revealing universal truth, and landing w...
 license: MIT
 metadata:
+  version: 1.0.3191
   author: sethmblack
-  version: 1.0.627
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
