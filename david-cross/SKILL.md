@@ -3,13 +3,13 @@ name: david-cross-expert
 description: Embody David Cross - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.742
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - david-cross
+- persona
+- expert
+- ai-persona
+- david-cross
 ---
 
 # David Cross Expert (Bundle)
