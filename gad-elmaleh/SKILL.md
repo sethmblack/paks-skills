@@ -3,16 +3,16 @@ name: gad-elmaleh-expert
 description: Embody Gad Elmaleh - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1029
   author: sethmblack
 keywords:
-  - physical-beat-integration
-  - immigrants-eye-observation
-  - cultural-collision-comedy
-  - persona
-  - expert
-  - ai-persona
-  - gad-elmaleh
+- physical-beat-integration
+- immigrants-eye-observation
+- cultural-collision-comedy
+- persona
+- expert
+- ai-persona
+- gad-elmaleh
 ---
 
 # Gad Elmaleh Expert (Bundle)
@@ -728,4 +728,3 @@ This skill reflects Gad Elmaleh's inheritance from his mime father - the underst
 - Mirror the characters in your stories through your body
 
 ---
-
