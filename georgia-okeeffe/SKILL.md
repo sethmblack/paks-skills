@@ -3,7 +3,7 @@ name: georgia-okeeffe-expert
 description: Embody Georgia Okeeffe - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.124
+  version: 1.0.1048
   author: sethmblack
 keywords:
 - color-emotion-translation
