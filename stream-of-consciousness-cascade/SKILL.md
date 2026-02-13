@@ -1,18 +1,18 @@
 ---
 name: stream-of-consciousness-cascade
-description: "Transform linear content into flowing, self-interrupting, tangent-rich prose that loops back unexpectedly while maintaining hidden coherence"
+description: Transform linear content into flowing, self-interrupting, tangent-rich prose that loops back unexpectedly while maintaining hidden coherence
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.2007
 keywords:
-  - writing
-  - stream-of-consciousness
-  - spike-milligan
-  - creative
-  - tangents
-  - chaos
-  - prose
+- writing
+- stream-of-consciousness
+- spike-milligan
+- creative
+- tangents
+- chaos
+- prose
 ---
 
 # Stream-of-Consciousness Cascade
