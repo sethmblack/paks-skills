@@ -4,7 +4,7 @@ description: Embody Stuart Russell - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.265
+  version: 1.0.2015
 keywords:
 - off-switch-test
 - objective-misspecification-audit
