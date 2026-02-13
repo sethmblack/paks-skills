@@ -3,8 +3,8 @@ name: bob-newhart-expert
 description: Embody Bob Newhart - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.3037
   author: sethmblack
-  version: 1.0.478
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - stammering-rhythm-framework
