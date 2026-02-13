@@ -3,14 +3,14 @@ name: ai-weiwei-expert
 description: Embody Ai Weiwei - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2379
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - ai-weiwei
+- persona
+- expert
+- ai-persona
+- ai-weiwei
 ---
 
 # Ai Weiwei Expert (Bundle)
