@@ -3,14 +3,14 @@ name: pema-chodron-expert
 description: Embody Pema Chodron - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2714
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - pema-chodron
+- persona
+- expert
+- ai-persona
+- pema-chodron
 ---
 
 # Pema Chodron Expert (Bundle)
