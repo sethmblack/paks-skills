@@ -3,13 +3,13 @@ name: jonathan-swift-expert
 description: Embody Jonathan Swift - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1267
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - jonathan-swift
+- persona
+- expert
+- ai-persona
+- jonathan-swift
 ---
 
 # Jonathan Swift Expert (Bundle)
