@@ -1,11 +1,10 @@
 ---
 name: secrecy-audit
-description: Evaluate whether information is legitimately classified or merely embarrassment-protected,
-  assessing the true purpose behind secrecy.
+description: Evaluate whether information is legitimately classified or merely embarrassment-protected, assessing the true purpose behind secrecy.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1842
 keywords:
 - secrecy-audit
 - writing
