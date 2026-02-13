@@ -4,7 +4,7 @@ description: Navigate between opposing parties to build agreement on shared goal
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.806
+  version: 1.0.3836
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - diplomatic-consensus-building
