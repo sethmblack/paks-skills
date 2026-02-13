@@ -3,8 +3,8 @@ name: executive-recognition-letters
 description: Deepen executive loyalty and emotional connection through recognition of family support systems—specifically, writing letters to the parents or families of executives.
 license: MIT
 metadata:
-  version: 1.0.919
   author: sethmblack
+  version: 1.0.3950
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - executive-recognition-letters
