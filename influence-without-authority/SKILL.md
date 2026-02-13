@@ -4,7 +4,7 @@ description: Persuade stakeholders, peers, or cross-functional partners to adopt
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1180
+  version: 1.0.4227
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - influence-without-authority
