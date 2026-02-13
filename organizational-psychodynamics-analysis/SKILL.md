@@ -1,11 +1,9 @@
 ---
 name: organizational-psychodynamics-analysis
-description: Analyze organizational behavior through the lens of depth psychology,
-  examining unconscious dynamics, group defenses, and the hidden forces that shape
-  how teams and organizations function.
+description: Analyze organizational behavior through the lens of depth psychology, examining unconscious dynamics, group defenses, and the hidden forces that shape how teams and organizations function.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1563
   author: sethmblack
 keywords:
 - organizational-psychodynamics-analysis
