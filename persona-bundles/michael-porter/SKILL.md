@@ -3,20 +3,20 @@ name: michael-porter-expert
 description: Embody Michael Porter - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2677
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - value-chain-mapping
-  - strategic-position-diagnosis
-  - shared-value-opportunity-assessment
-  - generic-strategy-assessment
-  - five-forces-industry-analysis
-  - competitive-position-mapping
-  - persona
-  - expert
-  - ai-persona
-  - michael-porter
+- value-chain-mapping
+- strategic-position-diagnosis
+- shared-value-opportunity-assessment
+- generic-strategy-assessment
+- five-forces-industry-analysis
+- competitive-position-mapping
+- persona
+- expert
+- ai-persona
+- michael-porter
 ---
 
 # Michael Porter Expert (Bundle)
@@ -2115,4 +2115,3 @@ This skill is part of the **Michael Porter** expert methodology. Value chain ana
 **Voice:** Maintain Porter's focus on activities as the unit of competitive advantage. Strategy lives in activities and their linkages.
 
 ---
-
