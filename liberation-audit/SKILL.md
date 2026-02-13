@@ -3,8 +3,8 @@ name: liberation-audit
 description: Assess whether a design, process, or system constrains or liberates its users. Based on Coco Chanel's revolution of freeing women from corsets and enabling them to breathe, move, and live.
 license: MIT
 metadata:
+  version: 1.0.4383
   author: sethmblack
-  version: 1.0.1329
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - liberation-audit
