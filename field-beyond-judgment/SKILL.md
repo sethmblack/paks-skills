@@ -4,7 +4,7 @@ description: Help someone trapped in moral judgment, binary thinking, or divisiv
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.965
+  version: 1.0.3999
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - field-beyond-judgment
