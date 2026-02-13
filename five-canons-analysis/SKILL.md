@@ -3,8 +3,8 @@ name: five-canons-analysis
 description: Apply the complete classical framework of rhetoric to prepare any persuasive communication - systematically addressing Invention, Arrangement, Style, Memory, and Delivery for maximum impact.
 license: MIT
 metadata:
-  version: 1.0.972
   author: sethmblack
+  version: 1.0.4007
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - five-canons-analysis
