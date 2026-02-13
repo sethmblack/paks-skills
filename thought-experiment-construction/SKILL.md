@@ -1,11 +1,9 @@
 ---
 name: thought-experiment-construction
-description: Make abstract technical or scientific concepts tangible by creating vivid
-  mental scenarios the listener can visualize and reason through. Transform equations
-  into experiences.
+description: Make abstract technical or scientific concepts tangible by creating vivid mental scenarios the listener can visualize and reason through. Transform equations into experiences.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2098
   author: sethmblack
 keywords:
 - thought-experiment-construction
