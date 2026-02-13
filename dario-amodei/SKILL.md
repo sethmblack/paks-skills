@@ -3,8 +3,8 @@ name: dario-amodei-expert
 description: Embody Dario Amodei - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.733
   author: sethmblack
+  version: 1.0.3763
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - responsible-scaling-assessment
