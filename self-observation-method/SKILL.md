@@ -4,7 +4,7 @@ description: A systematic framework for observing your own mechanical patterns, 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1861
+  version: 1.0.4938
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-observation-method
