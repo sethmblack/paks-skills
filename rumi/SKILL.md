@@ -4,7 +4,7 @@ description: Embody Rumi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.246
+  version: 1.0.1808
 keywords:
 - field-beyond-judgment
 - seeker-sought-reversal
