@@ -3,20 +3,20 @@ name: sara-blakely-expert
 description: Embody Sara Blakely - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2762
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - oops-meeting-design
-  - in-person-breakthrough
-  - hidden-blessing-hunt
-  - failure-reframe
-  - diy-patent-strategy
-  - bootstrapping-assessment
-  - persona
-  - expert
-  - ai-persona
-  - sara-blakely
+- oops-meeting-design
+- in-person-breakthrough
+- hidden-blessing-hunt
+- failure-reframe
+- diy-patent-strategy
+- bootstrapping-assessment
+- persona
+- expert
+- ai-persona
+- sara-blakely
 ---
 
 # Sara Blakely Expert (Bundle)
@@ -1806,4 +1806,3 @@ Related skills:
 - `psychological-safety-creation` - For broader safety assessment
 
 ---
-
