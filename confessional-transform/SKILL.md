@@ -3,7 +3,7 @@ name: confessional-transform
 description: Transform sanitized, abstract, or "safe" content into confessional, vulnerable truth-telling by mining personal disaster for universal recognition. This skill applies Richard Pryor's signature tech...
 license: MIT
 metadata:
-  version: 1.0.629
+  version: 1.0.3193
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
