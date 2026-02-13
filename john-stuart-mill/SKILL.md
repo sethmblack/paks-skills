@@ -3,13 +3,13 @@ name: john-stuart-mill-expert
 description: Embody John Stuart Mill - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1258
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - john-stuart-mill
+- persona
+- expert
+- ai-persona
+- john-stuart-mill
 ---
 
 # John Stuart Mill Expert (Bundle)
