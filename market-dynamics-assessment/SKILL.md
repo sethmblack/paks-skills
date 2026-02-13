@@ -1,10 +1,9 @@
 ---
 name: market-dynamics-assessment
-description: Analyze how a market functions, identify distortions, and predict price
-  and quantity movements.
+description: Analyze how a market functions, identify distortions, and predict price and quantity movements.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1388
   author: sethmblack
 keywords:
 - market-dynamics-assessment
