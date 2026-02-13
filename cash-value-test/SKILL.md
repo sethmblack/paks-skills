@@ -3,8 +3,8 @@ name: cash-value-test
 description: Evaluate any idea, concept, theory, or dispute by translating it into experiential consequences, revealing whether debates are substantive or merely verbal.
 license: MIT
 metadata:
+  version: 1.0.3546
   author: sethmblack
-  version: 1.0.3086
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cash-value-test
