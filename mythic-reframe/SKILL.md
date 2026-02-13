@@ -4,7 +4,7 @@ description: Transform mundane or overwhelming situations into their archetypal 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1496
+  version: 1.0.4552
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mythic-reframe
