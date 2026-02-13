@@ -1,11 +1,10 @@
 ---
 name: troop-inspiration
-description: Craft communications that inspire extraordinary effort from teams facing
-  difficult challenges.
+description: Craft communications that inspire extraordinary effort from teams facing difficult challenges.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2143
 keywords:
 - transformation
 - troop-inspiration
