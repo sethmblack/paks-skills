@@ -1,12 +1,10 @@
 ---
 name: writing-without-the-gaze
-description: Find authentic voice by refusing to perform identity for external validation
-  or explain your experience to outsiders—using Toni Morrison's concept of rejecting
-  the "white gaze.
+description: Find authentic voice by refusing to perform identity for external validation or explain your experience to outsiders—using Toni Morrison's concept of rejecting the "white gaze.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2250
 keywords:
 - writing
 - writing-without-the-gaze
