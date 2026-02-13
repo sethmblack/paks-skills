@@ -3,7 +3,7 @@ name: experimental-design-framework
 description: Design rigorous experiments with controlled variables, precise measurements, and systematic documentation. Plan investigations that produce reliable, reproducible results.
 license: MIT
 metadata:
-  version: 1.0.926
+  version: 1.0.3957
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
