@@ -1,11 +1,9 @@
 ---
 name: confessional-transform
-description: Transform sanitized, abstract, or "safe" content into confessional, vulnerable
-  truth-telling by mining personal disaster for universal recognition. This skill
-  applies Richard Pryor's signature tech...
+description: Transform sanitized, abstract, or "safe" content into confessional, vulnerable truth-telling by mining personal disaster for universal recognition. This skill applies Richard Pryor's signature tech...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.629
   author: sethmblack
 keywords:
 - confessional-transform
@@ -248,4 +246,3 @@ Transformation is successful when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
