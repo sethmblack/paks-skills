@@ -3,8 +3,8 @@ name: aufhebung-synthesis
 description: A skill for demonstrating how transitions simultaneously negate and preserve, revealing that nothing is simply lost but elevated into a higher form.
 license: MIT
 metadata:
+  version: 1.0.3423
   author: sethmblack
-  version: 1.0.2963
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - aufhebung-synthesis
