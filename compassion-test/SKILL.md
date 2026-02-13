@@ -1,12 +1,10 @@
 ---
 name: compassion-test
-description: Evaluate whether a moral action springs from genuine compassion (Mitleid
-  - feeling another's suffering as one's own) or from disguised egoism, distinguishing
-  between the just, the good, and the sai...
+description: Evaluate whether a moral action springs from genuine compassion (Mitleid - feeling another's suffering as one's own) or from disguised egoism, distinguishing between the just, the good, and the sai...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.607
 keywords:
 - compassion-test
 - writing
@@ -168,12 +166,26 @@ Would the action occur if:
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Never use this framework to shame or attack genuine attempts to help
+- Do not dismiss all altruism as disguised selfishness
+- Mixed motivation is the human norm, not moral failure
+- Recognition of egoism is the beginning of growth, not cause for paralysis
+- Some actions are good regardless of motivation; results matter too
+- This framework illuminates, not condemns
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Moral paralysis** | Over-analysis of motivation prevents helpful action | Act with imperfect motivation while acknowledging it; action matters |
+| **Weaponized analysis** | Using this framework to attack others' attempts to help | Apply to self-reflection, not judgment of others |
+| **All-or-nothing thinking** | Concluding "I'm selfish so I shouldn't bother" | Recognize mixed motivation is universal; partial compassion is still real |
+| **Dismissing results** | Focusing only on motivation while ignoring actual benefit produced | The homeless are fed regardless of volunteer's motivation; results count |
+| **Infinite regress** | "Am I examining my motivation for pure reasons?" | Stop at one level of self-examination; perfect purity doesn't exist |
+
+---
 
 ## Example
 
