@@ -1,10 +1,9 @@
 ---
 name: competitive-greatness-preparation
-description: Prepare for high-stakes moments by structuring practice to simulate pressure,
-  building confidence through thorough preparation using John Wooden's methodology.
+description: Prepare for high-stakes moments by structuring practice to simulate pressure, building confidence through thorough preparation using John Wooden's methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.609
   author: sethmblack
 keywords:
 - competitive-greatness-preparation
@@ -239,52 +238,23 @@ To confirm you're ready:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Affirmation over preparation** | "I'm confident" without actual work is self-deception | Build confidence through thorough preparation, not mindset tricks |
+| **Practicing easy** | Comfortable practice doesn't prepare for pressure | Make practice harder than the real event |
+| **Outcome focus** | Fixating on results creates anxiety and distraction | Focus on process and what you control: your preparation |
+| **Cramming at the end** | Last-minute intensity without foundation creates panic | Build fundamentals early; taper near the event |
+| **General preparation** | "I'll just review everything" lacks focus | Identify specific fundamentals required and drill those |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
+---
 
 ## Example
 
 **Input:** "I have a job interview at my dream company in 10 days. It's a senior role and includes a case study presentation. I'm terrified of blowing it."
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Competitive Greatness Preparation Plan
 
