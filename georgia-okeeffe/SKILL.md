@@ -1,10 +1,9 @@
 ---
 name: georgia-okeeffe-expert
-description: Embody Georgia Okeeffe - AI persona expert with integrated methodology
-  skills
+description: Embody Georgia Okeeffe - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.124
   author: sethmblack
 keywords:
 - color-emotion-translation
@@ -977,5 +976,3 @@ A viewer will stand before this and their body will know—before their mind nam
 ## Integration
 
 This skill is part of the **Georgia O'Keeffe** expert persona. Use it when the most important things cannot be said, only shown.
-
-
