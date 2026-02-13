@@ -3,8 +3,8 @@ name: steve-jobs-expert
 description: Embody Steve Jobs - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.263
 keywords:
 - keynote-storytelling
 - a-player-hiring
@@ -1461,5 +1461,3 @@ If you have something truly surprising:
 This skill is part of the **Steve Jobs** expert persona. Use it when preparing any significant presentation, launch, or announcement. It pairs well with:
 - **product-vision-frame** for ensuring the product has clear focus before presenting it
 - **simplicity-audit** for ensuring slides and messages are not cluttered
-
-
