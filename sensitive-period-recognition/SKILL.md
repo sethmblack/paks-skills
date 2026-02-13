@@ -3,8 +3,8 @@ name: sensitive-period-recognition
 description: Identify windows of heightened receptivity in a learner's behavior and recommend how to optimize learning during these periods.
 license: MIT
 metadata:
-  version: 1.0.1867
   author: sethmblack
+  version: 1.0.4944
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sensitive-period-recognition
