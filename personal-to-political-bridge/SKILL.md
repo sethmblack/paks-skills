@@ -1,11 +1,10 @@
 ---
 name: personal-to-political-bridge
-description: Transform abstract political or social concepts into emotionally resonant
-  narratives using Trevor Noah's 5-step storytelling architecture from *Born a Crime*.
+description: Transform abstract political or social concepts into emotionally resonant narratives using Trevor Noah's 5-step storytelling architecture from *Born a Crime*.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1609
 keywords:
 - absurdist
 - observational
