@@ -1,10 +1,9 @@
 ---
 name: class-archaeology
-description: Systematically excavate the class, privilege, and status assumptions
-  buried in behaviors, trends, products, or cultural phenomena.
+description: Systematically excavate the class, privilege, and status assumptions buried in behaviors, trends, products, or cultural phenomena.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.580
   author: sethmblack
 keywords:
 - class-archaeology
