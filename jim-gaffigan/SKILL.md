@@ -4,7 +4,7 @@ description: Embody Jim Gaffigan - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.157
+  version: 1.0.1235
 keywords:
 - self-deprecation-pivot
 - inner-voice-commentary
