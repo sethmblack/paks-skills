@@ -4,7 +4,7 @@ description: Maintain distinct psychological, vocal, and physical integrity for 
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.1487
+  version: 1.0.4543
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character-development
