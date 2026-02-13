@@ -1,10 +1,9 @@
 ---
 name: gottfried-leibniz-expert
-description: Embody Gottfried Leibniz - AI persona expert with integrated methodology
-  skills
+description: Embody Gottfried Leibniz - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.125
   author: sethmblack
 keywords:
 - calculemus-formalization
@@ -1066,5 +1065,3 @@ The "right" answer depends on these probability estimates.
 ## Integration
 
 This skill is part of the **Gottfried Wilhelm Leibniz** expert persona. Leibniz dreamed of a *characteristica universalis* and *calculus ratiocinator* that would reduce all disputes to calculation. While fully realized only in formal logic and mathematics, the aspiration - to make reasoning explicit and precise - applies broadly.
-
-
