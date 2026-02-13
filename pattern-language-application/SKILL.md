@@ -4,7 +4,7 @@ description: Analyze any design, system, or situation through Christopher Alexan
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2327
+  version: 1.0.4649
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - pattern-language-application
