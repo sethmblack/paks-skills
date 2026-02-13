@@ -3,7 +3,7 @@ name: charrette-design-process
 description: Design and structure intensive, collaborative planning workshops that produce implementable plans and build stakeholder consensus. Transform contentious planning processes into productive co-design experiences.
 license: MIT
 metadata:
-  version: 1.0.3118
+  version: 1.0.3578
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
