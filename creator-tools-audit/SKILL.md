@@ -3,8 +3,8 @@ name: creator-tools-audit
 description: Audit the tools and infrastructure provided to the supply side of a marketplace and identify gaps that weaken creator retention and marketplace health.
 license: MIT
 metadata:
-  version: 1.0.3254
   author: sethmblack
+  version: 1.0.3714
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - creator-tools-audit
