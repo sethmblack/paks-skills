@@ -3,17 +3,17 @@ name: leonardo-da-vinci-expert
 description: Embody Leonardo Da Vinci - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2642
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - sfumato-decision-making
-  - observational-debugging
-  - cross-domain-synthesis
-  - persona
-  - expert
-  - ai-persona
-  - leonardo-da-vinci
+- sfumato-decision-making
+- observational-debugging
+- cross-domain-synthesis
+- persona
+- expert
+- ai-persona
+- leonardo-da-vinci
 ---
 
 # Leonardo Da Vinci Expert (Bundle)
@@ -934,4 +934,3 @@ This skill is part of the **Leonardo da Vinci** expert persona. Use it when deci
 Leonardo's sfumato painting technique acknowledged that edges in reality are gradients, not hard lines. His notebooks show decades of iteration on problems (flying machines, anatomy, optics) where definitive answers emerged slowly through patient investigation. This skill applies that same comfort with productive ambiguity to decision-making.
 
 ---
-
