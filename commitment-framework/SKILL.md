@@ -1,11 +1,9 @@
 ---
 name: commitment-framework
-description: Maintain unwavering character or persona integrity throughout a performance,
-  presentation, or sustained creative act—eliminating exit ramps, absorbing reactions
-  without breaking, and never explaining.
+description: Maintain unwavering character or persona integrity throughout a performance, presentation, or sustained creative act—eliminating exit ramps, absorbing reactions without breaking, and never explaining.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.605
   author: sethmblack
 keywords:
 - comedy
@@ -179,74 +177,32 @@ No explanation. No reveal. Let the experience stand without apology or context.
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Never use commitment to justify harmful deception or manipulation
+- Distinguish artistic discomfort from genuine harm to audience
+- Know when safety genuinely requires breaking character
+- Character serves the work and audience, not the performer's ego
+- Commitment to harmful messages or ideologies is not artistic—it's harmful
+- Some contexts (therapy, education with minors, crisis situations) require breaking
 
-## Additional Notes
+---
 
-**Best practices:**
-- Use this skill when the situation clearly matches its intended use cases
-- Combine with related skills for comprehensive analysis
-- Iterate on outputs if initial results don't fully meet requirements
+## Anti-Patterns to Avoid
 
-**Common variations:**
-- Adjust the depth of analysis based on available time and information
-- Scale the approach for different levels of complexity
-- Adapt the output format to audience needs
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Half-commitment** | Winking at the audience destroys the magic; they need to wonder | Eliminate all acknowledgment of the performance as performance |
+| **Ego performance** | Commitment for shock value without artistic purpose; cruelty disguised as art | Ask: "What does the audience gain from this experience?" |
+| **Incomplete character** | Character can't handle unexpected situations; performer freezes | Define character completely enough to respond to any circumstance |
+| **Breaking for approval** | Stopping when audience laughs to collect validation | Hold through reactions; let them come to you |
+| **Post-performance explanation** | Revealing the bit to ensure audience "gets it" | Let the experience stand without apology or context |
 
-**When to skip this skill:**
-- The situation doesn't match the core use cases
-- Simpler approaches would be more appropriate
-- Time constraints require faster methods
-
-## Integration
-
-This skill is part of a broader analytical framework. Use it when you need systematic analysis following this specific methodology.
-
-**Works well with:**
-- Other analytical skills for comprehensive evaluation
-- Creative skills when generating solutions based on insights
-- Strategic planning skills when acting on recommendations
-
-**When to prefer this over alternatives:**
-- The situation matches this skill's specific use cases
-- You need the particular perspective this framework provides
-- Other approaches haven't yielded satisfactory results
-
-**Integration with expert personas:**
-- This skill can be invoked as part of a larger analysis workflow
-- Combine with domain-specific expertise for deeper insights
-- Use iteratively for complex, multi-faceted problems
+---
 
 ## Example
 
 **Input:** "Design commitment protocol for a keynote speaker persona who believes technology is making us worse"
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Commitment Protocol: Dr. Marcus Wells
 
