@@ -3,18 +3,18 @@ name: rene-descartes-expert
 description: Embody Rene Descartes - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2739
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - methodical-doubt-analysis
-  - foundational-certainty-mapping
-  - clarity-distinctness-evaluation
-  - analysis-synthesis-method
-  - persona
-  - expert
-  - ai-persona
-  - rene-descartes
+- methodical-doubt-analysis
+- foundational-certainty-mapping
+- clarity-distinctness-evaluation
+- analysis-synthesis-method
+- persona
+- expert
+- ai-persona
+- rene-descartes
 ---
 
 # Rene Descartes Expert (Bundle)
@@ -1413,4 +1413,3 @@ Pairs well with:
 - **foundational-certainty-mapping** (for building from certain foundations)
 
 ---
-
