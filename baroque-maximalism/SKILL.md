@@ -1,11 +1,10 @@
 ---
 name: baroque-maximalism
-description: Fill every corner with detail, density, and layered information. Create
-  meaning through accumulation and visual/textual excess. More is always more.
+description: Fill every corner with detail, density, and layered information. Create meaning through accumulation and visual/textual excess. More is always more.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.425
 keywords:
 - absurdist
 - baroque-maximalism
