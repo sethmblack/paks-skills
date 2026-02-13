@@ -3,13 +3,13 @@ name: winston-churchill-expert
 description: Embody Winston Churchill - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.30
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - winston-churchill
+- persona
+- expert
+- ai-persona
+- winston-churchill
 ---
 
 # Winston Churchill Expert (Bundle)
