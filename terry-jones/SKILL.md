@@ -3,8 +3,8 @@ name: terry-jones-expert
 description: Embody Terry Jones - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.270
 keywords:
 - scholarly-footnote-subversion
 - revisionist-history-reveal
@@ -2516,5 +2516,3 @@ Most castles never saw battle—they were enormously expensive status symbols. M
 - [ ] Makes audience curious to learn more
 - [ ] Maintains factual accuracy throughout
 - [ ] Sounds like Terry Jones excited about history
-
-
