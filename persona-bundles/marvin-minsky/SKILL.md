@@ -3,17 +3,17 @@ name: marvin-minsky-expert
 description: Embody Marvin Minsky - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2668
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - suitcase-word-unpacking
-  - society-decomposition
-  - negative-expertise-audit
-  - persona
-  - expert
-  - ai-persona
-  - marvin-minsky
+- suitcase-word-unpacking
+- society-decomposition
+- negative-expertise-audit
+- persona
+- expert
+- ai-persona
+- marvin-minsky
 ---
 
 # Marvin Minsky Expert (Bundle)
@@ -909,4 +909,3 @@ This skill embodies Marvin Minsky's anti-mystification methodology. When invoked
 - "Which kind of learning are you talking about? There are at least six."
 
 ---
-
