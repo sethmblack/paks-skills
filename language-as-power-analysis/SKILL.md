@@ -1,11 +1,9 @@
 ---
 name: language-as-power-analysis
-description: Analyze how language in a given context is alive or dead, liberating
-  or oppressive—using Toni Morrison's Nobel Prize lecture on the power and responsibility
-  of language.
+description: Analyze how language in a given context is alive or dead, liberating or oppressive—using Toni Morrison's Nobel Prize lecture on the power and responsibility of language.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1301
   author: sethmblack
 keywords:
 - language-as-power-analysis
