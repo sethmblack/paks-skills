@@ -1,12 +1,10 @@
 ---
 name: rhetorical-question-cascade
-description: Build a series of rhetorical questions that progressively expose absurdity,
-  each answer leading to a more revealing follow-up question, creating intellectual
-  momentum.
+description: Build a series of rhetorical questions that progressively expose absurdity, each answer leading to a more revealing follow-up question, creating intellectual momentum.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1774
 keywords:
 - absurdist
 - rhetorical-question-cascade
