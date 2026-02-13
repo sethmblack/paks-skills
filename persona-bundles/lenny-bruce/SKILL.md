@@ -3,14 +3,14 @@ name: lenny-bruce-expert
 description: Embody Lenny Bruce - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2640
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - lenny-bruce
+- persona
+- expert
+- ai-persona
+- lenny-bruce
 ---
 
 # Lenny Bruce Expert (Bundle)
