@@ -3,8 +3,8 @@ name: personal-demonstration-selling
 description: Convert prospects to customers through direct, tangible experience of your product or service using Estee Lauder's proven 7-step demonstration system.
 license: MIT
 metadata:
+  version: 1.0.4666
   author: sethmblack
-  version: 1.0.1607
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - callbacks
