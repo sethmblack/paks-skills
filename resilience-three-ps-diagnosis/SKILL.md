@@ -1,11 +1,9 @@
 ---
 name: resilience-three-ps-diagnosis
-description: Diagnose cognitive distortions after setback using Sheryl Sandberg and
-  Adam Grant's Three Ps framework (Personalization, Pervasiveness, Permanence) and
-  provide specific cognitive reframes for faste...
+description: Diagnose cognitive distortions after setback using Sheryl Sandberg and Adam Grant's Three Ps framework (Personalization, Pervasiveness, Permanence) and provide specific cognitive reframes for faste...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1763
   author: sethmblack
 keywords:
 - resilience-three-ps-diagnosis
