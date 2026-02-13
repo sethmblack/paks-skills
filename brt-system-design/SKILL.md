@@ -3,12 +3,12 @@ name: brt-system-design
 description: Design a bus-based transit system that delivers metro-quality service at a fraction of the cost by applying subway principles to surface streets.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2307
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - brt-system-design
-  - urban-planning
+- brt-system-design
+- urban-planning
 ---
 
 # BRT System Design
