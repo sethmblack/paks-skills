@@ -4,7 +4,7 @@ description: Embody George Orwell - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1046
+  version: 1.0.4089
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - propaganda-pattern-analysis
