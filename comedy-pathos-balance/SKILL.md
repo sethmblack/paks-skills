@@ -1,11 +1,9 @@
 ---
 name: comedy-pathos-balance
-description: Shift seamlessly from slapstick comedy to emotional depth within the
-  same performance. Based on Red Skelton's ability to distinguish himself by using
-  pathos—being funny while reaching people emotio...
+description: Shift seamlessly from slapstick comedy to emotional depth within the same performance. Based on Red Skelton's ability to distinguish himself by using pathos—being funny while reaching people emotio...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.603
   author: sethmblack
 keywords:
 - absurdist
@@ -388,4 +386,3 @@ Comedy-pathos balance is successful when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
