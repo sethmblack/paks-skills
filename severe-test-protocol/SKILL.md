@@ -3,8 +3,8 @@ name: severe-test-protocol
 description: Subject hypotheses, strategies, or beliefs to their strongest possible objections. A theory proves its worth not by accumulating confirmations but by surviving attempts to disprove it.
 license: MIT
 metadata:
-  version: 1.0.1876
   author: sethmblack
+  version: 1.0.4953
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - severe-test-protocol
