@@ -4,7 +4,7 @@ description: Reframe sexual or relationship topics from shame-based to sex-posit
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1877
+  version: 1.0.4954
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
