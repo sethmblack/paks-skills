@@ -1,12 +1,10 @@
 ---
 name: idea-meritocracy-design
-description: 'Design organizational decision-making systems where the best ideas win
-  regardless of who they come from, using Ray Dalio''s formula: Radical Truth + Radical
-  Transparency + Believability-Weighted Dec...'
+description: 'Design organizational decision-making systems where the best ideas win regardless of who they come from, using Ray Dalio''s formula: Radical Truth + Radical Transparency + Believability-Weighted Dec...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1150
 keywords:
 - idea-meritocracy-design
 - transformation
