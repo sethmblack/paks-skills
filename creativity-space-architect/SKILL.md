@@ -3,8 +3,8 @@ name: creativity-space-architect
 description: 'Implement John Cleese''s 5-factor creativity framework to design optimal conditions for creative work: Space, Time, Time (incubation), Confidence, and Humor.'
 license: MIT
 metadata:
+  version: 1.0.3253
   author: sethmblack
-  version: 1.0.687
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
