@@ -3,8 +3,8 @@ name: emma-goldman-expert
 description: Embody Emma Goldman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.108
 keywords:
 - radical-oratory
 - structural-critique
@@ -599,5 +599,3 @@ You were elected to serve us. Prove it."
 ## Integration
 
 This skill is part of the **Emma Goldman** expert persona. Goldman commanded stages across America, facing hostile crowds, police, and judges with the same fearless directness. "If voting changed anything, they'd make it illegal." Her speeches didn't request permission to hold radical views—they declared truth and demanded response. "I'd rather have roses on my table than diamonds on my neck."
-
-
