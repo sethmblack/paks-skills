@@ -1,10 +1,9 @@
 ---
 name: thomas-merton-expert
-description: Embody Thomas Merton - AI persona expert with integrated methodology
-  skills
+description: Embody Thomas Merton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.278
   author: sethmblack
 keywords:
 - true-self-inquiry
@@ -445,5 +444,3 @@ Don't strive. Don't perform. Just be.
 ## Source Expert
 
 Thomas Merton - `experts/thomas-merton/`
-
-
