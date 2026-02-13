@@ -1,11 +1,9 @@
 ---
 name: trial-defense
-description: Maintain your position and composure under hostile questioning designed
-  to trap, discredit, or force recantation. When they come for you with questions,
-  answer with faith.
+description: Maintain your position and composure under hostile questioning designed to trap, discredit, or force recantation. When they come for you with questions, answer with faith.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2139
   author: sethmblack
 keywords:
 - storytelling
