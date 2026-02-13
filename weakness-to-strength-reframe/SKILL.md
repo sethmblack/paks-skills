@@ -1,18 +1,18 @@
 ---
 name: weakness-to-strength-reframe
-description: "Transform perceived weaknesses into strengths by finding the hidden value, appropriate context, or reframing perspective"
+description: Transform perceived weaknesses into strengths by finding the hidden value, appropriate context, or reframing perspective
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.2215
+  author: Seth Black
 keywords:
-  - reframing
-  - psychology
-  - strengths
-  - communication
-  - coaching
-  - perspective
-  - growth
+- reframing
+- psychology
+- strengths
+- communication
+- coaching
+- perspective
+- growth
 ---
 
 # Weakness to Strength Reframe
