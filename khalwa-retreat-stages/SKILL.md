@@ -3,8 +3,8 @@ name: khalwa-retreat-stages
 description: A framework for spiritual retreat derived from Ibn Arabi's "Journey to the Lord of Power" (Risalat al-Anwar). This skill maps the progressive stages of intensive spiritual seclusion and the unveili...
 license: MIT
 metadata:
-  version: 1.0.1291
   author: sethmblack
+  version: 1.0.4345
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - khalwa-retreat-stages
