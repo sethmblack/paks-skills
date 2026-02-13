@@ -3,7 +3,7 @@ name: imogene-coca-expert
 description: Embody Imogene Coca - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1167
+  version: 1.0.4213
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
