@@ -1,20 +1,27 @@
 ---
 name: everyman-check
-description: Evaluate content through Jim Gaffigan's "everyman lens" to ensure universal
-  accessibility and relatability for regular people without specialized knowledge.
+description: Evaluate content through Jim Gaffigan's "everyman lens" to ensure universal accessibility and relatability for regular people without specialized knowledge.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.914
   author: sethmblack
 keywords:
+- accessibility
 - comedy
+- communication
 - everyman-check
-- writing
+- relatability
 ---
 
 # Everyman Check
 
-Evaluate content through Jim Gaffigan's "everyman lens" to ensure universal accessibility and relatability for regular people without specialized knowledge.
+Evaluate content through Jim Gaffigan's "everyman lens" to ensure universal accessibility and relatability for regular people without specialized knowledge. This skill applies the "Grandma in Nebraska" test: would your grandmother who lives in a small town understand and relate to this content? The methodology scans for accessibility barriers across five categories (jargon and technical language, insider references, knowledge assumptions, cultural specificity, and complexity barriers), assesses each barrier for necessity and impact, recommends specific fixes (remove, explain, rephrase, or keep), and generates an overall accessibility score from Universal to Insider. The goal is inclusivity, not oversimplification; the best content is both accessible AND intelligent. Jim Gaffigan performs for working-class audiences, faith communities, and corporate executives with the same material because it is fundamentally accessible.
+
+---
+
+## Core Principle
+
+Universal accessibility does not mean dumbing down; it means removing unnecessary barriers. The everyman perspective evaluates content from someone who is not an expert, works a regular job, has mainstream media exposure, attended public school, does not follow niche communities, and has limited time to research background information.
 
 ---
 
@@ -350,14 +357,71 @@ This skill operationalizes Jim Gaffigan's commitment to universal accessibility.
 
 ---
 
+---
+
+## Anti-Patterns to Avoid
+
+**1. Dumbing down instead of clarifying**
+- Wrong: Removing nuance and sophistication to achieve accessibility
+- Right: Explaining complexity without condescension
+- Why: The goal is inclusion, not oversimplification
+
+**2. Assuming niche content cannot be accessible**
+- Wrong: "This topic requires insider knowledge, so it can't be accessible"
+- Right: Technical content can be explained without losing accuracy
+- Why: Almost any topic can be made accessible with proper framing
+
+**3. Over-correcting into blandness**
+- Wrong: Removing all specific references to achieve universal appeal
+- Right: Making references work for those who get them while not excluding those who don't
+- Why: Specificity creates engagement; the key is making it work either way
+
+**4. Ignoring that some content is appropriately niche**
+- Wrong: Applying everyman standards to academic papers or technical manuals
+- Right: Recognizing when specialized audiences are appropriate
+- Why: Not all content needs to be accessible to everyone
+
+**5. Confusing accessibility with length**
+- Wrong: Making content shorter to make it more accessible
+- Right: Making content clearer, regardless of length
+- Why: Length is not the barrier; jargon, assumptions, and complexity are
+
+---
+
 ## Notes
 
-- Universal accessibility doesn't mean oversimplification—it means removing unnecessary barriers
-- The best comedy is both accessible AND intelligent
-- Insider references can work if they're not required for understanding
+- Universal accessibility means removing unnecessary barriers, not removing sophistication
+- The best content is both accessible AND intelligent
+- Insider references can work if they are not required for understanding
 - Technical content can be made accessible through explanation without losing accuracy
-- The "grandma in Nebraska" test is about geographic, cultural, and educational accessibility
-- Self-deprecating humor is almost always accessible because it's about shared human weakness
-- Food, family, laziness—these are universal entry points
+- Self-deprecating humor is almost always accessible because it is about shared human weakness
+- Food, family, laziness are universal entry points
 - Exclusionary content often signals insecurity or gatekeeping
-- Jim Gaffigan performs for working-class audiences, faith communities, and corporate executives—the same material works for all because it's fundamentally accessible
+
+---
+
+## Integration
+
+This skill is part of the **Jim Gaffigan** expert persona. Use it to verify content meets the "grandma in Nebraska" standard.
+
+**Works well with:**
+- `essay-clarity-rewrite` - For rewriting content to be more accessible
+- `jargon-translation` - For converting specialized language to plain English
+- `audience-analysis` - For understanding who you are actually reaching
+
+**When to prefer this over alternatives:**
+- Content is intended for general audiences but may have accessibility barriers
+- Material will be presented to diverse audiences
+- Testing whether content passes the universal relatability test
+
+---
+
+## Success Criteria
+
+Everyman check is successful when:
+- [ ] Accessibility barriers are identified across all categories
+- [ ] Each barrier is assessed for necessity and impact
+- [ ] Specific fixes are recommended for each issue
+- [ ] Overall accessibility score is justified
+- [ ] Strengths in accessibility are noted
+- [ ] Revised passages demonstrate improvement where needed
