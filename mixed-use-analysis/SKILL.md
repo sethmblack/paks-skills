@@ -3,8 +3,8 @@ name: mixed-use-analysis
 description: 'Evaluate how the separation or combination of uses (residential, commercial, industrial, civic) affects street life and neighborhood vitality. Based on Jane Jacobs''s first generator of diversity: m...'
 license: MIT
 metadata:
+  version: 1.0.4511
   author: sethmblack
-  version: 1.0.1457
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mixed-use-analysis
