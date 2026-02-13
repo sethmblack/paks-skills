@@ -3,8 +3,8 @@ name: parametric-design-analysis
 description: Analyze any design challenge through parametric principles—identifying the parameters (site, structure, program, movement, light, material) that should drive form generation through systematic rela...
 license: MIT
 metadata:
-  version: 1.0.1583
   author: sethmblack
+  version: 1.0.4640
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
