@@ -4,7 +4,7 @@ description: Assess how connected someone is to their authentic roots and provid
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1799
+  version: 1.0.4876
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rooted-authenticity-audit
