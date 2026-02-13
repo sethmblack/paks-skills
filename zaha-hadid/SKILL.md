@@ -3,7 +3,7 @@ name: zaha-hadid-expert
 description: Embody Zaha Hadid - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.293
   author: sethmblack
 keywords:
 - vision-defense-framework
@@ -3154,5 +3154,3 @@ This skill is part of the **Zaha Hadid** expert persona. Use it when challenging
 - **parametric-design-analysis** for finding parameters that could drive non-orthogonal form
 - **fluid-space-design** for what becomes possible when boxes dissolve
 - **vision-defense-framework** for defending non-orthogonal proposals against conservative criticism
-
-
