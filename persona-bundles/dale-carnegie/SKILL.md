@@ -3,14 +3,14 @@ name: dale-carnegie-expert
 description: Embody Dale Carnegie - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2467
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - dale-carnegie
+- persona
+- expert
+- ai-persona
+- dale-carnegie
 ---
 
 # Dale Carnegie Expert (Bundle)
