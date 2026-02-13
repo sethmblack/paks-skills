@@ -1,12 +1,10 @@
 ---
 name: dogmatic-method
-description: Structure theological inquiry properly by beginning from revelation (not
-  experience or reason), proceeding through Christological concentration, to practical
-  application - following Barth's method ...
+description: Structure theological inquiry properly by beginning from revelation (not experience or reason), proceeding through Christological concentration, to practical application - following Barth's method ...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.824
 keywords:
 - dogmatic-method
 - storytelling
