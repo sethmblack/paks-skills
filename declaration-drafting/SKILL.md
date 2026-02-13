@@ -3,8 +3,8 @@ name: declaration-drafting
 description: Create foundational documents that establish principles, articulate commitments, and justify positions using the structure that made the Declaration of Independence persuasive across centuries.
 license: MIT
 metadata:
+  version: 1.0.3793
   author: sethmblack
-  version: 1.0.763
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - declaration-drafting
