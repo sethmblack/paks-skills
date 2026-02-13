@@ -3,8 +3,8 @@ name: control-machine-mapping
 description: A skill for tracing systems of control through need, addiction, and dependence - understanding how power operates through the creation and management of desires.
 license: MIT
 metadata:
-  version: 1.0.3224
   author: sethmblack
+  version: 1.0.3684
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - control-machine-mapping
