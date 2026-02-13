@@ -1,12 +1,10 @@
 ---
 name: becoming-analysis
-description: Reveal how an identity, role, or situation has been constructed rather
-  than discovered—showing that what appears natural and inevitable is actually made,
-  and therefore changeable.
+description: Reveal how an identity, role, or situation has been constructed rather than discovered—showing that what appears natural and inevitable is actually made, and therefore changeable.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.433
 keywords:
 - becoming-analysis
 - storytelling
