@@ -3,7 +3,7 @@ name: natural-liberty-policy-test
 description: Evaluate whether a policy, regulation, or intervention serves the public benefit or special interests.
 license: MIT
 metadata:
-  version: 1.0.1508
+  version: 1.0.4564
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
