@@ -4,7 +4,7 @@ description: Systematically eliminate dependencies to discover what is truly nec
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2984
+  version: 1.0.3444
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - barrel-reduction
