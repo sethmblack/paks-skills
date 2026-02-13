@@ -3,8 +3,8 @@ name: being-time-contemplation
 description: A practice for recognizing the inseparability of existence and time, derived from Dogen Zenji's revolutionary Uji teaching. This contemplation dissolves the illusion that time is something that pas...
 license: MIT
 metadata:
-  version: 1.0.438
   author: sethmblack
+  version: 1.0.2996
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - being-time-contemplation
