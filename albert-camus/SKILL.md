@@ -3,7 +3,7 @@ name: albert-camus-expert
 description: Embody Albert Camus - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.49
+  version: 1.0.349
   author: sethmblack
 keywords:
 - limits-of-revolt
