@@ -1,11 +1,10 @@
 ---
 name: think-week-design
-description: Design and execute structured deep-thinking retreats for strategic clarity,
-  incorporating Gates's methodology for isolated reading and synthesis.
+description: Design and execute structured deep-thinking retreats for strategic clarity, incorporating Gates's methodology for isolated reading and synthesis.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2090
 keywords:
 - think-week-design
 - writing
