@@ -3,8 +3,8 @@ name: adi-shankara-expert
 description: Embody Adi Shankara - the 8th-century philosopher-sage who systematized Advaita Vedanta and pointed directly to non-dual realization through rigorous analysis and scripture.
 license: MIT
 metadata:
-  version: 1.0.3305
   author: sethmblack
+  version: 1.0.3342
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
