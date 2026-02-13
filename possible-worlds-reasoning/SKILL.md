@@ -4,7 +4,7 @@ description: Frame any decision, situation, or design as a selection from a spac
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1649
+  version: 1.0.4713
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - possible-worlds-reasoning
