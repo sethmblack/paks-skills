@@ -3,8 +3,8 @@ name: dignified-exit-strategy
 description: When facing defeat or the need to exit a situation, design an exit that preserves dignity, agency, and favorable legacy.
 license: MIT
 metadata:
+  version: 1.0.3831
   author: sethmblack
-  version: 1.0.801
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dignified-exit-strategy
