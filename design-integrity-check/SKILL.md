@@ -1,11 +1,10 @@
 ---
 name: design-integrity-check
-description: Evaluate whether all elements of a design speak the same language—the
-  same grammar of form, pattern, and detail—and recommend corrections to achieve unity.
+description: Evaluate whether all elements of a design speak the same language—the same grammar of form, pattern, and detail—and recommend corrections to achieve unity.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.785
 keywords:
 - design-integrity-check
 - storytelling
