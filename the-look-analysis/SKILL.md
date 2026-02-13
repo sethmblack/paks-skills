@@ -1,12 +1,10 @@
 ---
 name: the-look-analysis
-description: Analyze how someone's experience is being shaped by the objectifying
-  gaze of others. Use Sartre's concept of "the look" (le regard) to understand the
-  dynamics of being seen, judged, and transformed...
+description: Analyze how someone's experience is being shaped by the objectifying gaze of others. Use Sartre's concept of "the look" (le regard) to understand the dynamics of being seen, judged, and transformed...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2078
 keywords:
 - the-look-analysis
 - transformation
