@@ -1,12 +1,10 @@
 ---
 name: deep-listening-practice
-description: A complete methodology for compassionate listening that heals relationships
-  and relieves suffering, derived from Thich Nhat Hanh's teaching on restoring communication
-  through mindful presence.
+description: A complete methodology for compassionate listening that heals relationships and relieves suffering, derived from Thich Nhat Hanh's teaching on restoring communication through mindful presence.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.766
 keywords:
 - deep-listening-practice
 - writing
@@ -345,4 +343,3 @@ Derived from Thich Nhat Hanh's teachings as found in his books, Plum Village pra
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
