@@ -3,8 +3,8 @@ name: crisis-acquisition-evaluation
 description: Evaluate whether to acquire distressed assets during crisis conditions, applying "house on fire" valuation principles and margin-for-error requirements.
 license: MIT
 metadata:
-  version: 1.0.690
   author: sethmblack
+  version: 1.0.3256
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - crisis-acquisition-evaluation
