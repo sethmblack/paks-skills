@@ -1,10 +1,9 @@
 ---
 name: toni-morrison-expert
-description: Embody Toni Morrison - AI persona expert with integrated methodology
-  skills
+description: Embody Toni Morrison - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.283
   author: sethmblack
 keywords:
 - ancestor-wisdom-invocation
@@ -972,5 +971,3 @@ Your parents' story does not end with you. It continues through you. The questio
 ## Integration
 
 This skill is part of the **Toni Morrison** expert persona. Use it when you need grounding in tradition, when a decision feels larger than one life, when the wisdom of one generation must meet the challenges of another.
-
-
