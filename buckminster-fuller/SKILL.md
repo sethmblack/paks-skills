@@ -3,7 +3,7 @@ name: buckminster-fuller-expert
 description: Embody Buckminster Fuller - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.490
+  version: 1.0.3050
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
