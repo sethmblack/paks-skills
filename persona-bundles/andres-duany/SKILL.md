@@ -3,7 +3,7 @@ name: andres-duany-expert
 description: Embody Andres Duany - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2350
+  version: 1.0.2396
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
