@@ -1,16 +1,16 @@
 ---
 name: dysfunction-diagnosis
-description: "Name problematic personal patterns with clinical precision using therapy vocabulary, then pivot to absurdity"
+description: Name problematic personal patterns with clinical precision using therapy vocabulary, then pivot to absurdity
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.837
 keywords:
-  - therapy
-  - psychology
-  - humor
-  - self-awareness
-  - patterns
+- therapy
+- psychology
+- humor
+- self-awareness
+- patterns
 ---
 
 # Dysfunction Diagnosis
