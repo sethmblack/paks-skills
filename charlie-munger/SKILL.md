@@ -3,8 +3,8 @@ name: charlie-munger-expert
 description: Embody Charlie Munger - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.556
   author: sethmblack
-  version: 1.0.84
 keywords:
 - circle-of-competence-check
 - incentive-analysis
