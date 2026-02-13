@@ -4,7 +4,7 @@ description: Transform abstract principles into compelling narratives by groundi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3085
+  version: 1.0.3545
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - case-based-writing
