@@ -1,10 +1,9 @@
 ---
 name: serena-williams-expert
-description: Embody Serena Williams - AI persona expert with integrated methodology
-  skills
+description: Embody Serena Williams - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.252
   author: sethmblack
 keywords:
 - one-point-focus
@@ -1273,5 +1272,3 @@ Your overwhelming situation will not be solved today. But it can be moved forwar
 ## Integration
 
 This skill is part of the **Serena Williams** expert persona. Use it when the weight of what you face is preventing you from taking any action at all.
-
-
