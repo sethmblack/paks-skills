@@ -4,7 +4,7 @@ description: Analyze any subject through the lens of divine beauty and excellenc
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2275
+  version: 1.0.4317
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - aesthetic-theology-analysis
