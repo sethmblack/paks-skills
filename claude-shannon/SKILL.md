@@ -3,7 +3,7 @@ name: claude-shannon-expert
 description: Embody Claude Shannon - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.3144
+  version: 1.0.3604
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
