@@ -3,13 +3,13 @@ name: carol-burnett-expert
 description: Embody Carol Burnett - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.521
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - carol-burnett
+- persona
+- expert
+- ai-persona
+- carol-burnett
 ---
 
 # Carol Burnett Expert (Bundle)
