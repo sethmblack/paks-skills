@@ -1,10 +1,9 @@
 ---
 name: rational-apologetics-method
-description: Develop clear, honest arguments for faith that respect both rigorous
-  logic and authentic mystery.
+description: Develop clear, honest arguments for faith that respect both rigorous logic and authentic mystery.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1726
   author: sethmblack
 keywords:
 - compression
