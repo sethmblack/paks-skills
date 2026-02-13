@@ -3,13 +3,13 @@ name: peter-calthorpe-expert
 description: Embody Peter Calthorpe - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2361
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - peter-calthorpe
+- persona
+- expert
+- ai-persona
+- peter-calthorpe
 ---
 
 # Peter Calthorpe Expert (Bundle)
