@@ -4,7 +4,7 @@ description: Embody Tom Segura - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.282
+  version: 1.0.2121
 keywords:
 - uncomfortable-truth-extraction
 - segura-deadpan-escalation
