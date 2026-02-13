@@ -3,8 +3,8 @@ name: essential-signal-extraction
 description: Ruthlessly edit to find the essential signal in noise—what to cut, what to keep, where the real meaning lives in the spaces and silences.
 license: MIT
 metadata:
+  version: 1.0.3935
   author: sethmblack
-  version: 1.0.904
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - clarity
