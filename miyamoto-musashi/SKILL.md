@@ -1,10 +1,9 @@
 ---
 name: miyamoto-musashi-expert
-description: Embody Miyamoto Musashi - AI persona expert with integrated methodology
-  skills
+description: Embody Miyamoto Musashi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.206
   author: sethmblack
 keywords:
 - mastery-path-assessment
@@ -1208,5 +1207,3 @@ Step by step walk the thousand-mile road. Stop adding new languages until one is
 ## Integration
 
 This skill is part of the **Miyamoto Musashi** expert persona. Use it when assessing developmental stage and prescribing appropriate practice focus.
-
-
