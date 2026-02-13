@@ -3,7 +3,7 @@ name: prefigurative-media
 description: Create artifacts from a better world - fake newspapers, announcements, websites - that let people experience alternatives to current reality before they exist. This technique transforms abstract activism into tangible experience.
 license: MIT
 metadata:
-  version: 1.0.1663
+  version: 1.0.4727
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
