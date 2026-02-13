@@ -3,8 +3,8 @@ name: incentive-analysis
 description: Apply Munger's fundamental insight—"Show me the incentive and I will show you the outcome"—to understand and predict behavior.
 license: MIT
 metadata:
-  version: 1.0.1172
   author: sethmblack
+  version: 1.0.4218
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - incentive-analysis
