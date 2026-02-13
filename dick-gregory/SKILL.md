@@ -3,7 +3,7 @@ name: dick-gregory-expert
 description: Embody Dick Gregory - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.796
+  version: 1.0.3826
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
