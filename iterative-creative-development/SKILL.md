@@ -4,7 +4,7 @@ description: Guide creative work through progressive refinement stages, preventi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1215
+  version: 1.0.4262
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - iterative-creative-development
