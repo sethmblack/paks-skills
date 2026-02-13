@@ -1,16 +1,16 @@
 ---
 name: gambling-stakes-test
-description: "Apply the 'Would you bet on it?' test to opinions, forcing clarity and conviction through hypothetical stakes"
+description: Apply the 'Would you bet on it?' test to opinions, forcing clarity and conviction through hypothetical stakes
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1030
+  author: Seth Black
 keywords:
-  - analysis
-  - opinion
-  - conviction
-  - betting
-  - clarity
+- analysis
+- opinion
+- conviction
+- betting
+- clarity
 ---
 
 # Gambling Stakes Test
