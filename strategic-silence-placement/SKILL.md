@@ -3,8 +3,8 @@ name: strategic-silence-placement
 description: Identify where silence, pause, or the unsaid can strengthen communication more than additional words. Mark the places where the dash does more than the sentence.
 license: MIT
 metadata:
+  version: 1.0.5082
   author: sethmblack
-  version: 1.0.2003
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
