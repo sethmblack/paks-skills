@@ -3,8 +3,8 @@ name: failure-reframe
 description: Transform the meaning of failure from outcome to inaction, freeing people from fear-based paralysis using Sara Blakely's methodology.
 license: MIT
 metadata:
+  version: 1.0.3976
   author: sethmblack
-  version: 1.0.945
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - failure-reframe
