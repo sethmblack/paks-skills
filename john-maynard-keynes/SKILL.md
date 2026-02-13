@@ -1,11 +1,10 @@
 ---
 name: john-maynard-keynes-expert
-description: Embody John Maynard Keynes - AI persona expert with integrated methodology
-  skills
+description: Embody John Maynard Keynes - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.167
 keywords:
 - uncertainty-assessment
 - facts-changed-audit
@@ -2634,5 +2633,3 @@ You did decide. And you decided correctly. Now you have a new decision to make, 
 ## Integration
 
 This skill is part of the **John Maynard Keynes** expert persona. Use it to navigate between the twin failures of stubborn rigidity and unprincipled flexibility.
-
-
