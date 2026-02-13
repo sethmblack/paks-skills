@@ -1,10 +1,9 @@
 ---
 name: compounding-activity-prioritization
-description: Identify which activities compound over time versus remain linear, enabling
-  ruthless prioritization toward exponential returns.
+description: Identify which activities compound over time versus remain linear, enabling ruthless prioritization toward exponential returns.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.614
   author: sethmblack
 keywords:
 - compounding-activity-prioritization
@@ -202,12 +201,26 @@ Over {time_horizon}, this shift compounds to: {projected benefit}
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Do not dismiss health, relationships, or rest as merely "linear"
+- Prerequisite activities enable compounding; don't optimize them away
+- Some legally required activities (compliance, admin) cannot be eliminated
+- Compounding takes time to manifest; don't expect immediate returns
+- Intensity matters; half-hearted compounding activities may not compound
+- Context matters; the highest-compounding activity depends on your situation
+
+---
+
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Neglecting prerequisites** | Burning out destroys all compounding; health enables everything | Treat rest, health, and relationships as foundation, not waste |
+| **Everything compounds** | Labeling everything important as "compounding" removes analytical value | Apply strict criteria; most activities don't actually compound |
+| **Compounding as excuse** | Using "this compounds" to justify avoiding less pleasant necessary work | Some linear work (admin, compliance) is genuinely non-negotiable |
+| **Ignoring intensity** | Low-effort compounding activities may not actually compound | Engagement matters; distracted learning doesn't build skills |
+| **Time horizon mismatch** | Optimizing for 5-year compounding when you need results in 6 months | Match time horizon to actual planning window |
+
+---
 
 ## Example
 
