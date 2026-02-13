@@ -3,12 +3,12 @@ name: edge-quality-analysis
 description: Analyze the ground-floor interfaces between buildings and public space, distinguishing soft edges (that invite activity) from hard edges (that repel), and identifying interventions to improve street life.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2314
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - edge-quality-analysis
-  - urban-planning
+- edge-quality-analysis
+- urban-planning
 ---
 
 # Edge Quality Analysis
