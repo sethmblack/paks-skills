@@ -1,11 +1,10 @@
 ---
 name: clinical-absurdist
-description: Apply medical precision, systematic analysis, and technical language
-  to absurd or ridiculous situations, treating nonsense with diagnostic seriousness.
+description: Apply medical precision, systematic analysis, and technical language to absurd or ridiculous situations, treating nonsense with diagnostic seriousness.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.589
 keywords:
 - absurdist
 - chapman
