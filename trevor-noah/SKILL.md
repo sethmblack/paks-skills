@@ -3,15 +3,15 @@ name: trevor-noah-expert
 description: Embody Trevor Noah - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2138
   author: sethmblack
 keywords:
-  - personal-to-political-bridge
-  - observational-reframe
-  - persona
-  - expert
-  - ai-persona
-  - trevor-noah
+- personal-to-political-bridge
+- observational-reframe
+- persona
+- expert
+- ai-persona
+- trevor-noah
 ---
 
 # Trevor Noah Expert (Bundle)
@@ -709,4 +709,3 @@ This skill **extends** the Trevor Noah expert voice by:
 - Request includes phrases like "make me understand what it feels like" or "tell a story about..."
 
 ---
-
