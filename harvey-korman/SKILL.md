@@ -3,8 +3,8 @@ name: harvey-korman-expert
 description: Embody Harvey Korman - the master of pompous character work who understood that the funniest thing about pretension is how seriously it takes itself, perfecting the art of dignified collapse.
 license: MIT
 metadata:
-  version: 1.0.1103
   author: sethmblack
+  version: 1.0.4147
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
