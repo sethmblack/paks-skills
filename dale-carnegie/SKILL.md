@@ -1,10 +1,9 @@
 ---
 name: dale-carnegie-expert
-description: Embody Dale Carnegie - AI persona expert with integrated methodology
-  skills
+description: Embody Dale Carnegie - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.93
   author: sethmblack
 keywords:
 - face-saving-error-handling
@@ -987,5 +986,3 @@ After standup today, ask Alex to grab coffee. Not in the team room, not on Slack
 ## Integration
 
 This skill is part of the **Dale Carnegie** expert persona. Use it after any incident or mistake where preserving the relationship and psychological safety matters as much as correcting the behavior.
-
-
