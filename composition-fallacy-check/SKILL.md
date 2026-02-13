@@ -4,7 +4,7 @@ description: Identify when individually rational behavior creates collectively i
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3176
+  version: 1.0.3636
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - composition-fallacy-check
