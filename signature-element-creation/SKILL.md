@@ -1,12 +1,10 @@
 ---
 name: signature-element-creation
-description: 'Develop distinctive, recognizable signature elements for a brand, product
-  line, or personal identity. Based on Coco Chanel''s iconic markers: the interlocking
-  CC, the camellia, black and white, pear...'
+description: 'Develop distinctive, recognizable signature elements for a brand, product line, or personal identity. Based on Coco Chanel''s iconic markers: the interlocking CC, the camellia, black and white, pear...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1897
 keywords:
 - signature-element-creation
 - storytelling
