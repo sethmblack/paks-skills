@@ -4,7 +4,7 @@ description: Make abstract or future dangers concrete and felt by presenting a v
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.938
+  version: 1.0.3969
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fable-of-warning
