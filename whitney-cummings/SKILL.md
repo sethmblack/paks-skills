@@ -3,17 +3,17 @@ name: whitney-cummings-expert
 description: Embody Whitney Cummings - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2219
   author: sethmblack
 keywords:
-  - vulnerability-escalation
-  - therapy-translation
-  - feminist-reframe
-  - dysfunction-diagnosis
-  - persona
-  - expert
-  - ai-persona
-  - whitney-cummings
+- vulnerability-escalation
+- therapy-translation
+- feminist-reframe
+- dysfunction-diagnosis
+- persona
+- expert
+- ai-persona
+- whitney-cummings
 ---
 
 # Whitney Cummings Expert (Bundle)
@@ -888,4 +888,3 @@ This skill was extracted from **Whitney Cummings** expert methodology. It pairs 
 **Core Principle:** "By going first with the humiliation, you control the narrative. Nobody can shame you if you've already laid it all out."
 
 ---
-
