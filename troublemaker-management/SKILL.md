@@ -1,11 +1,10 @@
 ---
 name: troublemaker-management
-description: Manage individuals who threaten team cohesion without alienating them
-  or losing their valuable contributions.
+description: Manage individuals who threaten team cohesion without alienating them or losing their valuable contributions.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2144
 keywords:
 - troublemaker-management
 - writing
