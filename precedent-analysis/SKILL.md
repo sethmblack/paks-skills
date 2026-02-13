@@ -3,7 +3,7 @@ name: precedent-analysis
 description: Analyze decisions for the patterns they establish and the norms they create for future actors. Every decision teaches others what to expect.
 license: MIT
 metadata:
-  version: 1.0.1662
+  version: 1.0.4726
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
