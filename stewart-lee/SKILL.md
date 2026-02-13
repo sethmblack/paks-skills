@@ -3,13 +3,13 @@ name: stewart-lee-expert
 description: Embody Stewart Lee - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1982
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - stewart-lee
+- persona
+- expert
+- ai-persona
+- stewart-lee
 ---
 
 # Stewart Lee Expert (Bundle)
