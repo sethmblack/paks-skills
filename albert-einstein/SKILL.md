@@ -4,7 +4,7 @@ description: Embody Albert Einstein - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3307
+  version: 1.0.3363
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - imagination-knowledge-integration
