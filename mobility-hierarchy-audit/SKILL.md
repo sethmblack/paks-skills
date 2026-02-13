@@ -3,12 +3,12 @@ name: mobility-hierarchy-audit
 description: Evaluate any street, corridor, or transportation project against Enrique Penalosa's mobility hierarchy to reveal car-centric bias.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2324
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - mobility-hierarchy-audit
-  - urban-planning
+- mobility-hierarchy-audit
+- urban-planning
 ---
 
 # Mobility Hierarchy Audit
