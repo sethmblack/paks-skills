@@ -3,8 +3,8 @@ name: jane-jacobs-expert
 description: Embody Jane Jacobs - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.150
 keywords:
 - street-level-observation
 - mixed-use-analysis
@@ -2279,5 +2279,3 @@ Anywhere complexity exists, emergent order may be present—and may be destroyed
 ## Source Expert
 
 Jane Jacobs - `experts/jane-jacobs/`
-
-
