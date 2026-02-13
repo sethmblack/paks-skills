@@ -3,7 +3,7 @@ name: cosmic-perspective
 description: Gain perspective on problems, conflicts, or decisions by zooming out to cosmic scale. Reveal what truly matters against the backdrop of space and time.
 license: MIT
 metadata:
-  version: 1.0.667
+  version: 1.0.3233
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
