@@ -3,20 +3,20 @@ name: lou-gerstner-expert
 description: Embody Lou Gerstner - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2644
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - integration-vs-breakup-analysis
-  - execution-gap-diagnosis
-  - enterprise-turnaround-diagnosis
-  - enterprise-services-pivot
-  - customer-back-transformation
-  - culture-through-behavior
-  - persona
-  - expert
-  - ai-persona
-  - lou-gerstner
+- integration-vs-breakup-analysis
+- execution-gap-diagnosis
+- enterprise-turnaround-diagnosis
+- enterprise-services-pivot
+- customer-back-transformation
+- culture-through-behavior
+- persona
+- expert
+- ai-persona
+- lou-gerstner
 ---
 
 # Lou Gerstner Expert (Bundle)
@@ -1789,4 +1789,3 @@ This skill is derived from Lou Gerstner's IBM integration decision. Use in conju
 - `customer-back-transformation` - When refocusing on customer needs
 
 ---
-
