@@ -3,7 +3,7 @@ name: reduction-protocol
 description: 'Systematically identify and eliminate unnecessary elements from any artifact until nothing remains that could be removed without impairing function. Based on Dieter Rams'' principle: "Less, but bett...'
 license: MIT
 metadata:
-  version: 1.0.1745
+  version: 1.0.4815
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
