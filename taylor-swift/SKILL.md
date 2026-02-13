@@ -3,8 +3,8 @@ name: taylor-swift-expert
 description: Embody Taylor Swift - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.266
 keywords:
 - story-arc-structure
 - specific-universal-transform
@@ -1173,5 +1173,3 @@ They're also probably lying. We're just honest about the journey.
 This skill addresses a specific rhetorical situation (criticism response). For general emotional content, use `specific-universal-transform`. For overall narrative structure of the response, combine with `story-arc-structure`.
 
 **Expert voice:** When invoked by the Taylor Swift expert, channel the "Blank Space" energy—glamorous, self-aware, utterly committed to the bit.
-
-
