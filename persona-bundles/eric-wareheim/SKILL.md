@@ -3,14 +3,14 @@ name: eric-wareheim-expert
 description: Embody Eric Wareheim - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2508
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - eric-wareheim
+- persona
+- expert
+- ai-persona
+- eric-wareheim
 ---
 
 # Eric Wareheim Expert (Bundle)
