@@ -4,7 +4,7 @@ description: Determine whether a constraint is fundamental (physics) or artifici
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1630
+  version: 1.0.4689
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - physics-limit-analysis
