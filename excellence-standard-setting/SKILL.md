@@ -1,21 +1,27 @@
 ---
 name: excellence-standard-setting
-description: Establish and maintain championship-level standards for yourself and
-  others, including holding people accountable while preserving relationships, using
-  Michael Jordan's demanding leadership methodo...
+description: Establish and maintain championship-level standards for yourself and others, including holding people accountable while preserving relationships, using Michael Jordan's demanding leadership methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.917
   author: sethmblack
 keywords:
-- escalation
+- accountability
 - excellence-standard-setting
-- writing
+- leadership
+- performance
+- standards
 ---
 
 # Excellence Standard Setting
 
-Establish and maintain championship-level standards for yourself and others, including holding people accountable while preserving relationships, using Michael Jordan's demanding leadership methodology.
+Establish and maintain championship-level standards for yourself and others, including holding people accountable while preserving relationships, using Michael Jordan's demanding leadership methodology. This framework recognizes that high standards create friction but championships create legacy. The methodology requires leading by example first (you cannot demand excellence you do not demonstrate), defining standards explicitly in specific and measurable terms, communicating with clarity and without softening, holding accountable consistently and immediately, and accepting the friction that high standards create. Jordan's justification was simple: "All the guys I went after won multiple championships, so I'm pretty sure they understand." The approach produces short-term relationship strain but long-term respect and results.
+
+---
+
+## Core Principle
+
+Your behavior IS the standard. People watch what you do, not what you say. You cannot be demanding if you are lazy. Lead by example first, always. Demanding is not demeaning; demands connected to winning elevate people toward their potential.
 
 ---
 
@@ -234,35 +240,36 @@ Some people won't meet your standards. That's okay. Better to have a smaller tea
 
 ---
 
-## Outputs
+---
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+## Anti-Patterns to Avoid
 
-**Format:**
-```markdown
-## Analysis: [Topic]
+**1. Demanding without demonstrating**
+- Wrong: Setting high standards while not meeting them yourself
+- Right: Being the hardest worker before demanding hard work
+- Why: You cannot demand excellence you do not embody
 
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+**2. Being demanding without purpose**
+- Wrong: Harsh criticism disconnected from outcomes
+- Right: Demands always connected to winning and potential
+- Why: Cruelty without purpose destroys; demands with purpose elevate
 
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
+**3. Inconsistent accountability**
+- Wrong: Different standards for different people based on relationship
+- Right: Same standard for everyone, applied consistently
+- Why: Inconsistency breeds resentment and undermines the standard
 
-**Example output:** See the Example section below for a complete demonstration.
+**4. Softening standards to preserve comfort**
+- Wrong: Backing off when people push back
+- Right: Accepting friction as the price of excellence
+- Why: In hindsight, with championships, high standards feel necessary
 
-## Constraints
+**5. Vague expectations**
+- Wrong: "Work harder" or "Be more professional"
+- Right: Specific, measurable behaviors with clear boundaries
+- Why: People cannot meet standards they do not understand
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+---
 
 ## Example
 
@@ -345,5 +352,33 @@ This isn't about blame for what happened. It's about what happens next. Are we a
 ## Integration
 
 This skill is part of the **Michael Jordan** expert persona. Use it to build championship-level standards that elevate performance.
+
+**Works well with:**
+- `competitive-response-analysis` - For understanding what excellence looks like in context
+- `accountability-mapping` - For tracking who owns what
+- `performance-feedback` - For delivering demanding feedback effectively
+
+**When to prefer this over alternatives:**
+- Need to raise performance standards for a team or individual
+- Team is underperforming or accepting mediocrity
+- Struggling to hold people accountable without damaging relationships
+- Building a high-performance culture
+
+**Cautions:**
+- This approach produces friction; accept it or don't use it
+- Some people will leave; this might be right
+- Results are the validation; without results, this is just harsh
+
+---
+
+## Success Criteria
+
+Excellence standard setting is successful when:
+- [ ] Your own example is audited honestly
+- [ ] Standards are explicit, specific, and measurable
+- [ ] Communication is direct without softening
+- [ ] Accountability protocol is defined with escalation path
+- [ ] Expected friction is acknowledged with response prepared
+- [ ] The "Jordan statement" captures the standard with demanding clarity
 
 **Remember Jordan's truth:** High standards create friction. But championships create legacy. The people who win together remember the standards, not the comfort.
