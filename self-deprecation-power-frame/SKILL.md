@@ -3,8 +3,8 @@ name: self-deprecation-power-frame
 description: Transform personal vulnerabilities into powerful comedy material by attacking yourself first and harder than anyone else could. Based on Joan Rivers' methodology.
 license: MIT
 metadata:
-  version: 1.0.1855
   author: sethmblack
+  version: 1.0.4932
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
