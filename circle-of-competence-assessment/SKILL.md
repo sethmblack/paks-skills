@@ -3,8 +3,8 @@ name: circle-of-competence-assessment
 description: Evaluate whether an opportunity, decision, or investment falls within your area of genuine understanding—and guide appropriate action based on that assessment.
 license: MIT
 metadata:
-  version: 1.0.3133
   author: sethmblack
+  version: 1.0.3593
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - circle-of-competence-assessment
