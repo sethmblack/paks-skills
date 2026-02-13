@@ -3,7 +3,7 @@ name: center-of-gravity-identification
 description: '**Expert Origin:** Carl von Clausewitz **Skill Type:** Strategic Analysis Framework **Trigger:** "What should we focus on?" / "We''re spread too thin" / "Where is the decisive point?'
 license: MIT
 metadata:
-  version: 1.0.3094
+  version: 1.0.3554
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
