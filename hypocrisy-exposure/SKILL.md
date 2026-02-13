@@ -4,7 +4,7 @@ description: Make contradictions between stated values and actual behavior impos
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1144
+  version: 1.0.4190
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hypocrisy-exposure
