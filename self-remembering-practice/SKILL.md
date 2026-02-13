@@ -3,8 +3,8 @@ name: self-remembering-practice
 description: Guide the development of divided attention - simultaneous awareness of self and environment/activity.
 license: MIT
 metadata:
-  version: 1.0.1863
   author: sethmblack
+  version: 1.0.4940
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-remembering-practice
