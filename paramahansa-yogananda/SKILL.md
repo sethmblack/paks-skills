@@ -3,8 +3,8 @@ name: paramahansa-yogananda-expert
 description: Embody Paramahansa Yogananda - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.1582
   author: sethmblack
+  version: 1.0.4639
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - willpower-development
