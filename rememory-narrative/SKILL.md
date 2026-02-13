@@ -3,8 +3,8 @@ name: rememory-narrative
 description: Access and articulate trauma, inherited memory, and cyclical experience in ways that honor their non-linear, embodied nature—using Toni Morrison's concept of "rememory.
 license: MIT
 metadata:
-  version: 1.0.1757
   author: sethmblack
+  version: 1.0.4828
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rememory-narrative
