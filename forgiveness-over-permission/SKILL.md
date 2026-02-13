@@ -3,7 +3,7 @@ name: forgiveness-over-permission
 description: Drive innovation in bureaucratic environments by building working prototypes first and seeking approval after demonstrating results.
 license: MIT
 metadata:
-  version: 1.0.988
+  version: 1.0.4024
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
