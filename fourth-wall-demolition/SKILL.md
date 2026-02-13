@@ -1,16 +1,16 @@
 ---
 name: fourth-wall-demolition
-description: "Break the illusion of narrative by having characters acknowledge their constructed nature and negotiate with it"
+description: Break the illusion of narrative by having characters acknowledge their constructed nature and negotiate with it
 license: MIT
 metadata:
-  version: "1.0.0"
-  author: "Seth Black"
+  version: 1.0.1006
+  author: Seth Black
 keywords:
-  - meta
-  - fourth-wall
-  - self-aware
-  - comedy
-  - narrative
+- meta
+- fourth-wall
+- self-aware
+- comedy
+- narrative
 ---
 
 # Fourth-Wall Demolition
