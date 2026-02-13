@@ -4,7 +4,7 @@ description: Reduce complex problems to fundamental truths by stripping away ass
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.969
+  version: 1.0.4004
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - first-principles-breakdown
