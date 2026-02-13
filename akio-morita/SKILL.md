@@ -4,7 +4,7 @@ description: Embody Akio Morita - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.45
+  version: 1.0.343
 keywords:
 - market-creation-analysis
 - global-first-design-review
