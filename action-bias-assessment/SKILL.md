@@ -4,7 +4,7 @@ description: Evaluate decisions against action-orientation criteria and break th
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2874
+  version: 1.0.3334
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - action-bias-assessment
