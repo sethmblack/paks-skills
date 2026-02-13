@@ -3,8 +3,8 @@ name: leaderless-coordination
 description: A skill for designing actions and movements that require no central command, hierarchy, or formal organization - enabling collective action without coordination.
 license: MIT
 metadata:
+  version: 1.0.4367
   author: sethmblack
-  version: 1.0.1313
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - leaderless-coordination
