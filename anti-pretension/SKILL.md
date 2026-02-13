@@ -1,12 +1,10 @@
 ---
 name: anti-pretension
-description: A methodology for identifying and dismantling pretension in writing,
-  thinking, and discourse. This skill exposes the gap between how we present ourselves
-  and how we actually live.
+description: A methodology for identifying and dismantling pretension in writing, thinking, and discourse. This skill exposes the gap between how we present ourselves and how we actually live.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.385
 keywords:
 - anti-pretension
 - comedy
@@ -197,4 +195,3 @@ Pretension is the enemy because it blocks connection. It builds walls between wr
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
