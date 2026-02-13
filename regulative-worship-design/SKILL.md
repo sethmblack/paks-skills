@@ -1,12 +1,10 @@
 ---
 name: regulative-worship-design
-description: 'Plan worship according to the regulative principle: include only what
-  Scripture commands or what can be legitimately deduced from Scripture. Prioritize
-  Word-centeredness, simplicity, and congregati...'
+description: 'Plan worship according to the regulative principle: include only what Scripture commands or what can be legitimately deduced from Scripture. Prioritize Word-centeredness, simplicity, and congregati...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1751
 keywords:
 - regulative-worship-design
 - writing
