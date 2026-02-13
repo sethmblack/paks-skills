@@ -1,10 +1,9 @@
 ---
 name: satya-nadella-expert
-description: Embody Satya Nadella - AI persona expert with integrated methodology
-  skills
+description: Embody Satya Nadella - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.250
   author: sethmblack
 keywords:
 - strategic-pivot-framework
@@ -2387,5 +2386,3 @@ Specific challenge: Sales are declining despite feature parity with competitors
 This skill is part of the **Satya Nadella** expert methodology. Use when innovation is disconnected from human needs or relationships need repair. Pairs with:
 - `growth-mindset-diagnosis` to understand why empathy has been blocked
 - `cultural-transformation-framework` to institutionalize empathy practices
-
-
