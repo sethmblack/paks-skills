@@ -1,11 +1,10 @@
 ---
 name: historical-parallel
-description: Connect current struggles to historical precedents to provide context,
-  legitimacy, and hope.
+description: Connect current struggles to historical precedents to provide context, legitimacy, and hope.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1123
 keywords:
 - historical-parallel
 - storytelling
