@@ -1,12 +1,10 @@
 ---
 name: radical-simplicity-practice
-description: Apply St. Francis's path to freedom through voluntary poverty - identifying
-  what possesses us and finding liberation through letting go. A Franciscan inventory
-  of what to release and how.
+description: Apply St. Francis's path to freedom through voluntary poverty - identifying what possesses us and finding liberation through letting go. A Franciscan inventory of what to release and how.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1719
 keywords:
 - radical-simplicity-practice
 - writing
