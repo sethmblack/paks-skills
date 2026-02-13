@@ -4,7 +4,7 @@ description: Embody Vincent Van Gogh - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.285
+  version: 1.0.2185
 keywords:
 - persistence-through-struggle
 - overlooked-beauty-discovery
