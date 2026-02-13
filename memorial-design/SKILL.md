@@ -3,8 +3,8 @@ name: memorial-design
 description: A skill for creating works that transform statistics into individual human presence, making the abstract personal and preventing erasure through commemoration.
 license: MIT
 metadata:
-  version: 1.0.1425
   author: sethmblack
+  version: 1.0.4479
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - memorial-design
