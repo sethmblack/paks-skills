@@ -3,8 +3,8 @@ name: emily-dickinson-expert
 description: Embody Emily Dickinson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.107
   author: sethmblack
+  version: 1.0.862
 keywords:
 - poetic-personification
 - concrete-abstraction
