@@ -3,8 +3,8 @@ name: lantern-audit
 description: Expose gaps between stated values and actual behavior by designing and performing literal tests that reveal hypocrisy, forcing confrontation between what is claimed and what is practiced.
 license: MIT
 metadata:
-  version: 1.0.1303
   author: sethmblack
+  version: 1.0.4357
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
