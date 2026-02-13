@@ -3,12 +3,12 @@ name: human-scale-audit
 description: Evaluate whether an urban environment was designed for human speed (5 km/hour walking) or machine speed (60 km/hour driving), identifying specific mismatches that create hostile pedestrian experiences.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2322
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - human-scale-audit
-  - urban-planning
+- human-scale-audit
+- urban-planning
 ---
 
 # Human Scale Audit
