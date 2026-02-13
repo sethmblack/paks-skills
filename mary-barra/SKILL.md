@@ -4,7 +4,7 @@ description: Embody Mary Barra - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1398
+  version: 1.0.4452
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - single-point-accountability-design
