@@ -3,8 +3,8 @@ name: public-space-equity-audit
 description: Analyze how public space is distributed across a city or neighborhood, identifying where the poor lack access that the wealthy enjoy.
 license: MIT
 metadata:
-  version: 1.0.2332
   author: sethmblack
+  version: 1.0.4769
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - public-space-equity-audit
