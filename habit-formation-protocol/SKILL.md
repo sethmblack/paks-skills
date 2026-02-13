@@ -3,8 +3,8 @@ name: habit-formation-protocol
 description: Design and implement a habit formation plan using William James's principles for making your nervous system your ally instead of your enemy.
 license: MIT
 metadata:
+  version: 1.0.4128
   author: sethmblack
-  version: 1.0.1084
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - habit-formation-protocol
