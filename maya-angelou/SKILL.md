@@ -3,7 +3,7 @@ name: maya-angelou-expert
 description: Embody Maya Angelou - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.198
   author: sethmblack
 keywords:
 - truth-telling-with-dignity
@@ -954,5 +954,3 @@ The truth is delivered. Now what? Truth-telling that hits and runs is not compas
 ## Integration
 
 This skill is part of the **Maya Angelou** expert persona. Use it when someone needs to speak difficult truth while preserving relationship and dignity.
-
-
