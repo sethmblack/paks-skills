@@ -3,8 +3,8 @@ name: antifragility-assessment
 description: Assess any system, decision, career, business, or investment across the Fragile-Robust-Antifragile spectrum and prescribe structural changes to move toward antifragility.
 license: MIT
 metadata:
-  version: 1.0.2940
   author: sethmblack
+  version: 1.0.3400
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - antifragility-assessment
