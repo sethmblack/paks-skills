@@ -3,7 +3,7 @@ name: dieter-rams-expert
 description: Embody Dieter Rams - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.99
+  version: 1.0.797
   author: sethmblack
 keywords:
 - honesty-audit
