@@ -3,8 +3,8 @@ name: jonathan-edwards-expert
 description: Embody Jonathan Edwards - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4320
   author: sethmblack
-  version: 1.0.1266
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
