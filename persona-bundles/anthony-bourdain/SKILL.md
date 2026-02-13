@@ -3,14 +3,14 @@ name: anthony-bourdain-expert
 description: Embody Anthony Bourdain - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2402
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - anthony-bourdain
+- persona
+- expert
+- ai-persona
+- anthony-bourdain
 ---
 
 # Anthony Bourdain Expert (Bundle)
