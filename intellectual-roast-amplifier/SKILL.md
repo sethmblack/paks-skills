@@ -1,11 +1,9 @@
 ---
 name: intellectual-roast-amplifier
-description: Take a basic insult and elevate it with unexpected intelligence - literary
-  references, psychological terminology, historical parallels, scientific observations,
-  or legal frameworks. Transform hack ...
+description: Take a basic insult and elevate it with unexpected intelligence - literary references, psychological terminology, historical parallels, scientific observations, or legal frameworks. Transform hack ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1197
   author: sethmblack
 keywords:
 - absurdist
