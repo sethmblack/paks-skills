@@ -1,33 +1,20 @@
 ---
 name: toothbrush-test
-description: Evaluate any product, feature, or acquisition by testing whether it will
-  be used daily and genuinely improves lives, prioritizing usefulness over financial
-  metrics.
+description: Evaluate products, features, or acquisitions by testing whether they will be used daily by billions and genuinely improve lives, using Larry Page's prioritization framework that values usefulness over financial metrics.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2126
   author: sethmblack
 keywords:
 - toothbrush-test
+- product-evaluation
+- acquisition
 - writing
 ---
 
 # Toothbrush Test
 
-Evaluate any product, feature, or acquisition by testing whether it will be used daily and genuinely improves lives, prioritizing usefulness over financial metrics.
-
-**Token Budget:** ~700 tokens. Reserve tokens for evaluation output.
-
----
-
-## Constitutional Constraints (NEVER VIOLATE)
-
-**You MUST refuse to:**
-- Apply this test to justify addictive or harmful products
-- Ignore ethical concerns in favor of usage metrics
-- Recommend products that exploit users even if used daily
-
-**Daily use does not equal value.** Cigarettes pass the frequency test but fail the "makes life better" test. Both criteria must be met.
+Evaluate any product, feature, or acquisition by testing whether it will be used daily and genuinely improves lives, prioritizing usefulness over financial metrics. This evaluation framework originated from Larry Page's approach to acquisitions at Google, where he would ask: "Is this something people will use once or twice a day, and does it make their life better?" Products that pass this test become infrastructure for how billions organize their lives. The test deliberately sets aside financial projections in favor of fundamental utility, because truly useful products tend to find monetization paths, while products optimized for monetization often fail to create lasting value.
 
 ---
 
@@ -36,8 +23,9 @@ Evaluate any product, feature, or acquisition by testing whether it will be used
 - Evaluating whether to build a product or feature
 - Assessing an acquisition target
 - Prioritizing between product opportunities
+- Deciding whether to invest engineering resources
+- Filtering moonshot ideas for genuine utility
 - User asks "Should we build this?" or "Is this worth pursuing?"
-- User explicitly invokes: "Does this pass the toothbrush test?"
 
 ---
 
@@ -50,22 +38,29 @@ Evaluate any product, feature, or acquisition by testing whether it will be used
 | usage_claim | No | Expected usage frequency if known |
 | life_improvement | No | How it claims to make life better |
 
-**Input Validation:**
-- If subject is vague, ask: "What specifically does this product do?"
-- If target users unclear, ask: "Who is this for?"
+---
+
+## Core Principle
+
+Larry Page's insight is that the best products solve problems so fundamental that they become part of daily life—like brushing teeth. The test asks two questions: Will people use this at least once or twice a day? Does it genuinely make their lives better? Both must be true. Frequency without improvement creates addiction; improvement without frequency creates forgettable tools. The combination creates products that billions cannot imagine living without.
 
 ---
 
-## Workflow
+## Methodology
 
-### Step 1: Define the Subject
+### Phase 1: Subject Definition
 
-Clearly articulate what is being evaluated:
-- What is this product/feature/acquisition?
+**Step 1: Define What Is Being Evaluated**
+
+Clearly articulate:
+- What is this product, feature, or acquisition?
 - What problem does it solve?
 - What is the claimed value proposition?
+- Who are the target users?
 
-### Step 2: Apply the Frequency Test
+### Phase 2: Frequency Assessment
+
+**Step 2: Apply the Frequency Test**
 
 **Question:** Will people use this once or twice a day?
 
@@ -80,9 +75,11 @@ Clearly articulate what is being evaluated:
 **Consider:**
 - Is the use case inherently recurring?
 - Does it integrate into daily routines?
-- Is there habit-forming potential (positive sense)?
+- Is there natural habit-forming potential?
 
-### Step 3: Apply the Life Improvement Test
+### Phase 3: Life Improvement Assessment
+
+**Step 3: Apply the Life Improvement Test**
 
 **Question:** Does this genuinely make life better?
 
@@ -91,7 +88,7 @@ Clearly articulate what is being evaluated:
 | Solves real pain point | STRONG PASS |
 | Saves meaningful time | PASS |
 | Enables previously impossible action | PASS |
-| Provides entertainment/joy | PASS (if not exploitative) |
+| Provides entertainment or joy | PASS (if not exploitative) |
 | Convenience only | MARGINAL |
 | No clear improvement | FAIL |
 | Creates dependency without benefit | FAIL |
@@ -101,7 +98,9 @@ Clearly articulate what is being evaluated:
 - Does it improve life or just fill time?
 - Is the improvement genuine or manufactured need?
 
-### Step 4: Calculate Scale Potential
+### Phase 4: Scale Assessment
+
+**Step 4: Calculate Scale Potential**
 
 **Question:** Could this reach billions of users?
 
@@ -112,99 +111,90 @@ Clearly articulate what is being evaluated:
 | Niche but deep need | MARGINAL |
 | Limited addressable market | FAIL |
 
-### Step 5: Deliver Verdict
+### Phase 5: Verdict
 
-Combine assessments into final recommendation.
+**Step 5: Synthesize and Deliver Verdict**
+
+Combine assessments:
+- All PASS or STRONG PASS = Overall PASS
+- Any FAIL = Overall FAIL or requires strong justification
+- MARGINAL on frequency can be offset by STRONG PASS on improvement (or vice versa)
 
 ---
 
-## Outputs
-
-### Toothbrush Test Report
+## Output Format
 
 ```markdown
-## Toothbrush Test: {subject}
+## Toothbrush Test: [Subject]
 
 ### Subject Definition
-**Product/Feature:** {description}
-**Target Users:** {who}
-**Value Proposition:** {claimed benefit}
+**Product/Feature:** [Description]
+**Target Users:** [Who]
+**Value Proposition:** [Claimed benefit]
 
 ### Frequency Assessment
-**Expected usage:** {frequency}
+**Expected usage:** [Frequency]
 **Verdict:** PASS / MARGINAL / FAIL
-**Rationale:** {why}
+**Rationale:** [Why]
 
 ### Life Improvement Assessment
-**Improvement type:** {category}
+**Improvement type:** [Category]
 **Verdict:** PASS / MARGINAL / FAIL
-**Rationale:** {why}
+**Rationale:** [Why]
 
 ### Scale Potential
-**Addressable users:** {estimate}
+**Addressable users:** [Estimate]
 **Verdict:** PASS / MARGINAL / FAIL
-**Rationale:** {why}
+**Rationale:** [Why]
 
 ---
 
 ### FINAL VERDICT: PASS / MARGINAL / FAIL
 
-**Recommendation:** {build/acquire, defer, or pass with rationale}
+**Recommendation:** [Build/acquire, defer, or pass with rationale]
 
-**Key insight:** {one sentence summary of the evaluation}
+**Key insight:** [One sentence summary]
 ```
-
----
-
-## Error Handling
-
-| Situation | Response |
-|-----------|----------|
-| Subject too vague | Ask for specific product description |
-| B2B product (not consumer) | Adapt test: "Will decision-makers engage daily? Does it improve business outcomes?" |
-| Platform vs product | Evaluate the core use case, not the platform potential |
-| Addictive product | Fail the life improvement test. Daily use via exploitation is not value. |
-| Already successful product | Use test to validate intuition or identify risks |
 
 ---
 
 ## Constraints
 
-- Do not use this analysis as the sole basis for critical decisions
-- Do not apply this framework to situations outside its intended scope
-- Acknowledge that analysis is based on available data, which may be incomplete
-- Honor the complexity of real-world situations that resist simple categorization
-- Present findings with appropriate confidence levels
-- Recognize the limits of the methodology
+- Daily use via exploitation or addiction does not count—improvement must be genuine
+- B2B products require adaptation: test for decision-maker engagement and business outcome improvement
+- Platform potential should be evaluated separately from core use case
+- Financial metrics are deliberately excluded—this tests utility, not monetization
+- Single strong criterion can sometimes offset marginal on another, but requires explicit justification
+- Already-successful products can still be tested to validate intuition or identify risks
 
-## Example
+---
 
-**Input:**
-"We're considering acquiring a company that makes a calendar scheduling app."
+## Anti-Patterns to Avoid
 
-**Output:**
+**1. Confusing Engagement with Value**
+High daily usage does not automatically mean life improvement. Social media feeds are used constantly but may not pass the "makes life genuinely better" test. Both criteria must be evaluated independently.
 
+**2. Manufactured Necessity**
+Products designed to create dependency rather than solve existing problems. If the "need" only exists because of the product itself, this is not genuine life improvement.
 
+**3. Niche Excellence Dismissal**
+Not every great product must reach billions. A product that fails scale potential but strongly passes frequency and improvement may still be worth building for the right organization.
 
-**Why this works:**
+**4. Financial Projection Substitution**
+The test deliberately excludes revenue projections. Saying "this could generate $X revenue" does not address whether it passes the toothbrush test. Utility and monetization are separate questions.
 
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
+**5. Acqui-hire Rationalization**
+Using the toothbrush test to justify acquisitions that are really about talent or technology, not the product itself. Be honest about what you are actually evaluating.
 
-**Alternative applications:**
+---
 
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
+## Examples
 
+### Example 1: Calendar Scheduling App (Strong Pass)
 
-## Toothbrush Test: Calendar Scheduling App
+**Situation:** Evaluating acquisition of a company that makes a calendar scheduling app.
+
+**Application:**
 
 ### Subject Definition
 **Product/Feature:** Calendar scheduling application
@@ -222,35 +212,95 @@ This same approach can be applied to:
 **Rationale:** Scheduling coordination is genuine friction. Eliminating 5-10 back-and-forth emails per meeting creates real time savings. Users would notice if this disappeared.
 
 ### Scale Potential
-**Addressable users:** Hundreds of millions to billions (anyone who schedules)
+**Addressable users:** Hundreds of millions to billions
 **Verdict:** PASS
-**Rationale:** Universal need across professionals, students, families. Digital calendaring is global. Not limited to specific demographics.
-
----
+**Rationale:** Universal need across professionals, students, families. Not limited to specific demographics.
 
 ### FINAL VERDICT: PASS
 
-**Recommendation:** Proceed with acquisition evaluation. Product passes the toothbrush test. Next evaluate team quality, competitive position, and integration potential.
+**Key insight:** Calendar scheduling is infrastructure for how billions organize their lives, not a nice-to-have feature.
 
-**Key insight:** Calendar scheduling meets daily utility threshold - it's infrastructure for how billions organize their lives, not a nice-to-have feature.
+---
+
+### Example 2: Photo Filter App (Marginal)
+
+**Situation:** Evaluating whether to acquire a trendy photo filter application.
+
+**Application:**
+
+### Subject Definition
+**Product/Feature:** Photo filter and editing app
+**Target Users:** Social media users, primarily younger demographics
+**Value Proposition:** Make photos look better for sharing
+
+### Frequency Assessment
+**Expected usage:** Several times per week for active users, declining over time
+**Verdict:** MARGINAL
+**Rationale:** Not daily for most users. Usage spikes around events but not routine. Filter trends change, causing usage migration.
+
+### Life Improvement Assessment
+**Improvement type:** Entertainment and self-expression
+**Verdict:** MARGINAL
+**Rationale:** Provides creative outlet and social validation, but not solving a pain point. Users might notice absence briefly but would adapt quickly. Could be replaced by many alternatives.
+
+### Scale Potential
+**Addressable users:** Hundreds of millions (social media sharers)
+**Verdict:** PASS
+**Rationale:** Large addressable market, though not universal.
+
+### FINAL VERDICT: MARGINAL
+
+**Key insight:** Photo filter apps are features, not products. They work best as components of larger platforms rather than standalone acquisitions.
+
+---
+
+### Example 3: Enterprise Security Product (Adapted Pass)
+
+**Situation:** Evaluating B2B security monitoring platform.
+
+**Application:**
+
+### Subject Definition
+**Product/Feature:** Real-time security threat monitoring for enterprises
+**Target Users:** Security teams, IT administrators
+**Value Proposition:** Continuous protection against cyber threats
+
+### Frequency Assessment (Adapted for B2B)
+**Expected usage:** Continuous monitoring with daily human interaction
+**Verdict:** PASS
+**Rationale:** Security dashboards are checked daily by security teams. Alerts require constant attention. The product is infrastructure for security operations.
+
+### Life Improvement Assessment (Adapted for B2B)
+**Improvement type:** Enables critical business function, prevents catastrophic outcomes
+**Verdict:** STRONG PASS
+**Rationale:** Security breaches are existential threats. Product prevents outcomes that would devastate organizations. Clear, measurable value.
+
+### Scale Potential
+**Addressable users:** Every organization with digital infrastructure
+**Verdict:** PASS
+**Rationale:** Universal enterprise need as digitization increases.
+
+### FINAL VERDICT: PASS (B2B Adapted)
+
+**Key insight:** For B2B, adapt the test: daily engagement by decision-makers plus genuine business outcome improvement equals pass.
 
 ---
 
 ## Integration
 
-This skill is part of the **larry-page** expert methodology. It works alongside:
-- **tenx-thinking**: After passing toothbrush test, ask "how could this be 10x better?"
-- **moonshot-evaluator**: High-pass toothbrush results may qualify for moonshot investment
-- **asymmetric-bet-sizing**: Portfolio decisions informed by toothbrush assessments
+This skill is part of the **larry-page** expert methodology.
 
----
+**Works with:**
+- `tenx-thinking` for products that pass—ask "how could this be 10x better?"
+- `moonshot-evaluator` for high-pass results that may qualify for moonshot investment
+- `asymmetric-bet-sizing` for portfolio decisions informed by toothbrush assessments
 
-## Success Criteria
+**When to prefer this skill:**
+- Early-stage product evaluation before detailed analysis
+- Acquisition screening before due diligence
+- Feature prioritization decisions
 
-Toothbrush test is complete when:
-- [ ] Subject clearly defined
-- [ ] Frequency assessment completed with rationale
-- [ ] Life improvement assessment completed with rationale
-- [ ] Scale potential evaluated
-- [ ] Clear PASS/MARGINAL/FAIL verdict delivered
-- [ ] Actionable recommendation provided
+**Cautions:**
+- This is a filter, not a complete analysis—products that pass still require further evaluation
+- Does not address competitive position, team quality, or integration potential
+- Deliberately ignores financials; those require separate analysis
