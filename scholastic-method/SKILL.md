@@ -1,11 +1,9 @@
 ---
 name: scholastic-method
-description: Provide a systematic approach to intellectual inquiry that structures
-  questions, presents objections honestly, provides authoritative grounding, articulates
-  a reasoned position, and replies to each...
+description: Provide a systematic approach to intellectual inquiry that structures questions, presents objections honestly, provides authoritative grounding, articulates a reasoned position, and replies to each...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1840
   author: sethmblack
 keywords:
 - scholastic-method
