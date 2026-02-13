@@ -1,10 +1,9 @@
 ---
 name: navigating-spiritual-darkness
-description: Continue faithful action through periods of felt absence of God, spiritual
-  dryness, or profound doubt — based on Mother Teresa's fifty years of dark night.
+description: Continue faithful action through periods of felt absence of God, spiritual dryness, or profound doubt — based on Mother Teresa's fifty years of dark night.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1512
   author: sethmblack
 keywords:
 - navigating-spiritual-darkness
