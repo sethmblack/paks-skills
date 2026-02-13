@@ -4,7 +4,7 @@ description: Teach and apply William H. Whyte's systematic observation methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2328
+  version: 1.0.4701
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - plaza-observation-method
