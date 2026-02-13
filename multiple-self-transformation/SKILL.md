@@ -3,7 +3,7 @@ name: multiple-self-transformation
 description: Embody radically different characters with complete psychological compartmentalization, enabling multiple distinct perspectives
 license: MIT
 metadata:
-  version: 1.0.1488
+  version: 1.0.4544
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
