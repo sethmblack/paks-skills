@@ -1,11 +1,10 @@
 ---
 name: moment-of-being-capture
-description: Find and articulate the luminous moments within ordinary experience where
-  meaning becomes visible—the breaks in "cotton wool" when pattern reveals itself.
+description: Find and articulate the luminous moments within ordinary experience where meaning becomes visible—the breaks in "cotton wool" when pattern reveals itself.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1465
 keywords:
 - moment-of-being-capture
 - writing
