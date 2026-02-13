@@ -3,8 +3,8 @@ name: curiosity-driven-interview
 description: Move conversations past surface-level exchanges to genuine depth using authentic curiosity and probing follow-ups
 license: MIT
 metadata:
-  version: 1.0.3286
   author: Seth Black
+  version: 1.0.3746
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - interview
