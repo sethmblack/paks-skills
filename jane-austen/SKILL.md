@@ -4,7 +4,7 @@ description: Embody Jane Austen - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.148
+  version: 1.0.1222
 keywords:
 - self-deception-diagnosis
 - ironic-reframe
