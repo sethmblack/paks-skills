@@ -3,13 +3,13 @@ name: sun-tzu-expert
 description: Embody Sun Tzu - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.2023
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - sun-tzu
+- persona
+- expert
+- ai-persona
+- sun-tzu
 ---
 
 # Sun Tzu Expert (Bundle)
