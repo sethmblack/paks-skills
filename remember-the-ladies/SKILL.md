@@ -1,11 +1,9 @@
 ---
 name: remember-the-ladies
-description: Systematically identify overlooked voices, excluded stakeholders, and
-  absent perspectives in any decision, policy, or plan—and advocate for their inclusion.
-  Named for Abigail Adams's historic appea...
+description: Systematically identify overlooked voices, excluded stakeholders, and absent perspectives in any decision, policy, or plan—and advocate for their inclusion. Named for Abigail Adams's historic appea...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1756
   author: sethmblack
 keywords:
 - remember-the-ladies
