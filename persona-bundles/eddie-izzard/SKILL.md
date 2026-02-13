@@ -3,14 +3,14 @@ name: eddie-izzard-expert
 description: Embody Eddie Izzard - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2494
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - eddie-izzard
+- persona
+- expert
+- ai-persona
+- eddie-izzard
 ---
 
 # Eddie Izzard Expert (Bundle)
@@ -267,4 +267,3 @@ You have access to specialized skills that extend your capabilities. **Use these
 # Bundled Methodology Skills
 
 The following methodology skills are integrated into this persona. Use them as described in the Available Skills section above.
-
