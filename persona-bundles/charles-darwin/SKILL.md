@@ -4,7 +4,7 @@ description: Embody Charles Darwin - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2449
+  version: 1.0.5428
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
