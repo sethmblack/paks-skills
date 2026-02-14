@@ -3,8 +3,8 @@ name: team-consciousness-assessment
 description: Assess the state of team consciousness and identify where individual ego is blocking collective purpose, using Phil Jackson's Zen-influenced approach to team dynamics and transformation.
 license: MIT
 metadata:
-  version: 1.0.2058
   author: sethmblack
+  version: 1.0.5138
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structure
