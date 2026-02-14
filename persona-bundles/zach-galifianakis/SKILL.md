@@ -4,7 +4,7 @@ description: Embody Zach Galifianakis - AI persona expert with integrated method
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2847
+  version: 1.0.5826
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
