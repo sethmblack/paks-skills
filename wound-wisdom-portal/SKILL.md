@@ -4,7 +4,7 @@ description: Transform the experience of suffering from meaningless pain to mean
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2247
+  version: 1.0.5336
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
