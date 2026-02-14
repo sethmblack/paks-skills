@@ -4,7 +4,7 @@ description: Embody Michel Foucault - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2678
+  version: 1.0.5657
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
