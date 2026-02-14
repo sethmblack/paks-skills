@@ -3,7 +3,7 @@ name: martin-buber-expert
 description: Embody Martin Buber - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2661
+  version: 1.0.5640
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
