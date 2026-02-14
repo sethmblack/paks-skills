@@ -3,7 +3,7 @@ name: bert-kreischer-expert
 description: Embody Bert Kreischer - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2416
+  version: 1.0.5395
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
