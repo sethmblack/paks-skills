@@ -4,7 +4,7 @@ description: Embody Leslie Nielsen - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2643
+  version: 1.0.5622
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
