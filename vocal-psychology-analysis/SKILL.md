@@ -3,8 +3,8 @@ name: vocal-psychology-analysis
 description: Analyze how someone speaks to reveal what they're protecting, aspiring to, or unconsciously signaling about status and identity
 license: MIT
 metadata:
-  version: 1.0.2202
   author: Seth Black
+  version: 1.0.5288
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - psychology
