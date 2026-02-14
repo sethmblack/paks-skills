@@ -3,7 +3,7 @@ name: succession-planning
 description: Develop and execute leadership transition plans that establish positive precedent and ensure organizational continuity.
 license: MIT
 metadata:
-  version: 1.0.2019
+  version: 1.0.5099
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
