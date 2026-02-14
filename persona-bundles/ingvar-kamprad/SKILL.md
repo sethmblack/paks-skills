@@ -4,7 +4,7 @@ description: Embody Ingvar Kamprad - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2565
+  version: 1.0.5544
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - smaland-simplification
