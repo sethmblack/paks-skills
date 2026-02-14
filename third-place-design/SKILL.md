@@ -4,7 +4,7 @@ description: Design physical and digital spaces that create emotional belonging 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2092
+  version: 1.0.5172
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - third-place-design
