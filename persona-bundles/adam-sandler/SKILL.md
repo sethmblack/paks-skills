@@ -3,7 +3,7 @@ name: adam-sandler-expert
 description: Embody Adam Sandler - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2375
+  version: 1.0.5354
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
