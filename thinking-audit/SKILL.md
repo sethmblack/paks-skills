@@ -3,7 +3,7 @@ name: thinking-audit
 description: Assess whether genuine thinking is occurring or whether cliches, rules, and stock phrases have replaced reflection, using Hannah Arendt's analysis of thinking as the internal dialogue of the self with itself.
 license: MIT
 metadata:
-  version: 1.0.2091
+  version: 1.0.5171
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
