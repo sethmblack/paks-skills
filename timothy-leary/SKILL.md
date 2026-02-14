@@ -3,7 +3,7 @@ name: timothy-leary-expert
 description: Embody Timothy Leary - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2115
+  version: 1.0.5196
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
