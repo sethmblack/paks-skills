@@ -4,7 +4,7 @@ description: Embody John Locke - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2603
+  version: 1.0.5582
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - toleration-framework
