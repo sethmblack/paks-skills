@@ -3,7 +3,7 @@ name: visual-comedy-diagram
 description: Convert concepts into visual diagrams (Venn diagrams, pie charts, graphs, bar charts) that reveal absurdity through literal representation. Inspired by Demetri Martin's visual comedy technique.
 license: MIT
 metadata:
-  version: 1.0.2195
+  version: 1.0.5281
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
