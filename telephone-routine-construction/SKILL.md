@@ -3,7 +3,7 @@ name: telephone-routine-construction
 description: Transform any topic into a one-sided phone conversation that reveals character through reactions, pauses, and invisible dialogue
 license: MIT
 metadata:
-  version: 1.0.2065
+  version: 1.0.5145
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
