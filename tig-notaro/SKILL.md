@@ -4,7 +4,7 @@ description: Embody Tig Notaro - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2106
+  version: 1.0.5187
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
