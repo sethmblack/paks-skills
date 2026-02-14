@@ -3,8 +3,8 @@ name: stuart-russell-expert
 description: Embody Stuart Russell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5095
   author: sethmblack
-  version: 1.0.2015
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - off-switch-test
