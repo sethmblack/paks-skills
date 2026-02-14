@@ -3,7 +3,7 @@ name: alexander-hamilton-expert
 description: Embody Alexander Hamilton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2388
+  version: 1.0.5367
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
