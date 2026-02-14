@@ -3,8 +3,8 @@ name: will-to-believe-assessment
 description: Determine whether a decision qualifies as a "genuine option" where faith-based commitment is epistemically legitimate despite incomplete evidence.
 license: MIT
 metadata:
-  version: 1.0.2225
   author: sethmblack
+  version: 1.0.5314
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - will-to-believe-assessment
