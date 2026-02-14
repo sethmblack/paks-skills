@@ -3,8 +3,8 @@ name: ten-principles-audit
 description: Systematically evaluate any design, product, process, or artifact against Dieter Rams' Ten Principles of Good Design to identify specific improvements.
 license: MIT
 metadata:
+  version: 1.0.5147
   author: sethmblack
-  version: 1.0.2067
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ten-principles-audit
