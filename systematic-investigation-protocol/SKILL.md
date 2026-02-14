@@ -3,7 +3,7 @@ name: systematic-investigation-protocol
 description: Design a rigorous investigation process for any research question or problem, following Marie Curie's measurement-controlled method that led to the discovery of radium.
 license: MIT
 metadata:
-  version: 1.0.2043
+  version: 1.0.5123
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
