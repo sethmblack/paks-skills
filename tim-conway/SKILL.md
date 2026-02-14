@@ -3,7 +3,7 @@ name: tim-conway-expert
 description: Embody Tim Conway - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2107
+  version: 1.0.5188
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
