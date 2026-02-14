@@ -4,7 +4,7 @@ description: Convert potentially edgy or divisive humor into family-friendly com
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2220
+  version: 1.0.5309
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
