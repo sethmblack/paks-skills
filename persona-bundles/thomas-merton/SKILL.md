@@ -4,7 +4,7 @@ description: Embody Thomas Merton - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2815
+  version: 1.0.5794
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - true-self-inquiry
