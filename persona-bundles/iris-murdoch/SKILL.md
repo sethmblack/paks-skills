@@ -3,8 +3,8 @@ name: iris-murdoch-expert
 description: Embody Iris Murdoch - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2566
   author: sethmblack
+  version: 1.0.5545
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - unselfing-intervention
