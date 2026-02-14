@@ -4,7 +4,7 @@ description: Embody Walt Disney - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2834
+  version: 1.0.5813
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
