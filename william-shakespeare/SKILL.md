@@ -3,8 +3,8 @@ name: william-shakespeare-expert
 description: Embody William Shakespeare - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2228
   author: sethmblack
+  version: 1.0.5317
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - soliloquy-construction
