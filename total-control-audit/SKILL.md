@@ -4,7 +4,7 @@ description: Identify where control has been surrendered to convention, assumpti
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2128
+  version: 1.0.5209
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
