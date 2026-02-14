@@ -4,7 +4,7 @@ description: Embody Patrick Collison - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2710
+  version: 1.0.5689
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - trapdoor-decision-filter
