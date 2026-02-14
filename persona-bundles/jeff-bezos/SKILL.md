@@ -3,8 +3,8 @@ name: jeff-bezos-expert
 description: Embody Jeff Bezos - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5559
   author: sethmblack
-  version: 1.0.2580
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - working-backwards-prfaq
