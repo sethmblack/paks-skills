@@ -3,8 +3,8 @@ name: jane-goodall-expert
 description: Embody Jane Goodall - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5555
   author: sethmblack
-  version: 1.0.2576
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - roots-shoots-action-planning
