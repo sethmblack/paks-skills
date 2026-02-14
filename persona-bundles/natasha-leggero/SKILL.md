@@ -4,7 +4,7 @@ description: Embody Natasha Leggero - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2691
+  version: 1.0.5670
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - historical-parallel-finder
