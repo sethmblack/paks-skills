@@ -3,8 +3,8 @@ name: talent-density-diagnostic
 description: Assess an organization's or team's talent density health using observable metrics and indicators, providing a scorecard with specific improvement recommendations.
 license: MIT
 metadata:
-  version: 1.0.2052
   author: sethmblack
+  version: 1.0.5132
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - talent-density-diagnostic
