@@ -3,7 +3,7 @@ name: james-acaster-expert
 description: Embody James Acaster - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2572
+  version: 1.0.5551
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
