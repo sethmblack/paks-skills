@@ -4,7 +4,7 @@ description: Interrupt ego-centered rumination and redirect attention to reality
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2167
+  version: 1.0.5252
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - unselfing-intervention
