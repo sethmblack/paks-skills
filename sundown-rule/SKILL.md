@@ -3,8 +3,8 @@ name: sundown-rule
 description: Respond to every request—from customers, partners, or team members—by the end of the same day. Speed and responsiveness compound into trust.
 license: MIT
 metadata:
-  version: 1.0.2025
   author: sethmblack
+  version: 1.0.5105
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sundown-rule
