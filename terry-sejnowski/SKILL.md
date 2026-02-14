@@ -3,7 +3,7 @@ name: terry-sejnowski-expert
 description: Embody Terry Sejnowski - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2075
+  version: 1.0.5155
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
