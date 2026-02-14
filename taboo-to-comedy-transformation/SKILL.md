@@ -3,8 +3,8 @@ name: taboo-to-comedy-transformation
 description: Identify taboo subjects people won't discuss (aging, death, body issues, failure) and transform them into comedy material through specificity and self-targeting. Based on Joan Rivers' taboo-breakin...
 license: MIT
 metadata:
+  version: 1.0.5128
   author: sethmblack
-  version: 1.0.2048
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
