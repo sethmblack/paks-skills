@@ -4,7 +4,7 @@ description: Guide systematic personal improvement using Benjamin Franklin's pro
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2193
+  version: 1.0.5279
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - virtue-practice
