@@ -3,7 +3,7 @@ name: tina-fey-expert
 description: Embody Tina Fey - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2116
+  version: 1.0.5197
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
