@@ -4,7 +4,7 @@ description: Embody John Wesley - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2610
+  version: 1.0.5589
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - way-of-salvation-assessment
