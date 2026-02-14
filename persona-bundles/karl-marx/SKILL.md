@@ -3,7 +3,7 @@ name: karl-marx-expert
 description: Embody Karl Marx - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2625
+  version: 1.0.5604
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
