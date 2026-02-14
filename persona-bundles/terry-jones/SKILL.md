@@ -3,7 +3,7 @@ name: terry-jones-expert
 description: Embody Terry Jones - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2802
+  version: 1.0.5781
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
