@@ -3,8 +3,8 @@ name: suspense-architecture
 description: Design information revelation to maximize audience tension through anticipation rather than shock.
 license: MIT
 metadata:
-  version: 1.0.2031
   author: sethmblack
+  version: 1.0.5111
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
