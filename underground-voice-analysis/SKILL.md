@@ -3,8 +3,8 @@ name: underground-voice-analysis
 description: Expose what lies beneath surface presentations by applying Dostoevsky's Underground Man lens to reveal the contradictions, resentments, and irrational impulses that truly motivate behavior.
 license: MIT
 metadata:
-  version: 1.0.2163
   author: sethmblack
+  version: 1.0.5247
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - underground-voice-analysis
