@@ -4,7 +4,7 @@ description: Embody Bo Burnham - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2429
+  version: 1.0.5408
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sincerity-irony-collapse
