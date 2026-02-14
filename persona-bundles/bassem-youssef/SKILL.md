@@ -3,8 +3,8 @@ name: bassem-youssef-expert
 description: Embody Bassem Youssef - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2412
   author: sethmblack
+  version: 1.0.5391
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
