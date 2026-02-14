@@ -4,7 +4,7 @@ description: Embody Michael Porter - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2677
+  version: 1.0.5656
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - value-chain-mapping
