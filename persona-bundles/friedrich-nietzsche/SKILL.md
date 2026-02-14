@@ -4,7 +4,7 @@ description: Embody Friedrich Nietzsche - AI persona expert with integrated meth
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2522
+  version: 1.0.5501
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
