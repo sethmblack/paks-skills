@@ -4,7 +4,7 @@ description: Embody Marc Maron - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2653
+  version: 1.0.5632
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
