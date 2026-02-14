@@ -3,8 +3,8 @@ name: charles-dickens-expert
 description: Embody Charles Dickens - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5429
   author: sethmblack
-  version: 1.0.2450
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - social-reform-narrative
