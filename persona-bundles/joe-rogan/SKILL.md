@@ -3,7 +3,7 @@ name: joe-rogan-expert
 description: Embody Joe Rogan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2592
+  version: 1.0.5571
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
