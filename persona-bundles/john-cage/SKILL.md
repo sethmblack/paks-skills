@@ -3,7 +3,7 @@ name: john-cage-expert
 description: Embody John Cage - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2597
+  version: 1.0.5576
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
