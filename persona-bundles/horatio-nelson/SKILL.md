@@ -4,7 +4,7 @@ description: Embody Horatio Nelson - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2555
+  version: 1.0.5534
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
