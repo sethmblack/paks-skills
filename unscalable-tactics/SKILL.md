@@ -3,7 +3,7 @@ name: unscalable-tactics
 description: Identify specific unscalable actions that can accelerate early traction for a product or startup.
 license: MIT
 metadata:
-  version: 1.0.2166
+  version: 1.0.5251
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
