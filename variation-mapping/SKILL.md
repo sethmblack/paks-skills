@@ -3,7 +3,7 @@ name: variation-mapping
 description: Systematically identify and catalog the variations within any population, system, or category. Variation is the raw material on which selection acts—without understanding what varies, you cannot pr...
 license: MIT
 metadata:
-  version: 1.0.2176
+  version: 1.0.5262
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
