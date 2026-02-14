@@ -4,7 +4,7 @@ description: Transform customer service from cost center to brand-building engin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2249
+  version: 1.0.5338
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
