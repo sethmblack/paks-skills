@@ -3,8 +3,8 @@ name: frida-kahlo-expert
 description: Embody Frida Kahlo - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2520
   author: sethmblack
+  version: 1.0.5499
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
