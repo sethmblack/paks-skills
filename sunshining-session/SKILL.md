@@ -4,7 +4,7 @@ description: Prepare and facilitate a leadership vulnerability session where lea
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2026
+  version: 1.0.5106
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sunshining-session
