@@ -3,8 +3,8 @@ name: values-based-transformation
 description: Guide organizational turnarounds through values recovery rather than purely financial restructuring, based on Howard Schultz's methodology for restoring Starbucks' soul during the 2008 crisis.
 license: MIT
 metadata:
-  version: 1.0.2173
   author: sethmblack
+  version: 1.0.5259
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
