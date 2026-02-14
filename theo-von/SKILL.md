@@ -3,8 +3,8 @@ name: theo-von-expert
 description: Embody Theo Von - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5164
   author: sethmblack
-  version: 1.0.2084
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
