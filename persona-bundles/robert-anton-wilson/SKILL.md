@@ -3,7 +3,7 @@ name: robert-anton-wilson-expert
 description: Embody Robert Anton Wilson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2746
+  version: 1.0.5725
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
