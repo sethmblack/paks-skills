@@ -3,8 +3,8 @@ name: transformative-interview
 description: Conduct interviews that go beyond surface answers to reveal authentic stories and genuine connection. Based on Oprah Winfrey's methodology developed over 37,000+ interviews - the approach that beca...
 license: MIT
 metadata:
-  version: 1.0.2133
   author: sethmblack
+  version: 1.0.5215
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
