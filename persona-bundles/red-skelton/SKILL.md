@@ -3,8 +3,8 @@ name: red-skelton-expert
 description: Embody Red Skelton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2733
   author: sethmblack
+  version: 1.0.5712
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - wholesome-humor-filter
