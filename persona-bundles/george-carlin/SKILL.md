@@ -3,8 +3,8 @@ name: george-carlin-expert
 description: Embody George Carlin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2529
   author: sethmblack
+  version: 1.0.5508
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
