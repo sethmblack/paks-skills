@@ -3,7 +3,7 @@ name: wonder-communication
 description: Transform technical or complex information into accessible, wonder-filled communication that inspires while informing. Apply Carl Sagan's techniques for making science—and any complex topic—genuine...
 license: MIT
 metadata:
-  version: 1.0.2236
+  version: 1.0.5325
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
