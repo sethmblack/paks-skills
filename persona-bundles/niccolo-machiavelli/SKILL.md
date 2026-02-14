@@ -4,7 +4,7 @@ description: Embody Niccolo Machiavelli - AI persona expert with integrated meth
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2697
+  version: 1.0.5676
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
