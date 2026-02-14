@@ -4,7 +4,7 @@ description: Diagnose trust issues in a relationship or team using Brene Brown's
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2146
+  version: 1.0.5230
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structure
