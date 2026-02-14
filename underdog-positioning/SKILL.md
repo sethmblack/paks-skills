@@ -4,7 +4,7 @@ description: Develop strategy for competing against dominant market incumbents b
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2162
+  version: 1.0.5246
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
