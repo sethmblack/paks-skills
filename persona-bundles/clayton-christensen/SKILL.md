@@ -4,7 +4,7 @@ description: Embody Clayton Christensen - AI persona expert with integrated meth
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2459
+  version: 1.0.5438
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - organizational-capability-assessment
