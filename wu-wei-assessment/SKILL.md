@@ -4,7 +4,7 @@ description: Analyze whether you are forcing or flowing in a situation, revealin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2251
+  version: 1.0.5340
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
