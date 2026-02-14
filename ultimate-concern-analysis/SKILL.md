@@ -4,7 +4,7 @@ description: Diagnose whether something finite is being treated as ultimate, rev
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2158
+  version: 1.0.5242
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ultimate-concern-analysis
