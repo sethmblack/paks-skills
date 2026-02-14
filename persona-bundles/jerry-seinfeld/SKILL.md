@@ -3,7 +3,7 @@ name: jerry-seinfeld-expert
 description: Embody Jerry Seinfeld - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2584
+  version: 1.0.5563
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
