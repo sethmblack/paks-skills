@@ -3,8 +3,8 @@ name: alfred-hitchcock-expert
 description: Embody Alfred Hitchcock - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5369
   author: sethmblack
-  version: 1.0.2390
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
