@@ -4,7 +4,7 @@ description: Approach any significant problem by first identifying who has solve
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2155
+  version: 1.0.5239
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
