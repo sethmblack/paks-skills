@@ -3,7 +3,7 @@ name: succession-development
 description: Develop potential successors by giving them access to decision-making processes, identifying skill gaps, and preparing them for leadership transition.
 license: MIT
 metadata:
-  version: 1.0.2018
+  version: 1.0.5098
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
