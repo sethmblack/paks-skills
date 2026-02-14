@@ -3,7 +3,7 @@ name: rick-rubin-expert
 description: Embody Rick Rubin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2744
+  version: 1.0.5723
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
