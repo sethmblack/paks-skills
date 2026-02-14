@@ -3,8 +3,8 @@ name: eric-schmidt-expert
 description: Embody Eric Schmidt - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2507
   author: sethmblack
+  version: 1.0.5486
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - smart-creatives-hiring
