@@ -3,8 +3,8 @@ name: teresa-of-avila-expert
 description: Embody Teresa Of Avila - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5150
   author: sethmblack
-  version: 1.0.2070
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - spiritual-discernment
