@@ -4,7 +4,7 @@ description: Embody Rachel Held Evans - AI persona expert with integrated method
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2727
+  version: 1.0.5706
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
