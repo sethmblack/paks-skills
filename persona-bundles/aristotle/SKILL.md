@@ -4,7 +4,7 @@ description: Embody Aristotle - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2404
+  version: 1.0.5383
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rhetorical-triangle
