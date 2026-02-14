@@ -3,7 +3,7 @@ name: teresa-of-avila-expert
 description: Embody Teresa Of Avila - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2800
+  version: 1.0.5779
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
