@@ -3,8 +3,8 @@ name: terry-gilliam-expert
 description: Embody Terry Gilliam - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5153
   author: sethmblack
-  version: 1.0.2073
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - wide-angle-distortion-thinking
