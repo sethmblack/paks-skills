@@ -3,8 +3,8 @@ name: survival-narrative
 description: A methodology for writing stories about endurance rather than achievement—the art of simply getting through when success isn't an option. This skill captures the daily heroism of people who survive...
 license: MIT
 metadata:
-  version: 1.0.2030
   author: sethmblack
+  version: 1.0.5110
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
