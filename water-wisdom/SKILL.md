@@ -3,8 +3,8 @@ name: water-wisdom
 description: Apply Lao Tzu's water teaching to strategic situations - finding the path of least resistance, using softness to overcome hardness, and persisting without force.
 license: MIT
 metadata:
-  version: 1.0.2213
   author: sethmblack
+  version: 1.0.5301
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - water-wisdom-framework
