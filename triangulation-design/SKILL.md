@@ -4,7 +4,7 @@ description: Identify and design for triangulation—the external stimuli that b
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2344
+  version: 1.0.5224
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - triangulation-design
