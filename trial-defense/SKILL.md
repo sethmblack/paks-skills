@@ -3,7 +3,7 @@ name: trial-defense
 description: Maintain your position and composure under hostile questioning designed to trap, discredit, or force recantation. When they come for you with questions, answer with faith.
 license: MIT
 metadata:
-  version: 1.0.2139
+  version: 1.0.5222
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
