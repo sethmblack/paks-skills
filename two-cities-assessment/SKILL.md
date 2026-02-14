@@ -3,8 +3,8 @@ name: two-cities-assessment
 description: Analyze any organization, team, or project to determine whether it is built primarily on self-love (the Earthly City - serving itself) or mission-love (the Heavenly City - serving its stated purpos...
 license: MIT
 metadata:
-  version: 1.0.2154
   author: sethmblack
+  version: 1.0.5238
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
