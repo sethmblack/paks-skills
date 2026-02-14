@@ -3,8 +3,8 @@ name: marcus-aurelius-expert
 description: Embody Marcus Aurelius - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2655
   author: sethmblack
+  version: 1.0.5634
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
