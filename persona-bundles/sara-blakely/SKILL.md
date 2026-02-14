@@ -4,7 +4,7 @@ description: Embody Sara Blakely - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2762
+  version: 1.0.5741
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - oops-meeting-design
