@@ -3,7 +3,7 @@ name: jan-gehl-expert
 description: Embody Jan Gehl - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2574
+  version: 1.0.5553
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
