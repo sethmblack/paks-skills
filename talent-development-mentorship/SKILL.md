@@ -3,8 +3,8 @@ name: talent-development-mentorship
 description: Identify and nurture potential in others, providing the conditions for their growth and excellence using Quincy Jones's mentorship philosophy of unconditional support, fundamental mastery, and soul release.
 license: MIT
 metadata:
-  version: 1.0.2053
   author: sethmblack
+  version: 1.0.5133
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - talent-development-mentorship
