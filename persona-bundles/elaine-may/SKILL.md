@@ -3,7 +3,7 @@ name: elaine-may-expert
 description: Embody Elaine May - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2497
+  version: 1.0.5476
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
