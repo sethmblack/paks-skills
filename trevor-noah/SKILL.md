@@ -3,8 +3,8 @@ name: trevor-noah-expert
 description: Embody Trevor Noah - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2138
   author: sethmblack
+  version: 1.0.5221
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - personal-to-political-bridge
