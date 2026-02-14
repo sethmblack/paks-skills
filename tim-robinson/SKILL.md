@@ -3,8 +3,8 @@ name: tim-robinson-expert
 description: Embody Tim Robinson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2109
   author: sethmblack
+  version: 1.0.5190
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation-architecture
