@@ -3,7 +3,7 @@ name: fred-armisen-expert
 description: Embody Fred Armisen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2518
+  version: 1.0.5497
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
