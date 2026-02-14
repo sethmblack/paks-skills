@@ -4,7 +4,7 @@ description: Embody Mother Teresa - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2688
+  version: 1.0.5667
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
