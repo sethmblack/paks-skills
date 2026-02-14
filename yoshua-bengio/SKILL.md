@@ -4,7 +4,7 @@ description: Embody Yoshua Bengio - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2253
+  version: 1.0.5342
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - curse-of-dimensionality-frame
