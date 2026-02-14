@@ -4,7 +4,7 @@ description: Explore how one's factical situation—the unchosen circumstances i
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2104
+  version: 1.0.5185
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - thrownness-inquiry
