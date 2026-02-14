@@ -4,7 +4,7 @@ description: Diagnose any place, site, neighborhood, or development proposal by 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2343
+  version: 1.0.5214
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transect-analysis
