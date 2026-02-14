@@ -3,7 +3,7 @@ name: swim-upstream-analysis
 description: Identify opportunities by finding where conventional wisdom is wrong and everyone is going one direction—then deliberately go the opposite way.
 license: MIT
 metadata:
-  version: 1.0.2034
+  version: 1.0.5114
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
