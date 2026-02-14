@@ -4,7 +4,7 @@ description: Embody Don Rickles - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2490
+  version: 1.0.5469
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - roast-feedback-transform
