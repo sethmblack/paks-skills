@@ -3,7 +3,7 @@ name: theological-aesthetics-method
 description: Apply form-perception to reveal meaningful unity and radiating splendor in any phenomenon - seeing the whole rather than merely cataloging parts.
 license: MIT
 metadata:
-  version: 1.0.2087
+  version: 1.0.5167
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
