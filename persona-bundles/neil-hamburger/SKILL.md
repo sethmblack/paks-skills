@@ -3,8 +3,8 @@ name: neil-hamburger-expert
 description: Embody Neil Hamburger - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5674
   author: sethmblack
-  version: 1.0.2695
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
