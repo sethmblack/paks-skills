@@ -4,7 +4,7 @@ description: Create structured ranking systems with tiers, explanations, and arg
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.2105
+  version: 1.0.5186
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ranking
