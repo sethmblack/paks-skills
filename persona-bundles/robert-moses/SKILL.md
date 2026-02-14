@@ -4,7 +4,7 @@ description: Embody Robert Moses - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2749
+  version: 1.0.5728
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - public-authority-design
