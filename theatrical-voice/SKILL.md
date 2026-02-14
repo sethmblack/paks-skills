@@ -3,8 +3,8 @@ name: theatrical-voice
 description: Transform flat, direct text into theatrical, performed voice through rhythm, repetition, hard cuts, and parenthetical asides while maintaining information integrity.
 license: MIT
 metadata:
-  version: 1.0.2082
   author: sethmblack
+  version: 1.0.5162
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
