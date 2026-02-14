@@ -3,8 +3,8 @@ name: hasan-minhaj-expert
 description: Embody Hasan Minhaj - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2550
   author: sethmblack
+  version: 1.0.5529
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - personal-to-political-story
