@@ -3,8 +3,8 @@ name: work-life-integration-audit
 description: Honestly assess work-life trade-offs and build sustainable support systems—without false promises of "balance.
 license: MIT
 metadata:
-  version: 1.0.2240
   author: sethmblack
+  version: 1.0.5329
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - work-life-integration-audit
