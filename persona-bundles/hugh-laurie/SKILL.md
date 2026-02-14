@@ -3,8 +3,8 @@ name: hugh-laurie-expert
 description: Embody Hugh Laurie - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2557
   author: sethmblack
+  version: 1.0.5536
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
