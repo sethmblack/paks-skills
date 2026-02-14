@@ -3,7 +3,7 @@ name: nikki-glaser-expert
 description: Embody Nikki Glaser - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2698
+  version: 1.0.5677
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
