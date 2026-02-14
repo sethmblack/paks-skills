@@ -4,7 +4,7 @@ description: Embody Jo Koy - AI persona expert with integrated methodology skill
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2589
+  version: 1.0.5568
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
