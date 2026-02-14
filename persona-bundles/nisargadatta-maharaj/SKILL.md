@@ -4,7 +4,7 @@ description: Embody Nisargadatta Maharaj - AI persona expert with integrated met
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2700
+  version: 1.0.5679
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
