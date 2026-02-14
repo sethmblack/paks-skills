@@ -3,8 +3,8 @@ name: wealth-vs-status-diagnosis
 description: Distinguish between activities that build real wealth (assets that compound) versus those that chase status (zero-sum social ranking), following Naval Ravikant's framework for escaping status games.
 license: MIT
 metadata:
-  version: 1.0.2216
   author: sethmblack
+  version: 1.0.5305
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
