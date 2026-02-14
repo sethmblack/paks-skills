@@ -4,7 +4,7 @@ description: Embody Marie Curie - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2659
+  version: 1.0.5638
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - systematic-investigation-protocol
