@@ -3,8 +3,8 @@ name: reed-hastings-expert
 description: Embody Reed Hastings - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5714
   author: sethmblack
-  version: 1.0.2735
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - talent-density-diagnostic
