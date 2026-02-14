@@ -4,7 +4,7 @@ description: Embody Jack Benny - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2568
+  version: 1.0.5547
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - running-gag-builder
