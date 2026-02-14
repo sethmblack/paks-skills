@@ -3,7 +3,7 @@ name: jonathan-winters-expert
 description: Embody Jonathan Winters - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2616
+  version: 1.0.5595
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
