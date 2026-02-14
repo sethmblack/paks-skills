@@ -3,8 +3,8 @@ name: weenie-design
 description: Create magnetic pull in any experience by identifying or designing "weenies" - visual or conceptual elements that draw people forward, borrowed from Walt Disney's theme park design philosophy.
 license: MIT
 metadata:
-  version: 1.0.2217
   author: sethmblack
+  version: 1.0.5306
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
