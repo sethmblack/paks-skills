@@ -3,8 +3,8 @@ name: russell-brand-expert
 description: Embody Russell Brand - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2756
   author: sethmblack
+  version: 1.0.5735
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
