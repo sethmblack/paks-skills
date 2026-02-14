@@ -3,8 +3,8 @@ name: jean-jacques-rousseau-expert
 description: Embody Jean Jacques Rousseau - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2578
   author: sethmblack
+  version: 1.0.5557
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
