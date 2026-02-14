@@ -4,7 +4,7 @@ description: Embody Joseph Campbell - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2618
+  version: 1.0.5597
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sacred-space-design
