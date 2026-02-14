@@ -3,8 +3,8 @@ name: friedrich-hayek-expert
 description: Embody Friedrich Hayek - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2521
   author: sethmblack
+  version: 1.0.5500
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
