@@ -3,7 +3,7 @@ name: tech-optimism-reframe
 description: Apply Marc Andreessen's techno-optimist lens to reframe pessimistic narratives about technology through abundance thinking and historical perspective.
 license: MIT
 metadata:
-  version: 1.0.2063
+  version: 1.0.5143
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
