@@ -3,8 +3,8 @@ name: ben-horowitz-expert
 description: Embody Ben Horowitz - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2413
   author: sethmblack
+  version: 1.0.5392
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - wartime-peacetime-diagnosis
