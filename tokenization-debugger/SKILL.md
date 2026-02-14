@@ -4,7 +4,7 @@ description: Help debug LLM behaviors by analyzing tokenization - the "atoms" of
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2119
+  version: 1.0.5200
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tokenization-debugger
