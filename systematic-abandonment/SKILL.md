@@ -3,7 +3,7 @@ name: systematic-abandonment
 description: Determine what to stop doing using Drucker's framework for planned abandonment—the foundation of all change and innovation.
 license: MIT
 metadata:
-  version: 1.0.2040
+  version: 1.0.5120
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
