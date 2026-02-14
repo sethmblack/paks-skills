@@ -3,8 +3,8 @@ name: writing-without-the-gaze
 description: Find authentic voice by refusing to perform identity for external validation or explain your experience to outsiders—using Toni Morrison's concept of rejecting the "white gaze.
 license: MIT
 metadata:
+  version: 1.0.5339
   author: sethmblack
-  version: 1.0.2250
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - writing
