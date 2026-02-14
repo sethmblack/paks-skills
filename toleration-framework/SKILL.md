@@ -3,8 +3,8 @@ name: toleration-framework
 description: Determine the proper limits of toleration and the boundaries of civil authority over conscience, belief, and expression.
 license: MIT
 metadata:
-  version: 1.0.2120
   author: sethmblack
+  version: 1.0.5201
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - toleration-framework
