@@ -3,8 +3,8 @@ name: ten-x-transformation-test
 description: Challenge incremental thinking by asking what would need to be true for 10x improvement, reframing problems from optimization to transformation.
 license: MIT
 metadata:
+  version: 1.0.5148
   author: sethmblack
-  version: 1.0.2068
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - 10x-transformation-test
