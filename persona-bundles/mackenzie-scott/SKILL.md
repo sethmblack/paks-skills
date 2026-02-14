@@ -3,8 +3,8 @@ name: mackenzie-scott-expert
 description: Embody Mackenzie Scott - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2648
   author: sethmblack
+  version: 1.0.5627
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - trust-based-resource-allocation
