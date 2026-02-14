@@ -3,7 +3,7 @@ name: theodore-roosevelt-expert
 description: Embody Theodore Roosevelt - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2809
+  version: 1.0.5788
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
