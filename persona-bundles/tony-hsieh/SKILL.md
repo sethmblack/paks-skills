@@ -4,7 +4,7 @@ description: Embody Tony Hsieh - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2825
+  version: 1.0.5804
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - wow-service-design
