@@ -4,7 +4,7 @@ description: Manage anxiety and worry in high-pressure situations using Dale Car
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2246
+  version: 1.0.5335
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
