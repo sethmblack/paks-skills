@@ -4,7 +4,7 @@ description: Embody Ag Lafley - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2378
+  version: 1.0.5357
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - winning-aspiration-definition
