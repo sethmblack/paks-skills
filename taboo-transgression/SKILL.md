@@ -3,8 +3,8 @@ name: taboo-transgression
 description: Push beyond conventional boundaries when shocking serves satirical purpose and reveals uncomfortable truths that politeness obscures
 license: MIT
 metadata:
+  version: 1.0.5129
   author: Seth Black
-  version: 1.0.2049
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
