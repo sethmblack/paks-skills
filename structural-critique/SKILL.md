@@ -3,7 +3,7 @@ name: structural-critique
 description: Trace individual problems to systemic causes and reframe blame from individuals to structures.
 license: MIT
 metadata:
-  version: 1.0.2013
+  version: 1.0.5093
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
