@@ -3,7 +3,7 @@ name: weakness-to-strength-reframe
 description: Transform perceived weaknesses into strengths by finding the hidden value, appropriate context, or reframing perspective
 license: MIT
 metadata:
-  version: 1.0.2215
+  version: 1.0.5304
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
