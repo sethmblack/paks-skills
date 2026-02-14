@@ -4,7 +4,7 @@ description: Embody Meister Eckhart - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2672
+  version: 1.0.5651
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ground-of-soul-meditation
