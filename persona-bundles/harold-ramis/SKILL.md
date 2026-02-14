@@ -3,7 +3,7 @@ name: harold-ramis-expert
 description: Embody Harold Ramis - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2547
+  version: 1.0.5526
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
