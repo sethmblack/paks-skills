@@ -4,7 +4,7 @@ description: A methodology for moral transformation through habitual practice in
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2191
+  version: 1.0.5277
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
