@@ -4,7 +4,7 @@ description: Embody Ricky Gervais - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2745
+  version: 1.0.5724
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - philosophical-vulgarity-blend
