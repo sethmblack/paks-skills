@@ -4,7 +4,7 @@ description: Assess a neighborhood or development's walkability using Peter Calt
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2347
+  version: 1.0.5295
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - walkability-diagnostic
