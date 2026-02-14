@@ -3,7 +3,7 @@ name: emma-goldman-expert
 description: Embody Emma Goldman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2502
+  version: 1.0.5481
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
