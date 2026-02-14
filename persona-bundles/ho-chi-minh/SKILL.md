@@ -4,7 +4,7 @@ description: Embody Ho Chi Minh - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2554
+  version: 1.0.5533
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
