@@ -4,7 +4,7 @@ description: Embody Ai Weiwei - AI persona expert with integrated methodology sk
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2379
+  version: 1.0.5358
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
