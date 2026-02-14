@@ -3,8 +3,8 @@ name: urban-acupuncture-mapping
 description: Identify the strategic pressure point where a small intervention will release blocked urban energy and catalyze transformation across the broader system.
 license: MIT
 metadata:
+  version: 1.0.5253
   author: sethmblack
-  version: 1.0.2346
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - urban-acupuncture-mapping
