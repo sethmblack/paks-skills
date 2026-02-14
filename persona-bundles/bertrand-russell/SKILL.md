@@ -4,7 +4,7 @@ description: Embody Bertrand Russell - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2417
+  version: 1.0.5396
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
