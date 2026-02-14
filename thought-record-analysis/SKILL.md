@@ -4,7 +4,7 @@ description: Guide someone through the structured 7-column thought record proces
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2099
+  version: 1.0.5179
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - thought-record-analysis
