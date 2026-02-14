@@ -3,8 +3,8 @@ name: christopher-guest-expert
 description: Embody Christopher Guest - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5436
   author: sethmblack
-  version: 1.0.2457
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
