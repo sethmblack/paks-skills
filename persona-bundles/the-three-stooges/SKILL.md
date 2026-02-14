@@ -4,7 +4,7 @@ description: Embody The Three Stooges - AI persona expert with integrated method
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2806
+  version: 1.0.5785
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
