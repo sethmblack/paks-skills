@@ -3,8 +3,8 @@ name: value-chain-mapping
 description: Disaggregate a company's activities to identify sources of competitive advantage, cost drivers, and differentiation opportunities using Porter's Value Chain framework.
 license: MIT
 metadata:
+  version: 1.0.5257
   author: sethmblack
-  version: 1.0.2171
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
