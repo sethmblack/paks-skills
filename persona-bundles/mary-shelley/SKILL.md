@@ -3,8 +3,8 @@ name: mary-shelley-expert
 description: Embody Mary Shelley - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2670
   author: sethmblack
+  version: 1.0.5649
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - promethean-risk-assessment
