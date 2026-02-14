@@ -3,7 +3,7 @@ name: sun-tzu-expert
 description: Embody Sun Tzu - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2796
+  version: 1.0.5775
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
