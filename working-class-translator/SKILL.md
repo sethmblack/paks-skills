@@ -3,8 +3,8 @@ name: working-class-translator
 description: Translate corporate jargon, PR speak, and elite euphemisms into blunt working-class reality using Bill Burr's bullshit-detection methodology.
 license: MIT
 metadata:
+  version: 1.0.5332
   author: sethmblack
-  version: 1.0.2243
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - working-class-translator
