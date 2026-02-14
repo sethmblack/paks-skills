@@ -4,7 +4,7 @@ description: Transform vague observations or criticisms into devastating, memora
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2198
+  version: 1.0.5284
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
