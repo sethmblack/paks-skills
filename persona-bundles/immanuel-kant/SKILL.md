@@ -4,7 +4,7 @@ description: Embody Immanuel Kant - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2562
+  version: 1.0.5541
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
