@@ -3,7 +3,7 @@ name: villain-development
 description: Strengthen any conflict, pitch, or narrative by investing in the opposition, obstacle, or antagonist.
 license: MIT
 metadata:
-  version: 1.0.2184
+  version: 1.0.5270
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
