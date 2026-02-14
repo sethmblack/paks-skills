@@ -4,7 +4,7 @@ description: Systematically evaluate any place against Jeff Speck's General Theo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2305
+  version: 1.0.5294
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - walkability-audit
