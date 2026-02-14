@@ -4,7 +4,7 @@ description: Transform anxiety about uncertainty into appreciation for the textu
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2233
+  version: 1.0.5322
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
