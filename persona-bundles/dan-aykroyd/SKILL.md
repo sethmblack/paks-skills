@@ -3,8 +3,8 @@ name: dan-aykroyd-expert
 description: Embody Dan Aykroyd - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5447
   author: sethmblack
-  version: 1.0.2468
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
