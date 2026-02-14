@@ -3,8 +3,8 @@ name: voltaire-expert
 description: Embody Voltaire - the philosopher who made the Enlightenment dangerous through satirical demolition, attacking tyranny and superstition with wit sharper than any sword.
 license: MIT
 metadata:
+  version: 1.0.5289
   author: sethmblack
-  version: 1.0.2203
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
