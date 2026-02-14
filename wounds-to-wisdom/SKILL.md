@@ -4,7 +4,7 @@ description: 'Transform painful experiences into meaningful lessons and growth. 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2248
+  version: 1.0.5337
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
