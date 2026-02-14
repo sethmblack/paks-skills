@@ -3,8 +3,8 @@ name: anthony-jeselnik-expert
 description: Embody Anthony Jeselnik - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2403
   author: sethmblack
+  version: 1.0.5382
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - shock-to-structure-audit
