@@ -3,8 +3,8 @@ name: vertical-integration-assessment
 description: Analyze dependencies in a system or business and recommend integration strategies to reduce vulnerability, cost, and loss of control.
 license: MIT
 metadata:
-  version: 1.0.2179
   author: sethmblack
+  version: 1.0.5265
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - vertical-integration-assessment
