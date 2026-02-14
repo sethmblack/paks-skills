@@ -3,7 +3,7 @@ name: simon-sinek-expert
 description: Embody Simon Sinek - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2774
+  version: 1.0.5753
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
