@@ -3,7 +3,7 @@ name: sufficient-reason-analysis
 description: Apply Leibniz's Principle of Sufficient Reason to any claim, decision, or situation. For any fact or truth, demand and evaluate the sufficient reason why it is so and not otherwise. *Nihil est sine...
 license: MIT
 metadata:
-  version: 1.0.2021
+  version: 1.0.5101
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
