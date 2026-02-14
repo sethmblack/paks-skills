@@ -3,8 +3,8 @@ name: hannah-arendt-expert
 description: Embody Hannah Arendt - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2541
   author: sethmblack
+  version: 1.0.5520
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - vita-activa-assessment
