@@ -3,8 +3,8 @@ name: theme-and-variations-analysis
 description: Take a core principle or idea and systematically explore how it manifests across different contexts, using Bach's development techniques to achieve depth and consistency.
 license: MIT
 metadata:
-  version: 1.0.2083
   author: sethmblack
+  version: 1.0.5163
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
