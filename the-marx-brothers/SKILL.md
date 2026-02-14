@@ -3,7 +3,7 @@ name: the-marx-brothers-expert
 description: Embody The Marx Brothers - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2079
+  version: 1.0.5159
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
