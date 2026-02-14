@@ -3,8 +3,8 @@ name: visual-communication-audit
 description: Evaluate any communication to identify where visual demonstration could replace verbal explanation.
 license: MIT
 metadata:
-  version: 1.0.2196
   author: sethmblack
+  version: 1.0.5282
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
