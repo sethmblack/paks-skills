@@ -3,7 +3,7 @@ name: christopher-alexander-expert
 description: Embody Christopher Alexander - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2456
+  version: 1.0.5435
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
