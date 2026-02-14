@@ -4,7 +4,7 @@ description: Apply Francis Bacon's systematic inductive method to investigate ca
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2047
+  version: 1.0.5127
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tables-of-investigation
