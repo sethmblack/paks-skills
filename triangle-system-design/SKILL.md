@@ -3,8 +3,8 @@ name: triangle-system-design
 description: Design team systems that give each member a vital role and high creativity within clear structure, using Phil Jackson's triangle offense as a model for empowering collaboration.
 license: MIT
 metadata:
+  version: 1.0.5223
   author: sethmblack
-  version: 1.0.2140
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - triangle-system-design
