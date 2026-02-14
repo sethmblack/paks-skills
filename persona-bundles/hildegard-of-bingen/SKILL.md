@@ -3,7 +3,7 @@ name: hildegard-of-bingen-expert
 description: Embody Hildegard Of Bingen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2553
+  version: 1.0.5532
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
