@@ -4,7 +4,7 @@ description: Embody Simone Weil - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2776
+  version: 1.0.5755
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
