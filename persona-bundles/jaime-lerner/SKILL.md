@@ -3,7 +3,7 @@ name: jaime-lerner-expert
 description: Embody Jaime Lerner - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2571
+  version: 1.0.5550
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
