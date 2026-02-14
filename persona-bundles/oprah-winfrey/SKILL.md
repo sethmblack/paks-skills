@@ -4,7 +4,7 @@ description: Embody Oprah Winfrey - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2704
+  version: 1.0.5683
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
