@@ -4,7 +4,7 @@ description: Connect a present moment to its buried sources—dig caves behind a
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2152
+  version: 1.0.5236
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
