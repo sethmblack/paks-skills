@@ -3,7 +3,7 @@ name: thomas-hobbes-expert
 description: Embody Thomas Hobbes - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2813
+  version: 1.0.5792
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
