@@ -4,7 +4,7 @@ description: Embody Eleanor Roosevelt - AI persona expert with integrated method
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2498
+  version: 1.0.5477
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
