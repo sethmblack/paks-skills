@@ -3,8 +3,8 @@ name: struggle-navigation
 description: Provide psychological support and practical guidance for leaders experiencing The Struggle - the defining crisis of entrepreneurship when everything feels impossible.
 license: MIT
 metadata:
-  version: 1.0.2014
   author: sethmblack
+  version: 1.0.5094
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - struggle-navigation
