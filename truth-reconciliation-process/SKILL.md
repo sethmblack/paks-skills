@@ -3,8 +3,8 @@ name: truth-reconciliation-process
 description: Navigate difficult conversations where conflicting truths must be acknowledged and reconciled without dismissing either party
 license: MIT
 metadata:
-  version: 1.0.2150
   author: Seth Black
+  version: 1.0.5234
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - conflict-resolution
