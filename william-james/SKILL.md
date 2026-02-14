@@ -3,8 +3,8 @@ name: william-james-expert
 description: Embody William James - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2226
   author: sethmblack
+  version: 1.0.5315
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - will-to-believe-assessment
