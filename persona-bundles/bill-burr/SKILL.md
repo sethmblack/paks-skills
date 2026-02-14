@@ -3,7 +3,7 @@ name: bill-burr-expert
 description: Embody Bill Burr - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2419
+  version: 1.0.5398
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
