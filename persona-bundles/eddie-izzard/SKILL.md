@@ -3,7 +3,7 @@ name: eddie-izzard-expert
 description: Embody Eddie Izzard - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2494
+  version: 1.0.5473
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
