@@ -3,7 +3,7 @@ name: demetri-martin-expert
 description: Embody Demetri Martin - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2481
+  version: 1.0.5460
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
