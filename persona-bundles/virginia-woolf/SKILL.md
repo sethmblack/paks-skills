@@ -3,7 +3,7 @@ name: virginia-woolf-expert
 description: Embody Virginia Woolf - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2831
+  version: 1.0.5810
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
