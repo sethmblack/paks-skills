@@ -4,7 +4,7 @@ description: Embody Terry Sejnowski - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2803
+  version: 1.0.5782
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - energy-landscape-analysis
