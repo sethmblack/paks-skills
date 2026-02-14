@@ -3,8 +3,8 @@ name: utilitarian-calculation
 description: Apply Mill's Greatest Happiness Principle to evaluate actions, policies, or decisions by their tendency to promote happiness for all affected—counting each person equally while attending to the qua...
 license: MIT
 metadata:
-  version: 1.0.2169
   author: sethmblack
+  version: 1.0.5255
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - utilitarian-calculation
