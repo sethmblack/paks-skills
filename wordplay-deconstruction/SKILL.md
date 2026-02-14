@@ -3,7 +3,7 @@ name: wordplay-deconstruction
 description: Analyze words and phrases to reveal hidden meanings, structural absurdities, and linguistic patterns through palindromes, anagrams, sound-alikes, and literal interpretations. Inspired by Demetri Ma...
 license: MIT
 metadata:
-  version: 1.0.2239
+  version: 1.0.5328
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
