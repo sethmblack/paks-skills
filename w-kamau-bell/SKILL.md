@@ -3,8 +3,8 @@ name: w-kamau-bell-expert
 description: Embody W Kamau Bell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5293
   author: sethmblack
-  version: 1.0.2207
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
