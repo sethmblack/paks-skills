@@ -3,7 +3,7 @@ name: ilya-sutskever-expert
 description: Embody Ilya Sutskever - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2561
+  version: 1.0.5540
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
