@@ -3,8 +3,8 @@ name: sam-altman-expert
 description: Embody Sam Altman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5738
   author: sethmblack
-  version: 1.0.2759
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ten-x-transformation-test
