@@ -4,7 +4,7 @@ description: Embody George Berkeley - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2528
+  version: 1.0.5507
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
