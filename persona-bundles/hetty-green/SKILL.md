@@ -3,7 +3,7 @@ name: hetty-green-expert
 description: Embody Hetty Green - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2552
+  version: 1.0.5531
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
