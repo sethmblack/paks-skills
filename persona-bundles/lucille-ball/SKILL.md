@@ -4,7 +4,7 @@ description: Embody Lucille Ball - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2646
+  version: 1.0.5625
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
