@@ -3,8 +3,8 @@ name: jurgen-moltmann-expert
 description: Embody Jurgen Moltmann - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5602
   author: sethmblack
-  version: 1.0.2623
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - perichoretic-community-design
