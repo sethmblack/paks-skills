@@ -3,8 +3,8 @@ name: vertical-integration-analysis
 description: Analyze operations for dependency vulnerabilities and integration opportunities using Carnegie's supply chain control methodology.
 license: MIT
 metadata:
-  version: 1.0.2178
   author: sethmblack
+  version: 1.0.5264
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - vertical-integration-analysis
