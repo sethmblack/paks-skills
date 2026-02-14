@@ -3,8 +3,8 @@ name: will-ferrell-expert
 description: Embody Will Ferrell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5818
   author: sethmblack
-  version: 1.0.2839
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
