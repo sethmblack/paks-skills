@@ -4,7 +4,7 @@ description: Create immersive, vivid narratives about places and experiences tha
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2136
+  version: 1.0.5219
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
