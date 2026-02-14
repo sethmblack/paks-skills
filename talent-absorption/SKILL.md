@@ -3,8 +3,8 @@ name: talent-absorption
 description: After victory or acquisition, identify and absorb skilled people and valuable practices from the defeated. Never destroy what can serve you.
 license: MIT
 metadata:
+  version: 1.0.5131
   author: sethmblack
-  version: 1.0.2051
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structure
