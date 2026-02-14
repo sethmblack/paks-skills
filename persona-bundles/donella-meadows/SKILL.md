@@ -3,7 +3,7 @@ name: donella-meadows-expert
 description: Embody Donella Meadows - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2491
+  version: 1.0.5470
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
