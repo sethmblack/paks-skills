@@ -3,8 +3,8 @@ name: ken-jeong-expert
 description: Embody Ken Jeong - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2629
   author: sethmblack
+  version: 1.0.5608
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
