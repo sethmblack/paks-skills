@@ -3,8 +3,8 @@ name: andy-grove-expert
 description: Embody Andy Grove - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5378
   author: sethmblack
-  version: 1.0.2399
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-inflection-point-diagnosis
