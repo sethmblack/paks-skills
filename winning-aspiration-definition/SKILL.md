@@ -3,7 +3,7 @@ name: winning-aspiration-definition
 description: Define what winning looks like in specific, measurable terms - not vague goals but clear criteria for success.
 license: MIT
 metadata:
-  version: 1.0.2231
+  version: 1.0.5320
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
