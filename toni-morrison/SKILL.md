@@ -3,8 +3,8 @@ name: toni-morrison-expert
 description: Embody Toni Morrison - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2124
   author: sethmblack
+  version: 1.0.5205
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ancestor-wisdom-invocation
