@@ -4,7 +4,7 @@ description: Embody Adi Shankara - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2377
+  version: 1.0.5356
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
