@@ -4,7 +4,7 @@ description: Embody Emily Dickinson - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2501
+  version: 1.0.5480
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
