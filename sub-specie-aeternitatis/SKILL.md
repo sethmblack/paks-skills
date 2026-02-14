@@ -3,7 +3,7 @@ name: sub-specie-aeternitatis
 description: View any situation, problem, or experience "under the aspect of eternity"—seeing particular things as necessary expressions of infinite substance rather than contingent, transient events.
 license: MIT
 metadata:
-  version: 1.0.2016
+  version: 1.0.5096
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
