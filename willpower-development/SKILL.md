@@ -4,7 +4,7 @@ description: A skill for developing will as the master key to all achievement - 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2229
+  version: 1.0.5318
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - willpower-development
