@@ -3,7 +3,7 @@ name: robert-greene-expert
 description: Embody Robert Greene - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2748
+  version: 1.0.5727
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
