@@ -4,7 +4,7 @@ description: Embody David Hume - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2477
+  version: 1.0.5456
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mitigated-skepticism
