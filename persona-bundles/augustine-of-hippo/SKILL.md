@@ -3,8 +3,8 @@ name: augustine-of-hippo-expert
 description: Embody Augustine Of Hippo - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5387
   author: sethmblack
-  version: 1.0.2408
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - two-cities-assessment
