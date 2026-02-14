@@ -3,8 +3,8 @@ name: hannibal-buress-expert
 description: Embody Hannibal Buress - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5522
   author: sethmblack
-  version: 1.0.2543
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - specificity-injector
