@@ -3,8 +3,8 @@ name: unconscious-motivation-analysis
 description: Analyze surface behaviors and stated reasons to uncover hidden motivations, secondary gains, and the dynamic forces that truly drive behavior.
 license: MIT
 metadata:
-  version: 1.0.2161
   author: sethmblack
+  version: 1.0.5245
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - unconscious-motivation-analysis
