@@ -3,8 +3,8 @@ name: troop-inspiration
 description: Craft communications that inspire extraordinary effort from teams facing difficult challenges.
 license: MIT
 metadata:
+  version: 1.0.5227
   author: sethmblack
-  version: 1.0.2143
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
