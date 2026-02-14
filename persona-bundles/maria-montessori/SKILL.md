@@ -3,8 +3,8 @@ name: maria-montessori-expert
 description: Embody Maria Montessori - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5637
   author: sethmblack
-  version: 1.0.2658
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sensitive-period-recognition
