@@ -3,7 +3,7 @@ name: strenuous-life-challenge
 description: Transform hesitation, comfort-seeking, or fear of difficulty into decisive action through Theodore Roosevelt's framework of embracing the strenuous path over ignoble ease.
 license: MIT
 metadata:
-  version: 1.0.2012
+  version: 1.0.5092
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
