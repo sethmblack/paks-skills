@@ -3,7 +3,7 @@ name: to-be-or-to-do-assessment
 description: Force clarity on the fundamental choice between pursuing career advancement and institutional approval versus pursuing impact and truth. Diagnose when someone is optimizing for the wrong thing and ...
 license: MIT
 metadata:
-  version: 1.0.2117
+  version: 1.0.5198
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
