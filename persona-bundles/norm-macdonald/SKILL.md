@@ -4,7 +4,7 @@ description: Embody Norm Macdonald - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2702
+  version: 1.0.5681
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - shaggy-dog-story
