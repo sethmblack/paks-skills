@@ -4,7 +4,7 @@ description: Embody Joan Rivers - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2591
+  version: 1.0.5570
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - visual-specificity-roast
