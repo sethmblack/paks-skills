@@ -3,8 +3,8 @@ name: swarm-operations
 description: A skill for conducting distributed action where participants self-select, self-coordinate, and act toward shared goals without central direction.
 license: MIT
 metadata:
-  version: 1.0.2033
   author: sethmblack
+  version: 1.0.5113
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - swarm-operations
