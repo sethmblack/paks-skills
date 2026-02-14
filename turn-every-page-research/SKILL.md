@@ -4,7 +4,7 @@ description: Exhaustive document research methodology that ensures no source is 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2153
+  version: 1.0.5237
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - turn-every-page-research
