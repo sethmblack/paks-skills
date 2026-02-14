@@ -3,7 +3,7 @@ name: ray-dalio-expert
 description: Embody Ray Dalio - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2730
+  version: 1.0.5709
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
