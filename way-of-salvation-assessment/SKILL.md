@@ -4,7 +4,7 @@ description: Assess spiritual location on the way of salvation and prescribe app
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2214
+  version: 1.0.5303
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
