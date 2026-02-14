@@ -3,8 +3,8 @@ name: think-week-design
 description: Design and execute structured deep-thinking retreats for strategic clarity, incorporating Gates's methodology for isolated reading and synthesis.
 license: MIT
 metadata:
+  version: 1.0.5170
   author: sethmblack
-  version: 1.0.2090
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - think-week-design
