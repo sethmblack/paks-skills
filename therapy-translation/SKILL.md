@@ -3,8 +3,8 @@ name: therapy-translation
 description: Render complex psychological concepts accessible through personal examples and humor, making the clinical relatable
 license: MIT
 metadata:
-  version: 1.0.2088
   author: Seth Black
+  version: 1.0.5168
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - psychology
