@@ -4,7 +4,7 @@ description: Embody Joey Skaggs - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2593
+  version: 1.0.5572
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
