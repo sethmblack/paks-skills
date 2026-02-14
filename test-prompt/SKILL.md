@@ -4,7 +4,7 @@ description: Validate prompts included in the book by running them against test 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2076
+  version: 1.0.5156
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - test-prompt
