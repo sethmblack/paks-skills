@@ -4,7 +4,7 @@ description: Embody Karl Barth - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2624
+  version: 1.0.5603
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
