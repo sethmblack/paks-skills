@@ -4,7 +4,7 @@ description: Examine where your time actually goes and reclaim it for what truly
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2111
+  version: 1.0.5192
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - time-audit
