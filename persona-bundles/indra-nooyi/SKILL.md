@@ -3,8 +3,8 @@ name: indra-nooyi-expert
 description: Embody Indra Nooyi - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2564
   author: sethmblack
+  version: 1.0.5543
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - work-life-integration-audit
