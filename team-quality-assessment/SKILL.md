@@ -3,7 +3,7 @@ name: team-quality-assessment
 description: Assess team quality using John Doerr's missionaries vs mercenaries framework and execution capability criteria from his venture capital investment philosophy.
 license: MIT
 metadata:
-  version: 1.0.2062
+  version: 1.0.5142
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
