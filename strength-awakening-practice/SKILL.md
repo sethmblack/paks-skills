@@ -3,7 +3,7 @@ name: strength-awakening-practice
 description: A methodology for awakening the infinite divine strength already present within, derived from Swami Vivekananda's distinctive teaching that weakness is sin and strength is the foundation of all spi...
 license: MIT
 metadata:
-  version: 1.0.2010
+  version: 1.0.5090
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
