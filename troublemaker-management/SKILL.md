@@ -4,7 +4,7 @@ description: Manage individuals who threaten team cohesion without alienating th
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2144
+  version: 1.0.5228
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - troublemaker-management
