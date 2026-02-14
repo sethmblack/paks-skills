@@ -4,7 +4,7 @@ description: Identify paths to achieving objectives without direct confrontation
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2181
+  version: 1.0.5267
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
