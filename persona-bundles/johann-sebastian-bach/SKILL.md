@@ -3,8 +3,8 @@ name: johann-sebastian-bach-expert
 description: Embody Johann Sebastian Bach - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2594
   author: sethmblack
+  version: 1.0.5573
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - theme-and-variations-analysis
