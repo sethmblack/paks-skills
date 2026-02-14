@@ -4,7 +4,7 @@ description: Analyze how someone's experience is being shaped by the objectifyin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2078
+  version: 1.0.5158
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - the-look-analysis
