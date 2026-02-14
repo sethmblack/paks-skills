@@ -4,7 +4,7 @@ description: Embody Stanley Kubrick - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2786
+  version: 1.0.5765
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
