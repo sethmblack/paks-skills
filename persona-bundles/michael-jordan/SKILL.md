@@ -3,7 +3,7 @@ name: michael-jordan-expert
 description: Embody Michael Jordan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2675
+  version: 1.0.5654
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
