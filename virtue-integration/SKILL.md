@@ -4,7 +4,7 @@ description: Provide a comprehensive framework for moral development by integrat
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2192
+  version: 1.0.5278
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - virtue-integration
