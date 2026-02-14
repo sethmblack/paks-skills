@@ -4,7 +4,7 @@ description: Embody Prompt Engineering - AI persona expert with integrated metho
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2723
+  version: 1.0.5702
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - prompt-review
