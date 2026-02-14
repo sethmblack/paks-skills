@@ -4,7 +4,7 @@ description: Embody Tom Segura - AI persona expert with integrated methodology s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2121
+  version: 1.0.5202
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - uncomfortable-truth-extraction
