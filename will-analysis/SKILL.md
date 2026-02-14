@@ -3,8 +3,8 @@ name: will-analysis
 description: Trace any behavior, decision, or belief back to the blind, irrational Will that drives it, exposing reason as the will's servant rather than its master.
 license: MIT
 metadata:
-  version: 1.0.2223
   author: sethmblack
+  version: 1.0.5312
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - will-analysis
