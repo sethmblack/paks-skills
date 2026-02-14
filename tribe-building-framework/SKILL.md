@@ -3,8 +3,8 @@ name: tribe-building-framework
 description: Design and nurture a tribe or movement around a product, cause, or leader, based on Seth Godin's methodology from "Tribes.
 license: MIT
 metadata:
+  version: 1.0.5226
   author: sethmblack
-  version: 1.0.2142
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
