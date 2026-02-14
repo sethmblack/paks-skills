@@ -3,7 +3,7 @@ name: simone-de-beauvoir-expert
 description: Embody Simone De Beauvoir - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2775
+  version: 1.0.5754
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
