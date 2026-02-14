@@ -3,7 +3,7 @@ name: whitney-cummings-expert
 description: Embody Whitney Cummings - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2838
+  version: 1.0.5817
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
