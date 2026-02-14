@@ -4,7 +4,7 @@ description: Trace how value is created through labor and how the surplus (the d
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2028
+  version: 1.0.5108
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - surplus-value-analysis
