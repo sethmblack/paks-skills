@@ -3,8 +3,8 @@ name: truth-telling-with-dignity
 description: Deliver difficult truths in a way that honors both honesty and human dignity. Speak truth without cruelty, challenge without destroying.
 license: MIT
 metadata:
+  version: 1.0.5235
   author: sethmblack
-  version: 1.0.2151
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - truth-telling-with-dignity
