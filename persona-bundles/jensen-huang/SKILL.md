@@ -3,7 +3,7 @@ name: jensen-huang-expert
 description: Embody Jensen Huang - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2582
+  version: 1.0.5561
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
