@@ -3,7 +3,7 @@ name: walter-brueggemann-expert
 description: Embody Walter Brueggemann - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2835
+  version: 1.0.5814
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
