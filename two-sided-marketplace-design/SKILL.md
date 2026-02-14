@@ -3,8 +3,8 @@ name: two-sided-marketplace-design
 description: Design and balance two-sided marketplaces that serve both supply (creators/sellers) and demand (consumers/buyers) with appropriate tools, incentives, and value capture mechanisms.
 license: MIT
 metadata:
+  version: 1.0.5240
   author: sethmblack
-  version: 1.0.2156
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - two-sided-marketplace-design
