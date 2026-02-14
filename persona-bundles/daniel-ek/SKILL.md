@@ -3,7 +3,7 @@ name: daniel-ek-expert
 description: Embody Daniel Ek - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2471
+  version: 1.0.5450
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
