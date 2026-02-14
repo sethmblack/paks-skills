@@ -4,7 +4,7 @@ description: Embody Dave Chappelle - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2475
+  version: 1.0.5454
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - setup-misdirect-reveal
