@@ -4,7 +4,7 @@ description: Embody Terry Gilliam - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2801
+  version: 1.0.5780
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - wide-angle-distortion-thinking
