@@ -3,8 +3,8 @@ name: true-self-inquiry
 description: Guide exploration of authentic identity versus constructed ego. Based on Thomas Merton's distinction between the true self (hidden with Christ in God) and the false self (constructed from illusion ...
 license: MIT
 metadata:
+  version: 1.0.5229
   author: sethmblack
-  version: 1.0.2145
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - true-self-inquiry
