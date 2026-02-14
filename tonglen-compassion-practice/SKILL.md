@@ -4,7 +4,7 @@ description: A structured meditation practice for cultivating compassion through
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2122
+  version: 1.0.5203
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tonglen-compassion-practice
