@@ -3,8 +3,8 @@ name: symbolic-action-design
 description: Design symbolic gestures that reshape relationships and change what people believe is possible.
 license: MIT
 metadata:
+  version: 1.0.5115
   author: sethmblack
-  version: 1.0.2035
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - symbolic-action-design
