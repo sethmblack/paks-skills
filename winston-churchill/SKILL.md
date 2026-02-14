@@ -4,7 +4,7 @@ description: Embody Winston Churchill - AI persona expert with integrated method
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2232
+  version: 1.0.5321
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - scaffolding-of-rhetoric
