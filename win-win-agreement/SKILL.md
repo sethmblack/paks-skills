@@ -3,8 +3,8 @@ name: win-win-agreement
 description: Structure agreements that seek mutual benefit using Covey's five-element framework for effective delegation, negotiation, and partnership.
 license: MIT
 metadata:
-  version: 1.0.2230
   author: sethmblack
+  version: 1.0.5319
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
