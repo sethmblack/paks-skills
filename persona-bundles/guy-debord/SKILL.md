@@ -3,7 +3,7 @@ name: guy-debord-expert
 description: Embody Guy Debord - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2540
+  version: 1.0.5519
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
