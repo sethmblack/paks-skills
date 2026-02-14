@@ -3,7 +3,7 @@ name: stephen-colbert-expert
 description: Embody Stephen Colbert - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2787
+  version: 1.0.5766
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
