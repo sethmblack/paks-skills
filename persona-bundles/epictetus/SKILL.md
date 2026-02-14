@@ -3,7 +3,7 @@ name: epictetus-expert
 description: Embody Epictetus - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2504
+  version: 1.0.5483
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
