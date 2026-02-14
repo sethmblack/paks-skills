@@ -4,7 +4,7 @@ description: Identify early warning signs and structural patterns that echo tota
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2129
+  version: 1.0.5210
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - totalitarian-pattern-recognition
