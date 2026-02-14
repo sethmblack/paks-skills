@@ -3,7 +3,7 @@ name: sid-caesar-expert
 description: Embody Sid Caesar - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2771
+  version: 1.0.5750
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
