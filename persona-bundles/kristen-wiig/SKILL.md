@@ -4,7 +4,7 @@ description: Embody Kristen Wiig - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2632
+  version: 1.0.5611
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
