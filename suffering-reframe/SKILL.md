@@ -3,8 +3,8 @@ name: suffering-reframe
 description: Transform unavoidable suffering by changing the attitude toward it. Based on Viktor Frankl's insight that when we cannot change a situation, we are challenged to change ourselves.
 license: MIT
 metadata:
+  version: 1.0.5100
   author: sethmblack
-  version: 1.0.2020
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - suffering-reframe
