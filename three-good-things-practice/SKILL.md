@@ -4,7 +4,7 @@ description: Guide implementation of the evidence-based Three Good Things (grati
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2100
+  version: 1.0.5180
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - three-good-things-practice
