@@ -3,7 +3,7 @@ name: estee-lauder-expert
 description: Embody Estee Lauder - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2511
+  version: 1.0.5490
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
