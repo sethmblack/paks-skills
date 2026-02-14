@@ -3,7 +3,7 @@ name: timing-and-rhythm-assessment
 description: Analyze the timing and rhythm of any situation to determine when to act, when to wait, or how to disrupt patterns for advantage.
 license: MIT
 metadata:
-  version: 1.0.2113
+  version: 1.0.5194
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
