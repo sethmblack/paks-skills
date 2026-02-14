@@ -3,8 +3,8 @@ name: terrain-analysis
 description: Classify the strategic terrain of any competitive situation and determine optimal positioning, identifying whether the ground favors advance, defense, or withdrawal.
 license: MIT
 metadata:
-  version: 1.0.2071
   author: sethmblack
+  version: 1.0.5151
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - terrain-analysis
