@@ -3,8 +3,8 @@ name: st-paul-expert
 description: Embody St Paul - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.5762
   author: sethmblack
-  version: 1.0.2783
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
