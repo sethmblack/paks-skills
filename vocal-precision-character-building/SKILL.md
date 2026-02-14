@@ -3,8 +3,8 @@ name: vocal-precision-character-building
 description: Build characters from the voice outward using accent, rhythm, pitch, and vocal patterns as the foundation of character psychology
 license: MIT
 metadata:
+  version: 1.0.5287
   author: Seth Black
-  version: 1.0.2201
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character
