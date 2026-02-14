@@ -3,8 +3,8 @@ name: view-from-above
 description: A progressive visualization that widens perspective from immediate problems to cosmic scale, restoring proportion and equanimity.
 license: MIT
 metadata:
+  version: 1.0.5268
   author: sethmblack
-  version: 1.0.2182
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - view-from-above-(cosmic-perspective)
