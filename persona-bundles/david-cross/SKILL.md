@@ -3,8 +3,8 @@ name: david-cross-expert
 description: Embody David Cross - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2476
   author: sethmblack
+  version: 1.0.5455
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
