@@ -3,7 +3,7 @@ name: eugene-levy-expert
 description: Embody Eugene Levy - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2512
+  version: 1.0.5491
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
