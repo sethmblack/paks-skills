@@ -3,8 +3,8 @@ name: supply-chain-as-strategy
 description: Transform your supply chain from a cost center into a competitive moat through supplier consolidation, inventory optimization, exclusive access, and operational control.
 license: MIT
 metadata:
-  version: 1.0.2027
   author: sethmblack
+  version: 1.0.5107
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - supply-chain-as-strategy
