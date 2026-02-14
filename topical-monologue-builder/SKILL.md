@@ -4,7 +4,7 @@ description: Transform current news events into rapid-fire comedy monologue usin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2127
+  version: 1.0.5208
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
