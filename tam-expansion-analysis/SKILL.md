@@ -3,7 +3,7 @@ name: tam-expansion-analysis
 description: Calculate potential market size by analyzing how software removes existing constraints, using Marc Andreessen's insight that technology expands markets rather than just capturing existing share.
 license: MIT
 metadata:
-  version: 1.0.2054
+  version: 1.0.5134
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
