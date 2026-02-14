@@ -3,7 +3,7 @@ name: unfolding-process-design
 description: Create a step-by-step generative sequence for designing, building, or transforming something while preserving and extending wholeness at each step.
 license: MIT
 metadata:
-  version: 1.0.2345
+  version: 1.0.5248
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
