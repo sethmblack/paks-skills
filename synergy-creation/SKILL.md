@@ -4,7 +4,7 @@ description: Apply Covey's creative cooperation process to move beyond compromis
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2038
+  version: 1.0.5118
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - synergy-creation
