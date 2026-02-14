@@ -3,7 +3,7 @@ name: uncertainty-assessment
 description: Distinguish genuine uncertainty from calculable risk, and select the appropriate decision-making framework.
 license: MIT
 metadata:
-  version: 1.0.2159
+  version: 1.0.5243
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
