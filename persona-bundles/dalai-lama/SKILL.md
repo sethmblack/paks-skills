@@ -3,7 +3,7 @@ name: dalai-lama-expert
 description: Embody Dalai Lama - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.2466
+  version: 1.0.5445
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
