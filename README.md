@@ -1,6 +1,6 @@
 # AI-Personas Skills for Paks
 
-**1,443 AI skills** ready for use with Claude Code, Cursor, Copilot, and other AI coding assistants.
+**2,000+ AI skills** ready for use with Claude Code, Cursor, Copilot, and other AI coding assistants.
 
 ## Quick Install
 
