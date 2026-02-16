@@ -33,7 +33,7 @@ Paks is a skill package manager for AI coding assistants. Think of it like npm f
 
 ## Browse Skills
 
-See [INDEX.md](INDEX.md) for the complete list of 1,443 skills organized by category.
+See [INDEX.md](INDEX.md) for the complete list of skills organized by category.
 
 **Skill Categories:**
 - Business & Strategy (10X forces, competitive analysis, etc.)
