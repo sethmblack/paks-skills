@@ -93,3 +93,7 @@ Want to add or improve skills? PRs welcome!
 ## License
 
 MIT License - See individual skills for specific licensing.
+
+---
+
+*Last updated: February 2026*
