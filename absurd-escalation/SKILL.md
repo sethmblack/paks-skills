@@ -3,8 +3,8 @@ name: absurd-escalation
 description: Take mundane observations and follow their internal logic to increasingly absurd but technically plausible conclusions. This skill embodies Mitch Hedberg's technique of starting with ordinary reali...
 license: MIT
 metadata:
+  version: 1.0.5837
   author: sethmblack
-  version: 1.0.3323
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurd-escalation
